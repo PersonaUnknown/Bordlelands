@@ -1,0 +1,295 @@
+[
+    {
+        "name": "Baby Boomer",
+        "flavor-text": "BOOM baby, BOOM!",
+        "game": "borderlands-tps",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Boomer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d49632add1526b7bb044_Baby%20Boomer%20(TPS).webp"
+    },
+    {
+        "name": "Bonus Package",
+        "flavor-text": "2x more awesome, bonus extreme!",
+        "game": "borderlands-tps",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tork Dredger"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4bec9645f1906215e47_Bonus%20Package%20(TPS).webp"
+    },
+    {
+        "name": "Bouncing Bazza",
+        "flavor-text": "Give us ya lighta.",
+        "game": "borderlands-tps",
+        "type": "Bouncing Betty",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4e7b5805eb6fd80515f_Bouncing%20Bazza%20(TPS).webp"
+    },
+    {
+        "name": "Contraband Sky Rocket",
+        "flavor-text": "WARNING: Not intended for indoor use.",
+        "game": "borderlands-tps",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Doppelganger Pack",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d599af3a6f9f1159d880_Contraband%20Sky%20Rocket%20(TPS).webp"
+    },
+    {
+        "name": "Data Scrubber",
+        "flavor-text": "Peer-to-peer shield sharing.",
+        "game": "borderlands-tps",
+        "type": "Transfusion",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Chip's Data Mining Adventure Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5b9b5805eb6fd814ebf_Data%20Scrubber%20(TPS).webp"
+    },
+    {
+        "name": "Fire Bee",
+        "flavor-text": "Bees are coming!",
+        "game": "borderlands-tps",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d646a1e75ece0463ceca_Fire%20Bee%20(TPS).webp"
+    },
+    {
+        "name": "Four Seasons",
+        "flavor-text": "Four seasons in one 'nade.",
+        "game": "borderlands-tps",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Badass Kraggon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d66c726ca70c2231351f_Four%20Seasons%20(TPS).webp"
+    },
+    {
+        "name": "Kiss of Death",
+        "flavor-text": "It takes two to get one in trouble.",
+        "game": "borderlands-tps",
+        "type": "Transfusion",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Home Sweet Home Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d75bdf7028173fc0d943_Kiss%20of%20Death%20(TPS).webp"
+    },
+    {
+        "name": "Leech",
+        "flavor-text": "A skilful leech is better far, than half a hundred men of war.",
+        "game": "borderlands-tps",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7b2b2064353a5a16b83_Leech%20(TPS).webp"
+    },
+    {
+        "name": "Meganade",
+        "flavor-text": "Suck! Suck! Suck!",
+        "game": "borderlands-tps",
+        "type": "Singularity",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Self-Loathing & Despair"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7f7726ca70c22330ef1_Meganade%20(TPS).webp"
+    },
+    {
+        "name": "Monster Trap",
+        "flavor-text": "",
+        "game": "borderlands-tps",
+        "type": "Standard",
+        "rarity": "E-Tech",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Item",
+        "drop-sources": [
+            "Guardian Hunter Quest",
+            "Sterwin Forever Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d814af3a6f9f115d1f60_Monster%20Trap%20(TPS).webp"
+    },
+    {
+        "name": "Nasty Surprise",
+        "flavor-text": "Supplies!",
+        "game": "borderlands-tps",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d83d7bbaafe4afa815ec_Nasty%20Surprise%20(TPS).webp"
+    },
+    {
+        "name": "Pandemic",
+        "flavor-text": "Spread the sickness.",
+        "game": "borderlands-tps",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d85293794b65300db489_Pandemic%20(TPS).webp"
+    },
+    {
+        "name": "Quasar",
+        "flavor-text": "E = mc^(OMG)/wtf",
+        "game": "borderlands-tps",
+        "type": "Singularity",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Felicity Rampant"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d91526243b1d5956a3c3_Quasar%20(TPS).webp"
+    },
+    {
+        "name": "Rolling Thunder",
+        "flavor-text": "The thunder shall bring forth the pain!",
+        "game": "borderlands-tps",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d94bb74696277b59111d_Rolling%20Thunder%20(TPS).webp"
+    },
+    {
+        "name": "Snowball",
+        "flavor-text": "Fun for the whole family.",
+        "game": "borderlands-tps",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Infinite Loop Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9873251a37c2969e077_Snowball%20(TPS).webp"
+    },
+    {
+        "name": "Storm Front",
+        "flavor-text": "Sometimes lightning does strike twice.",
+        "game": "borderlands-tps",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9b19ceaf03cf6d3bd49_Storm%20Front%20(TPS).webp"
+    }
+]

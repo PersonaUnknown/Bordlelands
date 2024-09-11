@@ -1,0 +1,1097 @@
+[
+    {
+        "name": "All-in",
+        "flavor-text": "With marshmallow bits.",
+        "game": "borderlands-3",
+        "type": "Booster",
+        "rarity": "Epic",
+        "manufacturer": "Anshin",
+        "origin": "Handsome Jackpot",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Regaining One's Feet Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe65f2005cf7ecfae564_All-in%20(BL3).webp"
+    },
+    {
+        "name": "Asclepius",
+        "flavor-text": "Always carry a small snake.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Anathema the Relentless"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe7e87e7666ef85a1ad3_Asclepius%20(BL3).webp"
+    },
+    {
+        "name": "Back Ham",
+        "flavor-text": "Synthetic Vercuvian ham. Typhon DeLeon approved.",
+        "game": "borderlands-3",
+        "type": "Reflect",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Archer Rowe"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fea42638a92e74ab16e4_Back%20Ham%20(BL3).webp"
+    },
+    {
+        "name": "Band of Sitorak",
+        "flavor-text": "I said, \"biiiiiiiiiiiitttccchhhh...\"",
+        "game": "borderlands-3",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "The Unstoppable"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5feb1f71ee94c4a90ffc1_Band%20of%20Sitorak%20(BL3).webp"
+    },
+    {
+        "name": "Beskar",
+        "flavor-text": "This is the way.",
+        "game": "borderlands-3",
+        "type": "Reflect",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Designer's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Launch Command Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5feb7c9645f1906541d68_Beskar%20(BL3).webp"
+    },
+    {
+        "name": "Big Boom Blaster",
+        "flavor-text": "For all your big boom blasting needs!",
+        "game": "borderlands-3",
+        "type": "Booster",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Unstoppable"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fec5ab1c6a5378f22367_Big%20Boom%20Blaster%20(BL3).webp"
+    },
+    {
+        "name": "Black Hole",
+        "flavor-text": "She's gone from suck to blow.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wick and Warty"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fed7e18437cc1d6c0252_Black%20Hole%20(BL3).webp"
+    },
+    {
+        "name": "Deluxe Badass Combustor",
+        "flavor-text": "Take it up to eleven!",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Boost Mods Pack",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff61fb80f1bd9da1c793_Deluxe%20Badass%20Combustor%20(BL3).webp"
+    },
+    {
+        "name": "Double Downer",
+        "flavor-text": "We're going down, down, down to Mephisto's Caf\u00e9.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Handsome Jackpot",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Double Down Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff6823d55b3b77c1395f_Double%20Downer%20(BL3).webp"
+    },
+    {
+        "name": "Ember's Blaze",
+        "flavor-text": "In order to rise from its own ashes, a phoenix first must burn.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Handsome Jackpot",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Playing with Fire Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff92f74ed54add4a057c_Ember%27s%20Blaze%20(BL3).webp"
+    },
+    {
+        "name": "Faulty Star",
+        "flavor-text": "Some infinities are bigger than other infinities.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Psycho Krieg",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Locom\u00f6bius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffb0323df832a2c7e697_Faulty%20Star%20(BL3).webp"
+    },
+    {
+        "name": "Firewall",
+        "flavor-text": "Initiate countermeasures.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Revenge of the Cartels",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Joey Ultraviolet",
+            "Josie Byte",
+            "Franco Firewall"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffbc32add1526bb1a483_Firewall%20(BL3).webp"
+    },
+    {
+        "name": "Front Loader",
+        "flavor-text": "You could always use a little more life insurance.",
+        "game": "borderlands-3",
+        "type": "Turtle",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Private Beans"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffe2c9645f190655a04e_Front%20Loader%20(BL3).webp"
+    },
+    {
+        "name": "Frozen Heart",
+        "flavor-text": "I feel... cold.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Aurelia"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffe8f0e113c15082976f_Frozen%20Heart%20(BL3).webp"
+    },
+    {
+        "name": "Gas Mask",
+        "flavor-text": "Fight until the end; until your last breath.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Designer's Cut",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Plunderdome Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fff5f5cd55029b688656_Gas%20Mask%20(BL3).webp"
+    },
+    {
+        "name": "Golden Touch",
+        "flavor-text": "I wanna know where the gold at.",
+        "game": "borderlands-3",
+        "type": "Roid",
+        "rarity": "Rare",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Golden Calves Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fffb70d1c945d8077661_Golden%20Touch%20(BL3).webp"
+    },
+    {
+        "name": "Guilty Spark",
+        "flavor-text": "You can just float and sputter.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Psycho Krieg",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60002f2005cf7ecfc9138_Guilty%20Spark%20(BL3).webp"
+    },
+    {
+        "name": "Impaler",
+        "flavor-text": "Out for a walk, bitch.",
+        "game": "borderlands-3",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Antalope Legendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60032bdfc0ad4c87cac72_Impaler%20(BL3).webp"
+    },
+    {
+        "name": "Infernal Wish",
+        "flavor-text": "It's there always, this dark passenger.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Designer's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Launch Command Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6003823d55b3b77c215ff_Infernal%20Wish%20(BL3).webp"
+    },
+    {
+        "name": "Initiative",
+        "flavor-text": "You're only given a little spark...",
+        "game": "borderlands-3",
+        "type": "Damage",
+        "rarity": "Epic",
+        "manufacturer": "Anshin",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Vincent"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6003ec2124dbce994e22e_Initiative%20(BL3).webp"
+    },
+    {
+        "name": "Limit Break",
+        "flavor-text": "It's dangerous to have a race car in the red.",
+        "game": "borderlands-3",
+        "type": "Absorb",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin",
+        "origin": "Psycho Krieg",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "What Love Remains Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600877591e40f7e59561c_Limit%20Break%20(BL3).webp"
+    },
+    {
+        "name": "Loop of 4N631",
+        "flavor-text": "Executing phaseshift.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Childhood's End Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6008d50f50f66f7dd4156_Loop%20of%204N631%20(BL3).webp"
+    },
+    {
+        "name": "M.E.A.T. Shield",
+        "flavor-text": "Must. Eat. All. Tendies.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6009970d1c945d80807e8_M.E.A.T.%20Shield%20(BL3).webp"
+    },
+    {
+        "name": "MSRC Auto-Dispensary",
+        "flavor-text": "Better living through medical science.",
+        "game": "borderlands-3",
+        "type": "Booster",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Healers and Dealers Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600a593c1fcd9b5e32d20_MSRC%20Auto-Dispensary%20(BL3).webp"
+    },
+    {
+        "name": "Madcap",
+        "flavor-text": "Sometimes there is no next time.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Designer's Cut",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Plunderdome Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600b91ec4b6735f4807fa_Madcap%20(BL3).webp"
+    },
+    {
+        "name": "Mana Well",
+        "flavor-text": "With great (something) comes great (something else)",
+        "game": "borderlands-3",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Bunker Masters - Vault Card",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600c09370c9a514b18af3_Mana%20Well%20(BL3).webp"
+    },
+    {
+        "name": "Mendel's Multivitamin",
+        "flavor-text": "Give it to me straight.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Holy Spirits Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600d4e7f402b9cbfb3858_Mendel%27s%20Multivitamin%20(BL3).webp"
+    },
+    {
+        "name": "Messy Breakup",
+        "flavor-text": "It's complicated.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive",
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Max & Rax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600db91f67b7db8e7e161_Messy%20Breakup%20(BL3).webp"
+    },
+    {
+        "name": "Moxxi's Embrace",
+        "flavor-text": "Want to see a magic trick?",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Rare",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Sanctuary Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600e850f50f66f7dd9d33_Moxxi%27s%20Embrace%20(BL3).webp"
+    },
+    {
+        "name": "Mr Caffeine",
+        "flavor-text": "I don't want my coffee shaking!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Rise and Grind Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600f01de7d0ee1df4e377_Mr%20Caffeine%20Shield%20(BL3).webp"
+    },
+    {
+        "name": "Nova Berner",
+        "flavor-text": "Feel the Bern.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Power Troopers"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601025faca58ffad85899_Nova%20Berner%20(BL3).webp"
+    },
+    {
+        "name": "Old God",
+        "flavor-text": "The end comes from within.",
+        "game": "borderlands-3",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Eleanor and the Heart"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6010ad351decb8d55a4ef_Old%20God%20(BL3).webp"
+    },
+    {
+        "name": "Plus Ultra",
+        "flavor-text": "Remember why you started down this path.",
+        "game": "borderlands-3",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Psycho Krieg",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Dr. Benedict"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6012432add1526bb32a79_Plus%20Ultra%20(BL3).webp"
+    },
+    {
+        "name": "Re-Charge Berner",
+        "flavor-text": "Feelin' the Bern.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Corrosive",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Valkyrie Squad"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60147f0e113c150842ff3_Re-Charge%20Berner%20(BL3).webp"
+    },
+    {
+        "name": "Re-Charger",
+        "flavor-text": "Once more, with feeling.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Urist McEnforcer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6014eaf3a6f9f118f8b2f_Re-Charger%20(BL3).webp"
+    },
+    {
+        "name": "Re-Router",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amplify",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Princess Tarantella II"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601550c42dde1923b90ff_Re-Router%20(BL3).webp"
+    },
+    {
+        "name": "Re-Volter",
+        "flavor-text": "Please conduct yourself.",
+        "game": "borderlands-3",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Director's Cut",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "Sumo"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6015b74836a398575f9c1_Re-Volter%20(BL3).webp"
+    },
+    {
+        "name": "Rectifier",
+        "flavor-text": "You conduit.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Muldock the Anointed"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6016252d3de08039ef1e9_Rectifier%20(BL3).webp"
+    },
+    {
+        "name": "Red Card",
+        "flavor-text": "All studs.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Gigamind"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6016932add1526bb37798_Red%20Card%20(BL3).webp"
+    },
+    {
+        "name": "Red Card Re-Charger",
+        "flavor-text": "One more kick, with feeling.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Valkyrie Squad"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6016f23d55b3b77c35f43_Red%20Card%20Re-Charger%20(BL3).webp"
+    },
+    {
+        "name": "Red Suit",
+        "flavor-text": "Warning. Containment failure.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Atomic & Sylestro Target of Opportunity",
+            "Angels and Speed Demons Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6017793c1fcd9b5e41b28_Red%20Suit%20(BL3).webp"
+    },
+    {
+        "name": "Revengenader",
+        "flavor-text": "Don't get mad, get explosives.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Maxitrillion"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6019223d55b3b77c37b12_Revengenader%20(BL3).webp"
+    },
+    {
+        "name": "Rico",
+        "flavor-text": "You wanna live forever?",
+        "game": "borderlands-3",
+        "type": "Reflect",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Handsome Jackpot",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "All Bets Off Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601989370c9a514b28cd7_Rico%20(BL3).webp"
+    },
+    {
+        "name": "Rough Rider",
+        "flavor-text": "It takes more than that to kill a Bull Moose.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Red Jabber"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601ba87e7666ef85d8a77_Rough%20Rider%20(BL3).webp"
+    },
+    {
+        "name": "Scream of Terror",
+        "flavor-text": "Behold the flesh and the power it holds.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Bloody Harvest",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot Ghost Rare Spawn",
+            "Captain Haunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601c1af3a6f9f119002e6_Scream%20of%20Terror%20(BL3).webp"
+    },
+    {
+        "name": "Shooting Star",
+        "flavor-text": "Don't look up.",
+        "game": "borderlands-3",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Turnkey Tim"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601da23d55b3b77c3cad0_Shooting%20Star%20(BL3).webp"
+    },
+    {
+        "name": "Snowshoe",
+        "flavor-text": "Give 'em the cold toelder.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Valkyrie Squad"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6020291f67b7db8e92c58_Snowshoe%20(BL3).webp"
+    },
+    {
+        "name": "Stinger",
+        "flavor-text": "They don't let you use that no more.",
+        "game": "borderlands-3",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Anathema the Relentless"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6021a50f50f66f7dee6e0_Stinger%20(BL3).webp"
+    },
+    {
+        "name": "Stop-Gap",
+        "flavor-text": "The process is called \"living\".",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "El Dragon Jr."
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60220f71ee94c4a9539ac_Stop-Gap%20(BL3).webp"
+    },
+    {
+        "name": "Super Soldier",
+        "flavor-text": "Roland, out.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Fallen Heros - Vault Card",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6022dd351decb8d56eb91_Super%20Soldier%20(BL3).webp"
+    },
+    {
+        "name": "The Transformer",
+        "flavor-text": "There's more than your eye can see.",
+        "game": "borderlands-3",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Queen Ant Wanette",
+            "It's Alive Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602a7e7f402b9cbfe7403_The%20Transformer%20(BL3).webp"
+    },
+    {
+        "name": "Torch",
+        "flavor-text": "Inflammable means flammable?!",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Gmork Legendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602ae87e7666ef85eb119_Torch%20(BL3).webp"
+    },
+    {
+        "name": "Unpaler",
+        "flavor-text": "Kind of tickles.",
+        "game": "borderlands-3",
+        "type": "Roid",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "On the Blood Path Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602c99ceaf03cf604e4e1_Unpaler%20(BL3).webp"
+    },
+    {
+        "name": "Version 0.m",
+        "flavor-text": "Stand and clap.",
+        "game": "borderlands-3",
+        "type": "Amplify",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Valkyrie Squad"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602d47591e40f7e5c29ae_Version%200.m%20(BL3).webp"
+    },
+    {
+        "name": "Void Rift",
+        "flavor-text": "Be careful what comes out.",
+        "game": "borderlands-3",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Empowered Scholar"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602ebd351decb8d57ddb9_Void%20Rift%20(BL3).webp"
+    },
+    {
+        "name": "Ward",
+        "flavor-text": "Free me master, see me shiver.",
+        "game": "borderlands-3",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Graveward"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602f1f0e113c150860ac3_Ward%20(BL3).webp"
+    },
+    {
+        "name": "Wattson",
+        "flavor-text": "It's all quite arbitrary, my dear boy.",
+        "game": "borderlands-3",
+        "type": "Booster",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Revenge of the Cartels",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Joey Ultraviolet",
+            "FISH SLAP!!!",
+            "Tyrone Smallums"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602f7c2124dbce9986790_Wattson%20(BL3).webp"
+    },
+    {
+        "name": "Whiskey Tango Foxtrot",
+        "flavor-text": "Situation normal.",
+        "game": "borderlands-3",
+        "type": "Booster",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crushjaw Target of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60304b74696277b8b4e6b_Whiskey%20Tango%20Foxtrot%20(BL3).webp"
+    }
+]

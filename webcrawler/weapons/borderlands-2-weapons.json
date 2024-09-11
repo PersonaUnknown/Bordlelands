@@ -1,0 +1,2715 @@
+[
+    {
+        "name": "12 Pounder",
+        "flavor-text": "Nec pluribus impar, bitches.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Big Sleep"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715815357a405f5fb157e_12%20Pounder%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Actualizer",
+        "flavor-text": "We need to talk about your DPS report.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Seraph",
+        "manufacturer": "Hyperion",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Hyperius",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717c42f8591aafae5688c_Actualizer%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Ahab",
+        "flavor-text": "For hate's sake.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Master Gee",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717d574b58278e2d8d1f1_Ahab%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Amigo Sincero",
+        "flavor-text": "A true friend can penetrate any barrier.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "BFFFs Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717fdf0d7a07cddbfe64d_Amigo%20Sincero%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Avenger",
+        "flavor-text": "Counterbution revengeance. The reckoning.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Pearlescent",
+        "manufacturer": "Tediore",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7185f98f04f819bef2fa7_Avenger%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Baby Maker (BL2)",
+        "flavor-text": "Who's a widdle gunny-wunny?",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Madame Von Bartlesby"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7186ee9c900e8d62c0b31_Baby%20Maker%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Bad Touch",
+        "flavor-text": "When I'm good, I'm very good\u2026",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Moxxi's Tip Jar Unique"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71880f9709d68d9e7c55d_Bad%20Touch%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Badaboom",
+        "flavor-text": "Multi-kill.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "King Mong Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7188f0d726d1f17dae658_Badaboom%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Bane",
+        "flavor-text": "in Spain, stays mainly on the plain.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Bane Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718d1f8e1c0204d1df3d3_Bane%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Bearcat (BL2)",
+        "flavor-text": "I love the smell of popcorn in the morning.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Pearlescent",
+        "manufacturer": "DAHL",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7197c60a2c3cb43656b42_Bearcat%20(AR-BL2).webp"
+    },
+    {
+        "name": "Bekah (BL2)",
+        "flavor-text": "Shoot them in the face. Twice.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Pearlescent",
+        "manufacturer": "Jakobs",
+        "origin": "Digistruct Peak",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn",
+            "Chubby Bones Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7199169fbdc8791ce6866_Bekah%20(AR-BL2).webp"
+    },
+    {
+        "name": "Bitch (BL2)",
+        "flavor-text": "yup. back.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "BNK-3R",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719da98e3eced1bb9943d_Bitch%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Blockhead",
+        "flavor-text": "Also try Minecraft!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Creeper"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a4d756e20f0121fcfc0_Blockhead%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Bone Shredder (BL2)",
+        "flavor-text": "The lead wind blows!",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bone Head 2.0",
+            "Bone Head 3.0",
+            "Arguk the Butcher"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a982e1e03605cbbff84_Bone%20Shredder%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Boom Puppy",
+        "flavor-text": "Boom! Boom! Boom! BOOM! BOOOM! GOOD DOGGY!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Walking the Dog Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ab1b22399502acd6d68_Boom%20Puppy%20(AR-BL2).webp"
+    },
+    {
+        "name": "Buffalo",
+        "flavor-text": "Bison Bison had had had had had Bison Bison Bison shi shi shi.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Demon Hunter Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b2c2c7d5d3f93e7b3c8_Buffalo%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Bunny",
+        "flavor-text": "Hippity hoppity!",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn",
+            "Chubby Bones Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c23433208ee0ca27d10_Bunny%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Butcher (BL2)",
+        "flavor-text": "Fresh meat!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Pearlescent",
+        "manufacturer": "Hyperion",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c4a8af47250f2c33201_Butcher%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "CHOPPER",
+        "flavor-text": "Get to it.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Dexiduous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6525b0795fb9d25e744f112d_CHOPPER%20(AR-BL2).webp"
+    },
+    {
+        "name": "Carnage",
+        "flavor-text": "Huh. It shoots rockets.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Pearlescent",
+        "manufacturer": "Torgue",
+        "origin": "Digistruct Peak",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn",
+            "Chubby Bones Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cd40d8079b2cb8c8857_Carnage%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Chulainn",
+        "flavor-text": "Riastrad!",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Clan War: Zafords vs. Hodunks Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d70dc7dbb34e5857969_Chulainn%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Ch\u00e8re-amie",
+        "flavor-text": "Je suis enchant\u00e9. O\u00f9 est la biblioth\u00e9que?",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hyperion Slaughter: Round 5 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1eaa1ba4f53a0a59c2a71_Ch%C3%A8re-amie%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Cobra (BL2)",
+        "flavor-text": "Found out about this, I was like, \"DAAAMN, I'm bringing that gun BACK!\"",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Pete's Burners"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71dc15b51b82052203dd0_Cobra%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Commerce",
+        "flavor-text": "I have a Soldier, a Siren, two Scooters and a Claptrap.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Assassin Wot",
+            "Digi. Assassins"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ddcb1d14086a6381c24_Commerce%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Conference Call (BL2)",
+        "flavor-text": "Let's just ping everyone all at once.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior",
+            "Handsome Sorcerer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e220f57edc3bcac0ad5_Conference%20Call%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Creamer (BL2)",
+        "flavor-text": "Non-dairy.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Slaughterdome",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Creature Slaughter: Round 5 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ea60ec957fa78417901_Creamer%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Crit",
+        "flavor-text": "Slippery when wet.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Critical Fail Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ed2f9b860ddbc3f1b50_Crit%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Dahlminator",
+        "flavor-text": "Dodge this.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "E-Tech",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Lost Treasure Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7202a625a08016b6889c0_Dahlminator%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Damned Cowboy",
+        "flavor-text": "Speak softly. Carry this.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bloodtail"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720422b8fd258893f460c_Damned%20Cowboy%20(AR-BL2).webp"
+    },
+    {
+        "name": "Deliverance",
+        "flavor-text": "Kiki got a shotgun!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tumbaa Rare Spawn",
+            "Gold Golem"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7206b3e32e6ea6000385f_Deliverance%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Devastator (BL2)",
+        "flavor-text": "Hail.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Master Gee",
+            "Hyperius",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720834eb5e6a8dc894642_Devastator%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Dog",
+        "flavor-text": "Because one barrel ain't enough, and two is too few.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Assassin Rouf",
+            "Digi. Assassins"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720d6c7ca4653fc838a37_Dog%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "ERROR MESSAGE",
+        "flavor-text": "THIS GUN SHOULD NEVER DROP",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Datamined",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721bc8414f3e66b65ae65_ERROR%20MESSAGE%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Elephant Gun",
+        "flavor-text": "Hated by large numbers of people.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Arizona"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721e6933993401d937e6e_Elephant%20Gun%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Emperor",
+        "flavor-text": "You know\u2026 for him.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Assassin Wot",
+            "Assassin Oney",
+            "Assassin Reeth",
+            "Assassin Rouf"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72201d35ef4a00db327e9_Emperor%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Evil Smasher",
+        "flavor-text": "\"Evil will be SMASHED!!! WITH SMASHING!!! EVIL!!! SMASH!!! ER!!!\"",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Chosen One Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722327f1109aeeea84cd1_Evil%20Smasher%20(AR-BL2).webp"
+    },
+    {
+        "name": "Fibber",
+        "flavor-text": "Would I lie to you?",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Real Boy: Human Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722bcef37022b7d4fc7b1_Fibber%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Fire Drill",
+        "flavor-text": "It gets the job done.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Datamined",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722d5844a8c61ea15cb37_Fire%20Drill%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Flakker",
+        "flavor-text": "Flak the world.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior",
+            "Handsome Sorcerer",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72322625a08016b6c91f5_Flakker%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Florentine",
+        "flavor-text": "Double trouble.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Seraph",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Refuge Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723d0f9709d68d9f6ad68_Florentine%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Fremington's Edge",
+        "flavor-text": "I can see my house from here.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Assassin Reeth",
+            "Digi. Assassins"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723fa0db6b32bb78cf3f3_Fremington%27s%20Edge%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Godfinger",
+        "flavor-text": "Such a Cod Finger.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Pearlescent",
+        "manufacturer": "Jakobs",
+        "origin": "Digistruct Peak",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn",
+            "Chubby Bones Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725484adf9e5a7ea58e39_Godfinger%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Good Touch",
+        "flavor-text": "\u2026but when I'm bad, I'm better.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Moxxi's Tip Jar Unique"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7258610336f313a4e7c9d_Good%20Touch%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Greed",
+        "flavor-text": "Thief.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "X Marks The Spot Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726056d2f5d27af6b81be_Greed%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Grog Nozzle",
+        "flavor-text": "Hand over the keys, sugar\u2026",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "Quest Item",
+        "drop-sources": [
+            "The Beard Makes the Man Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72619b22399502add200f_Grog%20Nozzle%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Gub",
+        "flavor-text": "Abt natural.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Laney White"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726acc8ec39acf6556a1a_Gub%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Gunerang",
+        "flavor-text": "Give it a burl.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Rakkman",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726b5ee4ef2357f30d67f_Gunerang%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Gwen's Head",
+        "flavor-text": "Thinking outside the box.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Box In The Dust Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726c8ff2c97c70176071e_Gwen%27s%20Head%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Hail",
+        "flavor-text": "What play thing can you offer me today?",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Bandit Slaughter: Round 5 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726ddf9709d68d9fb2c5d_Hail%20(AR-BL2).webp"
+    },
+    {
+        "name": "Hammer Buster",
+        "flavor-text": "Gar! Gorarr! My dad's a scientist! GWARRRR!!!!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "McNally"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72701d35ef4a00dba4a0f_Hammer%20Buster%20(AR-BL2).webp"
+    },
+    {
+        "name": "Hawk Eye",
+        "flavor-text": "Eye certain. Finger lightning. Aim death.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Seraph",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Voracidous",
+            "Dexiduous",
+            "Omnd-Omnd-Ohk Rare Spawn",
+            "Grotto Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72732947d4e3df064772d_Hawk%20Eye%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Heart Breaker (BL2)",
+        "flavor-text": "I don't want to set the world on fire\u2026",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Safe and Sound Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72764451204fee7f534d9_Heart%20Breaker%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Hector's Paradise",
+        "flavor-text": "The whip at the New Pandoran's backs.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Echoes of the Past Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7279ce9c900e8d643fbfd_Hector%27s%20Paradise%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Hellfire (BL2)",
+        "flavor-text": "We don't need no fire\u2026",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Scorch",
+            "Digi. Scorch",
+            "Sully the Blacksmith"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727b7374d8d2079e9fa6a_Hellfire%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Hive",
+        "flavor-text": "Full of bees.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Saturn",
+            "Saturn 2.0"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727dc3e9443fbd77cc025_Hive%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Hornet",
+        "flavor-text": "Fear the swarm!",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Knuckle Dragger",
+            "Hyperius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727f80db317d75c7cf72e_Hornet%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Hot Mama",
+        "flavor-text": "Sniper is a lonely occupation.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Effervescent",
+        "manufacturer": "Jakobs",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Lt. Hoffman"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728231f3d484cc8576059_Hot%20Mama%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Hydra",
+        "flavor-text": "Five heads of Death!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Rouge"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72858facbe27ca14ad3b8_Hydra%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Infection",
+        "flavor-text": "Itchy. Tasty.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Seraph",
+        "manufacturer": "Maliwan",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Voracidous",
+            "Dexiduous",
+            "Omnd-Omnd-Ohk Rare Spawn",
+            "Grotto Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728db10336f313a5366a7_Infection%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Infection Cleaner",
+        "flavor-text": "Shhh. I'll take care of everything, don't you fret.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Effervescent",
+        "manufacturer": "Tediore",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "New Pandora Soldiers",
+            "Lt. Angvar",
+            "Lt. Tetra"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728e4057694fe46db698e_Infection%20Cleaner%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Infinity",
+        "flavor-text": "It's closer than you think! (no it isn't)",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Lt. Angvar",
+            "Gold Golem",
+            "Chubby Bones Rare Spawn",
+            "Doc Mercy"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728ecb1277ce75744a731_Infinity%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Interfacer",
+        "flavor-text": "Because it enters your face. Get it? IT ENTERS YOUR FACE!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Seraph",
+        "manufacturer": "Hyperion",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Voracidous",
+            "Dexiduous",
+            "Omnd-Omnd-Ohk Rare Spawn",
+            "Grotto Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729076d2f5d27af6fb282_Interfacer%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Invader",
+        "flavor-text": "The Executioner has arrived.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Saturn",
+            "Saturn 2.0"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7292b0db6b32bb793f4c8_Invader%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Jolly Roger",
+        "flavor-text": "A pirate's life for me!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Just Desserts For Desert Deserters Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729772b8fd258894c5cb6_Jolly%20Roger%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Judge",
+        "flavor-text": "I am free now.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Assassin Oney",
+            "Digi. Assassins"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729b3facbe27ca14c83bf_Judge%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "KerBlaster",
+        "flavor-text": "Torgue got more BOOM!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Midge-Mong",
+            "Handsome Sorcerer",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a0ab92cab0004df3426_KerBlaster%20(AR-BL2).webp"
+    },
+    {
+        "name": "Kitten",
+        "flavor-text": "We're all mad here. I'm mad. You're mad.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Everybody Wants to be Wanted Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a68ba0cf6e926663f34_Kitten%20(AR-BL2).webp"
+    },
+    {
+        "name": "Lady Fist",
+        "flavor-text": "Love is a Lady Finger. True love is a Lady Fist.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Uncle Teddy Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041d968ea20fbf67361f62_Lady%20Fist%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Landscaper",
+        "flavor-text": "Get off my lawn!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Clan War: Zafords vs. Hodunks Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b3700e8242c955db79f_Landscaper%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Lascaux",
+        "flavor-text": "The gun of the Bulls.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Pond In Frostburn Canyon Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b4f97a59bcc73fc0652_Lascaux%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Law",
+        "flavor-text": "De Da.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sheriff of Lynchwood",
+            "Won't Get Fooled Again Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bcb81787c6385bd5799_Law%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Lead Storm",
+        "flavor-text": "What a glorious feeling!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Seraph",
+        "manufacturer": "Vladof",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Voracidous",
+            "Dexiduous",
+            "Omnd-Omnd-Ohk Rare Spawn",
+            "Grotto Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72be9cfcf24e2508679c4_Lead%20Storm%20(AR-BL2).webp"
+    },
+    {
+        "name": "Little Evie",
+        "flavor-text": "Shock and awwwww! So cute!",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Mr. Bubbles & Lil' Sis Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c5d38c971d5ec245212_Little%20Evie%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Logan's Gun",
+        "flavor-text": "Gun, Gunner!",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wilhelm"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c72342c812ce8daf9cb_Logan%27s%20Gun%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Longbow",
+        "flavor-text": "Ceci n'est pas une sniper rifle!",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Creeper"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c8900e8242c955fc181_Longbow%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Lyuda",
+        "flavor-text": "Man killer.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Gettle"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cd00c45a779d0241942_Lyuda%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "M2828 Thumpson",
+        "flavor-text": "Every soldier has two families: those you raise, and those you raise hell with.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Grave in Dahl Abandon Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72701d35ef4a00dba4a0f_Hammer%20Buster%20(AR-BL2).webp"
+    },
+    {
+        "name": "Madhous!",
+        "flavor-text": "It's a Madhouse! A MADHOUSE!!!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mad Dog"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d20d5a56b6a9b8bbfde_Madhous!%20(AR-BL2).webp"
+    },
+    {
+        "name": "Maggie",
+        "flavor-text": "Monty's wife don't take no guff.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mick Zaford"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d38d8abfd22d563bcfa_Maggie%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Mongol",
+        "flavor-text": "The Horde will always return!",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Dukino's Mom",
+            "Digi. Dukino's Mom"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e116f656146ade02dc7_Mongol%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Morningstar",
+        "flavor-text": "a Rose by any other name\u2026",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hyperion Contract #873 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e424d75c0fe86339de9_Morningstar%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Nirvana",
+        "flavor-text": "Look, life's a bitch. Get over it. Burn something to the ground.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Effervescent",
+        "manufacturer": "Maliwan",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Infected Badass Sapling"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72eea4988ed71fcf1968e_Nirvana%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Norfleet",
+        "flavor-text": "Blows up everything!",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Vermivorous",
+            "Hyperius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ef697a59bcc73011bd6_Norfleet%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Nukem",
+        "flavor-text": "Name dropper.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Black Queen Rare Spawn",
+            "Digi. Black Queen",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f044943271efb71f2d7_Nukem%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Octo",
+        "flavor-text": "Octo means 9.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Slap Happy Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f2eb30ca0ed17378c4c_Octo%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Ogre",
+        "flavor-text": "Ogres chew their food.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Warlord Slog"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f41c6d62f4ae0b4bf0e_Ogre%20(AR-BL2).webp"
+    },
+    {
+        "name": "Omen",
+        "flavor-text": "I'm gonna need you to stand back.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Seraph",
+        "manufacturer": "Tediore",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ancient Dragons"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f6949fbbf06905f7bda_Omen%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Orc",
+        "flavor-text": "Have I achieved worth yet?",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Bandit",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Magic Slaughter Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f84ef8ec6ded7b96fc7_Orc%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Orphan Maker",
+        "flavor-text": "Makes orphans. Often. Curse of the Nefarious Backlash!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Message in a Bottle: Oasis Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f912153fc09b0fdf710_Orphan%20Maker%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Overcompensator",
+        "flavor-text": "You can either surf, or you can fight!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Chief Executive Overlord Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f979aeec53f0fb42178_Overcompensator%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Patriot",
+        "flavor-text": "Our voice will not be silenced!",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Seraph",
+        "manufacturer": "Vladof",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Master Gee",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd10db25bd3a723a7f0_Patriot%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Peak Opener",
+        "flavor-text": "Top-tier pick for optimal play.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Effervescent",
+        "manufacturer": "Torgue",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Haderax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fe34ee500e56ce98247_Peak%20Opener%20(AR-BL2).webp"
+    },
+    {
+        "name": "Pimpernel",
+        "flavor-text": "Sink me!",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Don't copy that floppy Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73025a51c5cdb656ff211_Pimpernel%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Pitchfork",
+        "flavor-text": "Mainstream'd!",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Terramorphous",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730314988ed71fcf31c0a_Pitchfork%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Pocket Rocket",
+        "flavor-text": "Did you ever have the feeling\u2026",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73058dabdba29bcaa75e6_Pocket%20Rocket%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Pyrophobia",
+        "flavor-text": "It's actually a fairly rational fear in this case.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Cryptkeeper Clark",
+            "Incinerator Clayton",
+            "Hyperius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730bb342c812ce8e079f9_Pyrophobia%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Rapier",
+        "flavor-text": "As I end the refrain, thrust home. Curse of the Porcelain Fist!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Message in a Bottle: Hayters Folly Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7310d8f43799ace5e8a83_Rapier%20(AR-BL2).webp"
+    },
+    {
+        "name": "Retcher",
+        "flavor-text": "Ewww.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Seraph",
+        "manufacturer": "Tediore",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Hyperius",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731a618c2972e0726ec8e_Retcher%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Rex",
+        "flavor-text": "Basically, it's a big gun.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bulstoss"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ba0b939742b89f0f31_Rex%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Roaster",
+        "flavor-text": "Toasty!",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Note for Self-Person Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731d93a568b9e93f3da0d_Roaster%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "RokSalt",
+        "flavor-text": "Don't retreat. Instead, reload!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Splinter Group Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ff73ce470883ca6e07_RokSalt%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Rubi",
+        "flavor-text": "Whenever I'm caught between two evils, I take the one I've never tried.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Rakkaholics Anonymous Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7327b73ce470883caf5cf_Rubi%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "SWORDSPLOSION",
+        "flavor-text": "Because Mister Torgue said so.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "E-Tech",
+        "manufacturer": "Torgue",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Sword in The Stoner Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732a6c112a98b0244f79c_SWORDSPLOSION!!!%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Sand Hawk",
+        "flavor-text": "In. Not unlike Errol.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Whoops Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732c9d8abfd22d56b3981_Sand%20Hawk%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Sawbar",
+        "flavor-text": "Supressing fires!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Pearlescent",
+        "manufacturer": "Bandit",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732e4131025fc7b500c48_Sawbar%20(AR-BL2).webp"
+    },
+    {
+        "name": "Scorpio",
+        "flavor-text": "Say not in grief: \"He is not more,\" but live in thankfulness that he was.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Bearer of Bad News Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732f713955bc879bbe1ee_Scorpio%20(AR-BL2).webp"
+    },
+    {
+        "name": "Seeker",
+        "flavor-text": "Oh, yeah, that's fair\u2026",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Refuge Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73325394cbaf256faa70b_Seeker%20(AR-BL2).webp"
+    },
+    {
+        "name": "Seraphim",
+        "flavor-text": "Holy? Holy? Holey!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Seraph",
+        "manufacturer": "DAHL",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Master Gee",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7334450c6fb1c97bc140b_Seraphim%20(AR-BL2).webp"
+    },
+    {
+        "name": "Shotgun 1340",
+        "flavor-text": "I like being a gun.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Out of Body Experience Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733b53b39a87791d250fd_Shotgun%201340%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Shredifier",
+        "flavor-text": "Speed kills.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Hyperius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733bf97c43456aadf57a3_Shredifier%20(AR-BL2).webp"
+    },
+    {
+        "name": "Skullmasher",
+        "flavor-text": "Makes your brain hurt.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Son of Mothrakk",
+            "Rakkanoth"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73425a370607e78ea993b_Skullmasher%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Slagga",
+        "flavor-text": "blagaga",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tector and Jimbo Hodunk",
+            "Sorcerer's Daughter"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734398f43799ace626728_Slagga%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Sledge's Shotgun",
+        "flavor-text": "The legend lives.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Smash-Head",
+            "Gold Golem",
+            "Hyperius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7345097af4be9da35913b_Sledge%27s%20Shotgun%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Sloth",
+        "flavor-text": "Yea, booze'll do that to ya\u2026",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Rakkaholics Anonymous Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7346b541a47b3d90f00ed_Sloth%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Slow Hand",
+        "flavor-text": "Take your time, sugar\u2026",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "E-Tech",
+        "manufacturer": "Hyperion",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badassasaurus"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73471e7a75977f03ba574_Slow%20Hand%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Stalker",
+        "flavor-text": "You can run, but you can't hide.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Pearlescent",
+        "manufacturer": "Vladof",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734d50c45a779d02e1db6_Stalker%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Stinger",
+        "flavor-text": "It's like butter, baby.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Seraph",
+        "manufacturer": "Vladof",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ancient Dragons"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7350286abe1ea451fb7c6_Stinger%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Stinkpot",
+        "flavor-text": "We're pirates. We don't follow the rules.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "No-Beard"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7350813955bc879be9201_Stinkpot%20(AR-BL2).webp"
+    },
+    {
+        "name": "Stomper",
+        "flavor-text": "Oh, sorry, was that your head?",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hungry Like the Skag Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7350e18c2972e072b19cd_Stomper%20(AR-BL2).webp"
+    },
+    {
+        "name": "Storm",
+        "flavor-text": "Tut, tut, it looks like rain.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Pearlescent",
+        "manufacturer": "Maliwan",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7351ab886ae155db37754_Storm%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Striker",
+        "flavor-text": "Fandir? Thirteen.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Old Slappy",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73533d5a56b6a9b96cf9f_Striker%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Tattler",
+        "flavor-text": "If thou'st would'st snitch'st, acquire thine stich!",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "Seraph",
+        "manufacturer": "Bandit",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Hyperius",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735a718c2972e072bbb1c_Tattler%20(SMG-BL2).webp"
+    },
+    {
+        "name": "Teapot",
+        "flavor-text": "Havin' a tea partay, drinkin' mah teeea!",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "You Are Cordially Invited: Tea Party Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735ae0c45a779d02f108f_Teapot%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Teeth of Terramorphous",
+        "flavor-text": "His teeth made them flee in shame\u2026",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Terramorphous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735b56b11190e5be1aa5b_Teeth%20of%20Terramorphous%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Thunderball Fists (BL2)",
+        "flavor-text": "I can have such a thing?",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Captain Flynt",
+            "Sparky Flynt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737272e33766d0a2122dd_Thunderball%20Fists%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Tidal Wave",
+        "flavor-text": "Flee the wave, dude!",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Uncle Teddy Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7374b1cb975d8297dbf48_Tidal%20Wave%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Tinderbox",
+        "flavor-text": "Good for starting fires.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Captain Flynt",
+            "Sparky Flynt",
+            "Snowman in Tundra Express Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7375ec2c0d921b255fe52_Tinderbox%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Toothpick",
+        "flavor-text": "A simple solution to a dire problem.",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Effervescent",
+        "manufacturer": "DAHL",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sand Worm",
+            "Sand Worm Queen"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7378f8f43799ace6636cf_Toothpick%20(AR-BL2).webp"
+    },
+    {
+        "name": "Trespasser",
+        "flavor-text": "I infrequently perish.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Animal Rights Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737baa67f3fec81243ccd_Trespasser%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Triquetra",
+        "flavor-text": "Good things kill in threes.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Clan War: End of the Rainbow Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737d8a370607e78ef3426_Triquetra%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Tunguska",
+        "flavor-text": "It will split the sky in two.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Pearlescent",
+        "manufacturer": "Torgue",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738084ad046d2e9241d4a_Tunguska%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Twister",
+        "flavor-text": "Putting trouble on the run.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Omnd-Omnd-Ohk Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73821b30ca0ed174411e1_Twister%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Unforgiven",
+        "flavor-text": "It's a helluva thing\u2026",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Pearlescent",
+        "manufacturer": "Jakobs",
+        "origin": "Upgrade Pack #1",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "OMGWTH",
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7383800e8242c956e05f5_Unforgiven%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Unicornsplosion",
+        "flavor-text": "A magnificent gift from a dear friend neither forgotten nor forsaken.",
+        "game": "borderlands-2",
+        "type": "Shotgun",
+        "rarity": "Effervescent",
+        "manufacturer": "Torgue",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Trophy",
+        "drop-sources": [
+            "Butt Stallion Unique"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73855a67f3fec8124f50f_Unicornsplosion%20(Shotgun-BL2).webp"
+    },
+    {
+        "name": "Unkempt Harold",
+        "flavor-text": "Did I fire six shots, or only five? Three? Seven. Whatever.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Savage Lee",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7385cbc75c972b9e58d82_Unkempt%20Harold%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Veritas",
+        "flavor-text": "Shoulda stopped at one.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Clan War: Wakey Wakey Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f79a5f56f71485739432dc_Veritas%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "Veruc",
+        "flavor-text": "I want that rifle, Daddy!",
+        "game": "borderlands-2",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mobley",
+            "Sorcerer's Daughter"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738b2cd1d4b875eec1be8_Veruc%20(AR-BL2).webp"
+    },
+    {
+        "name": "Volcano (BL2)",
+        "flavor-text": "Pele humbly requests a sacrifice, if it's not too much trouble.",
+        "game": "borderlands-2",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior",
+            "Handsome Sorcerer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738f3f100bfb0c412d9c6_Volcano%20(Sniper-BL2).webp"
+    },
+    {
+        "name": "Wanderlust",
+        "flavor-text": "You never know until you go.",
+        "game": "borderlands-2",
+        "type": "Pistol",
+        "rarity": "Pearlescent",
+        "manufacturer": "Maliwan",
+        "origin": "Digistruct Peak",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn",
+            "Chubby Bones Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73958b8f16c8fa31a6e3c_Wanderlust%20(Pistol-BL2).webp"
+    },
+    {
+        "name": "World Burn",
+        "flavor-text": "War does not compute.",
+        "game": "borderlands-2",
+        "type": "Launcher",
+        "rarity": "Effervescent",
+        "manufacturer": "Torgue",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Lt. Bolson"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739da03e3624cd8628ac9_World%20Burn%20(Launcher-BL2).webp"
+    },
+    {
+        "name": "Yellow Jacket",
+        "flavor-text": "By the people. For the people.",
+        "game": "borderlands-2",
+        "type": "SMG",
+        "rarity": "E-Tech",
+        "manufacturer": "Hyperion",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Jackenstein"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739e0b8f16c8fa31b2c09_Yellow%20Jacket%20(SMG-BL2).webp"
+    }
+]

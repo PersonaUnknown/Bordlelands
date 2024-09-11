@@ -1,0 +1,614 @@
+[
+    {
+        "name": "Assassin",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion | Maliwan",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a507a84a7b5f503787b_Assassin%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Bad Ass",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a62793824b2c34e2abd_Bad%20Ass%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Berserker",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Tediore | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a808d28e779fd895ba6_Berserker%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Blast Master",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "DAHL | Torgue",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62aa387a4946a08e9fea5_Blast%20Master%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Bombardier",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "DAHL | Tediore",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62acd7a39e55de0bf3fc3_Bombardier%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Catalyst",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Anshin | Maliwan",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b227a84a7b5f50477a1_Catalyst%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Centurion",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Atlas | Pangolin",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b4caeb939b7703bb5c0_Centurion%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Champion",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b568c3f3cc9837c1c81_Champion%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Commando",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Jakobs | S&S Munitions",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b9f8c3f3cc9837c7440_Commando%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Common Man",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62ba604fd50fca0e218a7_Common%20Man%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Defender",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Anshin | Pangolin",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c06689fbf402b6e71f1_Defender%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Eridian Warrior",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c7805424a1f2b2a07f3_Eridian%20Warrior%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Firefly",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "DAHL | Maliwan",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62cb26a97b78642d4707e_Firefly%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Gunfighter",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Jakobs",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d57fd1a9e1d8aad5639_Gunfighter%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Gunman",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d5ea6812b6064eadd03_Gunman%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Gunslinger",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d6ac5a9bf2b6025326e_Gunslinger%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Heavy Gunner",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Torgue | Dahl",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d89aeb939b7703e3284_Heavy%20Gunner%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Hunter",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Jakobs | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62dca793824b2c3529b71_Hunter%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Leader",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "DAHL | Jakobs",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62e0b7a84a7b5f507e3e2_Leader%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Marine",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "CoD: Corporal Quest",
+            "Badass Devastator",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f838b5145d2647053af_Marine%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Mercenary",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Atlas | DAHL",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62fb880d4d83a400f2695_Mercenary%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Ogre",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "CoD: Corporal Quest",
+            "Devastator",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63002793824b2c355626a_Ogre%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Patriot",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Vladof",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63028aeb939b7704163d8_Patriot%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Peace Keeper",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Anshin",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6302e7a39e55de0c56701_Peace%20Keeper%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Plaguebearer",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion | S&S Munitions",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6304f793824b2c355c45c_Plaguebearer%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Professional",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f630628b5145d264715f96_Professional%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Ranger",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions | Tediore",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63245793824b2c3584bb7_Ranger%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Rifleman",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Torgue | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63028aeb939b7704163d8_Patriot%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Scavenger",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin | Tediore",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632ab378ee5a60454c7de_Scavenger%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Sharpshooter",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632d78b5145d264745bf3_Sharpshooter%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Shock Trooper",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Anshin | Maliwan",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632ffa6812b6064f1e073_Shock%20Trooper%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Skirmisher",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633227926d792ea88f28a_Skirmisher%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Sniper",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion | Jakobs",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6335d7a84a7b5f50ed6f7_Sniper%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Specialist",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6336a2342a17641a784b8_Specialist%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Specter",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "CoD: Corporal Quest",
+            "Omega Assassins",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63372793824b2c35977b4_Specter%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Support Gunner",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions | Vladof",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633f087a4946a08f4bb98_Support%20Gunner%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Survivor",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan | Pangolin",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633f6e65258b9201fd64b_Survivor%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Tactician",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Roland",
+        "rarity": "Epic",
+        "manufacturer": "Anshin | Maliwan",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6341d5e6ba2ae820b86a4_Tactician%20(Roland-BL1).webp"
+    },
+    {
+        "name": "Tank",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f634238eb3ea391a5b2520_Tank%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Tempest",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin | S&S Munitions",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63449378ee5a604566686_Tempest%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Titan",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Atlas | Pangolin",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6346b35a02654476dc81f_Titan%20(Brick-BL1).webp"
+    },
+    {
+        "name": "Tormentor",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Lilith",
+        "rarity": "Epic",
+        "manufacturer": "Atlas | Hyperion",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63479378ee5a604569e38_Tormentor%20(Lilith-BL1).webp"
+    },
+    {
+        "name": "Truxican Wrestler",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Mordecai",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions",
+        "origin": "General Knoxx",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "CoD: Corporal Quest",
+            "Truxican Wrestler",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6349aeae84ff69527b67b_Truxican%20Wrestler%20(Mordecai-BL1).webp"
+    },
+    {
+        "name": "Warmonger",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Brick",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion | Torgue",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f634bfe4318f1e0a1787bb_Warmonger%20(Brick-BL1).webp"
+    }
+]

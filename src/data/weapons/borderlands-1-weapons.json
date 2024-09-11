@@ -1,0 +1,1867 @@
+[
+    {
+        "name": "Ajax's Spear",
+        "flavor-text": "Useful for kicking Hector's bitch ass.",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ajax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651850f95771c327f9ca9ed0_Ajax%27s%20Spear%20(AR-BL1).webp"
+    },
+    {
+        "name": "Anaconda",
+        "flavor-text": "Long and Strong",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851115771c327f9cab049_Anaconda%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Aries",
+        "flavor-text": "Your Life Is Mine",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Pearlescent",
+        "manufacturer": "Atlas",
+        "origin": "General Knoxx",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Crawmerax",
+            "Lance Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183298e3eced1bb76c49_Aries%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Athena's Wisdom",
+        "flavor-text": "War is the final option",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Loot Larceny Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851195771c327f9cabb0f_Athena%27s%20Wisdom%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Avenger",
+        "flavor-text": "Uncommon Power",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Pearlescent",
+        "manufacturer": "Tediore",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Desperado",
+            "Badass Infantry",
+            "Badass Engineer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512223e88eb0c24ac9cb_Avenger%20(AR-BL1).webp"
+    },
+    {
+        "name": "Baha's Bigger Blaster",
+        "flavor-text": "Giving you a leg up on the competition!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7189fb1d14086a6314719_Baha%27s%20Bigger%20Blaster%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Bastard",
+        "flavor-text": "TORGUE!  Bastard Guns for Bastard People!",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851286c76388b6455a576_Bastard%20(AR-BL1).webp"
+    },
+    {
+        "name": "Bessie",
+        "flavor-text": "That's my girl...",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Pearlescent",
+        "manufacturer": "Jakobs",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Desperado",
+            "Crawmerax",
+            "Lance Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512f8c3120cae3b0b143_Bessie%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Bitch",
+        "flavor-text": "Smack 'em.",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851371b5b8c2eda7d3be6_Bitch%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Blaster",
+        "flavor-text": "Pew Pew Pew!",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2705c0dab8eee6a2d5_Blaster%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Bone Shredder",
+        "flavor-text": "The lead wind blows",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bone Head",
+            "Chaz"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518513e5016f10da96b5540_Bone%20Shredder%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Boom Stick",
+        "flavor-text": "Beyond Groovy",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Baron Flynt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ac22c7d5d3f93e74695_Boom%20Stick%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Bulldog",
+        "flavor-text": "One Bad Dog!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851444aed4b545a68f395_Bulldog%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Butcher",
+        "flavor-text": "Ahhh... Fresh meat!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c439f50e539fc14c195_Butcher%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Cannon",
+        "flavor-text": "010011110100110101000111",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Destroyer Chest Location",
+            "Master McCloud"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cc42dddd4da8b16491c_Cannon%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Chimera",
+        "flavor-text": "A beast of many forms - Fire, Lightning, and Poison",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518514b5016f10da96b5d3e_Chimera%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Chiquito Amigo",
+        "flavor-text": "Say \"Hello\"",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Purple Juice! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518515280035da4f6aa13bd_Chiquito%20Amigo%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Cobra",
+        "flavor-text": "I LIKE IT!",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185159d7b5bcebcfa51d82_Cobra%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Crux",
+        "flavor-text": "Cross their heart, hope they die.",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185160c867409df1b4cf54_Crux%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Crux (Plague)",
+        "flavor-text": "Bring out your Dead",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f41c7ca4653fc817cee_Crux%20(Plague)%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Cyclops",
+        "flavor-text": "I have you in my eye, sir.",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516661008515c97d34c6_Cyclops%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Defender",
+        "flavor-text": "I can do this all day...",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516d5d86eb8b1c7f0392_Defender%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Defiler",
+        "flavor-text": "Give Sick",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185173fb1dc81e958f6c40_Defiler%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Destroyer",
+        "flavor-text": "The destructor has come",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185179adf2a346d333cf62_Destroyer%20(AR-BL1).webp"
+    },
+    {
+        "name": "Draco",
+        "flavor-text": "Dragon Fire!",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720f02b8fd25889405c59_Draco%20(AR-BL1).webp"
+    },
+    {
+        "name": "Equalizer",
+        "flavor-text": "Unending Firepower",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65184d1fb33f87e6f4985313_Equalizer%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Fireball",
+        "flavor-text": "You'll need some bat guano...",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Rare",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Firebomb",
+        "flavor-text": "Bad is Good, BABY!",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Legendary",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Pyro",
+            "Drifter",
+            "Badass Bruiser"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Firehawk",
+        "flavor-text": "Bring the HEAT!",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185180155bcd98baa52f81_Firehawk%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Flaregun",
+        "flavor-text": "Smoke on the water...",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723b6ba0cf6e9265c5910_Flaregun%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Friendly Fire",
+        "flavor-text": "Have a nice day!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72423ba0cf6e9265d2659_Friendly%20Fire%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Gasher",
+        "flavor-text": "Tear it up",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851875016f10da96b92bf_Gasher%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Gemini",
+        "flavor-text": "Double Whammy.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651854485231fb3f86cdf244_Gemini%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Glob Gun",
+        "flavor-text": "I think you have something on your shoe.",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725098493f5e726fc83d0_Glob%20Gun%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Guardian",
+        "flavor-text": "Hold your ground... Forever.",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851949b9f975bb562785b_Guardian%20(AR-BL1).webp"
+    },
+    {
+        "name": "Hammer",
+        "flavor-text": "Drop the Hammer!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726fa451204fee7f4aa7f_Hammer%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Hellfire",
+        "flavor-text": "We don't need no water...",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518519a6c76388b6455fce4_Hellfire%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Hive Mind",
+        "flavor-text": "That's gonna leave a Marx",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727f0f9709d68d9fca141_Hive%20Mind%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Hornet",
+        "flavor-text": "Feel the Sting",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a03ccea50415791785_Hornet%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Hydra",
+        "flavor-text": "Five heads of Death",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a7f76736bbc6c60cef_Hydra%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Invader",
+        "flavor-text": "12 bullets invade your skull",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651855e07239798ec52bc0f1_Invader%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Invader (Executioner)",
+        "flavor-text": "BAM BAM BAM BAM BAM!",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ad8c3120cae3b126a6_Invader%20(Executioner)%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Jackal",
+        "flavor-text": "This dog bites.",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Pearlescent",
+        "manufacturer": "DAHL",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Desperado",
+            "Badass Bruiser",
+            "Drifter"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851b93ccea50415792d38_Jackal%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Knoxx's Gold",
+        "flavor-text": "Bling!",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "General Knoxx"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851bf4b203efc24359653_Knoxx%27s%20Gold%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Krom's Sidearm",
+        "flavor-text": "a gift from Papa Krom",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Krom's Turret"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851c66c76388b64562a0b_Krom%27s%20Sidearm%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Kyros' Power",
+        "flavor-text": "Good Touch",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "General Knoxx",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Commander Kyros"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851cc80035da4f6aa7d48_Kyros%27%20Power%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Lady Finger",
+        "flavor-text": "Omnia vincit amor",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Moe & Marley",
+            "Nine-Toes: Take Him Down Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aba4adf9e5a7ead980e_Lady%20Finger%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Leviathan",
+        "flavor-text": "It rises!",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Rakk Hive",
+            "Rakk-Trap Hive",
+            "Wanted: Fresh Fish Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf1c86e1b2f5bf29e39_Leviathan%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Lightning",
+        "flavor-text": "I feel like I'm gonna break this thing.",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bffc86e1b2f5bf2ac21_Lightning%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Madjack",
+        "flavor-text": "Fools! They called me maaaad!",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "One-Eyed Jack"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d2aef8ec6ded7b6928c_Madjack%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Mega Cannon",
+        "flavor-text": "010011110100110101000111",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Legendary",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Shock Trooper",
+            "Badass Bruiser",
+            "Drifter"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72da186abe1ea4516c0f6_Mega%20Cannon%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Mongol",
+        "flavor-text": "Beware the Horde!",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e0938c971d5ec26784c_Mongol%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Mug Shot",
+        "flavor-text": "Does your face hurt? It's killin' me...",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e50ef8ec6ded7b7ffb6_Mug%20Shot%20(AR-BL1).webp"
+    },
+    {
+        "name": "Nailer",
+        "flavor-text": "Thwack!",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bleeder",
+            "House Hunting Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ea8ef8ec6ded7b86da9_Nailer%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Nemesis",
+        "flavor-text": "There is no escape",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Pearlescent",
+        "manufacturer": "Hyperion",
+        "origin": "General Knoxx",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Badass Infantry",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d21add88a3c36a93a8_Nemesis%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Nidhogg",
+        "flavor-text": "Death rains from above",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ed00c45a779d0267af0_Nidhogg%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Ogre",
+        "flavor-text": "Ogre SMASH!",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d980035da4f6aa82b9_Ogre%20(AR-BL1).webp"
+    },
+    {
+        "name": "Orion",
+        "flavor-text": "A hunter lives among the stars...",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851dfb33f87e6f49cc5f1_Orion%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Patton",
+        "flavor-text": "May God have mercy upon my enemies, because I won't.",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Rare",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Queen Tarantella",
+            "Bait And Switch Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd753f0d8d7f35ae638_Patton%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Penetrator",
+        "flavor-text": "Sniper Killer... Qu'est que c'est",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7300297a59bcc730278d7_Penetrator%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Protector",
+        "flavor-text": "Ammo is no longer an issue.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730aef449220cd3f3639d_Protector%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Raven",
+        "flavor-text": "2 more bullets make all the difference",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851e51add88a3c36aa236_Raven%20(AR-BL1).webp"
+    },
+    {
+        "name": "Reaper",
+        "flavor-text": "Slice Slice",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ee7239798ec5283fe4_Reaper%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Reaver's Edge",
+        "flavor-text": "The cutting edge",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Reaver"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851f680035da4f6aa9381_Reaver%27s%20Edge%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Rebel",
+        "flavor-text": "Never stop shooting!",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851fd7e091bb700e50919_Rebel%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Redemption",
+        "flavor-text": "Monster Kill!",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7314d231580ef43d39f4b_Redemption%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Revolution",
+        "flavor-text": "Guns of the Revolution will never fall silent!",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731b34c5de0dfaa77f646_Revolution%20(AR-BL1).webp"
+    },
+    {
+        "name": "Rhino",
+        "flavor-text": "The Unstoppable Force",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731c06f656146ade4479a_Rhino%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Rider",
+        "flavor-text": "Careful... you might put someone's eye out.",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Gearbox",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Hidden Basement Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852043ccea50415796ca7_Rider%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Rifle",
+        "flavor-text": "Full of electric death",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731cd8f43799ace5f573e_Rifle%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Rolling Spatter Gun",
+        "flavor-text": "Splat! Sploch! Spluch!",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7326dd14e5843d8c42921_Rolling%20Spatter%20Gun%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Savior",
+        "flavor-text": "Hallelujah",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518520b3599bd2866c1cad8_Savior%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Serpens",
+        "flavor-text": "Poison in your veins",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Pearlescent",
+        "manufacturer": "S&S Munitions",
+        "origin": "General Knoxx",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Drifter",
+            "Badass Bruiser",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521180035da4f6aaafde_Serpens%20(AR-BL1).webp"
+    },
+    {
+        "name": "Silent Night",
+        "flavor-text": "It knows when you're awake",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340b357e03da689cf90d_Silent%20Night%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Skullmasher",
+        "flavor-text": "Makes their brain hurt",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185217f76736bbc6c66e10_Skullmasher%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Sledge's Shotgun",
+        "flavor-text": "The Legend Lives",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Epic",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sledge"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7344686abe1ea451ec292_Sledge%27s%20Shotgun%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Splat Gun",
+        "flavor-text": "For when you want to splat something.",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734bd0c45a779d02e03bb_Splat%20Gun%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Stalker",
+        "flavor-text": "You can run, but you can't hide.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Pearlescent",
+        "manufacturer": "Vladof",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Badass Engineer",
+            "Crawmerax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734dc06d0803d9a4aef7c_Stalker%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Stampeding Spatter",
+        "flavor-text": "For when you want to splat the living shit out of something.",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Legendary",
+        "manufacturer": "Eridian",
+        "origin": "General Knoxx",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chemical Trooper",
+            "Badass Bruiser",
+            "Drifter"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734e90db25bd3a72a0e63_Stampeding%20Spatter%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Striker",
+        "flavor-text": "Sniper Rifles are for Chumps.",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521df76736bbc6c672b0_Striker%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Sucker Punch",
+        "flavor-text": "Your shoelace is untied...",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353ee7a75977f03ca1c1_Sucker%20Punch%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Surkov",
+        "flavor-text": "For the Motherland.",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185223fb1dc81e958ff380_Surkov%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "T.K's Wave",
+        "flavor-text": "Ride the Wave, Dude!",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Scar",
+            "T.K.'s Life And Limb Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185469f76736bbc6c8741a_T.K%27s%20Wave%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "Thanatos",
+        "flavor-text": "Big Tony says \"Hi\"",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735c018c2972e072be3aa_Thanatos%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "The Big Toe",
+        "flavor-text": "Stubbed",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Uncommon",
+        "manufacturer": "DAHL",
+        "origin": "Datamined",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735d4342c812ce8e7025e_The%20Big%20Toe%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "The Blister",
+        "flavor-text": "It's a painful thing",
+        "game": "borderlands-1",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Mothrakk",
+            "Like A Moth To Flame Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735e1dabdba29bcb20df9_The%20Blister%20(Shotgun-BL1).webp"
+    },
+    {
+        "name": "The Chopper",
+        "flavor-text": "RAR!  BRAR BRAR!",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Epic",
+        "manufacturer": "Vladof",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Motor Head"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852319b9f975bb562fee9_The%20Chopper%20(AR-BL1).webp"
+    },
+    {
+        "name": "The Clipper",
+        "flavor-text": "Don't drop it... might lose a toe.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Nine-Toes"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736439a6dcd18d547c4a4_The%20Clipper%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "The Dove",
+        "flavor-text": "Sometimes, I forget to reload.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Uncommon",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Slither",
+            "Altar Ego: Godless Monsters Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365d6db74a3f9f349feb_The%20Dove%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "The Meat Grinder",
+        "flavor-text": "War is in your blood",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Jaynis Kobb"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736b5196104bdd20dddff_The%20Meat%20Grinder%20(AR-BL1).webp"
+    },
+    {
+        "name": "The Roaster",
+        "flavor-text": "Gonna cook someone today",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Taylor Kobb"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852385016f10da96c2129_The%20Roaster%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "The Sentinel",
+        "flavor-text": "A watchful eye",
+        "game": "borderlands-1",
+        "type": "Assault Rifle",
+        "rarity": "Uncommon",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Rakkinishu",
+            "Jack's Other Eye Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736cbd2d4f2c2041965a1_The%20Sentinel%20(AR-BL1).webp"
+    },
+    {
+        "name": "The Spy",
+        "flavor-text": "I spy with my little eye...",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Uncommon",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "King Wee Wee",
+            "King Tossing Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d8c2c0d921b25562ea_The%20Spy%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Thunder Storm",
+        "flavor-text": "Lightning never strike the same place twice, but it can strike freaking everywhere!",
+        "game": "borderlands-1",
+        "type": "Eridian",
+        "rarity": "Uncommon",
+        "manufacturer": "Eridian",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73715bfd0a97c9bb4d49b_Thunder%20Storm%20(Eridian-BL1).webp"
+    },
+    {
+        "name": "Troll",
+        "flavor-text": "Pain Heals.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518523e257cec3c1dc94c46_Troll%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Tsunami",
+        "flavor-text": "Flee the wave",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Pearlescent",
+        "manufacturer": "Maliwan",
+        "origin": "General Knoxx",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Desperado",
+            "Badass Infantry",
+            "Badass Engineer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852445231fb3f86cc4224_Tsunami%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Typhoon",
+        "flavor-text": "Phooon!",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Commander Typhon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518524b3599bd2866c20349_Typhoon%20(SMG-BL1).webp"
+    },
+    {
+        "name": "Undertaker",
+        "flavor-text": "Take 'em UNDER.",
+        "game": "borderlands-1",
+        "type": "Launcher",
+        "rarity": "Pearlescent",
+        "manufacturer": "Torgue",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Badass Rocketeer",
+            "Badass Infantry",
+            "Badass Bruiser"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73830394cbaf25600eb48_Undertaker%20(Launcher-BL1).webp"
+    },
+    {
+        "name": "Unforgiven",
+        "flavor-text": "It's a helluva thing...",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518561a00ee886d8d658eb4_Unforgiven%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Vengeance",
+        "flavor-text": "Vengeance is Yours",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73887ae773a4a23254828_Vengeance%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Violator",
+        "flavor-text": "Your move, Creep.",
+        "game": "borderlands-1",
+        "type": "Repeater",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852578c3120cae3b1bdb6_Violator%20(Repeater-BL1).webp"
+    },
+    {
+        "name": "Violence",
+        "flavor-text": "Death will reign.",
+        "game": "borderlands-1",
+        "type": "Revolver",
+        "rarity": "Legendary",
+        "manufacturer": "Gearbox",
+        "origin": "Enhanced",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Crawmerax",
+            "Destroyer Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738df5eaac06288985234_Violence%20(Revolver-BL1).webp"
+    },
+    {
+        "name": "Volcano",
+        "flavor-text": "Pele demands a sacrifice!",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185459bc097d4b845e7621_Volcano%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Whitting's Elephant Gun",
+        "flavor-text": "Why don't you go shoot yourself an elephant?",
+        "game": "borderlands-1",
+        "type": "Sniper",
+        "rarity": "Epic",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Skagzilla",
+            "Big Game Hunter Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b93edbf73e6d36daf1_Whitting%27s%20Elephant%20Gun%20(Sniper-BL1).webp"
+    },
+    {
+        "name": "Wildcat",
+        "flavor-text": "The ultimate close quarters feline.",
+        "game": "borderlands-1",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185264257cec3c1dc96a3f_Wildcat%20(SMG-BL1).webp"
+    }
+]

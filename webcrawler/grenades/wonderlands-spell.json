@@ -1,0 +1,515 @@
+[
+    {
+        "name": "Arcane Bolt",
+        "flavor-text": "From thine fingy-tippers comes doom.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d48b0c42dde1920451ad_Arcane%20Bolt%20(WL).webp"
+    },
+    {
+        "name": "Barrelmaker",
+        "flavor-text": "I need your strongest barrels.",
+        "game": "wonderlands",
+        "type": "Channel",
+        "rarity": "Legendary",
+        "manufacturer": "Arken",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "PigwartObelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4a1fb80f1bd9d6c746f_Barrelmaker%20(WL).webp"
+    },
+    {
+        "name": "Boltlash",
+        "flavor-text": "Let it fly. Let 'em die.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Legendary",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4aee05c93849ae3e25a_Boltlash%20(WL).webp"
+    },
+    {
+        "name": "Buffmeister",
+        "flavor-text": "AAAAAAAAAAAAAAAH.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Legendary",
+        "manufacturer": "Miraculum",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d54193794b653009fd11_Buffmeister%20(WL).webp"
+    },
+    {
+        "name": "Curse of Malice",
+        "flavor-text": "Ages like fine milk.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Redmourne"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5b117f515e82df09482_Curse%20of%20Malice%20(WL).webp"
+    },
+    {
+        "name": "Dazzler",
+        "flavor-text": "You are fine.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5c17cc78915f57cdd29_Dazzler%20(WL).webp"
+    },
+    {
+        "name": "Dynamo",
+        "flavor-text": "Boom-lay boom!",
+        "game": "wonderlands",
+        "type": "Channel",
+        "rarity": "Legendary",
+        "manufacturer": "Arken",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5e093c1fcd9b5afb67b_Dynamo%20(WL).webp"
+    },
+    {
+        "name": "Frostburn",
+        "flavor-text": "They're all a tray of cakes next to death.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Rare",
+        "manufacturer": "Miraculum",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Small FavorQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d673e891729706595897_Frostburn%20(WL).webp"
+    },
+    {
+        "name": "Frozen Orb",
+        "flavor-text": "Man, you came a long way for my orb.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Barkenstein, Keeper of Nature"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5f58532add1526ba64917_Frozen%20Orb%20(WL).webp"
+    },
+    {
+        "name": "Garlic Breath",
+        "flavor-text": "Time to put the cloves on.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Legendary",
+        "manufacturer": "Miraculum",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6933979078481cb8407_Garlic%20Breath%20(WL).webp"
+    },
+    {
+        "name": "Gelatinous Cube",
+        "flavor-text": "The apotheosis is upon us.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "FrondstrocityOverworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d69b8163b4a208dba046_Gelatinous%20Cube%20(WL).webp"
+    },
+    {
+        "name": "Glacial Cascade",
+        "flavor-text": "Stick around.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6aaaa4c958d8274e182_Glacial%20Cascade%20(WL).webp"
+    },
+    {
+        "name": "Great Wake",
+        "flavor-text": "Terror can fill any space.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Rare",
+        "manufacturer": "Miraculum",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "All Swashed UpQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6b191f67b7db8b5e0f9_Great%20Wake%20(WL).webp"
+    },
+    {
+        "name": "Greatest Spell Ever",
+        "flavor-text": "This is just a tribute!",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Rare",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Spell to PayQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6b923d55b3b778fadee_Greatest%20Spell%20Ever%20(WL).webp"
+    },
+    {
+        "name": "Hellfire",
+        "flavor-text": "From the Heavens.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Rare",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Destruction Rains from the HeavensQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6c7c2124dbce96054fd_Hellfire%20(WL).webp"
+    },
+    {
+        "name": "Holey Spell-nade",
+        "flavor-text": "Blow thine enemies to tiny bits.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Rare",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Knight's ToilQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6ed9ceaf03cf6cfdf85_Holey%20Spell-nade%20(WL).webp"
+    },
+    {
+        "name": "Inflammation",
+        "flavor-text": "It's not the heat... it's the low flesh-melting point.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Legendary",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Shara, Dust-BegottenObelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d714522eea73c9932d42_Inflammation%20(WL).webp"
+    },
+    {
+        "name": "Laserhand",
+        "flavor-text": "It is a name what strikes fear into the hearts of anyone who hears it!",
+        "game": "wonderlands",
+        "type": "Channel",
+        "rarity": "Legendary",
+        "manufacturer": "Arken",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d76b726ca70c22325cec_Laserhand%20(WL).webp"
+    },
+    {
+        "name": "Lovestruck Beau",
+        "flavor-text": "Always has your back.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7cf26243b1d59550abc_Lovestruck%20Beau%20(WL).webp"
+    },
+    {
+        "name": "Marshmallow",
+        "flavor-text": "Something that would never ever possibly destroy us.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7ef4006834d4dfcdf6a_Marshmallow%20(WL).webp"
+    },
+    {
+        "name": "Rainbolt",
+        "flavor-text": "Death by a thousand colors.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Legendary",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d926522eea73c99608c6_Rainbolt%20(WL).webp"
+    },
+    {
+        "name": "Reviver",
+        "flavor-text": "I'm never going to physically recover from this.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mike"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d93410cb604f09883be7_Reviver%20(WL).webp"
+    },
+    {
+        "name": "Sawblades",
+        "flavor-text": "Watch your fingers.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Legendary",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d959c2124dbce9661461_Sawblades%20(WL).webp"
+    },
+    {
+        "name": "Skullantir",
+        "flavor-text": "I hate you, too.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Dragon Lord Pack",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d96fdf7028173fc39342_Skullantir%20(WL).webp"
+    },
+    {
+        "name": "Smithy's Ire",
+        "flavor-text": "Forging new corpses all day.",
+        "game": "wonderlands",
+        "type": "Channel",
+        "rarity": "Legendary",
+        "manufacturer": "Arken",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Fyodor the Soul Warden"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5e093c1fcd9b5afb67b_Dynamo%20(WL).webp"
+    },
+    {
+        "name": "Threads of Fate",
+        "flavor-text": "Watch me unravel.",
+        "game": "wonderlands",
+        "type": "Channel",
+        "rarity": "Legendary",
+        "manufacturer": "Arken",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Lissia, Iron-WroughtObelisk",
+            "Salissa"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9c95faca58ffaab5eaf_Threads%20of%20Fate%20(WL).webp"
+    },
+    {
+        "name": "Tidebreaker",
+        "flavor-text": "Drenched and doused.",
+        "game": "wonderlands",
+        "type": "Self",
+        "rarity": "Legendary",
+        "manufacturer": "Miraculum",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "\"Chums\" the Old God"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9d01de7d0ee1dc66e7e_Tidebreaker%20(WL).webp"
+    },
+    {
+        "name": "Time Skip",
+        "flavor-text": "Time keeps on slippin', slippin', slippin'.",
+        "game": "wonderlands",
+        "type": "Repeating",
+        "rarity": "Legendary",
+        "manufacturer": "Wyrdweaver",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9d7c2124dbce966ce4a_Time%20Skip%20(WL).webp"
+    },
+    {
+        "name": "Twister",
+        "flavor-text": "Moo.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Banshee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9f4df7028173fc446f8_Twister%20(WL).webp"
+    },
+    {
+        "name": "Wicked Gossip",
+        "flavor-text": "Spreads like a lie.",
+        "game": "wonderlands",
+        "type": "Simple",
+        "rarity": "Legendary",
+        "manufacturer": "Conjura",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5da0a91f67b7db8ba8efb_Wicked%20Gossip%20(WL).webp"
+    }
+]

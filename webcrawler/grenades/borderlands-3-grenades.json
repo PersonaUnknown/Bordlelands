@@ -1,0 +1,751 @@
+[
+    {
+        "name": "Acid Burn",
+        "flavor-text": "Hack the planet!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Handsome Jackpot",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Winners and LosersQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d46710cb604f09825a45_Acid%20Burn%20(BL3).webp"
+    },
+    {
+        "name": "Bloodsucker",
+        "flavor-text": "Chupa's organ transplant.",
+        "game": "borderlands-3",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4a6aa4c958d827222ed_Bloodsucker%20(BL3).webp"
+    },
+    {
+        "name": "Burning Summit",
+        "flavor-text": "Can we get some 1G's in the chat?",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Trophy",
+        "drop-sources": [
+            "Tyreen's Death MachineChallenge"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5493979078481c9d4d8_Burning%20Summit%20(BL3).webp"
+    },
+    {
+        "name": "Cheddar Shredder",
+        "flavor-text": "Make it rain.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Boost Mods Pack",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5714d7b8b89e6a5b34a_Cheddar%20Shredder%20(BL3).webp"
+    },
+    {
+        "name": "Chocolate Thunder",
+        "flavor-text": "Boom chocolaka!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Just DessertsQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d57b93794b65300a3ae9_Chocolate%20Thunder%20(BL3).webp"
+    },
+    {
+        "name": "Chupa's Organ",
+        "flavor-text": "Cabr\u00f3n.",
+        "game": "borderlands-3",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas | Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "ChupacabratchLegendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5832638a92e7477eef0_Chupa%27s%20Organ%20(BL3).webp"
+    },
+    {
+        "name": "Core Buster",
+        "flavor-text": "Work it.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Epic",
+        "manufacturer": "Vladof",
+        "origin": "Bounty of Blood",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Off the RailsQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5a2e05c93849ae547e7_Core%20Buster%20(BL3).webp"
+    },
+    {
+        "name": "Diamond Butt Bomb",
+        "flavor-text": "Bye bye, Li'l Butt Stallion!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Butt Stallion Cosmetic Pack",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5d1c2124dbce95f2026_Diamond%20Butt%20Bomb%20(BL3).webp"
+    },
+    {
+        "name": "Doc Hina's Miracle Bomb",
+        "flavor-text": "Give me fever.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Bounty of Blood",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Miracle Elixir FixerQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5d9df7028173fbeeddf_Doc%20Hina%27s%20Miracle%20Bomb%20(BL3).webp"
+    },
+    {
+        "name": "ECHO-2",
+        "flavor-text": "Do not throw ECHO-2. Do not hold ECHO-2 close to face. Do not look directly at ECHO-2.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Common",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mouthpiece"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5f287e7666ef828510c_ECHO-2%20(BL3).webp"
+    },
+    {
+        "name": "EMP",
+        "flavor-text": "Drop the shields.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Atomic & SylestroTarget of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5fa87e7666ef8285a6e_EMP%20(BL3).webp"
+    },
+    {
+        "name": "Epicenter",
+        "flavor-text": "It burns, burns, burns.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "DJ Deadsk4gTarget of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d601726ca70c2230a788_Epicenter%20(BL3).webp"
+    },
+    {
+        "name": "Exterminator",
+        "flavor-text": "Give me sugar.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Life of the PartyQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d609f71ee94c4a5ea0d4_Exterminator%20(BL3).webp"
+    },
+    {
+        "name": "Fastball",
+        "flavor-text": "Forget the curveball Ricky, give him the heater.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Captain Thunk & Sloth"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d61807403e919b991289_Fastball%20(BL3).webp"
+    },
+    {
+        "name": "Firestorm",
+        "flavor-text": "Soon afterwards, the cloud descended upon the earth.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion | Tediore | Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Aurelia"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d65de891729706592ed8_Firestorm%20(BL3).webp"
+    },
+    {
+        "name": "Fish Slap",
+        "flavor-text": "Say hello to my little fish!",
+        "game": "borderlands-3",
+        "type": "Bouncing Betty",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Revenge of the Cartels",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Joey Ultraviolet",
+            "FISH SLAP!!!",
+            "Tyrone Smallums"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6648163b4a208db5053_Fish%20Slap%20(BL3).webp"
+    },
+    {
+        "name": "Fungus Among Us",
+        "flavor-text": "Turn on, tune in, drop out.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Witch's BrewQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d685e89172970659690b_Fungus%20Among%20Us%20(BL3).webp"
+    },
+    {
+        "name": "Ghast Call",
+        "flavor-text": "To you I am past, a story to tell.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Bloody Harvest",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot GhostRare Spawn",
+            "Captain Haunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6a291f67b7db8b5ca1c_Ghast%20Call%20(BL3).webp"
+    },
+    {
+        "name": "HOT Spring",
+        "flavor-text": "Please, call me doctor.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Designer's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Launch CommandLoot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6c052d3de08036b9c68_HOT%20Spring%20(BL3).webp"
+    },
+    {
+        "name": "Hex",
+        "flavor-text": "Keeper of the stars, I hope to never find...",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Shock",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Sky BulliesTarget of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6ce0c42dde192079283_Hex%20(BL3).webp"
+    },
+    {
+        "name": "Hunter-Seeker",
+        "flavor-text": "Grip tightly.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mother of Grogans"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6f41de7d0ee1dc25f87_Hunter-Seeker%20(BL3).webp"
+    },
+    {
+        "name": "It's Piss",
+        "flavor-text": "Hey you guys!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Captain Thunk & Sloth"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d74cfa749671fe990fb0_It%27s%20Piss%20(BL3).webp"
+    },
+    {
+        "name": "Kryll",
+        "flavor-text": "Besiege!",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d763522eea73c9939d4c_Kryll%20(BL3).webp"
+    },
+    {
+        "name": "Lightspeed",
+        "flavor-text": "Gimme a parsec.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Anathema the Relentless"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7c0cb1f1c2f323abd87_Lightspeed%20(BL3).webp"
+    },
+    {
+        "name": "Mesmer",
+        "flavor-text": "Sink into the floor. Sink.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "The Gravekeeper"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7fe1de7d0ee1dc3dac0_Mesmer%20(BL3).webp"
+    },
+    {
+        "name": "Moxxi's Bouncing Pair",
+        "flavor-text": "Prepare for trouble, and make it double.",
+        "game": "borderlands-3",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Shiv"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d81ce05c93849ae8f402_Moxxi%27s%20Bouncing%20Pair%20(BL3).webp"
+    },
+    {
+        "name": "NOG Potion #9",
+        "flavor-text": "That's a horse of a different color!",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Technical NOGoutQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d82707403e919b9bc3d4_NOG%20Potion%20%239%20(BL3).webp"
+    },
+    {
+        "name": "Nagata",
+        "flavor-text": "Beltalowda!",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "ChupacabratchLegendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d82f522eea73c994ab4d_Nagata%20(BL3).webp"
+    },
+    {
+        "name": "Porcelain Pipe Bomb",
+        "flavor-text": "Slinkin', beamin', splooshin'.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Radiation"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "ers of the Lost RockQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d8cd3251a37c2968cd1c_Porcelain%20Pipe%20Bomb%20(BL3).webp"
+    },
+    {
+        "name": "Pyroburst",
+        "flavor-text": "KEKW",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Welcome to Pandora - Vault Card",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d90070d1c945d8d82074_Pyroburst%20(BL3).webp"
+    },
+    {
+        "name": "Quasar",
+        "flavor-text": "E=mc^(OMG)/wtf",
+        "game": "borderlands-3",
+        "type": "Singularity",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas | Hyperion | Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wick and Warty"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d90e1ec4b6735f163604_Quasar%20(BL3).webp"
+    },
+    {
+        "name": "Red Queen",
+        "flavor-text": "OFF WITH THEIR HEADS!",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Blinding BansheeLegendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d92d74836a398543e226_Red%20Queen%20(BL3).webp"
+    },
+    {
+        "name": "Ringer",
+        "flavor-text": "Obviously you're not a golfer.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "Hemovorous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d93b07403e919b9d29d5_Ringer%20(BL3).webp"
+    },
+    {
+        "name": "Sidewinder",
+        "flavor-text": "This is what I call a target-rich environment.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Director's Cut",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Bunker Masters - Vault Card",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d967f0e113c15052cb5c_Sidewinder%20(BL3).webp"
+    },
+    {
+        "name": "Slider",
+        "flavor-text": "Same planet, different dimension.",
+        "game": "borderlands-3",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9770c42dde1920b2ba2_Slider%20(BL3).webp"
+    },
+    {
+        "name": "Storm Front",
+        "flavor-text": "Very, very frightening.",
+        "game": "borderlands-3",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion | Tediore | Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Under Taker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9a83251a37c296a1741_Storm%20Front%20(BL3).webp"
+    },
+    {
+        "name": "Surge",
+        "flavor-text": "Thar she blows!",
+        "game": "borderlands-3",
+        "type": "Bouncing Betty",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Power Troopers"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9b950f50f66f7af697a_Surge%20(BL3).webp"
+    },
+    {
+        "name": "Tina's Hippity Hopper",
+        "flavor-text": "Hare today, bomb tomorrow.",
+        "game": "borderlands-3",
+        "type": "Bouncing Betty",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Raging Titan"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9dfcd06463bff4fde1d_Tina%27s%20Hippity%20Hopper%20(BL3).webp"
+    },
+    {
+        "name": "Tran-fusion",
+        "flavor-text": "Here go, hell come.",
+        "game": "borderlands-3",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Atlas | Hyperion | Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Power Troopers"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9e67cc78915f581ed39_Tran-fusion%20(BL3).webp"
+    },
+    {
+        "name": "Ultraball",
+        "flavor-text": "Do not taunt Happy Fun Ball.",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Toy Box",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9fcb44965b0c303f35f_Ultraball%20(BL3).webp"
+    },
+    {
+        "name": "Whispering Ice",
+        "flavor-text": "You've raised my frosty dander!",
+        "game": "borderlands-3",
+        "type": "MIRV",
+        "rarity": "Epic",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Lair of the HarpyQuest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5da03c815622a747856cc_Whispering%20Ice%20(BL3).webp"
+    },
+    {
+        "name": "Widowmaker",
+        "flavor-text": "\u00c0 la vie, \u00e0 la mort.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion | Tediore | Torgue | Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo",
+            "Radiation"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Max & Rax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5da16fa749671fe9cecfa_Widowmaker%20(BL3).webp"
+    }
+]

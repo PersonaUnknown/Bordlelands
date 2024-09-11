@@ -1,0 +1,459 @@
+[
+    {
+        "name": "Barboload",
+        "flavor-text": "Served with a side and salt.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e82ee5685905ad5e1b4b_Barboload%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Blaze Of Glory",
+        "flavor-text": "It's better to burn out than fade away.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e835882ad7a75c39a0e5_Blaze%20Of%20Glory%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Bradluck",
+        "flavor-text": "The test came back negative!",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e85839f5ae1e378dd129_Bradluck%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Championship Ring",
+        "flavor-text": "Thank you for making red text, read text!",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e86d21d0652d09286ca0_Championship%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Class Ring",
+        "flavor-text": "There's no such thing as downtime in a good rotation.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e86d21d0652d09286ca0_Championship%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Daemon Blight",
+        "flavor-text": "Haxed, but unvexed.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e89139f5ae1e378e06d9_Daemon%20Blight%20(Ring-WL).webp"
+    },
+    {
+        "name": "Driftwood",
+        "flavor-text": "Home sweet home.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8ae58fe75c6663251ef_Driftwood%20(Ring-WL).webp"
+    },
+    {
+        "name": "Elder Wyvern's Ring",
+        "flavor-text": "Now I am old and strong, strong, strong.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Burning Hunger Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8b5c9a2047edb1c6c60_Elder%20Wyvern%27s%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Fealty Oath",
+        "flavor-text": "All together now.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Fyodor the Soul Warden"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8c7bca35ec50eeaad9f_Fealty%20Oath%20(Ring-WL).webp"
+    },
+    {
+        "name": "Finger Ward",
+        "flavor-text": "I name you Warded of the Sorth.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8cd882ad7a75c3a4490_Finger%20Ward%20(Ring-WL).webp"
+    },
+    {
+        "name": "Fingertip Pulse Oximeter",
+        "flavor-text": "Hello Nurse!",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8d4bfb0eee685f9b44f_Fingertip%20Pulse%20Oximeter%20(Ring-WL).webp"
+    },
+    {
+        "name": "Frenzied Wrath",
+        "flavor-text": "Act erratically, and lash out at everything around us.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Knight Mare"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8e5c9a2047edb1c97e0_Frenzied%20Wrath%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Harbinger",
+        "flavor-text": "I AM ASSUMING DIRECT CONTROL\u2026 of the situation.",
+        "game": "wonderlands",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8f621d0652d09291214_Harbinger%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Harmonious Dingledangle",
+        "flavor-text": "Destroy the divide between you.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Emotion of the Ocean Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e905882ad7a75c3a7acc_Harmonious%20Dingledangle%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Insight Ring",
+        "flavor-text": "True enlightenment need to be shared.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "On the Wink of Destruction Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e91cbfb0eee685fa0807_Insight%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Joint Training",
+        "flavor-text": "Go for the eyes. Boo!",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Obsidian Wyvern Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e92a66b126fda1745e42_Joint%20Training%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Lethal Catch",
+        "flavor-text": "WANTED: Dead not alive.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "\"Chums\" the Old God"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8d4bfb0eee685f9b44f_Fingertip%20Pulse%20Oximeter%20(Ring-WL).webp"
+    },
+    {
+        "name": "Mood Ring",
+        "flavor-text": "Wards are meant to be broken.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8d4bfb0eee685f9b44f_Fingertip%20Pulse%20Oximeter%20(Ring-WL).webp"
+    },
+    {
+        "name": "Overflow Bloodbag",
+        "flavor-text": "Are you really not familiar with parabiosis?",
+        "game": "wonderlands",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Death Rattler Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9a95f940d47fbca29da_Overflow%20Bloodbag%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Precious Jamstone",
+        "flavor-text": "Whenever you're in a jam.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8cd882ad7a75c3a4490_Finger%20Ward%20(Ring-WL).webp"
+    },
+    {
+        "name": "Promise Ring",
+        "flavor-text": "Wait for it...",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e86d21d0652d09286ca0_Championship%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Rivote's Amulet",
+        "flavor-text": "Thou hast seen nothing yet.",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Ron Rivote Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9dc5f940d47fbca4efa_Rivote%27s%20Amulet%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Sacrificial Skeep",
+        "flavor-text": "Skeepin' it real.",
+        "game": "wonderlands",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mandiblon, Chomper of Skulls Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9f19f516e066aed5d3b_Sacrificial%20Skeep%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Sharklescent Ring",
+        "flavor-text": "Jawsome!",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "ers of the Lost Shark Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea08366fe5c8cbea2e5b_Sharklescent%20Ring%20(Ring-WL).webp"
+    },
+    {
+        "name": "Sharksbane",
+        "flavor-text": "Ooh ah ah.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea0f142b815fdd0ebf01_Sharksbane%20(Ring-WL).webp"
+    },
+    {
+        "name": "Shell Casing Ring",
+        "flavor-text": "Stop habitually reloading.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8cd882ad7a75c3a4490_Finger%20Ward%20(Ring-WL).webp"
+    },
+    {
+        "name": "Silicone Ring",
+        "flavor-text": "Eat well and exercise.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8d4bfb0eee685f9b44f_Fingertip%20Pulse%20Oximeter%20(Ring-WL).webp"
+    },
+    {
+        "name": "Slip 'n' Stun",
+        "flavor-text": "Shocked it to ya.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea3b58f6038b2ae8f469_Slip%20%27n%27%20Stun%20(Amulet-WL).webp"
+    },
+    {
+        "name": "The Protagonizer",
+        "flavor-text": "A real life action star.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea98bcb66ddde63b3dbb_The%20Protagonizer%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Theurge",
+        "flavor-text": "For the Tome of the holy.",
+        "game": "wonderlands",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Grissom Whitmore Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea9f87a8d9a399bd145c_Theurge%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Thumb Cuffs",
+        "flavor-text": "See that's that privately owned prison, get your price today.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8cd882ad7a75c3a4490_Finger%20Ward%20(Ring-WL).webp"
+    },
+    {
+        "name": "Universal Soldier",
+        "flavor-text": "I can do this all day.",
+        "game": "wonderlands",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eab421d0652d092ab277_Universal%20Soldier%20(Amulet-WL).webp"
+    },
+    {
+        "name": "Vorcanar's Cog",
+        "flavor-text": "What kind of god can die?",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Slayer of Vorcanar Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eadebcb66ddde63b7813_Vorcanar%27s%20Cog%20(Amulet-WL).webp"
+    }
+]

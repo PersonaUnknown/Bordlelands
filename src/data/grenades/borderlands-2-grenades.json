@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Antifection",
+        "flavor-text": "By fire be purged!",
+        "game": "borderlands-2",
+        "type": "Area of Effect",
+        "rarity": "Effervescent",
+        "manufacturer": "Vladof",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Cassius Leclemaine"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d48226243b1d59508f74_Antifection%20(BL2).webp"
+    },
+    {
+        "name": "Bonus Package",
+        "flavor-text": "2x more awesome, bonus extreme!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Boom and Bewm",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4b693794b6530092041_Bonus%20Package%20(BL2).webp"
+    },
+    {
+        "name": "Bouncing Bonny",
+        "flavor-text": "Your sister is such a bitch.",
+        "game": "borderlands-2",
+        "type": "Bouncing Betty",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4f8c2124dbce95df0d6_Bouncing%20Bonny%20(BL2).webp"
+    },
+    {
+        "name": "Breath of Terramorphous",
+        "flavor-text": "His breath was of fire\u2026",
+        "game": "borderlands-2",
+        "type": "Area of Effect",
+        "rarity": "E-Tech",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Terramorphous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5008163b4a208d969cb_Breath%20of%20Terramorphous%20(BL2).webp"
+    },
+    {
+        "name": "Chain Lightning",
+        "flavor-text": "Don't pay it back, pay it forward.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sorcerer",
+            "Handsome Sorcerer",
+            "Handsome Dragon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d56907403e919b983a42_Chain%20Lightning%20(BL2).webp"
+    },
+    {
+        "name": "Contraband Sky Rocket",
+        "flavor-text": "WARNING: Not intended for indoor use.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Collector's Pack",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d592522eea73c990b0d3_Contraband%20Sky%20Rocket%20(BL2).webp"
+    },
+    {
+        "name": "Crossfire",
+        "flavor-text": "Find, fix, flank, finish!",
+        "game": "borderlands-2",
+        "type": "Bouncing Betty",
+        "rarity": "Seraph",
+        "manufacturer": "DAHL",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5aa32add1526b7d313c_Crossfire%20(BL2).webp"
+    },
+    {
+        "name": "Fastball",
+        "flavor-text": "Forgot the curveball Ricky, give him the heater.",
+        "game": "borderlands-2",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Boll"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d610522eea73c9914db0_Fastball%20(BL2).webp"
+    },
+    {
+        "name": "Fire Bee",
+        "flavor-text": "Bees are coming!",
+        "game": "borderlands-2",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d5008163b4a208d969cb_Breath%20of%20Terramorphous%20(BL2).webp"
+    },
+    {
+        "name": "Fire Storm",
+        "flavor-text": "What manner of man are you that can summon up fire without flint or tinder?",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Fire Mage",
+            "Handsome Sorcerer",
+            "Handsome Dragon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d64ef2005cf7ecc88ae8_Fire%20Storm%20(BL2).webp"
+    },
+    {
+        "name": "Fireball",
+        "flavor-text": "Porkchop sandwiches!",
+        "game": "borderlands-2",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Fire Mage",
+            "Handsome Sorcerer",
+            "Handsome Dragon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d6557cc78915f57d884f_Fireball%20(BL2).webp"
+    },
+    {
+        "name": "Fuster Cluck",
+        "flavor-text": "Make it rain!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Pretty Good Train Robbery Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d68c726ca70c2231646f_Fuster%20Cluck%20(BL2).webp"
+    },
+    {
+        "name": "Kiss of Death",
+        "flavor-text": "It takes two to get one in trouble.",
+        "game": "borderlands-2",
+        "type": "Transfusion",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hyperius",
+            "Hell Hath No Fury Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d75370d1c945d8d5f5e2_Kiss%20of%20Death%20(BL2).webp"
+    },
+    {
+        "name": "Leech",
+        "flavor-text": "A skilful leech is better far, than half a hundred men of war.",
+        "game": "borderlands-2",
+        "type": "Transfusion",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior",
+            "Handsome Sorcerer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7aa596566bd3377b82c_Leech%20(BL2).webp"
+    },
+    {
+        "name": "Lightning Bolt",
+        "flavor-text": "What's a jigawatt?",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sorcerer",
+            "Handsome Sorcerer",
+            "Handsome Dragon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7b9fb80f1bd9d712ace_Lightning%20Bolt%20(BL2).webp"
+    },
+    {
+        "name": "Magic Missile",
+        "flavor-text": "No wand required. Just point and shoot.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Wizard"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7de74836a398541d47f_Magic%20Missile%20(Epic-BL2).webp"
+    },
+    {
+        "name": "Magic Missile",
+        "flavor-text": "No wand required. Just point and shoot.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Wizard",
+            "Handsome Sorcerer",
+            "Handsome Dragon"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7e64d543d9aa4de30c3_Magic%20Missile%20(Rare-BL2).webp"
+    },
+    {
+        "name": "Meteor Shower",
+        "flavor-text": "Not just for wishing on!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4b693794b6530092041_Bonus%20Package%20(BL2).webp"
+    },
+    {
+        "name": "Midnight Star",
+        "flavor-text": "\"Hangin' around with you is no picnic.\" Curse of the Cackling Designer!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Message in a Bottle: Magnys Lighthouse Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d80c93794b65300d40f7_Midnight%20Star%20(BL2).webp"
+    },
+    {
+        "name": "Nasty Surprise",
+        "flavor-text": "Supplies!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Vermivorous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d836aa4c958d8276dd2d_Nasty%20Surprise%20(BL2).webp"
+    },
+    {
+        "name": "O-Negative",
+        "flavor-text": "Universal donor!",
+        "game": "borderlands-2",
+        "type": "Transfusion",
+        "rarity": "Seraph",
+        "manufacturer": "Maliwan",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Slag"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Pyro Pete",
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d844e8917297065bf37d_O-Negative%20(BL2).webp"
+    },
+    {
+        "name": "Pandemic",
+        "flavor-text": "Spread the sickness.",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mortar"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d84bc815622a747617de_Pandemic%20(BL2).webp"
+    },
+    {
+        "name": "Quasar",
+        "flavor-text": "E = mc^(OMG)/wtf",
+        "game": "borderlands-2",
+        "type": "Singularity",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Ultimate Badass Varkid"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d907f71ee94c4a63e5db_Quasar%20(BL2).webp"
+    },
+    {
+        "name": "Rolling Thunder",
+        "flavor-text": "The thunder shall bring forth the pain!",
+        "game": "borderlands-2",
+        "type": "MIRV",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wilhelm",
+            "Torgue Machine Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d942df7028173fc36123_Rolling%20Thunder%20(BL2).webp"
+    },
+    {
+        "name": "Storm Front",
+        "flavor-text": "Sometimes lightning does strike twice.",
+        "game": "borderlands-2",
+        "type": "Area of Effect",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Splinter Group",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d99de05c93849aeaee8c_Storm%20Front%20(BL2).webp"
+    },
+    {
+        "name": "The Electric Chair",
+        "flavor-text": "The truth is often one's best shield.",
+        "game": "borderlands-2",
+        "type": "Area of Effect",
+        "rarity": "Effervescent",
+        "manufacturer": "Vladof",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Uranus"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d48226243b1d59508f74_Antifection%20(BL2).webp"
+    }
+]

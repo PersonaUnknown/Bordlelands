@@ -1,0 +1,207 @@
+[
+    {
+        "name": "3DD1.E",
+        "flavor-text": "Beep boop beep.",
+        "game": "borderlands-tps",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "CL4P-L3K"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e7c7142b815fdd0c7cdf_3DD1.E%20(TPS).webp"
+    },
+    {
+        "name": "Ack Ack",
+        "flavor-text": "I said across her nose, not up it!",
+        "game": "borderlands-tps",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Corporal Bob Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e82058fe75c66631bce3_Ack%20Ack%20(TPS).webp"
+    },
+    {
+        "name": "Cathartic Oz Kit",
+        "flavor-text": "You smelt it, you dealt it.",
+        "game": "borderlands-tps",
+        "type": "Survivability",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Poop Deck"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e86775a4071825d60312_Cathartic%20Oz%20Kit%20(TPS).webp"
+    },
+    {
+        "name": "Freedom Oz Kit",
+        "flavor-text": "The moon is your oyster!",
+        "game": "borderlands-tps",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Land Among the Stars Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8df08cf3526fd049c31_Freedom%20Oz%20Kit%20(TPS).webp"
+    },
+    {
+        "name": "Invigoration Oz Kit",
+        "flavor-text": "It's like a breath of fresh air!",
+        "game": "borderlands-tps",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Land Among the Stars Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e923142b815fdd0dd517_Invigoration%20Oz%20Kit%20(TPS).webp"
+    },
+    {
+        "name": "Moonlight Saga",
+        "flavor-text": "You give me everything just by breathing.",
+        "game": "borderlands-tps",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tiny Destroyer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e96ec9a2047edb1d1060_Moonlight%20Saga%20(TPS).webp"
+    },
+    {
+        "name": "Oxidizer",
+        "flavor-text": "Kill it with fire.",
+        "game": "borderlands-tps",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Rooster Booster"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9b0be17b6544a6a823c_Oxidizer%20(TPS).webp"
+    },
+    {
+        "name": "Perdy Lights",
+        "flavor-text": "Look at all the perdy lights!",
+        "game": "borderlands-tps",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9b871f8213468e69477_Perdy%20Lights%20(TPS).webp"
+    },
+    {
+        "name": "Springs' Oz Kit",
+        "flavor-text": "",
+        "game": "borderlands-tps",
+        "type": "Offense",
+        "rarity": "Common",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Lost Legion Invasion Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea475f940d47fbcab1cc_Springs%27%20Oz%20Kit%20(TPS).webp"
+    },
+    {
+        "name": "Support Relay",
+        "flavor-text": "Multi-cored life support.",
+        "game": "borderlands-tps",
+        "type": "Offense",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "To Arms! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea5689a029c41fe72395_Support%20Relay%20(TPS).webp"
+    },
+    {
+        "name": "Systems Purge",
+        "flavor-text": "Emergency systems purge in 3, 2, 1...",
+        "game": "borderlands-tps",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Eradicate! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea5ca5f2e8bea52864be_Systems%20Purge%20(TPS).webp"
+    }
+]

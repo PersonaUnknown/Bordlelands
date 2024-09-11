@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Amalgam",
+        "flavor-text": "The infinite is possible. The only limitation is yourself.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Monstrous Shroom Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a2d05424a1f2b276c80_Amalgam%20(WL).webp"
+    },
+    {
+        "name": "Armor That Sucks",
+        "flavor-text": "Wow, you did it.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Rare",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hero of Brighthoof Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a458dae7c6d5a73d5ce_Armor%20That%20Sucks%20(WL).webp"
+    },
+    {
+        "name": "Blank Slate",
+        "flavor-text": "Corrupted || Krangled. Requires at least 1500 clicks.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a9dfd1a9e1d8aaa66e0_Blank%20Slate%20(WL).webp"
+    },
+    {
+        "name": "Brutal Stampede",
+        "flavor-text": "Keep your friends close.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Shattering Spectreglass",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Redmourne"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62af08d28e779fd89c730_Brutal%20Stampede%20(WL).webp"
+    },
+    {
+        "name": "Calamity",
+        "flavor-text": "Silenced by the solar winds.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Oculus Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b0880d4d83a4008f5b4_Calamity%20(WL).webp"
+    },
+    {
+        "name": "Cape of Tides",
+        "flavor-text": "When it rains, it floods.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Coiled Captors",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "\"Chums\" the Old God"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b167a39e55de0bfab42_Cape%20of%20Tides%20(WL).webp"
+    },
+    {
+        "name": "Claw",
+        "flavor-text": "One fish, two fish; red dragon, blue dragon.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Obsidian Wyvern Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b80378ee5a6044b61d9_Claw%20(WL).webp"
+    },
+    {
+        "name": "Corrupted Platemail",
+        "flavor-text": "There must always be a Leech King.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Dragon Lord"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bb204fd50fca0e22718_Corrupted%20Platemail%20(WL).webp"
+    },
+    {
+        "name": "Deathless Mantle",
+        "flavor-text": "Not today.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Death Rattler Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bf3eae84ff6951ba69e_Deathless%20Mantle%20(WL).webp"
+    },
+    {
+        "name": "Diamond Gauntlets",
+        "flavor-text": "Elemental Damage only goes up.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c18d30f697e33dcfa34_Diamond%20Gauntlets%20(WL).webp"
+    },
+    {
+        "name": "Head of the Snake",
+        "flavor-text": "Cut one head off and I will take its place.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Salissa"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d7687a4946a08ed6cb4_Head%20of%20the%20Snake%20(WL).webp"
+    },
+    {
+        "name": "Miasmic Mail",
+        "flavor-text": "Illimitable dominion over all.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Glutton's Gamble",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62fbe8eb3ea391a55982b_Miasmic%20Mail%20(WL).webp"
+    },
+    {
+        "name": "Mosquito's Mantle",
+        "flavor-text": "One little bit won't hurt.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Shattering Spectreglass",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62fd905424a1f2b2e4048_Mosquito%27s%20Mantle%20(WL).webp"
+    },
+    {
+        "name": "Pandemecium",
+        "flavor-text": "Rid this pestilence from within.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Parasite"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bf3eae84ff6951ba69e_Deathless%20Mantle%20(WL).webp"
+    },
+    {
+        "name": "Selective Amnesia",
+        "flavor-text": "The fastest way to get away from last year.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Chaos Item",
+        "drop-sources": [
+            "Fatebreaker Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632d1bdaaaaabd6827f47_Selective%20Amnesia%20(WL).webp"
+    },
+    {
+        "name": "Smart Armor",
+        "flavor-text": "Task critically failed successfully.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Vorcanar",
+            "Raging Wyborg"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633565e6ba2ae820aa1a2_Smart%20Armor%20(WL).webp"
+    },
+    {
+        "name": "Steel Gauntlets",
+        "flavor-text": "Protection for any size hands.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Epic",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Fatebreaker Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633ceaeb939b770459ec6_Steel%20Gauntlets%20(WL).webp"
+    },
+    {
+        "name": "Tyrant's Truth",
+        "flavor-text": "It's lonely at the top.",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Molten Mirrors",
+        "elements": [],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Fyodor the Soul Warden"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bf3eae84ff6951ba69e_Deathless%20Mantle%20(WL).webp"
+    },
+    {
+        "name": "Warped Paradigm",
+        "flavor-text": "Can you still tell apart reality from fiction?",
+        "game": "wonderlands",
+        "type": "",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Kastor The Normal-Sized Skeleton"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f634c611fb7b6981aa289f_Warped%20Paradigm%20(WL).webp"
+    }
+]

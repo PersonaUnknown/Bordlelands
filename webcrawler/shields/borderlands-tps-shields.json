@@ -1,0 +1,431 @@
+[
+    {
+        "name": "Asteroid Belt",
+        "flavor-text": "Straight from the bug homeworld.",
+        "game": "borderlands-tps",
+        "type": "Spike",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Hunter Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe84c9645f190653ea53_Asteroid%20Belt%20(TPS).webp"
+    },
+    {
+        "name": "Avalanche",
+        "flavor-text": "I'll bury you.",
+        "game": "borderlands-tps",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Mercenary Day Festivities",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe8af5cd55029b66c2b7_Avalanche%20(TPS).webp"
+    },
+    {
+        "name": "Bigg Thumppr",
+        "flavor-text": "That's going leave mark.",
+        "game": "borderlands-tps",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fecb26243b1d5983a42c_Bigg%20Thumppr%20(TPS).webp"
+    },
+    {
+        "name": "Black Hole",
+        "flavor-text": "You are the center of the universe.",
+        "game": "borderlands-tps",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Invincible Sentinel"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fedd87e7666ef85a8e58_Black%20Hole%20(TPS).webp"
+    },
+    {
+        "name": "Cracked Sash",
+        "flavor-text": "",
+        "game": "borderlands-tps",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff3fb2064353a5cf3981_Cracked%20Sash%20(TPS).webp"
+    },
+    {
+        "name": "Deadly Bloom",
+        "flavor-text": "What do you mean, \"theoretically\"?",
+        "game": "borderlands-tps",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff5bb2064353a5cf5c7a_Deadly%20Bloom%20(TPS).webp"
+    },
+    {
+        "name": "Fabled Tortoise",
+        "flavor-text": "Win by a hare.",
+        "game": "borderlands-tps",
+        "type": "Turtle",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffaa7591e40f7e5891d1_Fabled%20Tortoise%20(TPS).webp"
+    },
+    {
+        "name": "Flyin' Maiden",
+        "flavor-text": "I laugh as I'm watching you bleed.",
+        "game": "borderlands-tps",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental",
+            "Corrosive"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffc8e05c93849a1bc9c2_Flyin%27%20Maiden%20(TPS).webp"
+    },
+    {
+        "name": "Haymaker",
+        "flavor-text": "Return to sender.",
+        "game": "borderlands-tps",
+        "type": "Adaptive",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Slaughter Pit",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "DAHL Combat Training: Round-5 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6000efb80f1bd9da285d3_Haymaker%20(TPS).webp"
+    },
+    {
+        "name": "Kala",
+        "flavor-text": "Charge the lightning shield!",
+        "game": "borderlands-tps",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6006ee8917297068de6a8_Kala%20(TPS).webp"
+    },
+    {
+        "name": "MORQ",
+        "flavor-text": "A face in the crowd. I fit right in.",
+        "game": "borderlands-tps",
+        "type": "Adaptive",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Motherlessboard - Hidden Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6009f23d55b3b77c27599_MORQ%20(TPS).webp"
+    },
+    {
+        "name": "Naught",
+        "flavor-text": "5+7+1=Zero",
+        "game": "borderlands-tps",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Tales Season Pass",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600f6ab1c6a5378f4a729_Naught%20(TPS).webp"
+    },
+    {
+        "name": "Prismatic Bulwark",
+        "flavor-text": "Full spectrum.",
+        "game": "borderlands-tps",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Colonel T. Zarpedon",
+            "The Invincible Sentinel"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6013250f50f66f7ddf1a9_Prismatic%20Bulwark%20(TPS).webp"
+    },
+    {
+        "name": "Rapid Release",
+        "flavor-text": "Releases rapidly.",
+        "game": "borderlands-tps",
+        "type": "Nova",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Nova? No Problem! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601409ceaf03cf60307fd_Rapid%20Release%20(TPS).webp"
+    },
+    {
+        "name": "Reogenator",
+        "flavor-text": "Are you alright, Isaac?",
+        "game": "borderlands-tps",
+        "type": "Adaptive",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6017e522eea73c9c811a2_Reogenator%20(TPS).webp"
+    },
+    {
+        "name": "Rerouter",
+        "flavor-text": "Energy. Power. I'm addicted to it.",
+        "game": "borderlands-tps",
+        "type": "Amplify",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "5H4D0W-TP"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601834006834d4d2e8794_Rerouter%20(TPS).webp"
+    },
+    {
+        "name": "Shield of Ages",
+        "flavor-text": "A shield for the ages.",
+        "game": "borderlands-tps",
+        "type": "Turtle",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Temple of Boom Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601ce5faca58ffad953eb_Shield%20of%20Ages%20(TPS).webp"
+    },
+    {
+        "name": "Slammer",
+        "flavor-text": "You look like you could use a drink. How about a pick me up?",
+        "game": "borderlands-tps",
+        "type": "Booster",
+        "rarity": "Rare",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Home Sweet Home Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601e1c2124dbce996a24c_Slammer%20(TPS).webp"
+    },
+    {
+        "name": "Sunshine",
+        "flavor-text": "Every time I shut my eyes\u2026",
+        "game": "borderlands-tps",
+        "type": "Nova",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "To the moon Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6022774836a398576d158_Sunshine%20(TPS).webp"
+    },
+    {
+        "name": "Supernova",
+        "flavor-text": "More energetic than your average nova.",
+        "game": "borderlands-tps",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Bruce"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60233d351decb8d56f2a8_Supernova%20(TPS).webp"
+    },
+    {
+        "name": "The Cradle",
+        "flavor-text": "...to the grave.",
+        "game": "borderlands-tps",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6024f50f50f66f7df2ae0_The%20Cradle%20(TPS).webp"
+    },
+    {
+        "name": "The Sham",
+        "flavor-text": "Wow, I CAN do this all day.",
+        "game": "borderlands-tps",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60263b2064353a5d338ef_The%20Sham%20(TPS).webp"
+    },
+    {
+        "name": "The Shooting Star",
+        "flavor-text": "Don't look up.",
+        "game": "borderlands-tps",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Powersuit Noob"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6029b4006834d4d2fefe2_The%20Shooting%20Star%20(TPS).webp"
+    },
+    {
+        "name": "Whisky Tango Foxtrot",
+        "flavor-text": "Situation normal. ...all foxtroted up.",
+        "game": "borderlands-tps",
+        "type": "Booster",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60311fb80f1bd9da5f73b_Whisky%20Tango%20Foxtrot%20(TPS).webp"
+    }
+]

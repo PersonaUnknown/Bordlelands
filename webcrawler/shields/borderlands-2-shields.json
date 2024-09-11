@@ -1,0 +1,553 @@
+[
+    {
+        "name": "1340 Shield",
+        "flavor-text": "If you can't beat 'em, join 'em.",
+        "game": "borderlands-2",
+        "type": "Absorb",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Out of Body Experience Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe3b9ceaf03cf6ffdc2c_1340%20Shield%20(BL2).webp"
+    },
+    {
+        "name": "Aequitas",
+        "flavor-text": "The second is better.",
+        "game": "borderlands-2",
+        "type": "Absorb",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Clan War: Wakey Wakey Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe56522eea73c9c21b05_Aequitas%20(BL2).webp"
+    },
+    {
+        "name": "Antagonist",
+        "flavor-text": "I'm rubber, you're glue.",
+        "game": "borderlands-2",
+        "type": "Reflect",
+        "rarity": "Seraph",
+        "manufacturer": "Maliwan",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Refuge Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe77e7f43df18759552e_Antagonist%20(BL2).webp"
+    },
+    {
+        "name": "Big Boom Blaster",
+        "flavor-text": "For all your big boom blasting needs!",
+        "game": "borderlands-2",
+        "type": "Booster",
+        "rarity": "Seraph",
+        "manufacturer": "Torgue",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Pyro Pete",
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5febd1ec4b6735f45882f_Big%20Boom%20Blaster%20(BL2).webp"
+    },
+    {
+        "name": "Black Hole",
+        "flavor-text": "You are the center of the universe.",
+        "game": "borderlands-2",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Foreman Jasper"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fed19ceaf03cf60074dd_Black%20Hole%20(BL2).webp"
+    },
+    {
+        "name": "Blockade",
+        "flavor-text": "Am I living or am I dying?",
+        "game": "borderlands-2",
+        "type": "Adaptive",
+        "rarity": "Seraph",
+        "manufacturer": "Anshin",
+        "origin": "Assault on Dragon Keep",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ancient Dragons"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff15323df832a2c746ac_Blockade%20(BL2).webp"
+    },
+    {
+        "name": "Cracked Sash",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff3a0c42dde192391f7d_Cracked%20Sash%20(BL2).webp"
+    },
+    {
+        "name": "Deadly Bloom",
+        "flavor-text": "What do you mean\u2026 theoretically?",
+        "game": "borderlands-2",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Overlooked: This is Only a Test Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff54f74ed54add49d23d_Deadly%20Bloom%20(BL2).webp"
+    },
+    {
+        "name": "Easy Mode",
+        "flavor-text": "Keep the pressure up without getting bodied.",
+        "game": "borderlands-2",
+        "type": "Nova",
+        "rarity": "Effervescent",
+        "manufacturer": "Maliwan",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Non-Elemental",
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Haderax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff75522eea73c9c3aef7_Easy%20Mode%20(BL2).webp"
+    },
+    {
+        "name": "Evolution",
+        "flavor-text": "Strength through adversity.",
+        "game": "borderlands-2",
+        "type": "Adaptive",
+        "rarity": "Seraph",
+        "manufacturer": "Anshin",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Hyperius",
+            "Master Gee",
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff9de7f43df1875ab902_Evolution%20(BL2).webp"
+    },
+    {
+        "name": "Fabled Tortoise",
+        "flavor-text": "Win by a hare.",
+        "game": "borderlands-2",
+        "type": "Turtle",
+        "rarity": "Legendary",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Blue"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffa36ca2afd0ee94706e_Fabled%20Tortoise%20(BL2).webp"
+    },
+    {
+        "name": "Flame of the Firehawk",
+        "flavor-text": "From the ashes she will rise.",
+        "game": "borderlands-2",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Cult Following: The Enkindling Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffc28b6a185c3ab0529c_Flame%20of%20the%20Firehawk%20(BL2).webp"
+    },
+    {
+        "name": "Hide of Terramorphous",
+        "flavor-text": "His hide turned the mightiest tame\u2026",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Terramorphous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6001950f50f66f7dcc8e2_Hide%20of%20Terramorphous%20(BL2).webp"
+    },
+    {
+        "name": "Hoplite",
+        "flavor-text": "Alone a mere soldier, together an unstoppable phalanx.",
+        "game": "borderlands-2",
+        "type": "Turtle",
+        "rarity": "Seraph",
+        "manufacturer": "Pangolin",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Non-Elemental",
+            "Explosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Pyro Pete",
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffa36ca2afd0ee94706e_Fabled%20Tortoise%20(BL2).webp"
+    },
+    {
+        "name": "Impaler",
+        "flavor-text": "Vlad would be proud.",
+        "game": "borderlands-2",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior",
+            "Handsome Sorcerer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6002c7bbaafe4afd958a7_Impaler%20(BL2).webp"
+    },
+    {
+        "name": "Love Thumper",
+        "flavor-text": "If thumping you is wrong, I don't want to be right.",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Epic",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Best Mother's Day Ever Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60093323df832a2c8dd42_Love%20Thumper%20(BL2).webp"
+    },
+    {
+        "name": "Manly Man Shield",
+        "flavor-text": "What a fabulous window treatment. Curse of the Elementals!",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Pirate's Booty",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Message in a Bottle: Wurmwater Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600c8e05c93849a1cc23c_Manly%20Man%20Shield%20(BL2).webp"
+    },
+    {
+        "name": "Neogenator",
+        "flavor-text": "For an impenetrable shield, stand inside yourself.",
+        "game": "borderlands-2",
+        "type": "Adaptive",
+        "rarity": "Legendary",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Spycho",
+            "Sully the Blacksmith"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600fc50f50f66f7ddb54a_Neogenator%20(BL2).webp"
+    },
+    {
+        "name": "Order",
+        "flavor-text": "Chung-gunk!",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "BFFs Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6011770d1c945d80897ed_Order%20(BL2).webp"
+    },
+    {
+        "name": "Pot O' Gold",
+        "flavor-text": "Blarney, I say! 'Tis blarney!",
+        "game": "borderlands-2",
+        "type": "Booster",
+        "rarity": "Rare",
+        "manufacturer": "Bandit",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bagman"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6012a726ca70c22659b7c_Pot%20O%27%20Gold%20(BL2).webp"
+    },
+    {
+        "name": "Pun-chee",
+        "flavor-text": "You wanna go, asshole?",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Seraph",
+        "manufacturer": "Bandit",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6013a50f50f66f7ddfbab_Pun-chee%20(BL2).webp"
+    },
+    {
+        "name": "Retainer",
+        "flavor-text": "Retains your guts inside your body, where they belong.",
+        "game": "borderlands-2",
+        "type": "Roid",
+        "rarity": "Effervescent",
+        "manufacturer": "Hyperion",
+        "origin": "Fight for Sanctuary",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sand Worm",
+            "Sand Worm Queen"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6018926243b1d5986e71b_Retainer%20(BL2).webp"
+    },
+    {
+        "name": "Sponge",
+        "flavor-text": "Highly absorbent!",
+        "game": "borderlands-2",
+        "type": "Absorb",
+        "rarity": "Seraph",
+        "manufacturer": "Vladof",
+        "origin": "Campaign of Carnage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6020e17f515e82d2678aa_Sponge%20(BL2).webp"
+    },
+    {
+        "name": "The Bee",
+        "flavor-text": "Float like a butterfly\u2026",
+        "game": "borderlands-2",
+        "type": "Amplify",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Hunter Hellquist",
+            "Treant",
+            "Master Gee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6023f7591e40f7e5b6c6f_The%20Bee%20(BL2).webp"
+    },
+    {
+        "name": "The Cradle",
+        "flavor-text": "\u2026 to the grave.",
+        "game": "borderlands-2",
+        "type": "Standard",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Henry"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60246bdfc0ad4c87f1a3a_The%20Cradle%20(BL2).webp"
+    },
+    {
+        "name": "The Rough Rider",
+        "flavor-text": "It takes more than that to kill a Bull Moose.",
+        "game": "borderlands-2",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Big Game Hunt",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Bulwark"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60255e05c93849a1e6f9a_The%20Rough%20Rider%20(BL2).webp"
+    },
+    {
+        "name": "The Sham",
+        "flavor-text": "Wow, I CAN do this all day.",
+        "game": "borderlands-2",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "BNK-3R"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6025b3251a37c299d73e0_The%20Sham%20(BL2).webp"
+    },
+    {
+        "name": "The Transformer",
+        "flavor-text": "There's more than your eye can see.",
+        "game": "borderlands-2",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Pimon Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602a2e89172970690d83f_The%20Transformer%20(BL2).webp"
+    },
+    {
+        "name": "Whisky Tango Foxtrot",
+        "flavor-text": "Situation normal\u2026 ...all foxtroted up.",
+        "game": "borderlands-2",
+        "type": "Booster",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chubby Spiderant Rare Spawn",
+            "Chubby Skag Rare Spawn",
+            "Chubby Varkid Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6030a8b6a185c3ab41eba_Whisky%20Tango%20Foxtrot%20(BL2).webp"
+    }
+]

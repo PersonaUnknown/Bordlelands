@@ -1,0 +1,1845 @@
+[
+    {
+        "name": "%Cu+ie^_^ki||er",
+        "flavor-text": "KILLKILLKILLKILLKILL",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Glitch",
+        "manufacturer": "Scav",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Sum of Some Fears Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71511f9709d68d9e2ecda_%25Cu%2Bie%5E_%5Ekiller%20(SMG-TPS).webp"
+    },
+    {
+        "name": "/He4rtf;ull Spl0Dge..r",
+        "flavor-text": "\\#Splodger'''s ^ere -!",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Glitch",
+        "manufacturer": "DAHL",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "0V3RL00K - Hidden Chest Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1eb1b8dd608df0ee98db6_He4rtf%3Bull%20Spl0Dge..r%20(Laser-TPS).webp"
+    },
+    {
+        "name": "88 Fragnum",
+        "flavor-text": "It'll blow your head clean off.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715e08f9fbc41c7d49ee7_88%20Fragnum%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Absolute Zero",
+        "flavor-text": "In this universe, there is only one absolute.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717bcf9b860ddbc361230_Absolute%20Zero%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Bad Touch",
+        "flavor-text": "When I'm good, I'm very good...",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Datamined",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71887e21403c878f89606_Bad%20Touch%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Badaboom",
+        "flavor-text": "Multi-kill.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718975cacc74e55078a00_Badaboom%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Berrigan",
+        "flavor-text": "Your gun is good, but mine is better!",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719a9f9b860ddbc389d77_Berrigan%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Black Snake",
+        "flavor-text": "Such is bite.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Red Belly"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719faf298a8e941333005_Black%20Snake%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Blowfly",
+        "flavor-text": "These flies!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Eghood"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6508fb35ea7a3bddad_Blowfly%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Boganella",
+        "flavor-text": "Rack of ya dog!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Another Pickle Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a7d8af47250f2c0ab39_Boganella%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Boomacorn",
+        "flavor-text": "Always, I want to be with you.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71acbba0cf6e92650c109_Boomacorn%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Boss Nova",
+        "flavor-text": "BWAAAA BWAAAAA BWUUUMMMM!",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Tales Season Pass",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ae25cacc74e550a2a2b_Boss%20Nova%20(AR-TPS).webp"
+    },
+    {
+        "name": "Boxxy Gunn",
+        "flavor-text": "It's totally a flamethrower.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Pondor",
+            "Eternal Powersuit",
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aea2b8fd2588937ddca_Boxxy%20Gunn%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Bullpup",
+        "flavor-text": "One bad pup!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "BL1 Loyalty Reward",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b3d81eec75c5bbb1a8a_Bullpup%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Cat o' Nine Tails",
+        "flavor-text": "The cat's out of the bag.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ceb10b0ae6825c97bae_Cat%20o%27%20Nine%20Tails%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Cheat Code",
+        "flavor-text": "Play unfair.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "System Shutdown Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d49f9b860ddbc3d13a6_Cheat%20Code%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Ch\u00e8re-amie",
+        "flavor-text": "Je suis enchant\u00e9. O\u00f9 est la biblith\u00e8que?",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Datamined",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1ea128421df3c8f19db74_Ch%C3%A8re-amie%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Company Man",
+        "flavor-text": "Rhys will remember this.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Tales Season Pass",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71de50db6b32bb784989d_Company%20Man%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Creamer",
+        "flavor-text": "Non-dairy.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Datamined",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eb8ae0681bd25da5ef0_Creamer%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Cry Baby",
+        "flavor-text": "I-i-i-saac...",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Non-Elemental",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Pondor",
+            "Eternal Powersuit",
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f52686033a2c1a6276a_Cry%20Baby%20(AR-TPS).webp"
+    },
+    {
+        "name": "Cryophobia",
+        "flavor-text": "No argument here.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Bosun"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f5bc75c883e4641b437_Cryophobia%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Cyber Eagle",
+        "flavor-text": "Feel like I'm gonna break this damn thing!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Secret Chamber Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f6bf298a8e9413ab811_Cyber%20Eagle%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "E-GUN",
+        "flavor-text": "Kills ghosts, apparently.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Sub-Level 13: Part 2 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a9b92352c8a0ca83c2_E-GUN%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Excalibastard",
+        "flavor-text": "Thou art most badass.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Trophy",
+        "drop-sources": [
+            "Sword in the Stone Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72239c75c883e4645e51d_Excalibastard%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Fast Talker",
+        "flavor-text": "Elephant? What elephant?",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Tales Season Pass",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7225ae1b180d408e023aa_Fast%20Talker%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Fatale",
+        "flavor-text": "Stone-cold killer.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Drongo Bones"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72299dc0808fb5aebc793_Fatale%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Fibber",
+        "flavor-text": "Would I lie to you?",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722c40d8079b2cb950b82_Fibber%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Firestarta",
+        "flavor-text": "Start some trouble.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Torgue-o! Torgue-o! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7231114512f1708dceef8_Firestarta%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Flakker",
+        "flavor-text": "Flak the world.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Even-More-Disgusting Tork"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723a3057694fe46d3ac61_Flakker%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Flayer",
+        "flavor-text": "OMG, what's it doing to Sanchez?!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Viruses",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723bf08c55085fc0db5c8_Flayer%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Fremington's Edge",
+        "flavor-text": "I can see my house from here.",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Don't Shoot the Messenger Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7240610b0ae6825d336ea_Fremington%27s%20Edge%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Fridgia",
+        "flavor-text": "Icy moon of Mungo.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "In Perfect Hibernation Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724179e230d2333555d93_Fridgia%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Frostfire",
+        "flavor-text": "It had to perish twice.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Bestest Story Ever Told Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72433ca0eeca05f3f7672_Frostfire%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Fusillade",
+        "flavor-text": "Dakka dakka dakka!",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Clapdogs",
+            "Insecurities",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724c7c3665a5933b1ac36_Fusillade%20(AR-TPS).webp"
+    },
+    {
+        "name": "Globber",
+        "flavor-text": "Lob those globs!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Eradicate! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725113e32e6ea6006add8_Globber%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Good Touch",
+        "flavor-text": "...but when I'm bad, I'm better.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Datamined",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725f46d2f5d27af6b6a60_Good%20Touch%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Gwen's Other Head",
+        "flavor-text": "Gwen is kind of a strange girl.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Discoverable",
+        "drop-sources": [
+            "Box in Titan Industrial Facility Location"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726d1e1b180d408e6ff67_Gwen%27s%20Other%20Head%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Hail",
+        "flavor-text": "What plaything can you offer me today?",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Iwajira"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726eeb22399502ade526a_Hail%20(AR-TPS).webp"
+    },
+    {
+        "name": "Hammer Buster II",
+        "flavor-text": "My dad, scientist, you know the drill.",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72709ee4ef2357f3154c5_Hammer%20Buster%20II%20(AR-TPS).webp"
+    },
+    {
+        "name": "Hard Reboot",
+        "flavor-text": "Have you tried turning it off and on again?",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Chip's Data Mining Adventure Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72726b92352c8a0d234f1_Hard%20Reboot%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Heart Breaker",
+        "flavor-text": "I don't want to set the world on fire...",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Datamined",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727757a26cc97df150cb1_Heart%20Breaker%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "HellFire",
+        "flavor-text": "We don't need no fire...",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727a46fc8e2ba005a66da_HellFire%20(SMG-TPS).webp"
+    },
+    {
+        "name": "IVF",
+        "flavor-text": "OMG! TWINS!",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Bosun"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7289414512f1708e52692_IVF%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Ice Scream",
+        "flavor-text": "Winter is numbing.",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Bunch of Ice Holes Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728b0b92cab0004dd7455_Ice%20Scream%20(AR-TPS).webp"
+    },
+    {
+        "name": "Invader",
+        "flavor-text": "The Executioner has arrived.",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72935ca0eeca05f46b02b_Invader%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Jack-o'-Cannon",
+        "flavor-text": "Your body lies beaten, battered and broken.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72957d35ef4a00dbd80d2_Jack-o%27-Cannon%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Kaneda's Laser",
+        "flavor-text": "If somebody's gonna kill him, it should be us!",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729d81223b8d858133d84_Kaneda%27s%20Laser%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "KerBoom",
+        "flavor-text": "Torgue got smarter BOOM!",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Boomer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a16b22399502ae274d9_KerBoom%20(AR-TPS).webp"
+    },
+    {
+        "name": "Lady Fist",
+        "flavor-text": "Love is a Lady Finger. True love is a Lady Fist.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Datamined",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041d76a0200a3585d76130_Lady%20Fist%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Laser Disker",
+        "flavor-text": "Shazbot!",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "5H4D0W-TP",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b5d4988ed71fcecd5f7_Laser%20Disker%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Lazlo's Freezeasy",
+        "flavor-text": "Freeze them to save them!",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Lazlo"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bd2c2c0d921b2480f7f_Lazlo%27s%20Freezeasy%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Logan's Gun",
+        "flavor-text": "Gun, Gunner!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c799868e57c0c1773f4_Logan%27s%20Gun%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Longest Yard",
+        "flavor-text": "Impressive.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Teh Earworm",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c94d5a56b6a9b8b0097_Longest%20Yard%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Longnail",
+        "flavor-text": "Nailed it!",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Invincible Sentinel"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c9b352bbfeec2fd92b1_Longnail%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Luck Cannon",
+        "flavor-text": "Better lucky than good!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Adbug",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cc235a61133b36f35ac_Luck%20Cannon%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "MINAC's Atonement",
+        "flavor-text": "I'm not always that dangerously homicidal\u2026",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Rose Tinting Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ce5734b1c566169de2e_MINAC%27s%20Atonement%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Maggie",
+        "flavor-text": "Monty's wife don't take no guff.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4902774a2b324d93c3_Maggie%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Magma",
+        "flavor-text": "Liquid hot.",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4f06d0803d9a422152_Magma%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Major Tom",
+        "flavor-text": "Destroy the martian spiders!",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d638427d6b4bb09a674_Major%20Tom%20(AR-TPS).webp"
+    },
+    {
+        "name": "Marek's Mouth",
+        "flavor-text": "Ask and ask and ask and ask and ye shall receive.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Rabid Adams"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/653792b861118c84d47ce215_Marek%27s%20Mouth%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Meat Grinder",
+        "flavor-text": "The lead rain falls!",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Meat Head"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d93d5a56b6a9b8c4eb3_Meat%20Grinder%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Min Min Lighter",
+        "flavor-text": "Approached but never identified.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dc34943271efb709cf8_Min%20Min%20Lighter%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Mining Laser",
+        "flavor-text": "PROTOTYPE! Authorized personnel only.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Infinite Loop Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72de69aeec53f0fb22349_Mining%20Laser%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Mongol",
+        "flavor-text": "The Horde will always return!",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e1fe91c4e009779b96f_Mongol%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Moonface",
+        "flavor-text": "What a BOOMING smile you have.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Red, Then Dead Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e2c264a8d84c77f9623_Moonface%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Moonscaper",
+        "flavor-text": "Get off my moon lawn!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Tales Season Pass",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e3a0c45a779d025ad7d_Moonscaper%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Nukem",
+        "flavor-text": "Name dropper.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Flameknuckle",
+            "Flameknuckle"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1013abac50f9c41460_Nukem%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Octo",
+        "flavor-text": "Octo means 9.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Lab 19 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f34e493c2975163843a_Octo%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Ol' Painful",
+        "flavor-text": "Come on in... Ol' Painful is waiting.",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Mercenary Day Festivities",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5336b6abc64a2263c6_Ol%27%20Painful%20(AR-TPS).webp"
+    },
+    {
+        "name": "Ol' Rosie",
+        "flavor-text": "Every thorn has its rose.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Beginning of the End Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5cd2d4f2c204103c0d_Ol%27%20Rosie%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Omni-Cannon",
+        "flavor-text": "State of the art. Bang bang.",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "The Sponx",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f6f73ce470883c78fe5_Omni-Cannon%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Party Line",
+        "flavor-text": "Excellent!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Pondor",
+            "Eternal Powersuit",
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fc40db25bd3a7239ba0_Party%20Line%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Party Popper",
+        "flavor-text": "Happy birthday to meow.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Scav",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "H4X0rz Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fcb785ffb5d39174665_Party%20Popper%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Pitchfork",
+        "flavor-text": "Mainstream'd!",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73038f449220cd3f2e40b_Pitchfork%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Plunkett",
+        "flavor-text": "Make sure they know the first one wasn't an accident.",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Pondor",
+            "Eternal Powersuit",
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73052e493c2975164eabe_Plunkett%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Probe",
+        "flavor-text": "Go deep enough, who knows what you'll find.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Item",
+        "drop-sources": [
+            "Torgue-o! Torgue-o! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309017ae9c01422387c0_Probe%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Proletarian Revolution",
+        "flavor-text": "Strength in numbers, comrades!",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "B4nD1Ts",
+            "P5YCH0s",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309c8427d6b4bb0d56b3_Proletarian%20Revolution%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Razorback",
+        "flavor-text": "Watch out for the tusks!",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Home Delivery Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7311881787c6385c3bb83_Razorback%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Shooterang",
+        "flavor-text": "You little ripper.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733a1357e03da689c85e6_Shooterang%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Shredifier",
+        "flavor-text": "Speed kills.",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733e7342c812ce8e4dbd5_Shredifier%20(AR-TPS).webp"
+    },
+    {
+        "name": "Skullmasher",
+        "flavor-text": "A real head turner! Turned to mush! Ahahaha!",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Nel"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7343213955bc879bd948d_Skullmasher%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Sledge's Shotty",
+        "flavor-text": "The legend lives.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7345e352bbfeec20704b0_Sledge%27s%20Shotty%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Smasher",
+        "flavor-text": "Seven times the fun.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "BL2 Loyalty Reward",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734919ecbca0ffa54393e_Smasher%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Striker",
+        "flavor-text": "Fandir? Thirteen.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Red Belly"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353913955bc879bedd35_Striker%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "T4s-R",
+        "flavor-text": "I politely request you do not T4s-R me, good sir.",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "The Holodome Onslaught",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Pondor",
+            "Eternal Powersuit",
+            "Digistructed Madness Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73588c112a98b024865fe_T4s-R%20(Pistol-TPS).webp"
+    },
+    {
+        "name": "Tannis' Laser of Enlightenment",
+        "flavor-text": "Burn away the impurities of ignorance.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Temple of Boom Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735a1a51c5cdb6576f944_Tannis%27%20Laser%20of%20Enlightenment%20(Laser-TPS).webp"
+    },
+    {
+        "name": "The Machine",
+        "flavor-text": "We pay you back... with interest!",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736afc112a98b0249ad49_The%20Machine%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "The ZX-1",
+        "flavor-text": "Replay!",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Colonel T. Zarpedon",
+            "The Sentinel"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736f49aeec53f0fbd5681_The%20ZX-1%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Thingy",
+        "flavor-text": "Somebody ain't what they appear to be.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Iwajira"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736fc6b11190e5be33ab0_Thingy%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Thunderfire",
+        "flavor-text": "Light 'em up.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Legendary",
+        "manufacturer": "Maliwan",
+        "origin": "Claptastic Voyage",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Self-Loathing & Despair",
+            "EOS"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7373a277c17c372511a37_Thunderfire%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Toby's Bright Spadroon",
+        "flavor-text": "The elegant way to be clumsy and random.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "These are the Bots Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7376c00e8242c956cfeef_Toby%27s%20Bright%20Spadroon%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Too Scoops",
+        "flavor-text": "'Coz one's never enough!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Bunch of Ice Holes Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737820bc2161bf90b6d82_Too%20Scoops%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Torguemada",
+        "flavor-text": "THE HAMMER OF HERETICS! SUBTLE HISTORICAL REFEREEEEEEENCE!",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Torgue-o! Torgue-o! Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73795a370607e78eee1b6_Torguemada%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Torrent",
+        "flavor-text": "Spray it to slay it.",
+        "game": "borderlands-tps",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Meg"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737a153f0d8d7f364de18_Torrent%20(SMG-TPS).webp"
+    },
+    {
+        "name": "Vandergraffen",
+        "flavor-text": "I'm a fan of the flow.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Deadlift"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7386f0c45a779d03291ea_Vandergraffen%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Vibra-Pulse",
+        "flavor-text": "Why not turn me on?",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Home Sweet Home Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738b9c166be1a7802e3b1_Vibra-Pulse%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Viral Marketer",
+        "flavor-text": "Fwd: Fwd: Fwd: Lol check this out guys",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738e60db25bd3a72f562a_Viral%20Marketer%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Volt Thrower",
+        "flavor-text": "Helios, we have a problem.",
+        "game": "borderlands-tps",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "No Such Thing as a Free Launch Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7391826d8e514833efdbc_Volt%20Thrower%20(Launcher-TPS).webp"
+    },
+    {
+        "name": "Wallop",
+        "flavor-text": "Packs one hell of a...",
+        "game": "borderlands-tps",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Jakobs",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Guardian Hunter Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73951b26cb90696e87f87_Wallop%20(AR-TPS).webp"
+    },
+    {
+        "name": "Wet Week",
+        "flavor-text": "Slow as...",
+        "game": "borderlands-tps",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Swagman Rare Spawn",
+            "Swagman"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739a939304b746cc8dedb_Wet%20Week%20(Sniper-TPS).webp"
+    },
+    {
+        "name": "Wombat",
+        "flavor-text": "The bush bulldozer.",
+        "game": "borderlands-tps",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Zapped Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ce4e0d48bd1d481fc5_Wombat%20(Shotgun-TPS).webp"
+    },
+    {
+        "name": "Zappinator",
+        "flavor-text": "Puts the Zap in your cap.",
+        "game": "borderlands-tps",
+        "type": "Laser",
+        "rarity": "Common",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Shock",
+            "Corrosive",
+            "Cryo"
+        ],
+        "drop-type": "Quest Item",
+        "drop-sources": [
+            "Zapped Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ec5be89afe1d50c1b4_Zappinator%20(Laser-TPS).webp"
+    },
+    {
+        "name": "Zim",
+        "flavor-text": "Would you like to know more?",
+        "game": "borderlands-tps",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Scav",
+        "origin": "Base Game",
+        "elements": [
+            "Cryo"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Giant Shuggurath of Ice"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739f9a070b5ef6d75f6f8_Zim%20(Pistol-TPS).webp"
+    }
+]

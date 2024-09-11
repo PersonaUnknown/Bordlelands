@@ -1,0 +1,436 @@
+[
+    {
+        "name": "Commander Planetoid",
+        "flavor-text": "The power is YOURS!",
+        "game": "borderlands-3",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Sheega"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e87bf9724137b78ee2b6_Commander%20Planetoid%20(BL3).webp"
+    },
+    {
+        "name": "Company Man",
+        "flavor-text": "Together we can put a ding in the universe.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "Hemovorous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8823a44b053aa4e5edf_Company%20Man%20(BL3).webp"
+    },
+    {
+        "name": "Cosmic Crater",
+        "flavor-text": "Come on and SLAM!",
+        "game": "borderlands-3",
+        "type": "Slam",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Artemis"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e889366fe5c8cbe8bc7e_Cosmic%20Crater%20(BL3).webp"
+    },
+    {
+        "name": "Deathless",
+        "flavor-text": "What do we say to the God of Death?",
+        "game": "borderlands-3",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Phoenix Legendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e89af9724137b78eff42_Deathless%20(BL3).webp"
+    },
+    {
+        "name": "Deathrattle",
+        "flavor-text": "I always hated you the most.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Dreadnought Drydock Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8a1bca35ec50eea848c_Deathrattle%20(BL3).webp"
+    },
+    {
+        "name": "Electric Banjo",
+        "flavor-text": "We never could have foreseen the success.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Psychobillies Target of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8bcbe17b6544a699c3d_Electric%20Banjo%20(BL3).webp"
+    },
+    {
+        "name": "Grave",
+        "flavor-text": "Pain becomes power.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Graveward"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8ecc9a2047edb1ca113_Grave%20(BL3).webp"
+    },
+    {
+        "name": "Holy Grail",
+        "flavor-text": "Just a really nice cup.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Dreadnought Drydock Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e91375a4071825d69d4b_Holy%20Grail%20(BL3).webp"
+    },
+    {
+        "name": "Launch Pad",
+        "flavor-text": "Pocket rockets.",
+        "game": "borderlands-3",
+        "type": "Slam",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Red Rain"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e931bca35ec50eeb21e6_Launch%20Pad%20(BL3).webp"
+    },
+    {
+        "name": "Loaded Dice",
+        "flavor-text": "Feelin' lucky?",
+        "game": "borderlands-3",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Agonizer 9000, Pain & Terror"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e940a5f2e8bea5272807_Loaded%20Dice%20(BL3).webp"
+    },
+    {
+        "name": "Lunacy",
+        "flavor-text": "Equivalent Exchange",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Empowered Grawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e956882ad7a75c3ad525_Lunacy%20(BL3).webp"
+    },
+    {
+        "name": "Moxxi's Endowment",
+        "flavor-text": "Hey, sugar. I got somethin' for ya.",
+        "game": "borderlands-3",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Tink Train"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e98439f5ae1e378effbc_Moxxi%27s%20Endowment%20(BL3).webp"
+    },
+    {
+        "name": "Mysterious Artifact",
+        "flavor-text": "Entropy? Grey. Careful what you keep.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "Horror at Scryer's Crypt Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e992a5f2e8bea5278818_Mysterious%20Artifact%20(BL3).webp"
+    },
+    {
+        "name": "Otto Idol",
+        "flavor-text": "Every man for himself.",
+        "game": "borderlands-3",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Rachel the Anointed"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9a19f516e066aed120c_Otto%20Idol%20(BL3).webp"
+    },
+    {
+        "name": "Phoenix Tears",
+        "flavor-text": "Rise from the ashes.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Phoenix Legendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9bf4133b5962db1790d_Phoenix%20Tears%20(BL3).webp"
+    },
+    {
+        "name": "Pull Out Method",
+        "flavor-text": "Doesn't work how you think it does...",
+        "game": "borderlands-3",
+        "type": "Slam",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "DJ Deadsk4g Target of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9d55a7c8ff69c9510d1_Pull%20Out%20Method%20(BL3).webp"
+    },
+    {
+        "name": "Road Warrior",
+        "flavor-text": "Bonesaw is READY!",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Blood Drive Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9e3be566b5a0138b18c_Road%20Warrior%20(BL3).webp"
+    },
+    {
+        "name": "Rocket Boots",
+        "flavor-text": "Not that kind.",
+        "game": "borderlands-3",
+        "type": "Slide",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Blue Fire"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9eb87a8d9a399bc6149_Rocket%20Boots%20(BL3).webp"
+    },
+    {
+        "name": "Safegaurd",
+        "flavor-text": "My own little bubble.",
+        "game": "borderlands-3",
+        "type": "Slam",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Big Donny & The Big-D"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e9f908cf3526fd0589e3_Safegaurd%20(BL3).webp"
+    },
+    {
+        "name": "Shlooter",
+        "flavor-text": "Luck has nothing to do with it.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Welcome to Pandora - Vault Card",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea24bcb66ddde63acc97_Shlooter%20(BL3).webp"
+    },
+    {
+        "name": "Splatter Gun",
+        "flavor-text": "This is my BOOMSTICK!",
+        "game": "borderlands-3",
+        "type": "Slide",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Road Dog"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea40d1c0205e9c9463a5_Splatter%20Gun%20(BL3).webp"
+    },
+    {
+        "name": "Static Charge",
+        "flavor-text": "Shock me like an electric eel.",
+        "game": "borderlands-3",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Artemis"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea4f5f940d47fbcaba07_Static%20Charge%20(BL3).webp"
+    },
+    {
+        "name": "The Pearl of Ineffable Knowledge",
+        "flavor-text": "Knowing is half the battle.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "The Call of Gythian Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea92bfb0eee685fb6b4d_The%20Pearl%20of%20Ineffable%20Knowledge%20(BL3).webp"
+    },
+    {
+        "name": "Toboggan",
+        "flavor-text": "That's gonna leave a mark.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Plunderdome Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eaad5a7c8ff69c95eba6_Toboggan%20(BL3).webp"
+    },
+    {
+        "name": "Unleash the Dragon",
+        "flavor-text": "En fuego!",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "El Dragon Jr."
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eabc5a7c8ff69c95fb85_Unleash%20the%20Dragon%20(BL3).webp"
+    },
+    {
+        "name": "Vault Hunter's Relic",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Unobtainable",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eac975a4071825d880c1_Vault%20Hunter%27s%20Relic%20(BL3).webp"
+    },
+    {
+        "name": "Vendetta",
+        "flavor-text": "Give as good as you get.",
+        "game": "borderlands-3",
+        "type": "Unique",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward (Unfarmable)",
+        "drop-sources": [
+            "The Name of the Law Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ead158fe75c6663472e1_Vendetta%20(BL3).webp"
+    },
+    {
+        "name": "Victory Rush",
+        "flavor-text": "Another one.",
+        "game": "borderlands-3",
+        "type": "Universal",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Azalea"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ead721d0652d092acdce_Victory%20Rush%20(BL3).webp"
+    },
+    {
+        "name": "White Elephant",
+        "flavor-text": "It's a SURPRISE!",
+        "game": "borderlands-3",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Agonizer 9000, Pain & Terror"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eae689a029c41fe79fd1_White%20Elephant%20(BL3).webp"
+    }
+]

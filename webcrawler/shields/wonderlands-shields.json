@@ -1,0 +1,479 @@
+[
+    {
+        "name": "Afterburner",
+        "flavor-text": "Going faster miles an hour.",
+        "game": "wonderlands",
+        "type": "Nova",
+        "rarity": "Legendary",
+        "manufacturer": "Pangoblin",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe5daf3a6f9f118bdc67_Afterburner%20(WL).webp"
+    },
+    {
+        "name": "Ancient Deity",
+        "flavor-text": "Hear my words, that I might teach you.",
+        "game": "wonderlands",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Shara, Dust-Begotten Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe71c9645f190653d78a_Ancient%20Deity%20(WL).webp"
+    },
+    {
+        "name": "Bad Egg",
+        "flavor-text": "The Skux life chose us.",
+        "game": "wonderlands",
+        "type": "Roid",
+        "rarity": "Legendary",
+        "manufacturer": "Pangoblin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Magical Splotch Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5feab9370c9a514af4deb_Bad%20Egg%20(WL).webp"
+    },
+    {
+        "name": "Body Rune",
+        "flavor-text": "BONE FLESH TEETH!",
+        "game": "wonderlands",
+        "type": "Rune",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Bunnidhogg, Keeper of the Sands"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff1be18437cc1d6c5c0d_Body%20Rune%20(WL).webp"
+    },
+    {
+        "name": "Bronco Buster",
+        "flavor-text": "After this everything will be mere fuss.",
+        "game": "wonderlands",
+        "type": "Heal",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff21f2005cf7ecfbb355_Bronco%20Buster%20(WL).webp"
+    },
+    {
+        "name": "Counterfeint",
+        "flavor-text": "Get ghosted!",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff2dc9645f190654ed8c_Counterfeint%20(WL).webp"
+    },
+    {
+        "name": "Crying Apple",
+        "flavor-text": "Ogres are like crying apples.",
+        "game": "wonderlands",
+        "type": "Nova",
+        "rarity": "Rare",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Gumbo No. 5 Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff4550f50f66f7dc034d_Crying%20Apple%20(WL).webp"
+    },
+    {
+        "name": "Cursed Wit",
+        "flavor-text": "Kill him! He's not that important anyways.",
+        "game": "wonderlands",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Pangoblin",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Ribula"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff4ec815622a74a48d70_Cursed%20Wit%20(WL).webp"
+    },
+    {
+        "name": "Dusa's Visage",
+        "flavor-text": "Stone cold stunner.",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Of Curse and Claw Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff6f87e7666ef85b2d0c_Dusa%27s%20Visage%20(WL).webp"
+    },
+    {
+        "name": "Full Battery",
+        "flavor-text": "And you're a sky of blue.",
+        "game": "wonderlands",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [
+            "The Son of a Witch Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff21f2005cf7ecfbb355_Bronco%20Buster%20(WL).webp"
+    },
+    {
+        "name": "Hammer and Anvil",
+        "flavor-text": "Give silent warning to all \u2014 wake him not.",
+        "game": "wonderlands",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Bucket Head Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60008f0e113c15082b835_Hammer%20and%20Anvil%20(WL).webp"
+    },
+    {
+        "name": "High Tolerance",
+        "flavor-text": "Juicy, nebulous fruits with a hint of darkness to tie it all together.",
+        "game": "wonderlands",
+        "type": "Resistance",
+        "rarity": "Rare",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Hot Fizz Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60020726ca70c22648800_High%20Tolerance%20(WL).webp"
+    },
+    {
+        "name": "Kinetic Friction",
+        "flavor-text": "For your health!",
+        "game": "wonderlands",
+        "type": "Heal",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff21f2005cf7ecfbb355_Bronco%20Buster%20(WL).webp"
+    },
+    {
+        "name": "Last Gasp",
+        "flavor-text": "Once more unto the breach.",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Zom"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6007ac9645f1906565113_Last%20Gasp%20(WL).webp"
+    },
+    {
+        "name": "Lich's Augur",
+        "flavor-text": "Get lich'd!",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600801de7d0ee1df465a7_Lich%27s%20Augur%20(WL).webp"
+    },
+    {
+        "name": "Maced Wardu",
+        "flavor-text": "He's too dangerous to be left alive.",
+        "game": "wonderlands",
+        "type": "Spike",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Great Wight Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600adf0e113c150838129_Maced%20Wardu%20(WL).webp"
+    },
+    {
+        "name": "Master Rune",
+        "flavor-text": "There is a patience of the wild.",
+        "game": "wonderlands",
+        "type": "Rune",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600cec2124dbce9957484_Master%20Rune%20(WL).webp"
+    },
+    {
+        "name": "Mind Rune",
+        "flavor-text": "If you can think of a better way to get ice, I'd like to hear it.",
+        "game": "wonderlands",
+        "type": "Rune",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600e17cc78915f5b23687_Mind%20Rune%20(WL).webp"
+    },
+    {
+        "name": "Rivote's Shield",
+        "flavor-text": "Until death it is all life.",
+        "game": "wonderlands",
+        "type": "Heal",
+        "rarity": "Rare",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Ron Rivote Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6019e2638a92e74ae9db7_Rivote%27s%20Shield%20(WL).webp"
+    },
+    {
+        "name": "Shamwai",
+        "flavor-text": "Don't let it get wet.",
+        "game": "wonderlands",
+        "type": "Absorb",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "King Q'urub Hullsunder Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601c8f71ee94c4a94d524_Shamwai%20(WL).webp"
+    },
+    {
+        "name": "Spirit Rune",
+        "flavor-text": "My secret lonely world begins.",
+        "game": "wonderlands",
+        "type": "Rune",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60208b74696277b8a0f68_Spirit%20Rune%20(WL).webp"
+    },
+    {
+        "name": "Static Charge",
+        "flavor-text": "I got raspberries on my knees!",
+        "game": "wonderlands",
+        "type": "Turtle",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff21f2005cf7ecfbb355_Bronco%20Buster%20(WL).webp"
+    },
+    {
+        "name": "Sweet Dreams",
+        "flavor-text": "Good things come to those who wait.",
+        "game": "wonderlands",
+        "type": "Amplify",
+        "rarity": "Rare",
+        "manufacturer": "Pangoblin",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Epilogue Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f60238e05c93849a1e4d29_Sweet%20Dreams%20(WL).webp"
+    },
+    {
+        "name": "Transistor",
+        "flavor-text": "Boing fwip.",
+        "game": "wonderlands",
+        "type": "Damage",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Vorcanar",
+            "Raging Wyborg"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602b532add1526bb51800_Transistor%20(WL).webp"
+    },
+    {
+        "name": "Trick Mirror",
+        "flavor-text": "Misdirection, Stan.",
+        "game": "wonderlands",
+        "type": "Reflect",
+        "rarity": "Legendary",
+        "manufacturer": "Ashen",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602bb9ceaf03cf604d7bb_Trick%20Mirror%20(WL).webp"
+    },
+    {
+        "name": "Undead Pact",
+        "flavor-text": "It always ends like this.",
+        "game": "wonderlands",
+        "type": "Unique",
+        "rarity": "Legendary",
+        "manufacturer": "Pangoblin",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Zom"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff4ec815622a74a48d70_Cursed%20Wit%20(WL).webp"
+    }
+]

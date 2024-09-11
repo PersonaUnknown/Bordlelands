@@ -1,0 +1,1697 @@
+[
+    {
+        "name": "AUTOMAGIC.exe",
+        "flavor-text": "Task, managed.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Banshee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71614c9920a99cde60e35_AUTOMAGIC.exe%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Anchor",
+        "flavor-text": "The world is full of temptations.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "In the Belly is a Beast Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7181bfabf19c99a7694a4_Anchor%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Antique Greatbow",
+        "flavor-text": "It'd be worth a hefty sum if it was never fired. What a pity.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Thorne Shadow Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71823013c3c3367c1fbec_Antique%20Greatbow%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Apex",
+        "flavor-text": "Use as directed against heroes.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Dragon Lord Pack",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7182aefc30ddc55892ff9_Apex%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Banshee Claw",
+        "flavor-text": "Ohhh, she screamin'!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Thy Bard, with a Vengeance Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718e2e9c900e8d62d26cf_Banshee%20Claw%20(Melee-WL).webp"
+    },
+    {
+        "name": "Birthright",
+        "flavor-text": "I'll take my rightful place.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Epic",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Soul Purpose Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719c9013c3c3367c44955_Birthright%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Blazing Volley",
+        "flavor-text": "Burn down the walls that bind you to this cage.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2f8af47250f2c066ab_Blazing%20Volley%20(SMG-WL).webp"
+    },
+    {
+        "name": "Blue Cake",
+        "flavor-text": "I'm more of a brownie person, actually.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6d2c7d5d3f93e6cd6c_Blue%20Cake%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Body Spray",
+        "flavor-text": "What's not to love?",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Necromance Her Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a759f00af8ca06ba673_Body%20Spray%20(Melee-WL).webp"
+    },
+    {
+        "name": "Boniface's Soul",
+        "flavor-text": "Of course, there's always my way.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mike"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aa04eb5e6a8dc814dfe_Boniface%27s%20Soul%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Borea's Breath",
+        "flavor-text": "The North Wind blows.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ribula"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71adb5b51b820521cc07d_Borea%27s%20Breath%20(SMG-WL).webp"
+    },
+    {
+        "name": "Butterboom",
+        "flavor-text": "No concessions.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c53756e20f012226795_Butterboom%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Cannonballer",
+        "flavor-text": "Baker's on his run.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "LeChance"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ccc61c1b11ded539b73_Cannonballer%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Carrouser",
+        "flavor-text": "If you're not getting around, you're standing still.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ce3dc7dbb34e584be25_Carrouser%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Catatumbo",
+        "flavor-text": "Witness the river's rage.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cf3f298a8e941372b92_Catatumbo%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Circuitous Gyre",
+        "flavor-text": "Whirl. Whirl until you see yourself again.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71da25357a405f505cdea_Circuitous%20Gyre%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Crossblade",
+        "flavor-text": "We shall call him... Deathblade.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Gloopathoth, Keeper of the Abyss"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ef598f04f819bf7e62c_Crossblade%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Crossbolt Generator",
+        "flavor-text": "Get this, it's a crossbow that fires more crossbows.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Kastor The Normal-Sized Skeleton"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71efcae0681bd25dac4da_Crossbolt%20Generator%20(AR-WL).webp"
+    },
+    {
+        "name": "Diamondguard Sword",
+        "flavor-text": "For the Queen!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720a5933993401d91e147_Diamondguard%20Sword%20(Melee-WL).webp"
+    },
+    {
+        "name": "Die-Vergent",
+        "flavor-text": "Roll for destruction.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720acf0d7a07cddcb9c5e_Die-Vergent%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Donkey",
+        "flavor-text": "... Your breath STINKS.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Droll the Troll Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720de3fd1e5e0744d9635_Donkey%20(AR-WL).webp"
+    },
+    {
+        "name": "Dreadlord's Finest",
+        "flavor-text": "Your soul is mine.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Ancient Powers Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7218d8493f5e726f7982d_Dreadlord%27s%20Finest%20(AR-WL).webp"
+    },
+    {
+        "name": "Dry'l's Fury",
+        "flavor-text": "Choke them with your chains.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Dry'l"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72198e9c900e8d63afbd6_Dry%27l%27s%20Fury%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Dry'l's Legacy",
+        "flavor-text": "Born of the fiery depths.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Epic",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Mortal Coil Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a0391aeb626463025e_Dry%27l%27s%20Legacy%20(SMG-WL).webp"
+    },
+    {
+        "name": "Echoing Phoenix",
+        "flavor-text": "Burn it all down.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Fyodor the Soul Warden"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721d33e32e6ea60021889_Echoing%20Phoenix%20(AR-WL).webp"
+    },
+    {
+        "name": "Eight Piece",
+        "flavor-text": "You know I don't mean a word of it.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Wandering Aye Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721dbf9709d68d9f3d3ee_Eight%20Piece%20(AR-WL).webp"
+    },
+    {
+        "name": "Envy",
+        "flavor-text": "I see things in only two shades.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "King Q'urub Hullsunder Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722095c086a8b7eb24072_Envy%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Fatebreaker",
+        "flavor-text": "You\u2019ve made a huge mistake.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Dragon Lord"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722a86d2f5d27af669a77_Fatebreaker%20(Melee-WL).webp"
+    },
+    {
+        "name": "Fragment Rain",
+        "flavor-text": "Nothing burns like the cold.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723d77d4d6d7852ee2bdf_Fragment%20Rain%20(SMG-WL).webp"
+    },
+    {
+        "name": "Frostbite",
+        "flavor-text": "So cold it burns.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Forgery Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7242b0f7ee963b50b43e1_Frostbite%20(Melee-WL).webp"
+    },
+    {
+        "name": "Frying Pan",
+        "flavor-text": "I think I'm getting the hang of this!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724bf5c086a8b7eb69008_Frying%20Pan%20(Melee-WL).webp"
+    },
+    {
+        "name": "Gluttony",
+        "flavor-text": "Equivalent exchange.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Droll the Troll Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725258493f5e726fcb911_Gluttony%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Goblin Pickaxe",
+        "flavor-text": "Time is money, friend.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Pigwart Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7252ef6a61983a04560c7_Goblin%20Pickaxe%20(Melee-WL).webp"
+    },
+    {
+        "name": "Goblin Repellant",
+        "flavor-text": "Keeps 'em at bay.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Farmer's Ardor Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725367f1109aeeeac7644_Goblin%20Repellant%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Goblin's Bane",
+        "flavor-text": "A perverse charisma fueled by avarice.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Non-Violent Offender Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72540c8ec39acf6535ebc_Goblin%27s%20Bane%20(Melee-WL).webp"
+    },
+    {
+        "name": "Greed Warden",
+        "flavor-text": "Take no prisoners.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726114adf9e5a7ea6b27c_Greed%20Warden%20(Melee-WL).webp"
+    },
+    {
+        "name": "Hawkins' Wrath",
+        "flavor-text": "Oooohhh ahh ahh ahh ahh!",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72747b92cab0004db86d5_Hawkins%27%20Wrath%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Headcanon",
+        "flavor-text": "Captain of the ship.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Armageddon Distracted Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727503cd622044415a101_Headcanon%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Heckwader",
+        "flavor-text": "Rip and tear.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Rare",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Inner Daemons Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72794cb6e7d495af03b4a_Heckwader%20(SMG-WL).webp"
+    },
+    {
+        "name": "Ironsides",
+        "flavor-text": "And burst the cannon's roar.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Walk the Stalk Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729454eb5e6a8dc94fac1_Ironsides%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Kao Khan",
+        "flavor-text": "He shaped the world with his hands.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729e3451204fee7f8ed87_Kao%20Khan%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Last Rites",
+        "flavor-text": "But it's time for you to find it on your own.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Twenty Thousand Years Under the Sea Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b763d04a5f4e0225945_Last%20Rites%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "LeChance's Last Leg",
+        "flavor-text": "The other key to the monkey head.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Ballad of Bones Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp"
+    },
+    {
+        "name": "Lil K's Bread Slicer",
+        "flavor-text": "This seems impractical.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c0cf449220cd3ed423d_Lil%20K%27s%20Bread%20Slicer%20(AR-WL).webp"
+    },
+    {
+        "name": "Liquid Cooling",
+        "flavor-text": "Works great until it doesn't.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Lissia, Iron-Wrought Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64e9ab8f7af8da9c45115811_Liquid%20Cooling%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Live Wire",
+        "flavor-text": "The lightning. It's good for you!",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c6b4943271efb6ef8c1_Live%20Wire%20(SMG-WL).webp"
+    },
+    {
+        "name": "Love Leopard",
+        "flavor-text": "It works every time.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Rare",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Non-Violent Offender Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cb5870cd5b6878218a7_Love%20Leopard%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Mage Staff",
+        "flavor-text": "Power courses through the shaft as you touch it.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Dark Magic"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d3136b6abc64a1f89ba_Mage%20Staff%20(Melee-WL).webp"
+    },
+    {
+        "name": "Manual Transmission",
+        "flavor-text": "We're lights out.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Vorcanar",
+            "Raging Wyborg"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d78a51c5cdb656caf01_Manual%20Transmission%20(AR-WL).webp"
+    },
+    {
+        "name": "Masterwork Handbow",
+        "flavor-text": "Mercy like a gun.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Captain Swallow Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d8c8f43799ace5a78d0_Masterwork%20Handbow%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Merlin's Razor",
+        "flavor-text": "It'll bite you in the end. Or the face.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dae97a59bcc73ff89f7_Merlin%27s%20Razor%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Message",
+        "flavor-text": "Sleep with the fishes.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72db5ef8ec6ded7b75a75_Message%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Metal Lute",
+        "flavor-text": "That's pretty metal.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Rare",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Lyre and Brimstone Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dbc7f37c2883cb1699b_Metal%20Lute%20(Melee-WL).webp"
+    },
+    {
+        "name": "Mistrial",
+        "flavor-text": "All rise.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Rare",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Trial of Crooked-Eye Phil Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dfc36a5c42f4d0f2441_Mistrial%20(AR-WL).webp"
+    },
+    {
+        "name": "Moleman",
+        "flavor-text": "There is no escape.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Epic",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Little Boys Blue Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e02d2d4f2c2040eac63_Moleman%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Negotiator",
+        "flavor-text": "Ye not guilty.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Diplomatic Relations Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ebb13955bc879b6afb8_Negotiator%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Oil and Spice",
+        "flavor-text": "And everything flammable.",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f4e4ee500e56ce8d435_Oil%20and%20Spice%20(SMG-WL).webp"
+    },
+    {
+        "name": "Paladin's Sword",
+        "flavor-text": "This is my House. I have to defend it.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Epic",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Realm in Peril Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fbe9aeec53f0fb44fb0_Paladin%27s%20Sword%20(Melee-WL).webp"
+    },
+    {
+        "name": "Peg Leg",
+        "flavor-text": "Tink tink.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "LeChance"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp"
+    },
+    {
+        "name": "Perceiver",
+        "flavor-text": "How do you want to do this?",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Oculus Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73008b886ae155dac927e_Perceiver%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Petty Tantrum",
+        "flavor-text": "A little hot-headed.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730194943271efb734a27_Petty%20Tantrum%20(Melee-WL).webp"
+    },
+    {
+        "name": "Pincushion",
+        "flavor-text": "Nailed it.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7302c870cd5b687866105_Pincushion%20(Melee-WL).webp"
+    },
+    {
+        "name": "Pookie's Chew Toy",
+        "flavor-text": "Chum... p!",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Rare",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "A Walk to Dismember Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7306a7f37c2883cb482a7_Pookie%27s%20Chew%20Toy%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Portable Sawmill",
+        "flavor-text": "Destroy nature and lumber futures on a budget!",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730779aeec53f0fb549db_Portable%20Sawmill%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Quad Bow",
+        "flavor-text": "Quad damage.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730c29aeec53f0fb59a2d_Quad%20Bow%20(AR-WL).webp"
+    },
+    {
+        "name": "Queen's Cry",
+        "flavor-text": "Our enemies will come for us.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Base Game",
+        "elements": [
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Maker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730dee493c2975165a339_Queen%27s%20Cry%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Rage Handle",
+        "flavor-text": "Animals in a cage, some of us filled with rage.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731006f656146ade365be_Rage%20Handle%20(Melee-WL).webp"
+    },
+    {
+        "name": "Ragnarok",
+        "flavor-text": "I really like the slime jellies.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Maker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7310665a3b77cee3d3880_Ragnarok%20(Melee-WL).webp"
+    },
+    {
+        "name": "Red Hellion",
+        "flavor-text": "Think you're fast? Not fast enough.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Obsidian Wyvern Obelisk",
+            "Eros Wyvern Overworld"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731476a9082c6afc47ac7_Red%20Hellion%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Reign of Arrows",
+        "flavor-text": "... From a lacerated sky.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Blackpowder",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Chamber Minibosses"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73199b30ca0ed173ae312_Reign%20of%20Arrows%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Rogue Imp",
+        "flavor-text": "It's a great day for an incineration!",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ed9aeec53f0fb70c07_Rogue%20Imp%20(AR-WL).webp"
+    },
+    {
+        "name": "Ruby's Spite",
+        "flavor-text": "Death fulfillment.",
+        "game": "wonderlands",
+        "type": "Pistol",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Monstrous Shroom Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732826f656146ade517ef_Ruby%27s%20Spite%20(Pistol-WL).webp"
+    },
+    {
+        "name": "Salt and Battery",
+        "flavor-text": "Batter up!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Glutton's Gamble",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Imelda the Sand Witch"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732b90c45a779d02b9731_Salt%20and%20Battery%20(Melee-WL).webp"
+    },
+    {
+        "name": "Shadowfire",
+        "flavor-text": "MAGIK WITH A K!",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mike"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7335fca31687e29344c0c_Shadowfire%20(SMG-WL).webp"
+    },
+    {
+        "name": "Skeep Prod",
+        "flavor-text": "Not free-range.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734136a9082c6afc7cab9_Skeep%20Prod%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Slammin' Salmon",
+        "flavor-text": "HOW'S THAT TASTE?!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Bonk",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Great Wight Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73440352bbfeec206e599_Slammin%27%20Salmon%20(Melee-WL).webp"
+    },
+    {
+        "name": "Sly Trivern",
+        "flavor-text": "Try, try again.",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Redmourne"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73482b886ae155db2900a_Sly%20Trivern%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Snake Stick",
+        "flavor-text": "My new thing now is Snake Jazz.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Kleave",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7349d131025fc7b51f45e_Snake%20Stick%20(Melee-WL).webp"
+    },
+    {
+        "name": "Spellblade",
+        "flavor-text": "The wand chooses the wizard.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wastard"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734b792978b4e996a83c2_Spellblade%20(Melee-WL).webp"
+    },
+    {
+        "name": "Stab-O-Matic",
+        "flavor-text": "A personal touch shows you care.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Molten Mirrors",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734ce7f37c2883cb97f3c_Stab-O-Matic%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Storm Surge",
+        "flavor-text": "Under the sea mermen feast on starfish soup, and all the starving men are crabs.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Dry'l"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73526357e03da689e33b1_Storm%20Surge%20(Melee-WL).webp"
+    },
+    {
+        "name": "Sworderang",
+        "flavor-text": "It's all coming back to you now.",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Mandiblon, Chomper of Skulls Obelisk"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7355cb886ae155db3b6c5_Sworderang%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Swordsplosion",
+        "flavor-text": "Your sword is the sword that will pierce the heavens!",
+        "game": "wonderlands",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "LeChance"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7356297a59bcc73090b7c_Swordsplosion%20(Shotgun-WL).webp"
+    },
+    {
+        "name": "Throwable Hole",
+        "flavor-text": "What happens if I throw a throwable hole into a portable hole?",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Feriore",
+        "origin": "Base Game",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "Chaos Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370286abe1ea4521f462_Throwable%20Hole%20(SMG-WL).webp"
+    },
+    {
+        "name": "Thunder Anima",
+        "flavor-text": "We are the rising cascade, the rolling wave.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Skuldugger",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370f97a59bcc730b098d_Thunder%20Anima%20(AR-WL).webp"
+    },
+    {
+        "name": "Tidesorrow",
+        "flavor-text": "Buried deep beneath the waves.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Epic",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Ditcher Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73751d5a56b6a9b99930f_Tidesorrow%20(Melee-WL).webp"
+    },
+    {
+        "name": "Tootherator",
+        "flavor-text": "Brace for impact!",
+        "game": "wonderlands",
+        "type": "Sniper",
+        "rarity": "Rare",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Cash 4 Teeth Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73789277c17c37251709f_Tootherator%20(Sniper-WL).webp"
+    },
+    {
+        "name": "Twin Soul",
+        "flavor-text": "A hero desires a sword, and a sword desires truth.",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Swifft",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Knight Mare"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738159a6dcd18d54a5229_Twin%20Soul%20(Melee-WL).webp"
+    },
+    {
+        "name": "Twisted Delugeon",
+        "flavor-text": "You're gonna need a bigger umbrella.",
+        "game": "wonderlands",
+        "type": "Launcher",
+        "rarity": "Legendary",
+        "manufacturer": "Stoker",
+        "origin": "Coiled Captors",
+        "elements": [
+            "Lightning"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "\"Chums\" the Old God"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7381b3f8ad1a927e770f9_Twisted%20Delugeon%20(Launcher-WL).webp"
+    },
+    {
+        "name": "Vengeance",
+        "flavor-text": "Wait. Execute your plan. Hope.",
+        "game": "wonderlands",
+        "type": "Assault Rifle",
+        "rarity": "Legendary",
+        "manufacturer": "Torgue",
+        "origin": "Shattering Spectreglass",
+        "elements": [
+            "Dark Magic"
+        ],
+        "drop-type": "DLC - World Drop",
+        "drop-sources": [
+            "Redmourne"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73880d5a56b6a9b9b009d_Vengeance%20(AR-WL).webp"
+    },
+    {
+        "name": "Wailing Banshee",
+        "flavor-text": "More like banSHEESH!",
+        "game": "wonderlands",
+        "type": "Melee",
+        "rarity": "Legendary",
+        "manufacturer": "Valora",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental",
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Banshee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7394b26d8e514833f45c2_Wailing%20Banshee%20(Melee-WL).webp"
+    },
+    {
+        "name": "White Rider",
+        "flavor-text": "Putrefy, rot, spoil and fester",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "DAHLIA",
+        "origin": "Base Game",
+        "elements": [
+            "Poison"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Wastard"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b1bc06246e74315f13_White%20Rider%20(SMG-WL).webp"
+    },
+    {
+        "name": "Wizard's Pipe",
+        "flavor-text": "Go back to the abyss!",
+        "game": "wonderlands",
+        "type": "SMG",
+        "rarity": "Legendary",
+        "manufacturer": "Hyperius",
+        "origin": "Base Game",
+        "elements": [
+            "Fire",
+            "Lightning",
+            "Poison",
+            "Frost",
+            "Dark Magic"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Parasite"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739c6493c6752d3327075_Wizard%27s%20Pipe%20(SMG-WL).webp"
+    }
+]

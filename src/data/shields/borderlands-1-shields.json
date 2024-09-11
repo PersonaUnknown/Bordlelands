@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Acid Nova Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe504d543d9aa40cae90_Acid%20Nova%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Ambush Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5fe6bd0f286c98ca3e7f1_Ambush%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Cationic Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Resistance",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff271de7d0ee1df2fac4_Cationic%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Cracked Sash",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Uncommon",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Rakkinishu"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff33b74696277b870f00_Cracked%20Sash%20(BL1).webp"
+    },
+    {
+        "name": "Endothermic Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Resistance",
+        "rarity": "Epic",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ff98ab1c6a5378f3153f_Endothermic%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Fire Nova Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Fire"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffb626243b1d5984addb_Fire%20Nova%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Fortified Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5ffdc23d55b3b77c1b8d7_Fortified%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Hazmat Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Resistance",
+        "rarity": "Epic",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6001387e7666ef85bd31e_Hazmat%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Ironclad",
+        "flavor-text": "I stand unvanquished!",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Pearlescent",
+        "manufacturer": "Pangolin",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Badass Infantry",
+            "Badass Engineer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600667cc78915f5b1981b_Ironclad%20(BL1).webp"
+    },
+    {
+        "name": "Macho Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Epic",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f600b3323df832a2c8ff62_Macho%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Omega",
+        "flavor-text": "The Alpha and that other thing.",
+        "game": "borderlands-1",
+        "type": "Resistance",
+        "rarity": "Pearlescent",
+        "manufacturer": "Atlas",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Badass Infantry",
+            "Badass Engineer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6011087e7666ef85cd727_Omega%20(BL1).webp"
+    },
+    {
+        "name": "Panacea Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Heal",
+        "rarity": "Epic",
+        "manufacturer": "Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6011e1de7d0ee1df51720_Panacea%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Rose",
+        "flavor-text": "Beauty and Life",
+        "game": "borderlands-1",
+        "type": "Heal",
+        "rarity": "Pearlescent",
+        "manufacturer": "Anshin",
+        "origin": "General Knoxx",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "DLC3 - World Drop",
+        "drop-sources": [
+            "Badass Defender",
+            "Badass Infantry",
+            "Badass Engineer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601ad93c1fcd9b5e46bba_Rose%20(BL1).webp"
+    },
+    {
+        "name": "Shock Nova Shield",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Nova",
+        "rarity": "Epic",
+        "manufacturer": "Maliwan",
+        "origin": "Base Game",
+        "elements": [
+            "Shock"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f601d3b2064353a5d26d72_Shock%20Nova%20Shield%20(BL1).webp"
+    },
+    {
+        "name": "Wee Wee's Super Booster",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Heal",
+        "rarity": "Epic",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "King Wee Wee"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f602fecb1f1c2f326db2f8_Wee%20Wee%27s%20Super%20Booster%20(BL1).webp"
+    }
+]

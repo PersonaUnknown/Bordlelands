@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Bouncing Bettie",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Bouncing Betty",
+        "rarity": "Rare",
+        "manufacturer": "DAHL",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d4efcb1f1c2f3236f1d5_Bouncing%20Bettie%20(BL1).webp"
+    },
+    {
+        "name": "Contact",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Maliwan | Tediore",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d58aaa4c958d82735d91_Contact%20(BL1).webp"
+    },
+    {
+        "name": "Longbow",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Hyperion",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7c7c2124dbce961bd61_Longbow%20(BL1).webp"
+    },
+    {
+        "name": "MIRV",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Torgue",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d7d77cc78915f57f633f_MIRV%20(BL1).webp"
+    },
+    {
+        "name": "Proximity Mine",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "MIRV",
+        "rarity": "Rare",
+        "manufacturer": "Vladof",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d8f8e8917297065d243a_Proximity%20Mine%20(BL1).webp"
+    },
+    {
+        "name": "Rain",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Area of Effect",
+        "rarity": "Epic",
+        "manufacturer": "Atlas",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d91df24721951af88066_Rain%20(BL1).webp"
+    },
+    {
+        "name": "Rubberized",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "Pangolin",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d952f0e113c15052ae2f_Rubberized%20(BL1).webp"
+    },
+    {
+        "name": "Sticky",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Standard",
+        "rarity": "Rare",
+        "manufacturer": "S&S Munitions",
+        "origin": "Base Game",
+        "elements": [
+            "Explosive",
+            "Fire",
+            "Shock",
+            "Corrosive"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d98efa749671fe9c16ee_Sticky%20(BL1).webp"
+    },
+    {
+        "name": "Transfusion",
+        "flavor-text": "",
+        "game": "borderlands-1",
+        "type": "Transfusion",
+        "rarity": "Rare",
+        "manufacturer": "Anshin",
+        "origin": "Base Game",
+        "elements": [
+            "Non-Elemental"
+        ],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f5d9edf0e113c1505391fb_Transfusion%20(BL1).webp"
+    }
+]

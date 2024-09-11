@@ -1,0 +1,315 @@
+[
+    {
+        "name": "Allegiance Relic",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "The Warrior"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e827be17b6544a692542_Allegiance%20Relic%20(BL2).webp"
+    },
+    {
+        "name": "Blood of Terramorphous",
+        "flavor-text": "His blood could inspire...",
+        "game": "borderlands-2",
+        "type": "Survivability",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Terramorphous"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e83c4133b5962dafe8fc_Blood%20of%20Terramorphous%20(BL2).webp"
+    },
+    {
+        "name": "Blood of the Ancients",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Universal",
+        "rarity": "E-Tech",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot Midget Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8438e765ab51f7cf91a_Blood%20of%20the%20Ancients%20(BL2).webp"
+    },
+    {
+        "name": "Blood of the Seraphs",
+        "flavor-text": "Their power courses through you...",
+        "game": "borderlands-2",
+        "type": "Survivability",
+        "rarity": "Seraph",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Oasis Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e84bbe17b6544a694be4_Blood%20of%20the%20Seraphs%20(BL2).webp"
+    },
+    {
+        "name": "Bone of the Ancients",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "E-Tech",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot Midget Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e851d1c0205e9c929328_Bone%20of%20the%20Ancients%20(BL2).webp"
+    },
+    {
+        "name": "Breath of the Seraphs",
+        "flavor-text": "Their return is to be feared...",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Seraph",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Grotto Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8603a0488bdba59ef86_Breath%20of%20the%20Seraphs%20(BL2).webp"
+    },
+    {
+        "name": "Deputy's Badge",
+        "flavor-text": "Who the hell shot me?",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Showdown Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8a721d0652d0928b1ee_Deputy%27s%20Badge%20(BL2).webp"
+    },
+    {
+        "name": "Hard Carry",
+        "flavor-text": "Tough to lose when you're this broken.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Effervescent",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Haderax"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8fd71f8213468e5d5b2_Hard%20Carry%20(BL2).webp"
+    },
+    {
+        "name": "Heart of the Ancients",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "E-Tech",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot Midget Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e90d3a44b053aa4ee76d_Heart%20of%20the%20Ancients%20(BL2).webp"
+    },
+    {
+        "name": "Lucrative Opportunity",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Safe and Sound Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e94d5f940d47fbc9cd6f_Lucrative%20Opportunity%20(BL2).webp"
+    },
+    {
+        "name": "Might of the Seraphs",
+        "flavor-text": "Become the unstoppable force!",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Seraph",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Crater Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e95c21d0652d0929752f_Might%20of%20the%20Seraphs%20(BL2).webp"
+    },
+    {
+        "name": "Mouthwash",
+        "flavor-text": "Gargle and spit.",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Effervescent",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Paradise Found Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e97571f8213468e65571_Mouthwash%20(BL2).webp"
+    },
+    {
+        "name": "Moxxi's Endowment",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Good, The Bad and the Mordecai Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e97d39f5ae1e378ef9d9_Moxxi%27s%20Endowment%20(BL2).webp"
+    },
+    {
+        "name": "Mysterious Amulet",
+        "flavor-text": "While I fight with thee, dear friend, all losses are restored and sorrows end.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "The Amulet Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e98c3a44b053aa4f64e8_Mysterious%20Amulet%20(BL2).webp"
+    },
+    {
+        "name": "Otto Idol",
+        "flavor-text": "Every man for himself. Curse of the Sudden-er Death!",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Message in a Bottle: The Rustyards Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e99ac9a2047edb1d3fa2_Otto%20Idol%20(BL2).webp"
+    },
+    {
+        "name": "Shadow of the Seraphs",
+        "flavor-text": "A shadow is a copy of self, only shadier.",
+        "game": "borderlands-2",
+        "type": "Unique",
+        "rarity": "Seraph",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Shop Item",
+        "drop-sources": [
+            "Refuge Seraph Shop Shop"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e8603a0488bdba59ef86_Breath%20of%20the%20Seraphs%20(BL2).webp"
+    },
+    {
+        "name": "Sheriff's Badge",
+        "flavor-text": "Take turns and play nice.",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Sheriff of Lynchwood"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e97571f8213468e65571_Mouthwash%20(BL2).webp"
+    },
+    {
+        "name": "Skin of the Ancients",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Survivability",
+        "rarity": "E-Tech",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Loot Midget Rare Spawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea3266b126fda1755e36_Skin%20of%20the%20Ancients%20(BL2).webp"
+    },
+    {
+        "name": "The Afterburner",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Quest Reward",
+        "drop-sources": [
+            "Positive Self Image Quest"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ea8b4133b5962db26504_The%20Afterburner%20(BL2).webp"
+    },
+    {
+        "name": "Vault Hunter's Relic",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Universal",
+        "rarity": "Rare",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Paid Item",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4eac2e5685905ad6064ce_Vault%20Hunter%27s%20Relic%20(BL2).webp"
+    },
+    {
+        "name": "Winter is Over",
+        "flavor-text": "",
+        "game": "borderlands-2",
+        "type": "Offense",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "",
+        "elements": [],
+        "drop-type": "Dedicated Drop",
+        "drop-sources": [
+            "Ghost"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4e851d1c0205e9c929328_Bone%20of%20the%20Ancients%20(BL2).webp"
+    }
+]

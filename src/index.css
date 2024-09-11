@@ -1,0 +1,144 @@
+body, html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./backgrounds/borderlands_cast.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tooltip > div.tooltip-inner {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.tooltip.show {
+  opacity: 1 !important;
+}
+
+.tooltip > div.arrow::before {
+  border-bottom-color: transparent !important;
+  color: white !important;
+}
+
+/* Fonts */
+.common {
+  color: 'white'
+}
+
+@font-face {
+  font-family: "CompactaBold";
+  src: local("CompactaBold"),
+  url("./fonts/Compacta-Bold-Plain-Regular.otf") format("truetype");
+  font-weight: bold;
+}
+
+.font-montserrat {
+  font-family: "Montserrat";
+}
+
+.font-compacta {
+  font-family: "CompactaBold";
+}
+
+/* Stylings */
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.center-horizontal {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.center-vertical {
+  margin-top: auto;
+  margin-right: auto;
+}
+
+.margin-top {
+  margin-top: 1rem
+}
+
+.margin-bottom {
+  margin-bottom: 1rem
+}
+
+.hover-expand {
+  transition: 0.25s ease;
+  scale: 1
+}
+
+.hover-expand:hover {
+  scale: 1.025
+}
+
+/* Title Label */
+.title {
+  font-size: 100px;
+  letter-spacing: -2px;
+  rotate: -2deg;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-text-stroke: #000000;
+  -webkit-text-stroke-width: 3px;
+}
+.title-gradient {
+  background: #d19e1d;
+  background: #FFF801;
+  background: radial-gradient(at center, #FFF801, #8A730B);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Tab */
+.tab-img {
+  width: 350px;
+  height: auto
+}
+
+/* Home */
+.home-text {
+  font-size: 30px;
+  font-weight: 400;
+  color: white;
+  background-color: gray;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
+
+/* Mobile Dimensions */
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 80px;
+  }
+}

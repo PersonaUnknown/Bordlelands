@@ -1,0 +1,1253 @@
+[
+    {
+        "name": "Acsetic",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a098eb3ea391a4ec46f_Acsetic%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Agent",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a27eae84ff69519ae04_Agent%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Antifreeze",
+        "flavor-text": "Jet propulsion, disengage.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Mayhem 4 Item",
+        "drop-sources": [
+            "Arbalest of Discipline"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a3f378ee5a60449febe_Antifreeze%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Artisan",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a4b793824b2c34e1590_Artisan%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Avenger",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a56884d78c15023ee01_Avenger%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Baby Boomer",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a5ca6812b6064e76c02_Baby%20Boomer%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Bear Trooper",
+        "flavor-text": "Rocket till the wheels fall off.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Anointed X-4"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62a747a84a7b5f503990a_Bear%20Trooper%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Blast Master",
+        "flavor-text": "Slow and steady wins the arms race.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "King Gnasher"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62aa97a84a7b5f503d9cb_Blast%20Master%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Bloodletter",
+        "flavor-text": "Ideas are bulletproof.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Skag of Survival"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62abbb547f371ccff78de_Bloodletter%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Bounty Hunter",
+        "flavor-text": "The world is made up of two classes \u2014 the hunters and the huntees.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Lt. Preston"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62ad3fd1a9e1d8aaaa07d_Bounty%20Hunter%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Brawler",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62adf0407b33bfbcbf0e0_Brawler%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Breaker",
+        "flavor-text": "The closer we are to danger, the further we are from harm.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Skag of Survival"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62ae58c23bec072a5deb7_Breaker%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Bulldog",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62af787a4946a08ea4dc8_Bulldog%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Bushmaster",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62afd8c3f3cc9837bc628_Bushmaster%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Cmdl3t",
+        "flavor-text": "The one you feed.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Designer's Cut",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "The Hunker Bunker Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b8edd4abb3f41401676_Cmdl3t%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Cold Warrior",
+        "flavor-text": "A song of ice and radiation and acid and lightning and fire.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tremendous Rex"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b946a97b78642d342e7_Cold%20Warrior%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Commander",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b9a04fd50fca0e20f67_Commander%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Conductor",
+        "flavor-text": "Half a league onward.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Voltborn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bac4bafa6cfb8a2291f_Conductor%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Cosmic Stalker",
+        "flavor-text": "Like a bird from the snare of the fowler...",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tyrant of Instinct"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bb86a97b78642d3772d_Cosmic%20Stalker%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Critical Mass",
+        "flavor-text": "Trigger finger's gettin' tired over here!",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "The Seer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bcaaeb939b7703c37f4_Critical%20Mass%20(Zane-BL3).webp"
+    },
+    {
+        "name": "D.A.R.P.A.W.",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bd9fd1a9e1d8aababbc_D.A.R.P.A.W.%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "DE4DEYE",
+        "flavor-text": "Cut them down to size.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Mother of Grogans"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bdf8dae7c6d5a7575d9_DE4DEYE%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Death's Blessings",
+        "flavor-text": "Where focus goes energy flows.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "The Seer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62be58c23bec072a71420_Death%27s%20Blessings%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Deceiver",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62af787a4946a08ea4dc8_Bulldog%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Disruptor",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c1efd1a9e1d8aabf3c9_Disruptor%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Divergent",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c24378ee5a6044c2c72_Divergent%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Dragon",
+        "flavor-text": "Fatality.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tink of Cunning"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c2f0407b33bfbcda29b_Dragon%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Elementalist",
+        "flavor-text": "Firmly grasp it.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Sera of Supremacy"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c4111fb7b69819fa5b1_Elementalist%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Eternal Flame",
+        "flavor-text": "In measures being kindled and in measures going out.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Designer's Cut",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Dam, WTF Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c7e7a84a7b5f5060355_Eternal%20Flame%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Executor",
+        "flavor-text": "Have a plan to kill everyone you meet.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Baron Noggin Target of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c83fe02f6e71c88539f_Executor%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Firewalker",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62cb804fd50fca0e34e49_Firewalker%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Flare",
+        "flavor-text": "That's what the flair's about. It's about fun.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Psycho Krieg",
+        "elements": [],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Evil Mordecai"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62cbe11fb7b6981a02dfd_Flare%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Freedom Fighter",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d06e65258b9201802c6_Freedom%20Fighter%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Friend-Bot",
+        "flavor-text": "Don't worry, the dog lives.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Arbalest of Discipline"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d0c8d28e779fd8c6ad8_Friend-Bot%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Full Automaton",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d12378ee5a6044d3d12_Full%20Automaton%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Gadgeteer",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d18b547f371cc023259_Gadgeteer%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Golden Rule",
+        "flavor-text": "I can do this all day.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Handsome Jackpot",
+        "elements": [],
+        "drop-type": "DLC 1 - World Drop",
+        "drop-sources": [
+            "Jackbot"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d35eae84ff6951e3d4a_Golden%20Rule%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Green Monster",
+        "flavor-text": "We often smilin' at sights of violence.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Handsome Jackpot",
+        "elements": [],
+        "drop-type": "DLC 1 - World Drop",
+        "drop-sources": [
+            "Jackbot"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d44884d78c150277ace_Green%20Monster%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Grenadier",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d508d28e779fd8cc25a_Grenadier%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Guzzler",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d70bf9e3d5ed8299a44_Guzzler%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Headcase",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d7d884d78c15027cd0a_Headcase%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Heat Exchanger",
+        "flavor-text": "I'm just getting warmed up.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "The Seer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62c7e7a84a7b5f5060355_Eternal%20Flame%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Hellhound",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d8fa6812b6064eb2d01_Hellhound%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Hustler",
+        "flavor-text": "Every day I'm hustlin'.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Psycho Krieg",
+        "elements": [],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Locom\u00f6bius"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62dd0eae84ff6951f31f7_Hustler%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Infiltrator",
+        "flavor-text": "When the leaves hang trembling, the wind is passing through.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Skrakk Legendary Hunt"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62dddc5a9bf2b6025af9c_Infiltrator%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Kensei",
+        "flavor-text": "Train until your weapon is an extension of your self.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Designer's Cut",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Dreadnought Drydock Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62be58c23bec072a71420_Death%27s%20Blessings%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Lemniscate",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f5ddcd41611294262db_Lemniscate%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Low-Life",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f6f6a97b78642d7c4d7_Low-Life%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Mantis",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f7c04fd50fca0e6b9ff_Mantis%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Marksman",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f898eb3ea391a555779_Marksman%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Master",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62f8fa6812b6064ede6cc_Master%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Mind Sweeper",
+        "flavor-text": "Brain blast!",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Archer Rowe"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62fc5e65258b9201b2bc0_Mind%20Sweeper%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Muse",
+        "flavor-text": "Ascend the brightest heaven of invention.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Psycho Krieg",
+        "elements": [],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Evil Lilith"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62fe0378ee5a60451326b_Muse%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Nimbus",
+        "flavor-text": "It's a terrible day for rain.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Sera of Supremacy"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62ff5eae84ff69521dabb_Nimbus%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Overdrive",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6300fd09b159311c35217_Overdrive%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Peregrine",
+        "flavor-text": "Rakk-Shalak in the ak-ak-pack. I win again.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Psycho Krieg",
+        "elements": [],
+        "drop-type": "DLC 4 - World Drop",
+        "drop-sources": [
+            "Dr. Benedict"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f630342c679a2067c0a9eb_Peregrine%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Phasezerker",
+        "flavor-text": "I'm always angry.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Hag of Fervor"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6303a7a39e55de0c5719b_Phasezerker%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Pilgrim",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6304104fd50fca0e7c115_Pilgrim%20(Amara-BL3).webp"
+    },
+    {
+        "name": "R4kk P4k",
+        "flavor-text": "Hail and well met!",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Mayhem 4 Item",
+        "drop-sources": [
+            "Tink of Cunning"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63126d09b159311c4a074_R4kk%20P4k%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Rabbit",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63179d30f697e33e37e39_Rabbit%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Rabble Rouseer",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6317f2c679a2067c219b0_Rabble%20Rouseer%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Radical",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63186aeb939b77042f4c5_Radical%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Raging Bear",
+        "flavor-text": "You won't just be strong. You'll be unbeatable.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Mayhem 4 Item",
+        "drop-sources": [
+            "Billy, The Anointed"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6318cbf9e3d5ed82e8c25_Raging%20Bear%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Rakk Commander",
+        "flavor-text": "Get ready to rakk.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Azalea"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f631b969ed6e64d967c941_Rakk%20Commander%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Red Fang",
+        "flavor-text": "Mean and green.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tyrant of Instinct"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63251fe02f6e71c8ef247_Red%20Fang%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Ringleader",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6326b69ed6e64d96894b7_Ringleader%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Rocketeer",
+        "flavor-text": "Chew 'em up!",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Tumorhead"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63277bf9e3d5ed82f8663_Rocketeer%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Roll Reversal",
+        "flavor-text": "Keep 'em coming.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Director's Cut",
+        "elements": [],
+        "drop-type": "DLC 6 - World Drop",
+        "drop-sources": [
+            "The Seer"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62b8edd4abb3f41401676_Cmdl3t%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Ruffian",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632928b5145d26473f475_Ruffian%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Sapper",
+        "flavor-text": "To each according to their needs.",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Empowered Grawn"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632a5dcd41611294648a3_Sapper%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Seein' Dead",
+        "flavor-text": "Musha rain dum a doo, dum a da.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Handsome Jackpot",
+        "elements": [],
+        "drop-type": "DLC 1 - World Drop",
+        "drop-sources": [
+            "Jackbot"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632c7aeb939b770444b8b_Seein%27%20Dead%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Shield Maiden",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f632e469ed6e64d968f8ef_Shield%20Maiden%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Shockerator",
+        "flavor-text": "There's a spark between us. Can you feel it?",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Hag of Fervor"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633087926d792ea88db7f_Shockerator%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Spiritual Driver",
+        "flavor-text": "Only on the brink can we see so clearly.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "Mayhem 4 Item",
+        "drop-sources": [
+            "Atomic & Sylestro Target of Opportunity"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6337eeae84ff69526512e_Spiritual%20Driver%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Spy",
+        "flavor-text": "It's only after we've lost everything that we're free to do anything.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Designer's Cut",
+        "elements": [],
+        "drop-type": "DLC 5 - World Drop",
+        "drop-sources": [
+            "Madwidth Power Loot-Room",
+            "Heavyweight Harker"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62bcaaeb939b7703c37f4_Critical%20Mass%20(Zane-BL3).webp"
+    },
+    {
+        "name": "St4ckbot",
+        "flavor-text": "If you can make God bleed, people will cease to believe in them.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Handsome Jackpot",
+        "elements": [],
+        "drop-type": "DLC 1 - World Drop",
+        "drop-sources": [
+            "Jackbot"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633c28eb3ea391a5a7013_St4ckbot%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Stone",
+        "flavor-text": "She's mighty mighty.",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Fungal Gorger"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633d4966f9d62926a3c45_Stone%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Stormbinder",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633e0fd1a9e1d8ab56d73_Stormbinder%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Supercharger",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f633e8e4318f1e0a16a496_Supercharger%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "T4mer",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6340a6a97b78642dd2da2_T4mer%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Tactician",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6341705424a1f2b338f39_Tactician%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Tank Gal",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Moze",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6342f35a02654476d90ae_Tank%20Gal%20(Moze-BL3).webp"
+    },
+    {
+        "name": "Techspert",
+        "flavor-text": "If you love something, set it free.",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [
+            "Rachel the Anointed"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6344335a02654476d9e48_Techspert%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Thrillbot",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f6345c35a02654476db689_Thrillbot%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Tiger",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f634627a84a7b5f5100b78_Tiger%20(Amara-BL3).webp"
+    },
+    {
+        "name": "Tr4iner",
+        "flavor-text": "This is my cause.",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Legendary",
+        "manufacturer": "",
+        "origin": "Guns, Love, and Tentacles",
+        "elements": [],
+        "drop-type": "DLC 2 - World Drop",
+        "drop-sources": [
+            "Shiverous the Unscathed"
+        ],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f62d0c8d28e779fd8c6ad8_Friend-Bot%20(FL4K-BL3).webp"
+    },
+    {
+        "name": "Trainer",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "FL4K",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63486b792713a7548b55d_Trainer%20(Fl4k-BL3).webp"
+    },
+    {
+        "name": "Troublemaker",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Zane",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f63494793824b2c35add99_Troublemaker%20(Zane-BL3).webp"
+    },
+    {
+        "name": "Warrior",
+        "flavor-text": "",
+        "game": "borderlands-3",
+        "type": "Amara",
+        "rarity": "Epic",
+        "manufacturer": "",
+        "origin": "Base Game",
+        "elements": [],
+        "drop-type": "World Drop",
+        "drop-sources": [],
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f634cc7a84a7b5f510972c_Warrior%20(Amara-BL3).webp"
+    }
+]
