@@ -1,6 +1,6 @@
 import { useState } from "react"
-import { Entry } from "../models/fileLoader"
-import { getRarityColor } from "../models/colors"
+import { Entry } from "../../models/fileLoader"
+import { getRarityColor } from "../../models/colors"
 const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)

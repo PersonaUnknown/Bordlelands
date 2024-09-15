@@ -5,10 +5,10 @@ import { SettingsContext } from "../components/Modals/SettingsContext"
 import { Entry, getWeapons } from "../models/fileLoader"
 import { getRandomEntry } from "../models/rng"
 // Static UI
-import NavigationBar from "../components/NavigationBar"
+import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
 // Searches
-import SearchBar from "../components/SearchBar"
+import SearchBar from "../components/Guesses/SearchBar"
 import GuessHeader from "../components/Guesses/GuessHeader"
 import GuessTab from "../components/Guesses/GuessTab"
 // Modals

@@ -1,6 +1,5 @@
 import { Outlet, Link } from "react-router-dom"
-import Title from "../components/Title"
-import LinkTab from "../components/LinkTab"
+import Title from "../components/UI/Title"
 const Layout = () => {
     return (
         <div className="flex flex-column">

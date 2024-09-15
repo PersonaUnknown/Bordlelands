@@ -3,7 +3,7 @@ import { Modal, Form } from "react-bootstrap";
 import { motion } from 'framer-motion'
 import { FaWindowClose } from "react-icons/fa";
 import { SettingsContext } from "./SettingsContext";
-import Divider from "../Divider";
+import Divider from "../UI/Divider";
 const SettingsModal = ({show, handleClose}: SettingsModalProps) => {
     // States
     const { weaponsSettings, adjustWeaponsSettings } = useContext(SettingsContext)

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import Tab from '../images/tab.png'
+import Tab from '../../images/tab.png'
 const LinkTab = ({label, description, route, imgSrc}: LinkTabProps) => {
     return (
         <Link 

@@ -1,4 +1,4 @@
-import Divider from "../Divider"
+import Divider from "../UI/Divider"
 const GuessHeader = ({labels}: GuessHeaderProps) => {
     const Section = ({label}: SectionProps) => {
         const headerStyle = {

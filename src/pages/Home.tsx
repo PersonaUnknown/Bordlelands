@@ -1,4 +1,4 @@
-import LinkTab from "../components/LinkTab"
+import LinkTab from "../components/Navigation/LinkTab"
 import Classic from '../images/classic.png'
 import RedText from '../images/redtext.png'
 import LootPool from '../images/lootpool.png'

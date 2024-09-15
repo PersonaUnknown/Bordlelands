@@ -14,7 +14,13 @@
         "drop-sources": [
             "The Sum of Some Fears Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71511f9709d68d9e2ecda_%25Cu%2Bie%5E_%5Ekiller%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71511f9709d68d9e2ecda_%25Cu%2Bie%5E_%5Ekiller%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Random",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "/He4rtf;ull Spl0Dge..r",
@@ -31,7 +37,14 @@
         "drop-sources": [
             "0V3RL00K - Hidden Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1eb1b8dd608df0ee98db6_He4rtf%3Bull%20Spl0Dge..r%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1eb1b8dd608df0ee98db6_He4rtf%3Bull%20Spl0Dge..r%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Audio",
+            "Reload",
+            "Random"
+        ],
+        "aftermarket": "Pickle"
     },
     {
         "name": "88 Fragnum",
@@ -46,7 +59,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715e08f9fbc41c7d49ee7_88%20Fragnum%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715e08f9fbc41c7d49ee7_88%20Fragnum%20(Pistol-TPS).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Absolute Zero",
@@ -63,10 +80,14 @@
         "drop-sources": [
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717bcf9b860ddbc361230_Absolute%20Zero%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717bcf9b860ddbc361230_Absolute%20Zero%20(Laser-TPS).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Bad Touch",
+        "name": "Bad Touch (TPS)",
         "flavor-text": "When I'm good, I'm very good...",
         "game": "borderlands-tps",
         "type": "SMG",
@@ -78,10 +99,16 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71887e21403c878f89606_Bad%20Touch%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71887e21403c878f89606_Bad%20Touch%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Health",
+            "Stats"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
-        "name": "Badaboom",
+        "name": "Badaboom (TPS)",
         "flavor-text": "Multi-kill.",
         "game": "borderlands-tps",
         "type": "Launcher",
@@ -97,7 +124,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718975cacc74e55078a00_Badaboom%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718975cacc74e55078a00_Badaboom%20(Launcher-TPS).webp",
+        "effects": [
+            "Firing Mode",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Berrigan",

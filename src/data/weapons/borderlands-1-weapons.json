@@ -18,7 +18,11 @@
         "drop-sources": [
             "Ajax"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651850f95771c327f9ca9ed0_Ajax%27s%20Spear%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651850f95771c327f9ca9ed0_Ajax%27s%20Spear%20(AR-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "Ajax"
     },
     {
         "name": "Anaconda",
@@ -37,7 +41,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851115771c327f9cab049_Anaconda%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851115771c327f9cab049_Anaconda%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Aries",
@@ -56,7 +64,14 @@
             "Crawmerax",
             "Lance Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183298e3eced1bb76c49_Aries%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183298e3eced1bb76c49_Aries%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats",
+            "Health",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Athena's Wisdom",
@@ -77,7 +92,11 @@
         "drop-sources": [
             "Loot Larceny Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851195771c327f9cabb0f_Athena%27s%20Wisdom%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851195771c327f9cabb0f_Athena%27s%20Wisdom%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "Athena"
     },
     {
         "name": "Avenger",
@@ -96,7 +115,12 @@
             "Badass Infantry",
             "Badass Engineer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512223e88eb0c24ac9cb_Avenger%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512223e88eb0c24ac9cb_Avenger%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Baha's Bigger Blaster",
@@ -114,7 +138,11 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7189fb1d14086a6314719_Baha%27s%20Bigger%20Blaster%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7189fb1d14086a6314719_Baha%27s%20Bigger%20Blaster%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "Bastard",
@@ -133,7 +161,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851286c76388b6455a576_Bastard%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851286c76388b6455a576_Bastard%20(AR-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Bessie",
@@ -152,7 +185,12 @@
             "Crawmerax",
             "Lance Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512f8c3120cae3b0b143_Bessie%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512f8c3120cae3b0b143_Bessie%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bitch",
@@ -171,7 +209,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851371b5b8c2eda7d3be6_Bitch%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851371b5b8c2eda7d3be6_Bitch%20(SMG-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Blaster",
@@ -188,7 +231,13 @@
         "drop-sources": [
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2705c0dab8eee6a2d5_Blaster%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2705c0dab8eee6a2d5_Blaster%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Bone Shredder",
@@ -206,7 +255,12 @@
             "Bone Head",
             "Chaz"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518513e5016f10da96b5540_Bone%20Shredder%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518513e5016f10da96b5540_Bone%20Shredder%20(SMG-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Boom Stick",
@@ -227,7 +281,13 @@
         "drop-sources": [
             "Baron Flynt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ac22c7d5d3f93e74695_Boom%20Stick%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ac22c7d5d3f93e74695_Boom%20Stick%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Bulldog",
@@ -246,7 +306,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851444aed4b545a68f395_Bulldog%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851444aed4b545a68f395_Bulldog%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Butcher",
@@ -264,7 +329,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c439f50e539fc14c195_Butcher%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c439f50e539fc14c195_Butcher%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Cannon",
@@ -282,7 +353,14 @@
             "Destroyer Chest Location",
             "Master McCloud"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cc42dddd4da8b16491c_Cannon%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cc42dddd4da8b16491c_Cannon%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Chimera",
@@ -297,7 +375,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518514b5016f10da96b5d3e_Chimera%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518514b5016f10da96b5d3e_Chimera%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Chiquito Amigo",
@@ -318,7 +403,12 @@
         "drop-sources": [
             "Purple Juice! Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518515280035da4f6aa13bd_Chiquito%20Amigo%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518515280035da4f6aa13bd_Chiquito%20Amigo%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Cobra",
@@ -333,7 +423,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185159d7b5bcebcfa51d82_Cobra%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185159d7b5bcebcfa51d82_Cobra%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Crux",
@@ -348,7 +445,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185160c867409df1b4cf54_Crux%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185160c867409df1b4cf54_Crux%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Crux (Plague)",
@@ -363,7 +466,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f41c7ca4653fc817cee_Crux%20(Plague)%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f41c7ca4653fc817cee_Crux%20(Plague)%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Cyclops",
@@ -382,7 +490,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516661008515c97d34c6_Cyclops%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516661008515c97d34c6_Cyclops%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Defender",
@@ -401,7 +514,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516d5d86eb8b1c7f0392_Defender%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518516d5d86eb8b1c7f0392_Defender%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Defiler",
@@ -416,7 +535,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185173fb1dc81e958f6c40_Defiler%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185173fb1dc81e958f6c40_Defiler%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Destroyer",
@@ -435,7 +559,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185179adf2a346d333cf62_Destroyer%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185179adf2a346d333cf62_Destroyer%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Draco",
@@ -450,7 +581,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720f02b8fd25889405c59_Draco%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720f02b8fd25889405c59_Draco%20(AR-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Equalizer",
@@ -469,7 +605,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65184d1fb33f87e6f4985313_Equalizer%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65184d1fb33f87e6f4985313_Equalizer%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Fireball",
@@ -484,7 +626,14 @@
         ],
         "drop-type": "DLC3 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Firebomb",
@@ -503,7 +652,14 @@
             "Drifter",
             "Badass Bruiser"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722e3b1277ce7573b36b1_Fireball%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Firehawk",
@@ -518,7 +674,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185180155bcd98baa52f81_Firehawk%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185180155bcd98baa52f81_Firehawk%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Flaregun",
@@ -533,7 +695,14 @@
         ],
         "drop-type": "DLC3 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723b6ba0cf6e9265c5910_Flaregun%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723b6ba0cf6e9265c5910_Flaregun%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Friendly Fire",
@@ -548,7 +717,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72423ba0cf6e9265d2659_Friendly%20Fire%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72423ba0cf6e9265d2659_Friendly%20Fire%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Gasher",
@@ -567,7 +742,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851875016f10da96b92bf_Gasher%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851875016f10da96b92bf_Gasher%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Gemini",
@@ -582,11 +763,17 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651854485231fb3f86cdf244_Gemini%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651854485231fb3f86cdf244_Gemini%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
-        "name": "Glob Gun",
-        "flavor-text": "I think you have something on your shoe.",
+        "name": "Glob Gun / Splat Gun / Rolling Spatter Gun",
+        "flavor-text": "I think you have something on your shoe. / For when you want to splat something / Splat! Sploch! Spluch!",
         "game": "borderlands-1",
         "type": "Eridian",
         "rarity": "Uncommon",
@@ -597,7 +784,14 @@
         ],
         "drop-type": "DLC3 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725098493f5e726fc83d0_Glob%20Gun%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725098493f5e726fc83d0_Glob%20Gun%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Guardian",
@@ -616,7 +810,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851949b9f975bb562785b_Guardian%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851949b9f975bb562785b_Guardian%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Hammer",
@@ -631,7 +831,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726fa451204fee7f4aa7f_Hammer%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726fa451204fee7f4aa7f_Hammer%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Fire Pattern",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Hellfire",
@@ -646,7 +853,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518519a6c76388b6455fce4_Hellfire%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518519a6c76388b6455fce4_Hellfire%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Hive Mind",
@@ -664,7 +878,13 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727f0f9709d68d9fca141_Hive%20Mind%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727f0f9709d68d9fca141_Hive%20Mind%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Hornet",
@@ -679,7 +899,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a03ccea50415791785_Hornet%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a03ccea50415791785_Hornet%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Hydra",
@@ -694,7 +921,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a7f76736bbc6c60cef_Hydra%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851a7f76736bbc6c60cef_Hydra%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Invader",
@@ -713,7 +946,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651855e07239798ec52bc0f1_Invader%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651855e07239798ec52bc0f1_Invader%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Invader (Executioner)",
@@ -732,7 +971,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ad8c3120cae3b126a6_Invader%20(Executioner)%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ad8c3120cae3b126a6_Invader%20(Executioner)%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Jackal",
@@ -755,7 +1000,13 @@
             "Badass Bruiser",
             "Drifter"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851b93ccea50415792d38_Jackal%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851b93ccea50415792d38_Jackal%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Knoxx's Gold",
@@ -776,7 +1027,12 @@
         "drop-sources": [
             "General Knoxx"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851bf4b203efc24359653_Knoxx%27s%20Gold%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851bf4b203efc24359653_Knoxx%27s%20Gold%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Money"
+        ],
+        "aftermarket": "Knoxx"
     },
     {
         "name": "Krom's Sidearm",
@@ -793,7 +1049,14 @@
         "drop-sources": [
             "Krom's Turret"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851c66c76388b64562a0b_Krom%27s%20Sidearm%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851c66c76388b64562a0b_Krom%27s%20Sidearm%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "ADS",
+            "Firing Mode",
+            "Element"
+        ],
+        "aftermarket": "Krom"
     },
     {
         "name": "Kyros' Power",
@@ -810,7 +1073,13 @@
         "drop-sources": [
             "Commander Kyros"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851cc80035da4f6aa7d48_Kyros%27%20Power%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851cc80035da4f6aa7d48_Kyros%27%20Power%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "Kyros"
     },
     {
         "name": "Lady Finger",
@@ -832,7 +1101,11 @@
             "Moe & Marley",
             "Nine-Toes: Take Him Down Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aba4adf9e5a7ead980e_Lady%20Finger%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aba4adf9e5a7ead980e_Lady%20Finger%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "Leviathan",
@@ -851,7 +1124,12 @@
             "Rakk-Trap Hive",
             "Wanted: Fresh Fish Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf1c86e1b2f5bf29e39_Leviathan%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf1c86e1b2f5bf29e39_Leviathan%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lightning",
@@ -868,7 +1146,14 @@
         "drop-sources": [
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bffc86e1b2f5bf2ac21_Lightning%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bffc86e1b2f5bf2ac21_Lightning%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Madjack",
@@ -885,7 +1170,13 @@
         "drop-sources": [
             "One-Eyed Jack"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d2aef8ec6ded7b6928c_Madjack%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d2aef8ec6ded7b6928c_Madjack%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "One-Eyed Jack"
     },
     {
         "name": "Mega Cannon",
@@ -904,7 +1195,14 @@
             "Badass Bruiser",
             "Drifter"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72da186abe1ea4516c0f6_Mega%20Cannon%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72da186abe1ea4516c0f6_Mega%20Cannon%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Movement",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Mongol",
@@ -922,7 +1220,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e0938c971d5ec26784c_Mongol%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e0938c971d5ec26784c_Mongol%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Mug Shot",
@@ -940,7 +1244,13 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e50ef8ec6ded7b7ffb6_Mug%20Shot%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e50ef8ec6ded7b7ffb6_Mug%20Shot%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Nailer",
@@ -958,7 +1268,12 @@
             "Bleeder",
             "House Hunting Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ea8ef8ec6ded7b86da9_Nailer%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ea8ef8ec6ded7b86da9_Nailer%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Nemesis",
@@ -977,7 +1292,14 @@
             "Badass Infantry",
             "Crawmerax"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d21add88a3c36a93a8_Nemesis%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d21add88a3c36a93a8_Nemesis%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Nidhogg",
@@ -995,7 +1317,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ed00c45a779d0267af0_Nidhogg%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ed00c45a779d0267af0_Nidhogg%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Ogre",
@@ -1010,7 +1338,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d980035da4f6aa82b9_Ogre%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851d980035da4f6aa82b9_Ogre%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Orion",
@@ -1025,7 +1359,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851dfb33f87e6f49cc5f1_Orion%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851dfb33f87e6f49cc5f1_Orion%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Patton",
@@ -1043,7 +1384,12 @@
             "Queen Tarantella",
             "Bait And Switch Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd753f0d8d7f35ae638_Patton%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd753f0d8d7f35ae638_Patton%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Penetrator",
@@ -1062,7 +1408,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7300297a59bcc730278d7_Penetrator%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7300297a59bcc730278d7_Penetrator%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Protector",
@@ -1081,7 +1432,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730aef449220cd3f3639d_Protector%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730aef449220cd3f3639d_Protector%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Raven",
@@ -1100,7 +1457,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851e51add88a3c36aa236_Raven%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851e51add88a3c36aa236_Raven%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Reaper",
@@ -1115,7 +1478,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ee7239798ec5283fe4_Reaper%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851ee7239798ec5283fe4_Reaper%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Reaver's Edge",
@@ -1136,7 +1505,11 @@
         "drop-sources": [
             "Reaver"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851f680035da4f6aa9381_Reaver%27s%20Edge%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851f680035da4f6aa9381_Reaver%27s%20Edge%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "Reaver"
     },
     {
         "name": "Rebel",
@@ -1155,7 +1528,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851fd7e091bb700e50919_Rebel%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851fd7e091bb700e50919_Rebel%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Redemption",
@@ -1173,7 +1551,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7314d231580ef43d39f4b_Redemption%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7314d231580ef43d39f4b_Redemption%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Revolution",
@@ -1192,7 +1576,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731b34c5de0dfaa77f646_Revolution%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731b34c5de0dfaa77f646_Revolution%20(AR-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Rhino",
@@ -1209,7 +1598,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731c06f656146ade4479a_Rhino%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731c06f656146ade4479a_Rhino%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Rider",
@@ -1230,7 +1625,13 @@
         "drop-sources": [
             "Hidden Basement Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852043ccea50415796ca7_Rider%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852043ccea50415796ca7_Rider%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Scopeless"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Rifle",
@@ -1245,22 +1646,14 @@
         ],
         "drop-type": "DLC3 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731cd8f43799ace5f573e_Rifle%20(Eridian-BL1).webp"
-    },
-    {
-        "name": "Rolling Spatter Gun",
-        "flavor-text": "Splat! Sploch! Spluch!",
-        "game": "borderlands-1",
-        "type": "Eridian",
-        "rarity": "Uncommon",
-        "manufacturer": "Eridian",
-        "origin": "General Knoxx",
-        "elements": [
-            "Corrosive"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731cd8f43799ace5f573e_Rifle%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
         ],
-        "drop-type": "DLC3 - World Drop",
-        "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7326dd14e5843d8c42921_Rolling%20Spatter%20Gun%20(Eridian-BL1).webp"
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Savior",
@@ -1279,7 +1672,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518520b3599bd2866c1cad8_Savior%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518520b3599bd2866c1cad8_Savior%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Serpens",
@@ -1298,7 +1697,14 @@
             "Badass Bruiser",
             "Crawmerax"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521180035da4f6aaafde_Serpens%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521180035da4f6aaafde_Serpens%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Silent Night",
@@ -1316,7 +1722,12 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340b357e03da689cf90d_Silent%20Night%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340b357e03da689cf90d_Silent%20Night%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Skullmasher",
@@ -1331,7 +1742,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185217f76736bbc6c66e10_Skullmasher%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185217f76736bbc6c66e10_Skullmasher%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Sledge's Shotgun",
@@ -1348,22 +1764,13 @@
         "drop-sources": [
             "Sledge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7344686abe1ea451ec292_Sledge%27s%20Shotgun%20(Shotgun-BL1).webp"
-    },
-    {
-        "name": "Splat Gun",
-        "flavor-text": "For when you want to splat something.",
-        "game": "borderlands-1",
-        "type": "Eridian",
-        "rarity": "Uncommon",
-        "manufacturer": "Eridian",
-        "origin": "General Knoxx",
-        "elements": [
-            "Corrosive"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7344686abe1ea451ec292_Sledge%27s%20Shotgun%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode",
+            "Knockback"
         ],
-        "drop-type": "DLC3 - World Drop",
-        "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734bd0c45a779d02e03bb_Splat%20Gun%20(Eridian-BL1).webp"
+        "aftermarket": "Sledge"
     },
     {
         "name": "Stalker",
@@ -1382,7 +1789,13 @@
             "Badass Engineer",
             "Crawmerax"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734dc06d0803d9a4aef7c_Stalker%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734dc06d0803d9a4aef7c_Stalker%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Stampeding Spatter",
@@ -1401,7 +1814,14 @@
             "Badass Bruiser",
             "Drifter"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734e90db25bd3a72a0e63_Stampeding%20Spatter%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734e90db25bd3a72a0e63_Stampeding%20Spatter%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Striker",
@@ -1416,7 +1836,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521df76736bbc6c672b0_Striker%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518521df76736bbc6c672b0_Striker%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Sucker Punch",
@@ -1434,7 +1859,13 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353ee7a75977f03ca1c1_Sucker%20Punch%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353ee7a75977f03ca1c1_Sucker%20Punch%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Surkov",
@@ -1453,7 +1884,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185223fb1dc81e958ff380_Surkov%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185223fb1dc81e958ff380_Surkov%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Swap"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "T.K's Wave",
@@ -1471,7 +1908,12 @@
             "Scar",
             "T.K.'s Life And Limb Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185469f76736bbc6c8741a_T.K%27s%20Wave%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185469f76736bbc6c8741a_T.K%27s%20Wave%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Fire Pattern"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "Thanatos",
@@ -1490,7 +1932,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735c018c2972e072be3aa_Thanatos%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735c018c2972e072be3aa_Thanatos%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Big Toe",
@@ -1505,7 +1952,13 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735d4342c812ce8e7025e_The%20Big%20Toe%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735d4342c812ce8e7025e_The%20Big%20Toe%20(Launcher-BL1).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Blister",
@@ -1523,7 +1976,13 @@
             "Mothrakk",
             "Like A Moth To Flame Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735e1dabdba29bcb20df9_The%20Blister%20(Shotgun-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735e1dabdba29bcb20df9_The%20Blister%20(Shotgun-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Chopper",
@@ -1540,7 +1999,13 @@
         "drop-sources": [
             "Motor Head"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852319b9f975bb562fee9_The%20Chopper%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852319b9f975bb562fee9_The%20Chopper%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Clipper",
@@ -1557,7 +2022,14 @@
         "drop-sources": [
             "Nine-Toes"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736439a6dcd18d547c4a4_The%20Clipper%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736439a6dcd18d547c4a4_The%20Clipper%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Dove",
@@ -1575,7 +2047,13 @@
             "Slither",
             "Altar Ego: Godless Monsters Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365d6db74a3f9f349feb_The%20Dove%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365d6db74a3f9f349feb_The%20Dove%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Meat Grinder",
@@ -1596,7 +2074,12 @@
         "drop-sources": [
             "Jaynis Kobb"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736b5196104bdd20dddff_The%20Meat%20Grinder%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736b5196104bdd20dddff_The%20Meat%20Grinder%20(AR-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Roaster",
@@ -1613,7 +2096,13 @@
         "drop-sources": [
             "Taylor Kobb"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852385016f10da96c2129_The%20Roaster%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852385016f10da96c2129_The%20Roaster%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Sentinel",
@@ -1631,7 +2120,13 @@
             "Rakkinishu",
             "Jack's Other Eye Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736cbd2d4f2c2041965a1_The%20Sentinel%20(AR-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736cbd2d4f2c2041965a1_The%20Sentinel%20(AR-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "The Spy",
@@ -1649,7 +2144,14 @@
             "King Wee Wee",
             "King Tossing Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d8c2c0d921b25562ea_The%20Spy%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d8c2c0d921b25562ea_The%20Spy%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "ADS",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Thunder Storm",
@@ -1666,7 +2168,16 @@
         "drop-sources": [
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73715bfd0a97c9bb4d49b_Thunder%20Storm%20(Eridian-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73715bfd0a97c9bb4d49b_Thunder%20Storm%20(Eridian-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile",
+            "Knockback",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Troll",
@@ -1681,7 +2192,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518523e257cec3c1dc94c46_Troll%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518523e257cec3c1dc94c46_Troll%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Health"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Tsunami",
@@ -1700,7 +2217,14 @@
             "Badass Infantry",
             "Badass Engineer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852445231fb3f86cc4224_Tsunami%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852445231fb3f86cc4224_Tsunami%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Typhoon",
@@ -1717,7 +2241,13 @@
         "drop-sources": [
             "Commander Typhon"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518524b3599bd2866c20349_Typhoon%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518524b3599bd2866c20349_Typhoon%20(SMG-BL1).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Undertaker",
@@ -1739,7 +2269,12 @@
             "Badass Infantry",
             "Badass Bruiser"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73830394cbaf25600eb48_Undertaker%20(Launcher-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73830394cbaf25600eb48_Undertaker%20(Launcher-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Unforgiven",
@@ -1754,7 +2289,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518561a00ee886d8d658eb4_Unforgiven%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518561a00ee886d8d658eb4_Unforgiven%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Vengeance",
@@ -1773,7 +2313,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73887ae773a4a23254828_Vengeance%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73887ae773a4a23254828_Vengeance%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
+        
     },
     {
         "name": "Violator",
@@ -1792,7 +2338,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852578c3120cae3b1bdb6_Violator%20(Repeater-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852578c3120cae3b1bdb6_Violator%20(Repeater-BL1).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Violence",
@@ -1810,7 +2361,12 @@
             "Crawmerax",
             "Destroyer Chest Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738df5eaac06288985234_Violence%20(Revolver-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738df5eaac06288985234_Violence%20(Revolver-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Volcano",
@@ -1825,7 +2381,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185459bc097d4b845e7621_Volcano%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185459bc097d4b845e7621_Volcano%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Whitting's Elephant Gun",
@@ -1843,7 +2405,13 @@
             "Skagzilla",
             "Big Game Hunter Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b93edbf73e6d36daf1_Whitting%27s%20Elephant%20Gun%20(Sniper-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b93edbf73e6d36daf1_Whitting%27s%20Elephant%20Gun%20(Sniper-BL1).webp",
+        "effects": [
+            "Stats",
+            "Knockback",
+            "Scopeless"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wildcat",
@@ -1862,6 +2430,10 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185264257cec3c1dc96a3f_Wildcat%20(SMG-BL1).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185264257cec3c1dc96a3f_Wildcat%20(SMG-BL1).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     }
 ]

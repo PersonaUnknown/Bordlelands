@@ -1,7 +1,7 @@
 import Modal from 'react-bootstrap/Modal';
 import { motion } from 'framer-motion';
 import { FaWindowClose } from "react-icons/fa";
-import ColorIndicator from '../ColorIndicator';
+import ColorIndicator from '../UI/ColorIndicator';
 function TutorialModal({show, handleClose}: TutorialModalProps) {
   const modalStyle = {
     backgroundColor: '#3f3f3f',
