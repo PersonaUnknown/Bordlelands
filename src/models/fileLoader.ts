@@ -56,6 +56,16 @@ export interface Entry {
     "effects": string[]
 }
 
+export interface RedTextEntry {
+    "name": string,
+    "flavor-text": string,
+    "image": string,
+    "rarities": string[],
+    "type": string[],
+    "manufacturers": string[],
+    "drop-sources": string[]
+}
+
 export const getWeapons = (games: string[]) : Entry[] => {
     let output: Entry[] = []
     for (const game of games) {
@@ -66,6 +76,47 @@ export const getWeapons = (games: string[]) : Entry[] => {
     }
     
     return output
+}
+
+export const getFlavorTexts = (games: string[]) : RedTextEntry[] => {
+    let flavorTexts = new Map<string, RedTextEntry>()
+    for (const game of games) {
+        if (weapons.has(game)) {
+            let newWeapons: Entry[] = weapons.get(game) ?? []
+            for (const weapon of newWeapons) {
+                if (flavorTexts.has(weapon['flavor-text'])) {
+                    let oldEntry: RedTextEntry | undefined = flavorTexts.get(weapon['flavor-text'])
+                    if (oldEntry === undefined) {
+                        continue
+                    }
+                    if (!oldEntry.type.includes(weapon.type)) {
+                        oldEntry.type = [...oldEntry.type, weapon.type]
+                    }
+                    if (!oldEntry.manufacturers.includes(weapon.manufacturer)) {
+                        oldEntry.manufacturers = [...oldEntry.manufacturers, weapon.manufacturer]
+                    }
+                    oldEntry['drop-sources'] = [...oldEntry['drop-sources'], ...weapon['drop-sources']]
+                    oldEntry['drop-sources'] = [... new Set(oldEntry['drop-sources'])]
+                    oldEntry['rarities'] = [...oldEntry['rarities'], ...weapon.rarity]
+                    oldEntry['rarities'] = [... new Set(oldEntry['rarities'])]
+                    flavorTexts.set(weapon['flavor-text'], oldEntry)
+                } else {
+                    let newEntry: RedTextEntry = {
+                        "name": weapon.name,
+                        "flavor-text": weapon['flavor-text'],
+                        "type": [weapon.type],
+                        "manufacturers": [weapon.manufacturer],
+                        "drop-sources": weapon['drop-sources'],
+                        "image": weapon.image,
+                        "rarities": [weapon.rarity]
+                    }
+                    flavorTexts.set(weapon['flavor-text'], newEntry)
+                }
+            }
+        }
+    }
+
+    return Array.from(flavorTexts.values())
 }
 
 export const getShields = () => {

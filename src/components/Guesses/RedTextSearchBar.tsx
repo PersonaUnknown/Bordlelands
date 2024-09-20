@@ -1,7 +1,7 @@
 import { useState } from "react"
-import { Entry, RedTextEntry } from "../../models/fileLoader"
+import { RedTextEntry } from "../../models/fileLoader"
 import { getRarityColor } from "../../models/colors"
-const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
+const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)
     const onFocus = () => { 
@@ -22,12 +22,12 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
             onSubmitCallback(filteredEntries[0])
         }
     }
-    const filterCheck = (entry: Entry) : boolean => {
+    const filterCheck = (entry: RedTextEntry) : boolean => {
         let searchQueryMatch: boolean = entry.name.toLowerCase().includes(currInput.toLowerCase())
         let currGuessCheck = true
         for (let i = 0; i < currGuesses.length; i++) {
-            let entryCheck : Entry = currGuesses[i]
-            if (entryCheck.name === entry.name && entryCheck.rarity === entry.rarity && entryCheck.game === entry.game) {
+            let entryCheck : RedTextEntry = currGuesses[i]
+            if (entryCheck.name === entry.name) {
                 // To deal with the edge cases of: 1) Returning legendaries, 2) The same unique listed at multiple rarities
                 currGuessCheck = false
                 break
@@ -69,14 +69,14 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
                     fontSize: 24,
                     marginTop: 'auto',
                     marginBottom: 'auto',
-                    color: getRarityColor(entry.rarity),
+                    // color: getRarityColor(entry.rarities[0]),
                     flex: 1
                 }
                 return (
                     <button 
                         style={tabStyle}
                         className="flex flex-row"
-                        key={`${entry.name}-${entry.game}-${entry.rarity}`}
+                        key={`${entry.name}`}
                         onClick={(e) => {
                             e.stopPropagation()
                             setCurrInput("")
@@ -146,10 +146,10 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
 }
 
 interface SearchBarProps {
-    entries: Entry[],
-    currGuesses: Entry[],
+    entries: RedTextEntry[],
+    currGuesses: RedTextEntry[],
     guessedCorrectly: boolean,
-    onSubmitCallback: (newEntry: Entry) => void
+    onSubmitCallback: (newEntry: RedTextEntry) => void
 }
 
-export default SearchBar
+export default RedTextSearchBar

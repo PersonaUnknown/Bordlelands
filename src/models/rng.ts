@@ -1,4 +1,4 @@
-import { Entry } from "./fileLoader";
+import { Entry, RedTextEntry } from "./fileLoader";
 
 function getRandomInt(min: number, max: number) {
     const minCeiled = Math.ceil(min);
@@ -26,6 +26,17 @@ export const getRandomGame = () => {
 }
 
 export const getRandomEntry = (entries: Entry[]) : Entry | null => {
+    let length: number = entries.length
+    let randomIndex: number = getRandomInt(0, length - 1)
+    if (randomIndex < 0 || randomIndex >= length) {
+        console.error("An invalid index was given: " + randomIndex)
+        return null
+    }
+
+    return entries[randomIndex]
+}
+
+export const getRandomFlavorText = (entries: RedTextEntry[]) : RedTextEntry | null => {
     let length: number = entries.length
     let randomIndex: number = getRandomInt(0, length - 1)
     if (randomIndex < 0 || randomIndex >= length) {

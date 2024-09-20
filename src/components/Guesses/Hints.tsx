@@ -79,7 +79,7 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
         )
     }
     return (
-        numGuesses <= 1 ?
+        numGuesses <= 1 && !answeredCorrectly ?
         <div/>
         :
         <div style={containerStyle} className="flex flex-column">
