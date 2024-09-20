@@ -51,7 +51,9 @@ export interface Entry {
     "origin": string,
     "elements": string[],
     "drop-type": string,
-    "drop-sources": string[]
+    "drop-sources": string[],
+    "aftermarket": string,
+    "effects": string[]
 }
 
 export const getWeapons = (games: string[]) : Entry[] => {

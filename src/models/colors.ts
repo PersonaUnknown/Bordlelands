@@ -8,11 +8,13 @@ export const getColor = (state: boolean): string => {
 
 export const getColorComparison = (guess: string[], actual: string[]): string => {
     let partialMatch: boolean = false
-    if (guess.join(",") === actual.join(",")) {
+    let sortedGuess: string[] = guess.sort()
+    let sortedActual: string[] = actual.sort()
+    if (sortedGuess.join(",") === sortedActual.join(",")) {
         return "#45f395"
     }
-    for (const input of guess) {
-        if (actual.includes(input)) {
+    for (const input of sortedGuess) {
+        if (sortedActual.includes(input)) {
             partialMatch = true
             break
         }

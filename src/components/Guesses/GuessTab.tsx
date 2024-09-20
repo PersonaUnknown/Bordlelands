@@ -92,6 +92,24 @@ const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
                         />
                     </motion.div>
                 )
+            case "effects":
+                const effects: string = label.join(", ")
+                const fontStyle = { fontSize: 12 }
+                return (
+                    <motion.div 
+                        style={{
+                            ...GuessStyle, 
+                            ...fontStyle,
+                            backgroundColor: getColorComparison(label, actual),
+                            flexWrap: 'wrap',
+                            gap: 2
+                        }}
+                        animate={fadeAnimation} 
+                        transition={fadeTransition}
+                    >
+                        {effects}
+                    </motion.div>
+                )
             default:
                 // Element
                 const elementStyle = {
@@ -134,7 +152,9 @@ const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
             <Guess label={[guess.rarity]} type={'text'} actual={[actual.rarity]} animDelay={3 * animDuration} animDuration={animDuration}/>
             <Guess label={guess.elements} type={'element'} actual={actual.elements} animDelay={4 * animDuration} animDuration={animDuration}/>
             <Guess label={[guess["drop-type"]]} type={'text'} actual={[actual["drop-type"]]} animDelay={5 * animDuration} animDuration={animDuration}/>
-            <Guess label={[guess.game]} type={'game'} actual={[actual.game]} animDelay={6 * animDuration} animDuration={animDuration}/>
+            <Guess label={[guess["aftermarket"]]} type={'text'} actual={[actual["aftermarket"]]} animDelay={6 * animDuration} animDuration={animDuration}/>
+            <Guess label={guess["effects"]} type={'effects'} actual={actual["effects"]} animDelay={7 * animDuration} animDuration={animDuration}/>
+            <Guess label={[guess.game]} type={'game'} actual={[actual.game]} animDelay={8 * animDuration} animDuration={animDuration}/>
         </div>
     )
 }

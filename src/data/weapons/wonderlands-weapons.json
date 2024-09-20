@@ -18,7 +18,12 @@
         "drop-sources": [
             "Banshee"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71614c9920a99cde60e35_AUTOMAGIC.exe%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71614c9920a99cde60e35_AUTOMAGIC.exe%20(Pistol-WL).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Anchor",
@@ -35,7 +40,11 @@
         "drop-sources": [
             "In the Belly is a Beast Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7181bfabf19c99a7694a4_Anchor%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7181bfabf19c99a7694a4_Anchor%20(Launcher-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Antique Greatbow",
@@ -56,7 +65,12 @@
         "drop-sources": [
             "Thorne Shadow Overworld"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71823013c3c3367c1fbec_Antique%20Greatbow%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71823013c3c3367c1fbec_Antique%20Greatbow%20(Sniper-WL).webp",
+        "effects": [
+            "Money",
+            "Cursed"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Apex",
@@ -71,7 +85,11 @@
         ],
         "drop-type": "Paid Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7182aefc30ddc55892ff9_Apex%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7182aefc30ddc55892ff9_Apex%20(Pistol-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Banshee Claw",
@@ -89,7 +107,12 @@
         "drop-sources": [
             "Thy Bard, with a Vengeance Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718e2e9c900e8d62d26cf_Banshee%20Claw%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718e2e9c900e8d62d26cf_Banshee%20Claw%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Birthright",
@@ -106,7 +129,12 @@
         "drop-sources": [
             "Soul Purpose Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719c9013c3c3367c44955_Birthright%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719c9013c3c3367c44955_Birthright%20(Pistol-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blazing Volley",
@@ -121,7 +149,12 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2f8af47250f2c066ab_Blazing%20Volley%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2f8af47250f2c066ab_Blazing%20Volley%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blue Cake",
@@ -138,7 +171,12 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6d2c7d5d3f93e6cd6c_Blue%20Cake%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6d2c7d5d3f93e6cd6c_Blue%20Cake%20(Launcher-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Body Spray",
@@ -155,7 +193,12 @@
         "drop-sources": [
             "Necromance Her Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a759f00af8ca06ba673_Body%20Spray%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a759f00af8ca06ba673_Body%20Spray%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boniface's Soul",
@@ -177,7 +220,11 @@
         "drop-sources": [
             "Mike"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aa04eb5e6a8dc814dfe_Boniface%27s%20Soul%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aa04eb5e6a8dc814dfe_Boniface%27s%20Soul%20(Pistol-WL).webp",
+        "effects": [
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Borea's Breath",
@@ -194,7 +241,13 @@
         "drop-sources": [
             "Ribula"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71adb5b51b820521cc07d_Borea%27s%20Breath%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71adb5b51b820521cc07d_Borea%27s%20Breath%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Reload",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Butterboom",
@@ -211,7 +264,11 @@
         "drop-sources": [
             "Imelda the Sand Witch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c53756e20f012226795_Butterboom%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c53756e20f012226795_Butterboom%20(Pistol-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cannonballer",
@@ -233,7 +290,12 @@
         "drop-sources": [
             "LeChance"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ccc61c1b11ded539b73_Cannonballer%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ccc61c1b11ded539b73_Cannonballer%20(Launcher-WL).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Carrouser",
@@ -250,7 +312,12 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ce3dc7dbb34e584be25_Carrouser%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ce3dc7dbb34e584be25_Carrouser%20(Sniper-WL).webp",
+        "effects": [
+            "Element",
+            "Ally"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Catatumbo",
@@ -265,7 +332,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cf3f298a8e941372b92_Catatumbo%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cf3f298a8e941372b92_Catatumbo%20(Pistol-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Circuitous Gyre",
@@ -285,7 +358,11 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71da25357a405f505cdea_Circuitous%20Gyre%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71da25357a405f505cdea_Circuitous%20Gyre%20(Shotgun-WL).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Crossblade",
@@ -306,7 +383,12 @@
         "drop-sources": [
             "Gloopathoth, Keeper of the Abyss"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ef598f04f819bf7e62c_Crossblade%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ef598f04f819bf7e62c_Crossblade%20(Shotgun-WL).webp",
+        "effects": [
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Crossbolt Generator",
@@ -323,7 +405,11 @@
         "drop-sources": [
             "Kastor The Normal-Sized Skeleton"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71efcae0681bd25dac4da_Crossbolt%20Generator%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71efcae0681bd25dac4da_Crossbolt%20Generator%20(AR-WL).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Diamondguard Sword",
@@ -340,7 +426,14 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720a5933993401d91e147_Diamondguard%20Sword%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720a5933993401d91e147_Diamondguard%20Sword%20(Melee-WL).webp",
+        "effects": [
+            "Stacks",
+            "Element",
+            "Random",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Die-Vergent",
@@ -359,7 +452,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720acf0d7a07cddcb9c5e_Die-Vergent%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720acf0d7a07cddcb9c5e_Die-Vergent%20(Shotgun-WL).webp",
+        "effects": [
+            "Random",
+            "Projectile",
+            "Knockback"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Donkey",
@@ -376,7 +475,12 @@
         "drop-sources": [
             "Droll the Troll Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720de3fd1e5e0744d9635_Donkey%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720de3fd1e5e0744d9635_Donkey%20(AR-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Dreadlord's Finest",
@@ -393,7 +497,13 @@
         "drop-sources": [
             "Ancient Powers Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7218d8493f5e726f7982d_Dreadlord%27s%20Finest%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7218d8493f5e726f7982d_Dreadlord%27s%20Finest%20(AR-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Dry'l's Fury",
@@ -410,7 +520,13 @@
         "drop-sources": [
             "Dry'l"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72198e9c900e8d63afbd6_Dry%27l%27s%20Fury%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72198e9c900e8d63afbd6_Dry%27l%27s%20Fury%20(Sniper-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "Dry'l"
     },
     {
         "name": "Dry'l's Legacy",
@@ -427,7 +543,12 @@
         "drop-sources": [
             "Mortal Coil Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a0391aeb626463025e_Dry%27l%27s%20Legacy%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a0391aeb626463025e_Dry%27l%27s%20Legacy%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Dry'l"
     },
     {
         "name": "Echoing Phoenix",
@@ -444,7 +565,11 @@
         "drop-sources": [
             "Fyodor the Soul Warden"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721d33e32e6ea60021889_Echoing%20Phoenix%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721d33e32e6ea60021889_Echoing%20Phoenix%20(AR-WL).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Eight Piece",
@@ -461,7 +586,11 @@
         "drop-sources": [
             "A Wandering Aye Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721dbf9709d68d9f3d3ee_Eight%20Piece%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721dbf9709d68d9f3d3ee_Eight%20Piece%20(AR-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Envy",
@@ -478,7 +607,12 @@
         "drop-sources": [
             "King Q'urub Hullsunder Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722095c086a8b7eb24072_Envy%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722095c086a8b7eb24072_Envy%20(Sniper-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fatebreaker",
@@ -500,7 +634,13 @@
         "drop-sources": [
             "Dragon Lord"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722a86d2f5d27af669a77_Fatebreaker%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722a86d2f5d27af669a77_Fatebreaker%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Projectile",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fragment Rain",
@@ -517,7 +657,12 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723d77d4d6d7852ee2bdf_Fragment%20Rain%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723d77d4d6d7852ee2bdf_Fragment%20Rain%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Frostbite",
@@ -534,7 +679,12 @@
         "drop-sources": [
             "Forgery Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7242b0f7ee963b50b43e1_Frostbite%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7242b0f7ee963b50b43e1_Frostbite%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Frying Pan",
@@ -554,7 +704,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724bf5c086a8b7eb69008_Frying%20Pan%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724bf5c086a8b7eb69008_Frying%20Pan%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Reflect"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Gluttony",
@@ -571,7 +726,13 @@
         "drop-sources": [
             "Droll the Troll Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725258493f5e726fcb911_Gluttony%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725258493f5e726fcb911_Gluttony%20(Pistol-WL).webp",
+        "effects": [
+            "Reload",
+            "Health",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Goblin Pickaxe",
@@ -593,7 +754,13 @@
         "drop-sources": [
             "Pigwart Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7252ef6a61983a04560c7_Goblin%20Pickaxe%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7252ef6a61983a04560c7_Goblin%20Pickaxe%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Money",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Goblin Repellant",
@@ -610,7 +777,12 @@
         "drop-sources": [
             "A Farmer's Ardor Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725367f1109aeeeac7644_Goblin%20Repellant%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725367f1109aeeeac7644_Goblin%20Repellant%20(Pistol-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Goblin's Bane",
@@ -627,7 +799,12 @@
         "drop-sources": [
             "Non-Violent Offender Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72540c8ec39acf6535ebc_Goblin%27s%20Bane%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72540c8ec39acf6535ebc_Goblin%27s%20Bane%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Greed Warden",
@@ -647,7 +824,12 @@
         ],
         "drop-type": "DLC - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726114adf9e5a7ea6b27c_Greed%20Warden%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726114adf9e5a7ea6b27c_Greed%20Warden%20(Melee-WL).webp",
+        "effects": [
+            "Movement",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hawkins' Wrath",
@@ -662,7 +844,12 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72747b92cab0004db86d5_Hawkins%27%20Wrath%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72747b92cab0004db86d5_Hawkins%27%20Wrath%20(Shotgun-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Headcanon",
@@ -679,7 +866,11 @@
         "drop-sources": [
             "Armageddon Distracted Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727503cd622044415a101_Headcanon%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727503cd622044415a101_Headcanon%20(Pistol-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Heckwader",
@@ -696,7 +887,12 @@
         "drop-sources": [
             "Inner Daemons Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72794cb6e7d495af03b4a_Heckwader%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72794cb6e7d495af03b4a_Heckwader%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ironsides",
@@ -713,7 +909,11 @@
         "drop-sources": [
             "Walk the Stalk Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729454eb5e6a8dc94fac1_Ironsides%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729454eb5e6a8dc94fac1_Ironsides%20(Sniper-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kao Khan",
@@ -735,7 +935,11 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729e3451204fee7f8ed87_Kao%20Khan%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729e3451204fee7f8ed87_Kao%20Khan%20(Sniper-WL).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Last Rites",
@@ -752,7 +956,12 @@
         "drop-sources": [
             "Twenty Thousand Years Under the Sea Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b763d04a5f4e0225945_Last%20Rites%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b763d04a5f4e0225945_Last%20Rites%20(Shotgun-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "LeChance's Last Leg",
@@ -774,7 +983,13 @@
         "drop-sources": [
             "Ballad of Bones Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Stacks",
+            "Movement"
+        ],
+        "aftermarket": "LeChance"
     },
     {
         "name": "Lil K's Bread Slicer",
@@ -794,7 +1009,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c0cf449220cd3ed423d_Lil%20K%27s%20Bread%20Slicer%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c0cf449220cd3ed423d_Lil%20K%27s%20Bread%20Slicer%20(AR-WL).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Liquid Cooling",
@@ -811,7 +1031,11 @@
         "drop-sources": [
             "Lissia, Iron-Wrought Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64e9ab8f7af8da9c45115811_Liquid%20Cooling%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64e9ab8f7af8da9c45115811_Liquid%20Cooling%20(Pistol-WL).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Live Wire",
@@ -826,7 +1050,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c6b4943271efb6ef8c1_Live%20Wire%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c6b4943271efb6ef8c1_Live%20Wire%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Love Leopard",
@@ -843,7 +1073,11 @@
         "drop-sources": [
             "Non-Violent Offender Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cb5870cd5b6878218a7_Love%20Leopard%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cb5870cd5b6878218a7_Love%20Leopard%20(Launcher-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mage Staff",
@@ -860,7 +1094,13 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d3136b6abc64a1f89ba_Mage%20Staff%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d3136b6abc64a1f89ba_Mage%20Staff%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Manual Transmission",
@@ -883,7 +1123,12 @@
             "Vorcanar",
             "Raging Wyborg"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d78a51c5cdb656caf01_Manual%20Transmission%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d78a51c5cdb656caf01_Manual%20Transmission%20(AR-WL).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Masterwork Handbow",
@@ -900,7 +1145,11 @@
         "drop-sources": [
             "Captain Swallow Overworld"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d8c8f43799ace5a78d0_Masterwork%20Handbow%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d8c8f43799ace5a78d0_Masterwork%20Handbow%20(Pistol-WL).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Merlin's Razor",
@@ -919,7 +1168,11 @@
         ],
         "drop-type": "DLC - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dae97a59bcc73ff89f7_Merlin%27s%20Razor%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dae97a59bcc73ff89f7_Merlin%27s%20Razor%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Message",
@@ -934,7 +1187,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72db5ef8ec6ded7b75a75_Message%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72db5ef8ec6ded7b75a75_Message%20(Pistol-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Metal Lute",
@@ -951,7 +1209,12 @@
         "drop-sources": [
             "Lyre and Brimstone Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dbc7f37c2883cb1699b_Metal%20Lute%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dbc7f37c2883cb1699b_Metal%20Lute%20(Melee-WL).webp",
+        "effects": [
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mistrial",
@@ -968,7 +1231,12 @@
         "drop-sources": [
             "The Trial of Crooked-Eye Phil Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dfc36a5c42f4d0f2441_Mistrial%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dfc36a5c42f4d0f2441_Mistrial%20(AR-WL).webp",
+        "effects": [
+            "Ammo",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Moleman",
@@ -985,7 +1253,12 @@
         "drop-sources": [
             "Little Boys Blue Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e02d2d4f2c2040eac63_Moleman%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e02d2d4f2c2040eac63_Moleman%20(Launcher-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Negotiator",
@@ -1002,7 +1275,11 @@
         "drop-sources": [
             "Diplomatic Relations Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ebb13955bc879b6afb8_Negotiator%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ebb13955bc879b6afb8_Negotiator%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Oil and Spice",
@@ -1019,7 +1296,13 @@
         "drop-sources": [
             "Imelda the Sand Witch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f4e4ee500e56ce8d435_Oil%20and%20Spice%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f4e4ee500e56ce8d435_Oil%20and%20Spice%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Paladin's Sword",
@@ -1036,7 +1319,13 @@
         "drop-sources": [
             "A Realm in Peril Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fbe9aeec53f0fb44fb0_Paladin%27s%20Sword%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fbe9aeec53f0fb44fb0_Paladin%27s%20Sword%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Melee",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Peg Leg",
@@ -1058,7 +1347,12 @@
         "drop-sources": [
             "LeChance"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bdb17ae9c01421e16c1_LeChance%27s%20Last%20Leg%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Perceiver",
@@ -1080,7 +1374,11 @@
         "drop-sources": [
             "Oculus Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73008b886ae155dac927e_Perceiver%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73008b886ae155dac927e_Perceiver%20(Pistol-WL).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Petty Tantrum",
@@ -1095,7 +1393,13 @@
         ],
         "drop-type": "DLC - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730194943271efb734a27_Petty%20Tantrum%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730194943271efb734a27_Petty%20Tantrum%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pincushion",
@@ -1115,7 +1419,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7302c870cd5b687866105_Pincushion%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7302c870cd5b687866105_Pincushion%20(Melee-WL).webp",
+        "effects": [
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pookie's Chew Toy",
@@ -1132,7 +1440,11 @@
         "drop-sources": [
             "A Walk to Dismember Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7306a7f37c2883cb482a7_Pookie%27s%20Chew%20Toy%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7306a7f37c2883cb482a7_Pookie%27s%20Chew%20Toy%20(Pistol-WL).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "Pookie"
     },
     {
         "name": "Portable Sawmill",
@@ -1152,7 +1464,11 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730779aeec53f0fb549db_Portable%20Sawmill%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730779aeec53f0fb549db_Portable%20Sawmill%20(Sniper-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Quad Bow",
@@ -1172,7 +1488,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730c29aeec53f0fb59a2d_Quad%20Bow%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730c29aeec53f0fb59a2d_Quad%20Bow%20(AR-WL).webp",
+        "effects": [
+            "Ammo",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Queen's Cry",
@@ -1189,7 +1510,12 @@
         "drop-sources": [
             "The Maker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730dee493c2975165a339_Queen%27s%20Cry%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730dee493c2975165a339_Queen%27s%20Cry%20(Pistol-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rage Handle",
@@ -1209,7 +1535,12 @@
         ],
         "drop-type": "DLC - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731006f656146ade365be_Rage%20Handle%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731006f656146ade365be_Rage%20Handle%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ragnarok",
@@ -1231,7 +1562,12 @@
         "drop-sources": [
             "The Maker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7310665a3b77cee3d3880_Ragnarok%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7310665a3b77cee3d3880_Ragnarok%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Red Hellion",
@@ -1254,7 +1590,12 @@
             "Obsidian Wyvern Obelisk",
             "Eros Wyvern Overworld"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731476a9082c6afc47ac7_Red%20Hellion%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731476a9082c6afc47ac7_Red%20Hellion%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Reign of Arrows",
@@ -1271,7 +1612,11 @@
         "drop-sources": [
             "Chamber Minibosses"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73199b30ca0ed173ae312_Reign%20of%20Arrows%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73199b30ca0ed173ae312_Reign%20of%20Arrows%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rogue Imp",
@@ -1286,7 +1631,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ed9aeec53f0fb70c07_Rogue%20Imp%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ed9aeec53f0fb70c07_Rogue%20Imp%20(AR-WL).webp",
+        "effects": [
+            "Reload",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ruby's Spite",
@@ -1303,7 +1654,12 @@
         "drop-sources": [
             "Monstrous Shroom Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732826f656146ade517ef_Ruby%27s%20Spite%20(Pistol-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732826f656146ade517ef_Ruby%27s%20Spite%20(Pistol-WL).webp",
+        "effects": [
+            "Firing Mode",
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Salt and Battery",
@@ -1325,7 +1681,13 @@
         "drop-sources": [
             "Imelda the Sand Witch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732b90c45a779d02b9731_Salt%20and%20Battery%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732b90c45a779d02b9731_Salt%20and%20Battery%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Stacks",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Shadowfire",
@@ -1343,7 +1705,12 @@
         "drop-sources": [
             "Mike"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7335fca31687e29344c0c_Shadowfire%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7335fca31687e29344c0c_Shadowfire%20(SMG-WL).webp",
+        "effects": [
+            "Projectile",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Skeep Prod",
@@ -1358,7 +1725,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734136a9082c6afc7cab9_Skeep%20Prod%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734136a9082c6afc7cab9_Skeep%20Prod%20(Sniper-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Slammin' Salmon",
@@ -1376,7 +1748,13 @@
         "drop-sources": [
             "The Great Wight Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73440352bbfeec206e599_Slammin%27%20Salmon%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73440352bbfeec206e599_Slammin%27%20Salmon%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Stacks",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sly Trivern",
@@ -1397,7 +1775,12 @@
         "drop-sources": [
             "Redmourne"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73482b886ae155db2900a_Sly%20Trivern%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73482b886ae155db2900a_Sly%20Trivern%20(Sniper-WL).webp",
+        "effects": [
+            "Firing Mode",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Snake Stick",
@@ -1415,7 +1798,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7349d131025fc7b51f45e_Snake%20Stick%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7349d131025fc7b51f45e_Snake%20Stick%20(Melee-WL).webp",
+        "effects": [
+            "Melee",
+            "Drone"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Spellblade",
@@ -1437,7 +1825,12 @@
         "drop-sources": [
             "Wastard"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734b792978b4e996a83c2_Spellblade%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734b792978b4e996a83c2_Spellblade%20(Melee-WL).webp",
+        "effects": [
+            "Stats",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Stab-O-Matic",
@@ -1452,7 +1845,11 @@
         ],
         "drop-type": "DLC - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734ce7f37c2883cb97f3c_Stab-O-Matic%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734ce7f37c2883cb97f3c_Stab-O-Matic%20(Shotgun-WL).webp",
+        "effects": [
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Storm Surge",
@@ -1469,7 +1866,13 @@
         "drop-sources": [
             "Dry'l"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73526357e03da689e33b1_Storm%20Surge%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73526357e03da689e33b1_Storm%20Surge%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sworderang",
@@ -1491,10 +1894,15 @@
         "drop-sources": [
             "Mandiblon, Chomper of Skulls Obelisk"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7355cb886ae155db3b6c5_Sworderang%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7355cb886ae155db3b6c5_Sworderang%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Swordsplosion",
+        "name": "Swordsplosion (TTW)",
         "flavor-text": "Your sword is the sword that will pierce the heavens!",
         "game": "wonderlands",
         "type": "Shotgun",
@@ -1513,7 +1921,12 @@
         "drop-sources": [
             "LeChance"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7356297a59bcc73090b7c_Swordsplosion%20(Shotgun-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7356297a59bcc73090b7c_Swordsplosion%20(Shotgun-WL).webp",
+        "effects": [
+            "Projectile",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Throwable Hole",
@@ -1528,7 +1941,13 @@
         ],
         "drop-type": "Chaos Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370286abe1ea4521f462_Throwable%20Hole%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370286abe1ea4521f462_Throwable%20Hole%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Reload",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Thunder Anima",
@@ -1543,7 +1962,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370f97a59bcc730b098d_Thunder%20Anima%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7370f97a59bcc730b098d_Thunder%20Anima%20(AR-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Tidesorrow",
@@ -1560,7 +1984,12 @@
         "drop-sources": [
             "The Ditcher Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73751d5a56b6a9b99930f_Tidesorrow%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73751d5a56b6a9b99930f_Tidesorrow%20(Melee-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Tootherator",
@@ -1577,7 +2006,13 @@
         "drop-sources": [
             "Cash 4 Teeth Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73789277c17c37251709f_Tootherator%20(Sniper-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73789277c17c37251709f_Tootherator%20(Sniper-WL).webp",
+        "effects": [
+            "Fire Pattern",
+            "Melee",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Twin Soul",
@@ -1598,7 +2033,11 @@
         "drop-sources": [
             "Knight Mare"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738159a6dcd18d54a5229_Twin%20Soul%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738159a6dcd18d54a5229_Twin%20Soul%20(Melee-WL).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Twisted Delugeon",
@@ -1615,7 +2054,13 @@
         "drop-sources": [
             "\"Chums\" the Old God"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7381b3f8ad1a927e770f9_Twisted%20Delugeon%20(Launcher-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7381b3f8ad1a927e770f9_Twisted%20Delugeon%20(Launcher-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Vengeance",
@@ -1632,7 +2077,13 @@
         "drop-sources": [
             "Redmourne"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73880d5a56b6a9b9b009d_Vengeance%20(AR-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73880d5a56b6a9b9b009d_Vengeance%20(AR-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wailing Banshee",
@@ -1654,7 +2105,12 @@
         "drop-sources": [
             "Banshee"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7394b26d8e514833f45c2_Wailing%20Banshee%20(Melee-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7394b26d8e514833f45c2_Wailing%20Banshee%20(Melee-WL).webp",
+        "effects": [
+            "Projectile",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "White Rider",
@@ -1671,7 +2127,13 @@
         "drop-sources": [
             "Wastard"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b1bc06246e74315f13_White%20Rider%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b1bc06246e74315f13_White%20Rider%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wizard's Pipe",
@@ -1692,6 +2154,11 @@
         "drop-sources": [
             "Parasite"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739c6493c6752d3327075_Wizard%27s%20Pipe%20(SMG-WL).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739c6493c6752d3327075_Wizard%27s%20Pipe%20(SMG-WL).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     }
 ]

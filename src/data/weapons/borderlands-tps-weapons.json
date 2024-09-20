@@ -150,7 +150,11 @@
         "drop-sources": [
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719a9f9b860ddbc389d77_Berrigan%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719a9f9b860ddbc389d77_Berrigan%20(Launcher-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Black Snake",
@@ -167,7 +171,12 @@
         "drop-sources": [
             "Red Belly"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719faf298a8e941333005_Black%20Snake%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719faf298a8e941333005_Black%20Snake%20(SMG-TPS).webp",
+        "effects": [
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blowfly",
@@ -184,7 +193,13 @@
         "drop-sources": [
             "Eghood"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6508fb35ea7a3bddad_Blowfly%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a6508fb35ea7a3bddad_Blowfly%20(Pistol-TPS).webp",
+        "effects": [
+            "ADS",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boganella",
@@ -205,7 +220,11 @@
         "drop-sources": [
             "Another Pickle Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a7d8af47250f2c0ab39_Boganella%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a7d8af47250f2c0ab39_Boganella%20(Shotgun-TPS).webp",
+        "effects": [
+            "Audio"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boomacorn",
@@ -220,7 +239,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71acbba0cf6e92650c109_Boomacorn%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71acbba0cf6e92650c109_Boomacorn%20(Shotgun-TPS).webp",
+        "effects": [
+            "Audio",
+            "Element",
+            "Projectile",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boss Nova",
@@ -238,7 +264,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ae25cacc74e550a2a2b_Boss%20Nova%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ae25cacc74e550a2a2b_Boss%20Nova%20(AR-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boxxy Gunn",
@@ -257,7 +287,12 @@
             "Eternal Powersuit",
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aea2b8fd2588937ddca_Boxxy%20Gunn%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aea2b8fd2588937ddca_Boxxy%20Gunn%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bullpup",
@@ -276,7 +311,11 @@
         ],
         "drop-type": "Paid Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b3d81eec75c5bbb1a8a_Bullpup%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b3d81eec75c5bbb1a8a_Bullpup%20(Shotgun-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cat o' Nine Tails",
@@ -291,7 +330,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ceb10b0ae6825c97bae_Cat%20o%27%20Nine%20Tails%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ceb10b0ae6825c97bae_Cat%20o%27%20Nine%20Tails%20(Laser-TPS).webp",
+        "effects": [
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cheat Code",
@@ -312,10 +356,15 @@
         "drop-sources": [
             "System Shutdown Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d49f9b860ddbc3d13a6_Cheat%20Code%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d49f9b860ddbc3d13a6_Cheat%20Code%20(SMG-TPS).webp",
+        "effects": [
+            "Stats",
+            "FFYL"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Ch\u00e8re-amie",
+        "name": "Ch\u00e8re-amie (TPS)",
         "flavor-text": "Je suis enchant\u00e9. O\u00f9 est la biblith\u00e8que?",
         "game": "borderlands-tps",
         "type": "Sniper",
@@ -330,7 +379,12 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1ea128421df3c8f19db74_Ch%C3%A8re-amie%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1ea128421df3c8f19db74_Ch%C3%A8re-amie%20(Sniper-TPS).webp",
+        "effects": [
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Company Man",
@@ -349,10 +403,14 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71de50db6b32bb784989d_Company%20Man%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71de50db6b32bb784989d_Company%20Man%20(Shotgun-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Creamer",
+        "name": "Creamer (TPS)",
         "flavor-text": "Non-dairy.",
         "game": "borderlands-tps",
         "type": "Launcher",
@@ -364,7 +422,12 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eb8ae0681bd25da5ef0_Creamer%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eb8ae0681bd25da5ef0_Creamer%20(Launcher-TPS).webp",
+        "effects": [
+            "Projectile",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Cry Baby",
@@ -385,7 +448,12 @@
             "Eternal Powersuit",
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f52686033a2c1a6276a_Cry%20Baby%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f52686033a2c1a6276a_Cry%20Baby%20(AR-TPS).webp",
+        "effects": [
+            "Stacks",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cryophobia",
@@ -402,7 +470,12 @@
         "drop-sources": [
             "The Bosun"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f5bc75c883e4641b437_Cryophobia%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f5bc75c883e4641b437_Cryophobia%20(Launcher-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cyber Eagle",
@@ -419,7 +492,12 @@
         "drop-sources": [
             "The Secret Chamber Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f6bf298a8e9413ab811_Cyber%20Eagle%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f6bf298a8e9413ab811_Cyber%20Eagle%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "Zarpedon"
     },
     {
         "name": "E-GUN",
@@ -436,7 +514,12 @@
         "drop-sources": [
             "Sub-Level 13: Part 2 Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a9b92352c8a0ca83c2_E-GUN%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721a9b92352c8a0ca83c2_E-GUN%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Excalibastard",
@@ -453,7 +536,13 @@
         "drop-sources": [
             "Sword in the Stone Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72239c75c883e4645e51d_Excalibastard%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72239c75c883e4645e51d_Excalibastard%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Stats",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fast Talker",
@@ -472,7 +561,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7225ae1b180d408e023aa_Fast%20Talker%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7225ae1b180d408e023aa_Fast%20Talker%20(SMG-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fatale",
@@ -489,10 +582,15 @@
         "drop-sources": [
             "Drongo Bones"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72299dc0808fb5aebc793_Fatale%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72299dc0808fb5aebc793_Fatale%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Fibber",
+        "name": "Fibber (TPS)",
         "flavor-text": "Would I lie to you?",
         "game": "borderlands-tps",
         "type": "Pistol",
@@ -508,7 +606,13 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722c40d8079b2cb950b82_Fibber%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722c40d8079b2cb950b82_Fibber%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Firestarta",
@@ -525,10 +629,15 @@
         "drop-sources": [
             "Torgue-o! Torgue-o! Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7231114512f1708dceef8_Firestarta%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7231114512f1708dceef8_Firestarta%20(Laser-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Flakker",
+        "name": "Flakker (TPS)",
         "flavor-text": "Flak the world.",
         "game": "borderlands-tps",
         "type": "Shotgun",
@@ -542,7 +651,11 @@
         "drop-sources": [
             "Even-More-Disgusting Tork"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723a3057694fe46d3ac61_Flakker%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723a3057694fe46d3ac61_Flakker%20(Shotgun-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Flayer",
@@ -560,10 +673,15 @@
             "Viruses",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723bf08c55085fc0db5c8_Flayer%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723bf08c55085fc0db5c8_Flayer%20(Shotgun-TPS).webp",
+        "effects": [
+            "Stats",
+            "Gore"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Fremington's Edge",
+        "name": "Fremington's Edge (TPS)",
         "flavor-text": "I can see my house from here.",
         "game": "borderlands-tps",
         "type": "Sniper",
@@ -581,7 +699,12 @@
         "drop-sources": [
             "Don't Shoot the Messenger Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7240610b0ae6825d336ea_Fremington%27s%20Edge%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7240610b0ae6825d336ea_Fremington%27s%20Edge%20(Sniper-TPS).webp",
+        "effects": [
+            "ADS",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fridgia",
@@ -598,7 +721,13 @@
         "drop-sources": [
             "In Perfect Hibernation Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724179e230d2333555d93_Fridgia%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724179e230d2333555d93_Fridgia%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Frostfire",
@@ -615,7 +744,12 @@
         "drop-sources": [
             "The Bestest Story Ever Told Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72433ca0eeca05f3f7672_Frostfire%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72433ca0eeca05f3f7672_Frostfire%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Cursed"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fusillade",
@@ -638,7 +772,11 @@
             "Insecurities",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724c7c3665a5933b1ac36_Fusillade%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724c7c3665a5933b1ac36_Fusillade%20(AR-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Globber",
@@ -655,7 +793,12 @@
         "drop-sources": [
             "Eradicate! Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725113e32e6ea6006add8_Globber%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725113e32e6ea6006add8_Globber%20(Pistol-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Good Touch",
@@ -670,7 +813,13 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725f46d2f5d27af6b6a60_Good%20Touch%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725f46d2f5d27af6b6a60_Good%20Touch%20(SMG-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Gwen's Other Head",
@@ -691,10 +840,16 @@
         "drop-sources": [
             "Box in Titan Industrial Facility Location"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726d1e1b180d408e6ff67_Gwen%27s%20Other%20Head%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726d1e1b180d408e6ff67_Gwen%27s%20Other%20Head%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Hail",
+        "name": "Hail (TPS)",
         "flavor-text": "What plaything can you offer me today?",
         "game": "borderlands-tps",
         "type": "Assault Rifle",
@@ -711,7 +866,14 @@
         "drop-sources": [
             "Iwajira"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726eeb22399502ade526a_Hail%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726eeb22399502ade526a_Hail%20(AR-TPS).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Fire Pattern",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Hammer Buster II",
@@ -726,7 +888,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72709ee4ef2357f3154c5_Hammer%20Buster%20II%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72709ee4ef2357f3154c5_Hammer%20Buster%20II%20(AR-TPS).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hard Reboot",
@@ -743,7 +910,12 @@
         "drop-sources": [
             "Chip's Data Mining Adventure Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72726b92352c8a0d234f1_Hard%20Reboot%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72726b92352c8a0d234f1_Hard%20Reboot%20(Pistol-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Heart Breaker",
@@ -758,10 +930,16 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727757a26cc97df150cb1_Heart%20Breaker%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727757a26cc97df150cb1_Heart%20Breaker%20(Shotgun-TPS).webp",
+        "effects": [
+            "Fire Pattern",
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
-        "name": "HellFire",
+        "name": "HellFire (TPS)",
         "flavor-text": "We don't need no fire...",
         "game": "borderlands-tps",
         "type": "SMG",
@@ -773,7 +951,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727a46fc8e2ba005a66da_HellFire%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727a46fc8e2ba005a66da_HellFire%20(SMG-TPS).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "IVF",
@@ -794,7 +976,11 @@
         "drop-sources": [
             "The Bosun"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7289414512f1708e52692_IVF%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7289414512f1708e52692_IVF%20(SMG-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ice Scream",
@@ -811,10 +997,16 @@
         "drop-sources": [
             "Bunch of Ice Holes Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728b0b92cab0004dd7455_Ice%20Scream%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728b0b92cab0004dd7455_Ice%20Scream%20(AR-TPS).webp",
+        "effects": [
+            "Element",
+            "Audio",
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Invader",
+        "name": "Invader (TPS)",
         "flavor-text": "The Executioner has arrived.",
         "game": "borderlands-tps",
         "type": "Sniper",
@@ -830,7 +1022,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72935ca0eeca05f46b02b_Invader%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72935ca0eeca05f46b02b_Invader%20(Sniper-TPS).webp",
+        "effects": [
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Jack-o'-Cannon",
@@ -845,7 +1042,13 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72957d35ef4a00dbd80d2_Jack-o%27-Cannon%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72957d35ef4a00dbd80d2_Jack-o%27-Cannon%20(Shotgun-TPS).webp",
+        "effects": [
+            "Element",
+            "ADS",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kaneda's Laser",
@@ -862,7 +1065,11 @@
         "drop-sources": [
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729d81223b8d858133d84_Kaneda%27s%20Laser%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729d81223b8d858133d84_Kaneda%27s%20Laser%20(Launcher-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "KerBoom",
@@ -879,10 +1086,14 @@
         "drop-sources": [
             "Boomer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a16b22399502ae274d9_KerBoom%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a16b22399502ae274d9_KerBoom%20(AR-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Lady Fist",
+        "name": "Lady Fist (TPS)",
         "flavor-text": "Love is a Lady Finger. True love is a Lady Fist.",
         "game": "borderlands-tps",
         "type": "Pistol",
@@ -898,7 +1109,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041d76a0200a3585d76130_Lady%20Fist%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041d76a0200a3585d76130_Lady%20Fist%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "Laser Disker",
@@ -916,7 +1131,12 @@
             "5H4D0W-TP",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b5d4988ed71fcecd5f7_Laser%20Disker%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b5d4988ed71fcecd5f7_Laser%20Disker%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lazlo's Freezeasy",
@@ -933,7 +1153,11 @@
         "drop-sources": [
             "Lazlo"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bd2c2c0d921b2480f7f_Lazlo%27s%20Freezeasy%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bd2c2c0d921b2480f7f_Lazlo%27s%20Freezeasy%20(Laser-TPS).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "Lazlo"
     },
     {
         "name": "Logan's Gun",
@@ -948,7 +1172,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c799868e57c0c1773f4_Logan%27s%20Gun%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c799868e57c0c1773f4_Logan%27s%20Gun%20(Pistol-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Longest Yard",
@@ -969,7 +1198,11 @@
             "Teh Earworm",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c94d5a56b6a9b8b0097_Longest%20Yard%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c94d5a56b6a9b8b0097_Longest%20Yard%20(Laser-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Longnail",
@@ -990,7 +1223,11 @@
         "drop-sources": [
             "The Invincible Sentinel"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c9b352bbfeec2fd92b1_Longnail%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c9b352bbfeec2fd92b1_Longnail%20(Sniper-TPS).webp",
+        "effects": [
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Luck Cannon",
@@ -1008,7 +1245,13 @@
             "Adbug",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cc235a61133b36f35ac_Luck%20Cannon%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cc235a61133b36f35ac_Luck%20Cannon%20(Pistol-TPS).webp",
+        "effects": [
+            "Random",
+            "Ammo",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "MINAC's Atonement",
@@ -1025,10 +1268,14 @@
         "drop-sources": [
             "Rose Tinting Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ce5734b1c566169de2e_MINAC%27s%20Atonement%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ce5734b1c566169de2e_MINAC%27s%20Atonement%20(Laser-TPS).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "MINAC"
     },
     {
-        "name": "Maggie",
+        "name": "Maggie (TPS)",
         "flavor-text": "Monty's wife don't take no guff.",
         "game": "borderlands-tps",
         "type": "Pistol",
@@ -1040,7 +1287,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4902774a2b324d93c3_Maggie%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4902774a2b324d93c3_Maggie%20(Pistol-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Magma",
@@ -1055,7 +1306,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4f06d0803d9a422152_Magma%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d4f06d0803d9a422152_Magma%20(Sniper-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Major Tom",
@@ -1074,7 +1330,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d638427d6b4bb09a674_Major%20Tom%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d638427d6b4bb09a674_Major%20Tom%20(AR-TPS).webp",
+        "effects": [
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Marek's Mouth",
@@ -1091,7 +1352,13 @@
         "drop-sources": [
             "Rabid Adams"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/653792b861118c84d47ce215_Marek%27s%20Mouth%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/653792b861118c84d47ce215_Marek%27s%20Mouth%20(SMG-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Meat Grinder",
@@ -1112,7 +1379,11 @@
         "drop-sources": [
             "Meat Head"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d93d5a56b6a9b8c4eb3_Meat%20Grinder%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d93d5a56b6a9b8c4eb3_Meat%20Grinder%20(SMG-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Min Min Lighter",
@@ -1127,7 +1398,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dc34943271efb709cf8_Min%20Min%20Lighter%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72dc34943271efb709cf8_Min%20Min%20Lighter%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mining Laser",
@@ -1147,10 +1423,15 @@
         "drop-sources": [
             "Infinite Loop Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72de69aeec53f0fb22349_Mining%20Laser%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72de69aeec53f0fb22349_Mining%20Laser%20(Laser-TPS).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Mongol",
+        "name": "Mongol (TPS)",
         "flavor-text": "The Horde will always return!",
         "game": "borderlands-tps",
         "type": "Launcher",
@@ -1166,7 +1447,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e1fe91c4e009779b96f_Mongol%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e1fe91c4e009779b96f_Mongol%20(Launcher-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Moonface",
@@ -1183,7 +1468,12 @@
         "drop-sources": [
             "Red, Then Dead Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e2c264a8d84c77f9623_Moonface%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e2c264a8d84c77f9623_Moonface%20(Shotgun-TPS).webp",
+        "effects": [
+            "Fire Pattern",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Moonscaper",
@@ -1198,10 +1488,14 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e3a0c45a779d025ad7d_Moonscaper%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e3a0c45a779d025ad7d_Moonscaper%20(Shotgun-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Nukem",
+        "name": "Nukem (TPS)",
         "flavor-text": "Name dropper.",
         "game": "borderlands-tps",
         "type": "Launcher",
@@ -1216,10 +1510,14 @@
             "Flameknuckle",
             "Flameknuckle"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1013abac50f9c41460_Nukem%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1013abac50f9c41460_Nukem%20(Launcher-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Octo",
+        "name": "Octo (TPS)",
         "flavor-text": "Octo means 9.",
         "game": "borderlands-tps",
         "type": "Shotgun",
@@ -1237,7 +1535,12 @@
         "drop-sources": [
             "Lab 19 Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f34e493c2975163843a_Octo%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f34e493c2975163843a_Octo%20(Shotgun-TPS).webp",
+        "effects": [
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ol' Painful",
@@ -1252,7 +1555,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5336b6abc64a2263c6_Ol%27%20Painful%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5336b6abc64a2263c6_Ol%27%20Painful%20(AR-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ol' Rosie",
@@ -1272,7 +1580,11 @@
         "drop-sources": [
             "The Beginning of the End Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5cd2d4f2c204103c0d_Ol%27%20Rosie%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f5cd2d4f2c204103c0d_Ol%27%20Rosie%20(Laser-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Omni-Cannon",
@@ -1290,7 +1602,11 @@
             "The Sponx",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f6f73ce470883c78fe5_Omni-Cannon%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f6f73ce470883c78fe5_Omni-Cannon%20(Sniper-TPS).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Party Line",
@@ -1309,7 +1625,12 @@
             "Eternal Powersuit",
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fc40db25bd3a7239ba0_Party%20Line%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fc40db25bd3a7239ba0_Party%20Line%20(Shotgun-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Party Popper",
@@ -1326,7 +1647,11 @@
         "drop-sources": [
             "H4X0rz Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fcb785ffb5d39174665_Party%20Popper%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fcb785ffb5d39174665_Party%20Popper%20(Pistol-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pitchfork",
@@ -1345,7 +1670,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73038f449220cd3f2e40b_Pitchfork%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73038f449220cd3f2e40b_Pitchfork%20(Sniper-TPS).webp",
+        "effects": [
+            "Firing Mode",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Plunkett",
@@ -1364,7 +1694,11 @@
             "Eternal Powersuit",
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73052e493c2975164eabe_Plunkett%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73052e493c2975164eabe_Plunkett%20(Sniper-TPS).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Probe",
@@ -1384,7 +1718,12 @@
         "drop-sources": [
             "Torgue-o! Torgue-o! Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309017ae9c01422387c0_Probe%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309017ae9c01422387c0_Probe%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Proletarian Revolution",
@@ -1407,7 +1746,12 @@
             "P5YCH0s",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309c8427d6b4bb0d56b3_Proletarian%20Revolution%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7309c8427d6b4bb0d56b3_Proletarian%20Revolution%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Razorback",
@@ -1424,7 +1768,11 @@
         "drop-sources": [
             "Home Delivery Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7311881787c6385c3bb83_Razorback%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7311881787c6385c3bb83_Razorback%20(Sniper-TPS).webp",
+        "effects": [
+            "Scopeless"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Shooterang",
@@ -1443,10 +1791,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733a1357e03da689c85e6_Shooterang%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733a1357e03da689c85e6_Shooterang%20(Pistol-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Shredifier",
+        "name": "Shredifier (TPS)",
         "flavor-text": "Speed kills.",
         "game": "borderlands-tps",
         "type": "Assault Rifle",
@@ -1462,10 +1814,14 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733e7342c812ce8e4dbd5_Shredifier%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733e7342c812ce8e4dbd5_Shredifier%20(AR-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Skullmasher",
+        "name": "Skullmasher (TPS)",
         "flavor-text": "A real head turner! Turned to mush! Ahahaha!",
         "game": "borderlands-tps",
         "type": "Sniper",
@@ -1479,7 +1835,11 @@
         "drop-sources": [
             "Nel"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7343213955bc879bd948d_Skullmasher%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7343213955bc879bd948d_Skullmasher%20(Sniper-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sledge's Shotty",
@@ -1498,7 +1858,11 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7345e352bbfeec20704b0_Sledge%27s%20Shotty%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7345e352bbfeec20704b0_Sledge%27s%20Shotty%20(Shotgun-TPS).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "Sledge"
     },
     {
         "name": "Smasher",
@@ -1513,7 +1877,11 @@
         ],
         "drop-type": "Paid Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734919ecbca0ffa54393e_Smasher%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734919ecbca0ffa54393e_Smasher%20(Pistol-TPS).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Striker",
@@ -1530,7 +1898,11 @@
         "drop-sources": [
             "Red Belly"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353913955bc879bedd35_Striker%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353913955bc879bedd35_Striker%20(Shotgun-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "T4s-R",
@@ -1552,7 +1924,12 @@
             "Eternal Powersuit",
             "Digistructed Madness Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73588c112a98b024865fe_T4s-R%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73588c112a98b024865fe_T4s-R%20(Pistol-TPS).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Tannis' Laser of Enlightenment",
@@ -1569,7 +1946,12 @@
         "drop-sources": [
             "The Temple of Boom Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735a1a51c5cdb6576f944_Tannis%27%20Laser%20of%20Enlightenment%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735a1a51c5cdb6576f944_Tannis%27%20Laser%20of%20Enlightenment%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Tannis"
     },
     {
         "name": "The Machine",
@@ -1588,7 +1970,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736afc112a98b0249ad49_The%20Machine%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736afc112a98b0249ad49_The%20Machine%20(Sniper-TPS).webp",
+        "effects": [
+            "Stats",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The ZX-1",
@@ -1606,7 +1993,13 @@
             "Colonel T. Zarpedon",
             "The Sentinel"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736f49aeec53f0fbd5681_The%20ZX-1%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736f49aeec53f0fbd5681_The%20ZX-1%20(Laser-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Thingy",
@@ -1623,7 +2016,12 @@
         "drop-sources": [
             "Iwajira"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736fc6b11190e5be33ab0_Thingy%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736fc6b11190e5be33ab0_Thingy%20(Launcher-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Thunderfire",
@@ -1641,7 +2039,12 @@
             "Self-Loathing & Despair",
             "EOS"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7373a277c17c372511a37_Thunderfire%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7373a277c17c372511a37_Thunderfire%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Toby's Bright Spadroon",
@@ -1658,7 +2061,13 @@
         "drop-sources": [
             "These are the Bots Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7376c00e8242c956cfeef_Toby%27s%20Bright%20Spadroon%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7376c00e8242c956cfeef_Toby%27s%20Bright%20Spadroon%20(Laser-TPS).webp",
+        "effects": [
+            "ADS",
+            "Element",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Too Scoops",
@@ -1675,7 +2084,12 @@
         "drop-sources": [
             "Bunch of Ice Holes Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737820bc2161bf90b6d82_Too%20Scoops%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737820bc2161bf90b6d82_Too%20Scoops%20(Shotgun-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Torguemada",
@@ -1692,7 +2106,12 @@
         "drop-sources": [
             "Torgue-o! Torgue-o! Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73795a370607e78eee1b6_Torguemada%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73795a370607e78eee1b6_Torguemada%20(Shotgun-TPS).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Torrent",
@@ -1713,7 +2132,12 @@
         "drop-sources": [
             "Meg"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737a153f0d8d7f364de18_Torrent%20(SMG-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737a153f0d8d7f364de18_Torrent%20(SMG-TPS).webp",
+        "effects": [
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Vandergraffen",
@@ -1730,7 +2154,13 @@
         "drop-sources": [
             "Deadlift"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7386f0c45a779d03291ea_Vandergraffen%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7386f0c45a779d03291ea_Vandergraffen%20(Laser-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Vibra-Pulse",
@@ -1747,7 +2177,13 @@
         "drop-sources": [
             "Home Sweet Home Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738b9c166be1a7802e3b1_Vibra-Pulse%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738b9c166be1a7802e3b1_Vibra-Pulse%20(Laser-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Viral Marketer",
@@ -1762,7 +2198,12 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738e60db25bd3a72f562a_Viral%20Marketer%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738e60db25bd3a72f562a_Viral%20Marketer%20(Shotgun-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Volt Thrower",
@@ -1779,7 +2220,12 @@
         "drop-sources": [
             "No Such Thing as a Free Launch Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7391826d8e514833efdbc_Volt%20Thrower%20(Launcher-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7391826d8e514833efdbc_Volt%20Thrower%20(Launcher-TPS).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wallop",
@@ -1796,7 +2242,11 @@
         "drop-sources": [
             "Guardian Hunter Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73951b26cb90696e87f87_Wallop%20(AR-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73951b26cb90696e87f87_Wallop%20(AR-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wet Week",
@@ -1818,7 +2268,12 @@
             "Swagman Rare Spawn",
             "Swagman"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739a939304b746cc8dedb_Wet%20Week%20(Sniper-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739a939304b746cc8dedb_Wet%20Week%20(Sniper-TPS).webp",
+        "effects": [
+            "ADS",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wombat",
@@ -1835,7 +2290,12 @@
         "drop-sources": [
             "Zapped Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ce4e0d48bd1d481fc5_Wombat%20(Shotgun-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ce4e0d48bd1d481fc5_Wombat%20(Shotgun-TPS).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Zappinator",
@@ -1855,7 +2315,11 @@
         "drop-sources": [
             "Zapped Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ec5be89afe1d50c1b4_Zappinator%20(Laser-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739ec5be89afe1d50c1b4_Zappinator%20(Laser-TPS).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Zim",
@@ -1872,6 +2336,12 @@
         "drop-sources": [
             "Giant Shuggurath of Ice"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739f9a070b5ef6d75f6f8_Zim%20(Pistol-TPS).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739f9a070b5ef6d75f6f8_Zim%20(Pistol-TPS).webp",
+        "effects": [
+            "Element",
+            "Stats",
+            "Cursed"
+        ],
+        "aftermarket": "Joltz"
     }
 ]

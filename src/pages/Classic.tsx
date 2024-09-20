@@ -12,6 +12,7 @@ import SearchBar from "../components/Guesses/SearchBar"
 import GuessHeader from "../components/Guesses/GuessHeader"
 import GuessTab from "../components/Guesses/GuessTab"
 // Modals
+import Hints from "../components/Guesses/Hints"
 import SettingsModal from "../components/Modals/SettingsModal"
 import TutorialModal from "../components/Modals/TutorialModal"
 import VictoryModal from "../components/Modals/VictoryModal"
@@ -33,6 +34,8 @@ const Classic = () => {
         "Rarity",       // Rarity
         "Element(s)",   // What elements can this item spawn with?
         "Drop Type",    // How do you obtain this item?
+        "Theme",  // If the item is related to an NPC
+        "Effect",       // A List of Special Effect Keywords For This Item
         "Game"          // What game is this one from?
     ]
     const appendGuess = (newEntry: Entry) => {
@@ -166,6 +169,7 @@ const Classic = () => {
                 handleReroll={rerollItem}
                 handleTutorialShow={handleShowTutorial}
             />
+            <Hints answer={correctAnswer} numGuesses={currGuesses.length} answeredCorrectly={guessedCorrectly}/>
             <div className="flex flex-column center-horizontal margin-bottom">
                 <span className="common" style={classicStyle}>
                     Start by guessing any item!

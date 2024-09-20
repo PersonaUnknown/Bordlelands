@@ -67,6 +67,8 @@ export const getElementIcon = (element: string) : string => {
             return "https://cdn.prod.website-files.com/5ff36780a108495c598ce192/5ff36780a1084982ae8ce2c2_Explosive.svg"
         case "Radiation":
             return "https://cdn.prod.website-files.com/5ff36780a108495c598ce192/5ff36780a108494dff8ce2c6_Radiation.svg"
+        case "Slag":
+            return "https://cdn.prod.website-files.com/5ff36780a108495c598ce192/64787b9464e47abe94fd2cb3_Slag.svg"
         default:
             return "https://cdn.prod.website-files.com/5ff36780a108495c598ce192/5ff36780a10849e5448ce2ca_Nonelemental.svg"
     }

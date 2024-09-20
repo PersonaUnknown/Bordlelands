@@ -14,7 +14,13 @@
         "drop-sources": [
             "Killavolt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715f0dcafba403b067397_9-Volt%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715f0dcafba403b067397_9-Volt%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "AAA",
@@ -31,7 +37,13 @@
         "drop-sources": [
             "Wick and Warty"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715fbf745fe6ec45aa975_AAA%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f715fbf745fe6ec45aa975_AAA%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "ASMD",
@@ -48,7 +60,13 @@
         "drop-sources": [
             "Maxitrillion"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7160a8f9fbc41c7d4dca1_ASMD%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7160a8f9fbc41c7d4dca1_ASMD%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Agonizer 1500",
@@ -65,7 +83,11 @@
         "drop-sources": [
             "Agonizer 9000, Pain & Terror"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717cc5f4258417e3a10a9_Agonizer%201500%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717cc5f4258417e3a10a9_Agonizer%201500%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Alchemist",
@@ -82,7 +104,12 @@
         "drop-sources": [
             "Heckle/Hyde Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717e58aa8198bde66eb2f_Alchemist%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717e58aa8198bde66eb2f_Alchemist%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Amazing Grace",
@@ -99,7 +126,11 @@
         "drop-sources": [
             "Life of the Party Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717ee609dd1f26bd3f08d_Amazing%20Grace%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717ee609dd1f26bd3f08d_Amazing%20Grace%20(Pistol-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Amber Management",
@@ -116,7 +147,14 @@
         "drop-sources": [
             "Homeopathological Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717f6a6befff37de5a8bd_Amber%20Management%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717f6a6befff37de5a8bd_Amber%20Management%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Health",
+            "Firing Mode",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Anarchy",
@@ -138,7 +176,11 @@
         "drop-sources": [
             "Kukuwajack Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f798b40d30f63f9861a67b_Anarchy%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f798b40d30f63f9861a67b_Anarchy%20(Shotgun-BL3).webp",
+        "effects": [
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ashen Beast",
@@ -155,7 +197,12 @@
         "drop-sources": [
             "Does a Body Good Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183a2f8591aafae5f1d7_Ashen%20Beast%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183a2f8591aafae5f1d7_Ashen%20Beast%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Atlas Replay",
@@ -173,7 +220,13 @@
             "Hemovorous",
             "Sera of Supremacy"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7184fa723134849de1092_Atlas%20Replay%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7184fa723134849de1092_Atlas%20Replay%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "AutoAim\u00e8",
@@ -193,10 +246,14 @@
         "drop-sources": [
             "Freddie the Traitor"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f37de3c6cb32a564d9286c_AutoAim%C3%A8%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f37de3c6cb32a564d9286c_AutoAim%C3%A8%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Baby Maker",
+        "name": "Baby Maker (BL3)",
         "flavor-text": "Safety off.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -217,7 +274,11 @@
             "Alacritous Vanda",
             "Dead Claptraps Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718660d8079b2cb868715_Baby%20Maker%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718660d8079b2cb868715_Baby%20Maker%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Backburner",
@@ -239,7 +300,11 @@
             "Agonizer 9000, Pain & Terror",
             "Tyrant of Instinct"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71877f9709d68d9e7b35d_Backburner%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71877f9709d68d9e7b35d_Backburner%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bangarang",
@@ -261,7 +326,11 @@
         "drop-sources": [
             "Captain Thunk & Sloth"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718daa617add9513fd429_Bangarang%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718daa617add9513fd429_Bangarang%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Barrage",
@@ -280,7 +349,11 @@
         "drop-sources": [
             "Mincemeat, Trufflemunch & Buttmunch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718ea2b8fd258893592e7_Barrage%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718ea2b8fd258893592e7_Barrage%20(AR-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Beacon",
@@ -301,10 +374,14 @@
         "drop-sources": [
             "Jerrick Logan Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71974b4b4e0723ac510ea_Beacon%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71974b4b4e0723ac510ea_Beacon%20(Pistol-BL3).webp",
+        "effects": [
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Bearcat",
+        "name": "Bearcat (BL3)",
         "flavor-text": "I love the smell of popcorn in the morning.",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -323,10 +400,15 @@
         "drop-sources": [
             "Mincemeat, Trufflemunch & Buttmunch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71984756e20f0121ec279_Bearcat%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71984756e20f0121ec279_Bearcat%20(AR-BL3).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Bekah",
+        "name": "Bekah (BL3)",
         "flavor-text": "Shoot them in the face. Twice.",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -340,7 +422,12 @@
         "drop-sources": [
             "Legendary Hunt Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7199e0db6b32bb77f0b85_Bekah%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7199e0db6b32bb77f0b85_Bekah%20(AR-BL3).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Binary Operator",
@@ -358,7 +445,11 @@
             "Dam, WTF Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719b92dddd4da8b12849b_Binary%20Operator%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719b92dddd4da8b12849b_Binary%20Operator%20(Sniper-BL3).webp",
+        "effects": [
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bird of Prey",
@@ -373,10 +464,15 @@
         ],
         "drop-type": "Fallen Heros - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719c1013c3c3367c43a25_Bird%20of%20Prey%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719c1013c3c3367c43a25_Bird%20of%20Prey%20(Sniper-BL3).webp",
+        "effects": [
+            "Random",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Bitch",
+        "name": "Bitch (BL3)",
         "flavor-text": "If you can't handle me at my worst...",
         "game": "borderlands-3",
         "type": "SMG",
@@ -395,7 +491,11 @@
         "drop-sources": [
             "Tyreen the Destroyer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719e2f9709d68d9e99b96_Bitch%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719e2f9709d68d9e99b96_Bitch%20(SMG-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bite Size",
@@ -410,7 +510,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719ea82359cbfa6c1e458_Bite%20Size%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719ea82359cbfa6c1e458_Bite%20Size%20(Pistol-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Black Flame",
@@ -427,7 +531,13 @@
         "drop-sources": [
             "Witch's Brew Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719f2dcafba403b0bbbbe_Black%20Flame%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f719f2dcafba403b0bbbbe_Black%20Flame%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blade Fury",
@@ -442,7 +552,12 @@
         ],
         "drop-type": "Bunker Masters - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a0381eec75c5bb98861_Blade%20Fury%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a0381eec75c5bb98861_Blade%20Fury%20(AR-BL3).webp",
+        "effects": [
+            "Melee",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blind Bandit",
@@ -458,7 +573,12 @@
         ],
         "drop-type": "DLC 4 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a38dcafba403b0c2056_Blind%20Bandit%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a38dcafba403b0c2056_Blind%20Bandit%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blind Sage",
@@ -479,7 +599,12 @@
         "drop-sources": [
             "Locom\u00f6bius"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a3f5f4258417e3d4d93_Blind%20Sage%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a3f5f4258417e3d4d93_Blind%20Sage%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Blood-Starved Beast",
@@ -500,7 +625,11 @@
         "drop-sources": [
             "Evil Lilith"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a552c7d5d3f93e69ce8_Blood-Starved%20Beast%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a552c7d5d3f93e69ce8_Blood-Starved%20Beast%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bloom",
@@ -517,10 +646,14 @@
         "drop-sources": [
             "The Ruiner"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a5d98f04f819bf24415_Bloom%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a5d98f04f819bf24415_Bloom%20(Pistol-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Bone Shredder",
+        "name": "Bone Shredder (BL3)",
         "flavor-text": "THE LEAD WIND BLOWS!",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -539,7 +672,11 @@
         "drop-sources": [
             "Crushjaw Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a879f00af8ca06bc62f_Bone%20Shredder%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a879f00af8ca06bc62f_Bone%20Shredder%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boogeyman",
@@ -561,7 +698,12 @@
             "Dam, WTF Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aa882359cbfa6c31b22_Boogeyman%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71aa882359cbfa6c31b22_Boogeyman%20(Sniper-BL3).webp",
+        "effects": [
+            "Stats",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Boomer",
@@ -579,7 +721,12 @@
         "drop-sources": [
             "Scraptrap Prime"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ad3f9b860ddbc39fb38_Boomer%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ad3f9b860ddbc39fb38_Boomer%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Brad Luck",
@@ -596,7 +743,12 @@
         "drop-sources": [
             "One Man's Treasure Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71af208fb35ea7a3cd249_Brad%20Luck%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71af208fb35ea7a3cd249_Brad%20Luck%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Brainstormer",
@@ -613,7 +765,12 @@
         "drop-sources": [
             "Katagawa Ball"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71afca723134849e17e33_Brainstormer%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71afca723134849e17e33_Brainstormer%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Brashi's Dedication",
@@ -631,7 +788,12 @@
         "drop-sources": [
             "Head Case Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b04e9c900e8d63003dc_Brashi%27s%20Dedication%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b04e9c900e8d63003dc_Brashi%27s%20Dedication%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Breath of the Dying",
@@ -648,7 +810,11 @@
         "drop-sources": [
             "Blinding Banshee Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b0cfabf19c99a7a4e50_Breath%20of%20the%20Dying%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b0cfabf19c99a7a4e50_Breath%20of%20the%20Dying%20(AR-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Breeder",
@@ -670,7 +836,11 @@
         "drop-sources": [
             "Big Donny & The Big-D"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b145e863575a9184064_Breeder%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b145e863575a9184064_Breeder%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Brightside",
@@ -692,7 +862,12 @@
         "drop-sources": [
             "Bronsons Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b1c81eec75c5bbafcab_Brightside%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b1c81eec75c5bbafcab_Brightside%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Bubble Blaster",
@@ -709,7 +884,13 @@
         "drop-sources": [
             "Dirty Deeds Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b24f8e1c0204d2163a2_Bubble%20Blaster%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b24f8e1c0204d2163a2_Bubble%20Blaster%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Buttplug",
@@ -726,7 +907,12 @@
         "drop-sources": [
             "Dump on Dumptruck Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c5d5357a405f504335e_Buttplug%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71c5d5357a405f504335e_Buttplug%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Carrier",
@@ -743,7 +929,11 @@
         "drop-sources": [
             "Judge Hightower Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cdc0d8079b2cb8c8ffd_Carrier%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cdc0d8079b2cb8c8ffd_Carrier%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Chandelier",
@@ -764,7 +954,11 @@
         "drop-sources": [
             "Bellik Primis"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cfc82359cbfa6c6eb75_Chandelier%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cfc82359cbfa6c6eb75_Chandelier%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cheap Tips",
@@ -786,7 +980,12 @@
         "drop-sources": [
             "Jackbot"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d41844a8c61ea0e02a9_Cheap%20Tips%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d41844a8c61ea0e02a9_Cheap%20Tips%20(SMG-BL3).webp",
+        "effects": [
+            "Random",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Chomper",
@@ -804,7 +1003,12 @@
             "Lagromar",
             "The Demon in the Dark Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d668af47250f2c47465_Chomper%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d668af47250f2c47465_Chomper%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Clairvoyance",
@@ -821,7 +1025,12 @@
         "drop-sources": [
             "Kritchy Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71daa6d2f5d27af6033bd_Clairvoyance%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71daa6d2f5d27af6033bd_Clairvoyance%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cloud Kill",
@@ -838,7 +1047,12 @@
         "drop-sources": [
             "Beneath the Meridian Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71db25357a405f505ddcd_Cloud%20Kill%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71db25357a405f505ddcd_Cloud%20Kill%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Maya"
     },
     {
         "name": "Cocky Bastard",
@@ -855,7 +1069,12 @@
         "drop-sources": [
             "Eista"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71dcde176c706c6b731a3_Cocky%20Bastard%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71dcde176c706c6b731a3_Cocky%20Bastard%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cold Shoulder",
@@ -872,7 +1091,12 @@
         "drop-sources": [
             "Hammerlocked Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71dd5c7ca4653fc7f99c3_Cold%20Shoulder%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71dd5c7ca4653fc7f99c3_Cold%20Shoulder%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Complex Root",
@@ -893,10 +1117,15 @@
         "drop-sources": [
             "Lani Dixon Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e195b51b820522095b1_Complex%20Root%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e195b51b820522095b1_Complex%20Root%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Conference Call",
+        "name": "Conference Call (BL3)",
         "flavor-text": "Let's just ping everyone all at once.",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -915,7 +1144,11 @@
         "drop-sources": [
             "Judge Hightower Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e2a9f00af8ca070998b_Conference%20Call%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e2a9f00af8ca070998b_Conference%20Call%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Contained Blast",
@@ -937,7 +1170,11 @@
         "drop-sources": [
             "Abbadoxis Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e32b92352c8a0c55424_Contained%20Blast%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e32b92352c8a0c55424_Contained%20Blast%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Convergence",
@@ -960,7 +1197,11 @@
             "Dr. Benedict",
             "Hag of Fervor"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e3a5357a405f5068a93_Convergence%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e3a5357a405f5068a93_Convergence%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Crader's EM-P5",
@@ -977,7 +1218,12 @@
         "drop-sources": [
             "Agonizer 9000, Pain & Terror"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e94dcafba403b122f66_Crader%27s%20EM-P5%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e94dcafba403b122f66_Crader%27s%20EM-P5%20(SMG-BL3).webp",
+        "effects": [
+            "Movement",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Craps",
@@ -999,10 +1245,15 @@
         "drop-sources": [
             "Jackbot"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e9ddc7dbb34e586f93d_Craps%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e9ddc7dbb34e586f93d_Craps%20(Pistol-BL3).webp",
+        "effects": [
+            "Random",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Creamer",
+        "name": "Creamer (BL3)",
         "flavor-text": "Non-dairy.",
         "game": "borderlands-3",
         "type": "Launcher",
@@ -1016,7 +1267,12 @@
         "drop-sources": [
             "Junpai Goat Eater Mayor's Killer Look"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eae1223b8d85803b253_Creamer%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eae1223b8d85803b253_Creamer%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Creeping Corruption",
@@ -1031,7 +1287,13 @@
         ],
         "drop-type": "Bunker Masters - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ec23517059bfc321c03_Creeping%20Corruption%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ec23517059bfc321c03_Creeping%20Corruption%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Stacks",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Creeping Death",
@@ -1048,10 +1310,16 @@
         "drop-sources": [
             "Mother of Grogans"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eca0f57edc3bcad063d_Creeping%20Death%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eca0f57edc3bcad063d_Creeping%20Death%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Crit",
+        "name": "Crit (BL3)",
         "flavor-text": "Slippery when wet.",
         "game": "borderlands-3",
         "type": "SMG",
@@ -1065,7 +1333,13 @@
         "drop-sources": [
             "Moxxi's Tip Jar Unique"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eda60a2c3cb436c3024_Crit%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eda60a2c3cb436c3024_Crit%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Stats",
+            "Random"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Critical Mass",
@@ -1080,7 +1354,12 @@
         ],
         "drop-type": "DLC 4 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ee25f4258417e434894_Critical%20Mass%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ee25f4258417e434894_Critical%20Mass%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Critical Thug",
@@ -1098,7 +1377,11 @@
             "Seepage & Creepage Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eedf8e1c0204d25c971_Critical%20Thug%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71eedf8e1c0204d25c971_Critical%20Thug%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Crossroad",
@@ -1119,7 +1402,12 @@
         "drop-sources": [
             "Big Donny & The Big-D"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f047d4d6d7852e69761_Crossroad%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f047d4d6d7852e69761_Crossroad%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Cutsman",
@@ -1138,7 +1426,11 @@
         "drop-sources": [
             "Borman Nates"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f639f00af8ca0722c3d_Cutsman%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f639f00af8ca0722c3d_Cutsman%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "D.N.A.",
@@ -1155,7 +1447,13 @@
         "drop-sources": [
             "General Traunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f7b3517059bfc32f1c8_D.N.A.%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71f7b3517059bfc32f1c8_D.N.A.%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Random",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Dakota",
@@ -1172,7 +1470,11 @@
         "drop-sources": [
             "Riding to Ruin Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7203214512f1708d8ca81_Dakota%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7203214512f1708d8ca81_Dakota%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Damned",
@@ -1194,7 +1496,12 @@
         "drop-sources": [
             "Agonizer 9000, Pain & Terror"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7203a5f4258417e450c7d_Damned%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7203a5f4258417e450c7d_Damned%20(AR-BL3).webp",
+        "effects": [
+            "ADS",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Dark Army",
@@ -1216,7 +1523,11 @@
             "Madwidth Power Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7204a844a8c61ea11d7be_Dark%20Army%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7204a844a8c61ea11d7be_Dark%20Army%20(SMG-BL3).webp",
+        "effects": [
+            "Drone"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Dead Chamber",
@@ -1233,7 +1544,12 @@
         "drop-sources": [
             "Malevolent Practice Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72052ef37022b7d4c8e2c_Dead%20Chamber%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72052ef37022b7d4c8e2c_Dead%20Chamber%20(Pistol-BL3).webp",
+        "effects": [
+            "Reload",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Destructo Spinner",
@@ -1254,7 +1570,12 @@
         "drop-sources": [
             "Power Troopers"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7207b3517059bfc3451d6_Destructo%20Spinner%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7207b3517059bfc3451d6_Destructo%20Spinner%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Devastator",
@@ -1271,7 +1592,12 @@
         "drop-sources": [
             "The Unstoppable"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7208b7f1109aeeea63f2f_Devastator%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7208b7f1109aeeea63f2f_Devastator%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Devils Foursum",
@@ -1293,7 +1619,11 @@
         "drop-sources": [
             "Psychobillies Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720937f1109aeeea6476c_Devils%20Foursum%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720937f1109aeeea6476c_Devils%20Foursum%20(Pistol-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Devoted",
@@ -1315,7 +1645,12 @@
             "Brood Mother Legendary Hunt",
             "Alacritous Vanda"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7209e9e230d233350d910_Devoted%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7209e9e230d233350d910_Devoted%20(SMG-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Digby's Smooth Tube",
@@ -1332,7 +1667,11 @@
         "drop-sources": [
             "Do it for Digby (Part 3) Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720cd0d8079b2cb91d8af_Digby%27s%20Smooth%20Tube%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720cd0d8079b2cb91d8af_Digby%27s%20Smooth%20Tube%20(AR-BL3).webp",
+        "effects": [
+            "Audio"
+        ],
+        "aftermarket": "Digby"
     },
     {
         "name": "Dowsing Rod",
@@ -1354,7 +1693,12 @@
         "drop-sources": [
             "Pterodomini Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720e85cacc74e55126daf_Dowsing%20Rod%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720e85cacc74e55126daf_Dowsing%20Rod%20(AR-BL3).webp",
+        "effects": [
+            "Stacks",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "E-Gone",
@@ -1371,7 +1715,12 @@
         "drop-sources": [
             "Cannonization Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721b4dc0808fb5aea81e0_E-Gone%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721b4dc0808fb5aea81e0_E-Gone%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Earworm",
@@ -1386,7 +1735,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721c4c75c883e46454782_Earworm%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721c4c75c883e46454782_Earworm%20(AR-BL3).webp",
+        "effects": [
+            "Audio"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Echo",
@@ -1408,7 +1761,11 @@
         "drop-sources": [
             "Big Donny & The Big-D"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721cbc8ec39acf64eaa4f_Echo%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721cbc8ec39acf64eaa4f_Echo%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ember's Purge",
@@ -1425,7 +1782,12 @@
         "drop-sources": [
             "Pieces of R\u00e9sistance Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721ee82359cbfa6cd8dbf_Ember%27s%20Purge%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721ee82359cbfa6cd8dbf_Ember%27s%20Purge%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Ember"
     },
     {
         "name": "Embrace the Pain",
@@ -1442,7 +1804,13 @@
         "drop-sources": [
             "Hot Karl Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721f95cacc74e5513b3ad_Embrace%20the%20Pain%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f721f95cacc74e5513b3ad_Embrace%20the%20Pain%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Stacks",
+            "Ammo"
+        ],
+        "aftermarket": "Krieg"
     },
     {
         "name": "Eridian Fabricator",
@@ -1459,7 +1827,12 @@
         "drop-sources": [
             "Footsteps of Giants Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722281356fd269ff045ee_Eridian%20Fabricator%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722281356fd269ff045ee_Eridian%20Fabricator%20(Launcher-BL3).webp",
+        "effects": [
+            "Random",
+            "Loot"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Extreme Hangin' Chadd",
@@ -1476,7 +1849,12 @@
         "drop-sources": [
             "Swamp Bro Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72241f9b860ddbc439aea_Extreme%20Hangin%27%20Chadd%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72241f9b860ddbc439aea_Extreme%20Hangin%27%20Chadd%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Ammo"
+        ],
+        "aftermarket": "Chadd"
     },
     {
         "name": "Face-puncher",
@@ -1493,7 +1871,11 @@
         "drop-sources": [
             "Muldock the Anointed"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72249f9b860ddbc43a410_Face-puncher%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72249f9b860ddbc43a410_Face-puncher%20(Shotgun-BL3).webp",
+        "effects": [
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Faisor",
@@ -1514,7 +1896,12 @@
         "drop-sources": [
             "Atomic & Sylestro Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7225211c0ea139ff1f0ba_Faisor%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7225211c0ea139ff1f0ba_Faisor%20(AR-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fearmonger",
@@ -1536,7 +1923,13 @@
             "Loot Ghost Rare Spawn",
             "Captain Haunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722b3ae0681bd25dfabcf_Fearmonger%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722b3ae0681bd25dfabcf_Fearmonger%20(Shotgun-BL3).webp",
+        "effects": [
+            "Stacks",
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Fingerbiter",
@@ -1553,7 +1946,11 @@
         "drop-sources": [
             "On the Blood Path Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722cdb92352c8a0cbe949_Fingerbiter%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722cdb92352c8a0cbe949_Fingerbiter%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Firecracker",
@@ -1570,7 +1967,12 @@
         "drop-sources": [
             "Happily Ever After Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722f80dcad69cc35c98c3_Firecracker%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722f80dcad69cc35c98c3_Firecracker%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Firefly",
@@ -1588,7 +1990,12 @@
             "Shipping Encouraged Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723012b8fd2588943673c_Firefly%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723012b8fd2588943673c_Firefly%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Firestorm",
@@ -1606,10 +2013,15 @@
             "Red Jabber",
             "Katagawa Jr."
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7231af9b860ddbc44c7b3_Firestorm%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7231af9b860ddbc44c7b3_Firestorm%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Flakker",
+        "name": "Flakker (BL3)",
         "flavor-text": "Flak the world.",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -1625,7 +2037,11 @@
         "drop-sources": [
             "Manvark Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7239b4adf9e5a7ea32ded_Flakker%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7239b4adf9e5a7ea32ded_Flakker%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Flama Diddle",
@@ -1642,7 +2058,12 @@
         "drop-sources": [
             "Wendigo"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723acb92352c8a0cd132f_Flama%20Diddle%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723acb92352c8a0cd132f_Flama%20Diddle%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Flipper",
@@ -1664,7 +2085,11 @@
             "Minosaur Hunt Target",
             "Arbalest of Discipline"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723c9844a8c61ea17321b_Flipper%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723c9844a8c61ea17321b_Flipper%20(SMG-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Free Radical",
@@ -1681,7 +2106,12 @@
         "drop-sources": [
             "Beef Plissken"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723e682359cbfa6d0a1f2_Free%20Radical%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723e682359cbfa6d0a1f2_Free%20Radical%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Freeman",
@@ -1698,7 +2128,11 @@
         "drop-sources": [
             "Warden"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723f24eb5e6a8dc8db2a1_Freeman%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723f24eb5e6a8dc8db2a1_Freeman%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Frequency",
@@ -1719,7 +2153,15 @@
         "drop-sources": [
             "Lectrikor Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72410bc6ae172b19904e2_Frequency%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72410bc6ae172b19904e2_Frequency%20(Shotgun-BL3).webp",
+        "effects": [
+            "Audio",
+            "Stacks",
+            "Fire Pattern",
+            "Firing Mode",
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Frozen Devil",
@@ -1736,7 +2178,13 @@
         "drop-sources": [
             "Kukuwajack Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724b6761d29ced8a20713_Frozen%20Devil%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724b6761d29ced8a20713_Frozen%20Devil%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Gargoyle",
@@ -1753,7 +2201,12 @@
         "drop-sources": [
             "Dickon Goyle Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724d2d35ef4a00db74da8_Gargoyle%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724d2d35ef4a00db74da8_Gargoyle%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Gatling Gun",
@@ -1770,7 +2223,11 @@
         "drop-sources": [
             "Sheega"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724e30db317d75c7854f8_Gatling%20Gun%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724e30db317d75c7854f8_Gatling%20Gun%20(AR-BL3).webp",
+        "effects": [
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Gettleburger",
@@ -1787,7 +2244,12 @@
         "drop-sources": [
             "Dynasty Diner Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724f60d726d1f17eafa90_Gettleburger%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724f60d726d1f17eafa90_Gettleburger%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Girth Blaster Elite",
@@ -1802,7 +2264,11 @@
         ],
         "drop-type": "Paid Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724ffef37022b7d5328cd_Girth%20Blaster%20Elite%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f724ffef37022b7d5328cd_Girth%20Blaster%20Elite%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Globetrottr",
@@ -1823,7 +2289,11 @@
         "drop-sources": [
             "Scourge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7251a82359cbfa6d2335d_Globetrottr%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7251a82359cbfa6d2335d_Globetrottr%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Gold Rush",
@@ -1838,7 +2308,13 @@
         ],
         "drop-type": "Welcome to Pandora - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725713fd1e5e07453feae_Gold%20Rush%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725713fd1e5e07453feae_Gold%20Rush%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Stacks",
+            "Money"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Good Juju",
@@ -1860,7 +2336,13 @@
         "drop-sources": [
             "The Rampager"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7257b8af47250f2cfc271_Good%20Juju%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7257b8af47250f2cfc271_Good%20Juju%20(AR-BL3).webp",
+        "effects": [
+            "Stacks",
+            "Ammo",
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Grease Trap",
@@ -1879,7 +2361,12 @@
             "Roaster",
             "The Tenderizer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725fc844a8c61ea1a5058_Grease%20Trap%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f725fc844a8c61ea1a5058_Grease%20Trap%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Guardian 4N631",
@@ -1894,10 +2381,15 @@
         ],
         "drop-type": "Fallen Heros - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726a3761d29ced8a4e956_Guardian%204N631%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726a3761d29ced8a4e956_Guardian%204N631%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "Angel"
     },
     {
-        "name": "Gunerang",
+        "name": "Gunerang (BL3)",
         "flavor-text": "Give it a burl.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -1916,10 +2408,14 @@
         "drop-sources": [
             "Indo Tyrant"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726c05cacc74e551ad353_Gunerang%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726c05cacc74e551ad353_Gunerang%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Hail",
+        "name": "Hail (BL3)",
         "flavor-text": "What plaything can you offer me today?",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -1938,7 +2434,14 @@
         "drop-sources": [
             "Moxxi's Tip Jar Unique"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726e58414f3e66b6d0ac3_Hail%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726e58414f3e66b6d0ac3_Hail%20(AR-BL3).webp",
+        "effects": [
+            "Stats",
+            "Health",
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Hand of Glory",
@@ -1955,7 +2458,11 @@
         "drop-sources": [
             "The Guns of Reliance Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72715ef37022b7d56479e_Hand%20of%20Glory%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72715ef37022b7d56479e_Hand%20of%20Glory%20(AR-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Handsome Jackhammer",
@@ -1977,7 +2484,12 @@
         "drop-sources": [
             "Handsome Jackie Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7271d10336f313a50df45_Handsome%20Jackhammer%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7271d10336f313a50df45_Handsome%20Jackhammer%20(SMG-BL3).webp",
+        "effects": [
+            "Reload",
+            "Projectile"
+        ],
+        "aftermarket": "Handsome Jack"
     },
     {
         "name": "Headsplosion",
@@ -1994,10 +2506,14 @@
         "drop-sources": [
             "King Bobo the Almighty"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727585cacc74e551b83bd_Headsplosion%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727585cacc74e551b83bd_Headsplosion%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Heart Breaker",
+        "name": "Heart Breaker (BL3)",
         "flavor-text": "I don't want to set the world on fire...",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -2014,7 +2530,12 @@
         "drop-sources": [
             "Gorgeous Armada Mayor's Killer Look"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7276ccb6e7d495aefef97_Heart%20Breaker%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7276ccb6e7d495aefef97_Heart%20Breaker%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Heckle",
@@ -2029,10 +2550,15 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7278a7a26cc97df152855_Heckle%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7278a7a26cc97df152855_Heckle%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Hellfire",
+        "name": "Hellfire (BL3)",
         "flavor-text": "We don't need no... something...",
         "game": "borderlands-3",
         "type": "SMG",
@@ -2046,7 +2572,11 @@
         "drop-sources": [
             "Jabbermogwai Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727c07a26cc97df1575ed_Hellfire%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727c07a26cc97df1575ed_Hellfire%20(SMG-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hellshock",
@@ -2064,7 +2594,12 @@
         "drop-sources": [
             "Vermilingua"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727cb451204fee7f5f6c2_Hellshock%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727cb451204fee7f5f6c2_Hellshock%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hellwalker",
@@ -2081,10 +2616,16 @@
         "drop-sources": [
             "Road Dog"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727d3c8ec39acf656dee1_Hellwalker%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727d3c8ec39acf656dee1_Hellwalker%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Audio",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Hive",
+        "name": "Hive (BL3)",
         "flavor-text": "Full of bees.",
         "game": "borderlands-3",
         "type": "Launcher",
@@ -2099,10 +2640,15 @@
         "drop-sources": [
             "Princess Tarantella II"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727e84adf9e5a7ea98a95_Hive%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727e84adf9e5a7ea98a95_Hive%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Hornet",
+        "name": "Hornet (BL3)",
         "flavor-text": "Fear the swarm!",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -2116,7 +2662,12 @@
         "drop-sources": [
             "Mother of Grogans"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72805374d8d2079ea5ad6_Hornet%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72805374d8d2079ea5ad6_Hornet%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hot Drop",
@@ -2133,7 +2684,12 @@
         "drop-sources": [
             "Hot Karl Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7281b6fc8e2ba005b1db3_Hot%20Drop%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7281b6fc8e2ba005b1db3_Hot%20Drop%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hotfoot Teddy",
@@ -2151,7 +2707,11 @@
             "Seepage & Creepage Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7282ff9709d68d9fce356_Hotfoot%20Teddy%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7282ff9709d68d9fce356_Hotfoot%20Teddy%20(AR-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hyde",
@@ -2166,7 +2726,12 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7284861bc74ed13d50ea0_Hyde%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7284861bc74ed13d50ea0_Hyde%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hydrafrost",
@@ -2183,7 +2748,12 @@
         "drop-sources": [
             "Shiverous the Unscathed"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728643517059bfc3f5bbd_Hydrafrost%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728643517059bfc3f5bbd_Hydrafrost%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hyper-Hydrator",
@@ -2198,7 +2768,13 @@
         ],
         "drop-type": "Paid Item",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7286e10336f313a52c7c5_Hyper-Hydrator%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7286e10336f313a52c7c5_Hyper-Hydrator%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Hyperfocus XZ41",
@@ -2220,7 +2796,12 @@
         "drop-sources": [
             "Power Troopers"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72877c0ea2ca1266f3cbd_Hyperfocus%20XZ41%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72877c0ea2ca1266f3cbd_Hyperfocus%20XZ41%20(SMG-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "ION CANNON",
@@ -2242,7 +2823,11 @@
         "drop-sources": [
             "Fabricator Mk II"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728830d726d1f17efbb4a_ION%20CANNON%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728830d726d1f17efbb4a_ION%20CANNON%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "ION LASER",
@@ -2263,7 +2848,12 @@
         "drop-sources": [
             "Evil Saint Lawrence Mayor's Killer Look"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7288b4eb5e6a8dc93e9e3_ION%20LASER%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7288b4eb5e6a8dc93e9e3_ION%20LASER%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ice Age",
@@ -2278,7 +2868,12 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7289dee4ef2357f337aad_Ice%20Age%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7289dee4ef2357f337aad_Ice%20Age%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ice Pick",
@@ -2297,7 +2892,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728a8e9c900e8d6457daf_Ice%20Pick%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728a8e9c900e8d6457daf_Ice%20Pick%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Icebreaker",
@@ -2314,7 +2913,12 @@
         "drop-sources": [
             "Of Blood and Beans Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728b881dad5859b2c1a16_Icebreaker%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728b881dad5859b2c1a16_Icebreaker%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Iceburger",
@@ -2333,10 +2937,15 @@
             "Roaster",
             "The Tenderizer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728c3b22399502ae0ca59_Iceburger%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728c3b22399502ae0ca59_Iceburger%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Infinity",
+        "name": "Infinity (BL3)",
         "flavor-text": "It's closer than you think! (no it isn't)",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -2355,7 +2964,12 @@
         "drop-sources": [
             "Anointed Alpha"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728f7ca0eeca05f465ce3_Infinity%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728f7ca0eeca05f465ce3_Infinity%20(Pistol-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Insider",
@@ -2376,7 +2990,11 @@
         "drop-sources": [
             "Tom & Xam"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728ff498c2e0866e843d9_Insider%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728ff498c2e0866e843d9_Insider%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ionic Disruptor",
@@ -2393,7 +3011,13 @@
         "drop-sources": [
             "Hemovorous"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7293d3e9443fbd77e618d_Ionic%20Disruptor%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7293d3e9443fbd77e618d_Ionic%20Disruptor%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Melee",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Jericho",
@@ -2410,7 +3034,13 @@
         "drop-sources": [
             "Crushjaw Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7296cc8ec39acf6590a2a_Jericho%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7296cc8ec39acf6590a2a_Jericho%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Juliet's Dazzle",
@@ -2428,7 +3058,14 @@
         "drop-sources": [
             "Aurelia"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729bd7a26cc97df18175b_Juliet%27s%20Dazzle%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729bd7a26cc97df18175b_Juliet%27s%20Dazzle%20(AR-BL3).webp",
+        "effects": [
+            "On Kill",
+            "Ammo",
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Just Kaus",
@@ -2445,7 +3082,11 @@
         "drop-sources": [
             "The Handsome Jackpot Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729c54c27a5a51af9efa1_Just%20Kaus%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729c54c27a5a51af9efa1_Just%20Kaus%20(SMG-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kaleidoscope",
@@ -2462,7 +3103,12 @@
         "drop-sources": [
             "Petting Mancubite Unique"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729d0da44cf148c2f7e82_Kaleidoscope%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729d0da44cf148c2f7e82_Kaleidoscope%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kaos",
@@ -2482,7 +3128,11 @@
         "drop-sources": [
             "Psychobillies Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729eb8414f3e66b71ad0b_Kaos%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729eb8414f3e66b71ad0b_Kaos%20(AR-BL3).webp",
+        "effects": [
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kaoson",
@@ -2505,7 +3155,11 @@
             "Captain Traunt",
             "Arbalest of Discipline"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729f6cb6e7d495af372fc_Kaoson%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729f6cb6e7d495af372fc_Kaoson%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kenulox",
@@ -2522,7 +3176,12 @@
         "drop-sources": [
             "Transaction-Packed Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a0114512f1708e82ee0_Kenulox%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a0114512f1708e82ee0_Kenulox%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kevin's Chilly",
@@ -2539,7 +3198,11 @@
         "drop-sources": [
             "The Kevin Konundrum Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a257b888e032b1d8832_Kevin%27s%20Chilly%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a257b888e032b1d8832_Kevin%27s%20Chilly%20(SMG-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "Kevin"
     },
     {
         "name": "Kickcharger",
@@ -2561,7 +3224,12 @@
             "Dam, WTF Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a2fc8ec39acf65a2266_Kickcharger%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a2fc8ec39acf65a2266_Kickcharger%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kill-o'-the-Wisp",
@@ -2578,7 +3246,12 @@
         "drop-sources": [
             "Under Taker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a4bb1277ce75746a80d_Kill-o%27-the-Wisp%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a4bb1277ce75746a80d_Kill-o%27-the-Wisp%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "King's Call",
@@ -2596,7 +3269,13 @@
         "drop-sources": [
             "Tyreen the Destroyer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a5d8af47250f2d7571d_King%27s%20Call%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a5d8af47250f2d7571d_King%27s%20Call%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Health",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Krakatoa",
@@ -2613,7 +3292,12 @@
         "drop-sources": [
             "Tumorhead"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a7e14512f1708e8f6f5_Krakatoa%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a7e14512f1708e8f6f5_Krakatoa%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Kyb's Worth",
@@ -2634,7 +3318,13 @@
         "drop-sources": [
             "Wotan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a955cacc74e551fd094_Kyb%27s%20Worth%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a955cacc74e551fd094_Kyb%27s%20Worth%20(SMG-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "On Kill",
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "L0V3M4CH1N3",
@@ -2651,7 +3341,12 @@
         "drop-sources": [
             "Baby Dancer Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aa8c5b5245f8b02fdcb_L0V3M4CH1N3%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aa8c5b5245f8b02fdcb_L0V3M4CH1N3%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "La Varlope",
@@ -2668,7 +3363,12 @@
         "drop-sources": [
             "Great Escape Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ab1e91c4e009774cedf_La%20Varlope%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ab1e91c4e009774cedf_La%20Varlope%20(AR-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Laser-Sploder",
@@ -2689,7 +3389,11 @@
         "drop-sources": [
             "King Bobo the Almighty"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b6700e8242c955df5d0_Laser-Sploder%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b6700e8242c955df5d0_Laser-Sploder%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lead Sprinkler",
@@ -2706,7 +3410,11 @@
         "drop-sources": [
             "Billy, The Anointed"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72be297a59bcc73fcd0d2_Lead%20Sprinkler%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72be297a59bcc73fcd0d2_Lead%20Sprinkler%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Light Show",
@@ -2728,7 +3436,11 @@
         "drop-sources": [
             "Lasodactyl Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf8a7828f188ef1c052_Light%20Show%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf8a7828f188ef1c052_Light%20Show%20(Pistol-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Likable Rascal",
@@ -2743,7 +3455,12 @@
         ],
         "drop-type": "DLC 4 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c054943271efb6e5186_Likable%20Rascal%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c054943271efb6e5186_Likable%20Rascal%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Linc",
@@ -2760,7 +3477,11 @@
         "drop-sources": [
             "Anointed Alpha"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c138c2957a2ed8eb90e_Linc%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c138c2957a2ed8eb90e_Linc%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Linoge",
@@ -2778,7 +3499,12 @@
         "drop-sources": [
             "Lavender Crawly Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c4fdabdba29bca53ab3_Linoge%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c4fdabdba29bca53ab3_Linoge%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Little Yeeti",
@@ -2795,7 +3521,13 @@
         "drop-sources": [
             "Yeti Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041e44ff3e47f773c0f055_Little%20Yeeti%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041e44ff3e47f773c0f055_Little%20Yeeti%20(Pistol-BL3).webp",
+        "effects": [
+            "Knockback",
+            "Melee",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Long Musket",
@@ -2812,7 +3544,12 @@
         "drop-sources": [
             "Lagromar"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c80a7828f188ef2b3bc_Long%20Musket%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72c80a7828f188ef2b3bc_Long%20Musket%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lovable Rogue",
@@ -2829,7 +3566,12 @@
         "drop-sources": [
             "Evil Brick"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ca118c2972e07208137_Lovable%20Rogue%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ca118c2972e07208137_Lovable%20Rogue%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Love Drill",
@@ -2846,7 +3588,11 @@
         "drop-sources": [
             "The Call of Gythian Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ca818c2972e072089a5_Love%20Drill%20(Epic-Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ca818c2972e072089a5_Love%20Drill%20(Epic-Pistol-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Love Drill",
@@ -2863,7 +3609,12 @@
         "drop-sources": [
             "Eleanor and the Heart"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72caf49fbbf06905c3821_Love%20Drill%20(Legendary-Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72caf49fbbf06905c3821_Love%20Drill%20(Legendary-Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lucian's Call",
@@ -2883,7 +3634,11 @@
             "Blue Fire",
             "Dinklebot"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cbc231580ef43ce3f27_Lucian%27s%20Call%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cbc231580ef43ce3f27_Lucian%27s%20Call%20(AR-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Lucky 7",
@@ -2901,10 +3656,18 @@
             "Scraptrap Prime",
             "Skag of Survival"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cc935a61133b36f3e7e_Lucky%207%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cc935a61133b36f3e7e_Lucky%207%20(Pistol-BL3).webp",
+        "effects": [
+            "Random",
+            "Stats",
+            "Fire Pattern",
+            "Firing Mode",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Lyuda",
+        "name": "Lyuda (BL3)",
         "flavor-text": "Man killer.",
         "game": "borderlands-3",
         "type": "Sniper",
@@ -2924,10 +3687,14 @@
             "Tremendous Rex",
             "Targets of Opportunity Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cd7ae773a4a23140eea_Lyuda%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cd7ae773a4a23140eea_Lyuda%20(Sniper-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Maggie",
+        "name": "Maggie (BL3)",
         "flavor-text": "Monty's wife don't take no guff.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -2942,7 +3709,11 @@
             "Turnkey Tim",
             "Hag of Fervor"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d3f4943271efb6ff0db_Maggie%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d3f4943271efb6ff0db_Maggie%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Magnificent",
@@ -2961,7 +3732,12 @@
         "drop-sources": [
             "Jabbermogwai Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d563d04a5f4e024b63a_Magnificent%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d563d04a5f4e024b63a_Magnificent%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Major Kong",
@@ -2983,7 +3759,11 @@
         "drop-sources": [
             "Psychoreaver"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d5dd5a56b6a9b8c0460_Major%20Kong%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d5dd5a56b6a9b8c0460_Major%20Kong%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Malak's Bane",
@@ -3001,7 +3781,12 @@
         "drop-sources": [
             "Phoenix Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d6adca92b5d5b111aa0_Malak%27s%20Bane%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d6adca92b5d5b111aa0_Malak%27s%20Bane%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Manic Pixie Dream Gun",
@@ -3021,7 +3806,13 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d71ef8ec6ded7b7122a_Manic%20Pixie%20Dream%20Gun%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d71ef8ec6ded7b7122a_Manic%20Pixie%20Dream%20Gun%20(Shotgun-BL3).webp",
+        "effects": [
+            "Reload",
+            "Projectile",
+            "Drone"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Masterwork Crossbow",
@@ -3038,7 +3829,11 @@
         "drop-sources": [
             "Urist McEnforcer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d8681787c6385bf8af0_Masterwork%20Crossbow%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d8681787c6385bf8af0_Masterwork%20Crossbow%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mechanic",
@@ -3053,7 +3848,11 @@
         ],
         "drop-type": "Fallen Heros - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d9a6a9082c6afbfe71c_Mechanic%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d9a6a9082c6afbfe71c_Mechanic%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "Scooter"
     },
     {
         "name": "Melt Facer",
@@ -3070,7 +3869,11 @@
         "drop-sources": [
             "Acid Trip Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72da7d5a56b6a9b8c62c3_Melt%20Facer%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72da7d5a56b6a9b8c62c3_Melt%20Facer%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mind-Killer",
@@ -3087,7 +3890,11 @@
         "drop-sources": [
             "Mouthpiece"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72de0ca31687e292db05e_Mind-Killer%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72de0ca31687e292db05e_Mind-Killer%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Minor Kong",
@@ -3104,7 +3911,12 @@
         "drop-sources": [
             "Locus of Rage Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72deddca92b5d5b11a351_Minor%20Kong%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72deddca92b5d5b11a351_Minor%20Kong%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Miscreant",
@@ -3126,10 +3938,15 @@
         "drop-sources": [
             "The Quartermaster"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041dd15a44aaaacca0ca69_Miscreant%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041dd15a44aaaacca0ca69_Miscreant%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Mongol",
+        "name": "Mongol (BL3)",
         "flavor-text": "Man is a horde animal.",
         "game": "borderlands-3",
         "type": "Launcher",
@@ -3148,7 +3965,11 @@
         "drop-sources": [
             "Captain Thunk & Sloth"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e184943271efb70f981_Mongol%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e184943271efb70f981_Mongol%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Monocle",
@@ -3165,7 +3986,12 @@
         "drop-sources": [
             "Demoskaggon"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e258c2957a2ed911f1d_Monocle%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e258c2957a2ed911f1d_Monocle%20(Sniper-BL3).webp",
+        "effects": [
+            "ADS",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Moonfire",
@@ -3187,7 +4013,11 @@
         "drop-sources": [
             "Wotan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e3386abe1ea4517771f_Moonfire%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e3386abe1ea4517771f_Moonfire%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mother Too",
@@ -3209,7 +4039,12 @@
         "drop-sources": [
             "Slithermaw Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e4849fbbf06905e5f66_Mother%20Too%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e4849fbbf06905e5f66_Mother%20Too%20(SMG-BL3).webp",
+        "effects": [
+            "Drone",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Multi-tap",
@@ -3226,7 +4061,13 @@
         "drop-sources": [
             "Katagawa Ball"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e5797a59bcc73004c53_Multi-tap%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e5797a59bcc73004c53_Multi-tap%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Mutant",
@@ -3243,7 +4084,11 @@
         "drop-sources": [
             "Fungal Gorger"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e5ea7828f188ef4f993_Mutant%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e5ea7828f188ef4f993_Mutant%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Narp",
@@ -3265,7 +4110,12 @@
         "drop-sources": [
             "Haddon Marr Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72eae18c2972e0723398f_Narp%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72eae18c2972e0723398f_Narp%20(Sniper-BL3).webp",
+        "effects": [
+            "Reload",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Needle Gun",
@@ -3289,10 +4139,17 @@
             "Josie Byte",
             "Franco Firewall"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72eb4785ffb5d3915f13f_Needle%20Gun%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72eb4785ffb5d3915f13f_Needle%20Gun%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Ammo",
+            "Stacks",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Nemesis",
+        "name": "Nemesis (BL3)",
         "flavor-text": "A righteous infliction of retribution.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -3307,7 +4164,11 @@
         "drop-sources": [
             "Mouthpiece"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ec4a66d92eb678d0a01_Nemesis%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ec4a66d92eb678d0a01_Nemesis%20(Pistol-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Night Flyer",
@@ -3324,7 +4185,12 @@
         "drop-sources": [
             "I'm Rakkman"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ed7c41706b67ed5d589_Night%20Flyer%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ed7c41706b67ed5d589_Night%20Flyer%20(Pistol-BL3).webp",
+        "effects": [
+            "Health",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Night Hawkin",
@@ -3342,7 +4208,12 @@
             "I'm Rakkman",
             "Demoskaggon"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ede352bbfeec2009ff2_Night%20Hawkin%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ede352bbfeec2009ff2_Night%20Hawkin%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Time"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Nimble Jack",
@@ -3359,7 +4230,11 @@
         "drop-sources": [
             "Handsome Jackie Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ee4c6d62f4ae0b45043_Nimble%20Jack%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ee4c6d62f4ae0b45043_Nimble%20Jack%20(Shotgun-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "NoPewPew",
@@ -3378,7 +4253,12 @@
             "Roaster",
             "The Tenderizer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ef081787c6385c13a32_NoPewPew%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ef081787c6385c13a32_NoPewPew%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Nothingness",
@@ -3399,10 +4279,14 @@
         "drop-sources": [
             "Gmork Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72efdc2c0d921b24becc8_Nothingness%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72efdc2c0d921b24becc8_Nothingness%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Nukem",
+        "name": "Nukem (BL3)",
         "flavor-text": "Name dropper.",
         "game": "borderlands-3",
         "type": "Launcher",
@@ -3416,7 +4300,11 @@
         "drop-sources": [
             "Loco Chantelle Mayor's Killer Look"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f0a8f43799ace5c3ee3_Nukem%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f0a8f43799ace5c3ee3_Nukem%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Null Pointer",
@@ -3433,7 +4321,11 @@
         "drop-sources": [
             "Hostile Takeover Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1635a61133b3724530_Null%20Pointer%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1635a61133b3724530_Null%20Pointer%20(Sniper-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "Zer0"
     },
     {
         "name": "O.P.Q. System",
@@ -3452,7 +4344,12 @@
             "Josie Byte",
             "Franco Firewall"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1cb886ae155dab7761_O.P.Q.%20System%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f1cb886ae155dab7761_O.P.Q.%20System%20(AR-BL3).webp",
+        "effects": [
+            "Drone",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Occultist",
@@ -3469,10 +4366,15 @@
         "drop-sources": [
             "Troy Calypso"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f28131025fc7b4adad5_Occultist%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f28131025fc7b4adad5_Occultist%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Ogre",
+        "name": "Ogre (BL3)",
         "flavor-text": "It's all ogre now.",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -3486,7 +4388,11 @@
         "drop-sources": [
             "Anointed Alpha"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f4686abe1ea4518d77d_Ogre%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f4686abe1ea4518d77d_Ogre%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Oldridian",
@@ -3508,7 +4414,13 @@
         "drop-sources": [
             "Empowered Scholar"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65192968af08d77489c71623_Oldridian%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65192968af08d77489c71623_Oldridian%20(SMG-BL3).webp",
+        "effects": [
+            "Reload",
+            "Element",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Omniloader",
@@ -3525,7 +4437,11 @@
         "drop-sources": [
             "The Family Jewel Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f76a7828f188ef64c51_Omniloader%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f76a7828f188ef64c51_Omniloader%20(Pistol-BL3).webp",
+        "effects": [
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "One Pump Chump",
@@ -3542,7 +4458,11 @@
         "drop-sources": [
             "One Punch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f7ec86e1b2f5bf6a95b_One%20Pump%20Chump%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f7ec86e1b2f5bf6a95b_One%20Pump%20Chump%20(Shotgun-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "P.A.T. Mk. II",
@@ -3559,7 +4479,13 @@
         "drop-sources": [
             "A Good Egg Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f9ec86e1b2f5bf6cbde_P.A.T.%20Mk.%20II%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f9ec86e1b2f5bf6cbde_P.A.T.%20Mk.%20II%20(SMG-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "P.A.T. Mk. III",
@@ -3579,7 +4505,12 @@
         "drop-sources": [
             "Sponge BulletPants"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fa4785ffb5d39171f62_P.A.T.%20Mk.%20III%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fa4785ffb5d39171f62_P.A.T.%20Mk.%20III%20(SMG-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "P2P Networker",
@@ -3598,7 +4529,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72faa97af4be9da300a3d_P2P%20Networker%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72faa97af4be9da300a3d_P2P%20Networker%20(SMG-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pa's Rifle",
@@ -3615,7 +4550,11 @@
         "drop-sources": [
             "The Homestead (Part 3) Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fb0734b1c56616d6db9_Pa%27s%20Rifle%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fb0734b1c56616d6db9_Pa%27s%20Rifle%20(AR-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pain is Power",
@@ -3632,7 +4571,12 @@
         "drop-sources": [
             "Hot Karl Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fb6785ffb5d39173002_Pain%20is%20Power%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fb6785ffb5d39173002_Pain%20is%20Power%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Ammo"
+        ],
+        "aftermarket": "Krieg"
     },
     {
         "name": "Peacemonger",
@@ -3649,7 +4593,11 @@
         "drop-sources": [
             "Ratch'd Up Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fddc112a98b0241c1ed_Peacemonger%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fddc112a98b0241c1ed_Peacemonger%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Peashooter",
@@ -3666,7 +4614,12 @@
         "drop-sources": [
             "Blood from a Stone Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ff638c971d5ec28a74c_Peashooter%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ff638c971d5ec28a74c_Peashooter%20(Pistol-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pestilence",
@@ -3684,7 +4637,12 @@
             "Heckle/Hyde Target of Opportunity",
             "Atomic & Sylestro Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73012ae773a4a2318132c_Pestilence%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73012ae773a4a2318132c_Pestilence%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Phebert",
@@ -3706,7 +4664,11 @@
         "drop-sources": [
             "Wick and Warty"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7301f6f656146ade28059_Phebert%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7301f6f656146ade28059_Phebert%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Plaguebearer",
@@ -3727,7 +4689,11 @@
         "drop-sources": [
             "Warden"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7303eae773a4a23183f7d_Plaguebearer%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7303eae773a4a23183f7d_Plaguebearer%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Plasma Coil",
@@ -3746,7 +4712,11 @@
             "Madwidth Power Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7304597af4be9da30b283_Plasma%20Coil%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7304597af4be9da30b283_Plasma%20Coil%20(SMG-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Plumage",
@@ -3763,7 +4733,11 @@
         "drop-sources": [
             "Wrendon Esk Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7304b13955bc879b879fd_Plumage%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7304b13955bc879b879fd_Plumage%20(Launcher-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Polyaimourous",
@@ -3781,7 +4755,12 @@
         "drop-sources": [
             "Loot Heart Rare Spawn"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7305eca31687e2930da7f_Polyaimourous%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7305eca31687e2930da7f_Polyaimourous%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Polybius",
@@ -3802,7 +4781,11 @@
         "drop-sources": [
             "GenIVIV"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73064b30ca0ed17392dcd_Polybius%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73064b30ca0ed17392dcd_Polybius%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Porta-Pooper 5000",
@@ -3819,7 +4802,12 @@
         "drop-sources": [
             "Porta Prison Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730710db25bd3a72448f7_Porta-Pooper%205000%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730710db25bd3a72448f7_Porta-Pooper%205000%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Portals and Shite",
@@ -3834,7 +4822,11 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7307d8f43799ace5de363_Portals%20and%20Shite%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7307d8f43799ace5de363_Portals%20and%20Shite%20(AR-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Predatory Lending",
@@ -3856,7 +4848,12 @@
         "drop-sources": [
             "Lavender Crawly Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730832153fc09b0ff1d07_Predatory%20Lending%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730832153fc09b0ff1d07_Predatory%20Lending%20(SMG-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Money"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Pricker",
@@ -3873,7 +4870,13 @@
         "drop-sources": [
             "Claw and Order Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7308aa7828f188ef7b739_Pricker%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7308aa7828f188ef7b739_Pricker%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Projectile Recursion",
@@ -3894,7 +4897,11 @@
         "drop-sources": [
             "General Traunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73096f449220cd3f34dc7_Projectile%20Recursion%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73096f449220cd3f34dc7_Projectile%20Recursion%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Prompt Critical",
@@ -3916,7 +4923,11 @@
         "drop-sources": [
             "Evil Lilith"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730a2c41706b67ed8328d_Prompt%20Critical%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730a2c41706b67ed8328d_Prompt%20Critical%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Proprietary License",
@@ -3937,7 +4948,12 @@
         "drop-sources": [
             "Hydragoian Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730a816d3b0eb38435ad1_Proprietary%20License%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730a816d3b0eb38435ad1_Proprietary%20License%20(SMG-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Psycho Stabber",
@@ -3954,7 +4970,12 @@
         "drop-sources": [
             "Borman Nates"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730b54943271efb73f63e_Psycho%20Stabber%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730b54943271efb73f63e_Psycho%20Stabber%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Quadomizer",
@@ -3971,7 +4992,12 @@
         "drop-sources": [
             "Mother of Grogans"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730c981787c6385c35e02_Quadomizer%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730c981787c6385c35e02_Quadomizer%20(Launcher-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Queen's Call",
@@ -3990,7 +5016,13 @@
         "drop-sources": [
             "Tyreen the Destroyer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730cfef8ec6ded7bb03ea_Queen%27s%20Call%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730cfef8ec6ded7bb03ea_Queen%27s%20Call%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Health",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Quickdraw",
@@ -4007,7 +5039,12 @@
         "drop-sources": [
             "The Quick and the Quickerer Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730e48c2957a2ed94fa40_Quickdraw%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730e48c2957a2ed94fa40_Quickdraw%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "R.Y.N.A.H.",
@@ -4026,7 +5063,12 @@
             "Bloated Rakk Rare Spawn",
             "Chubby Skag Rare Spawn"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730ea9ef241c2444ba07f_R.Y.N.A.H.%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f730ea9ef241c2444ba07f_R.Y.N.A.H.%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rebel Yell",
@@ -4043,7 +5085,12 @@
         "drop-sources": [
             "Sky Bullies Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7313316d3b0eb384419f6_Rebel%20Yell%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7313316d3b0eb384419f6_Rebel%20Yell%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rebound",
@@ -4065,7 +5112,11 @@
         "drop-sources": [
             "Psychoreaver"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7313981787c6385c3d908_Rebound%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7313981787c6385c3d908_Rebound%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Redeye Rocket Pod",
@@ -4087,7 +5138,13 @@
         "drop-sources": [
             "The Seer"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7315453dda0c1fad5d46c_Redeye%20Rocket%20Pod%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7315453dda0c1fad5d46c_Redeye%20Rocket%20Pod%20(Launcher-BL3).webp",
+        "effects": [
+            "Stacks",
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Redistributor",
@@ -4108,7 +5165,12 @@
         "drop-sources": [
             "Wotan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7315a73ce470883c9b766_Redistributor%20(Legendary-SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7315a73ce470883c9b766_Redistributor%20(Legendary-SMG-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Redistributor",
@@ -4125,7 +5187,13 @@
         "drop-sources": [
             "The Impending Storm Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7316113abac50f9c6d10f_Redistributor%20(Rare-SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7316113abac50f9c6d10f_Redistributor%20(Rare-SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Redline",
@@ -4147,7 +5215,11 @@
         "drop-sources": [
             "Road Dog"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7316750c6fb1c97ba00a0_Redline%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7316750c6fb1c97ba00a0_Redline%20(Shotgun-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Reflux",
@@ -4164,7 +5236,12 @@
         "drop-sources": [
             "GenIVIV"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7319336b6abc64a24e398_Reflux%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7319336b6abc64a24e398_Reflux%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Res",
@@ -4182,7 +5259,13 @@
             "Shipping Encouraged Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7319f939880d50ddcb224_Res%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7319f939880d50ddcb224_Res%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Health",
+            "FFYL"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Reunion",
@@ -4197,7 +5280,12 @@
         ],
         "drop-type": "DLC 4 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ad1f1ef94f30400170_Reunion%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ad1f1ef94f30400170_Reunion%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ripper",
@@ -4219,7 +5307,11 @@
         "drop-sources": [
             "Shiv"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731d3dabdba29bcac97c0_Ripper%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731d3dabdba29bcac97c0_Ripper%20(SMG-BL3).webp",
+        "effects": [
+            "Melee"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Robin's Call",
@@ -4236,7 +5328,12 @@
         "drop-sources": [
             "Garriden Loch Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731e0939880d50ddcfa11_Robin%27s%20Call%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731e0939880d50ddcfa11_Robin%27s%20Call%20(Shotgun-BL3).webp",
+        "effects": [
+            "Ammo",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Robo-Melter",
@@ -4253,7 +5350,11 @@
         "drop-sources": [
             "The Plan Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731e6734b1c5661700898_Robo-Melter%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731e6734b1c5661700898_Robo-Melter%20(Pistol-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rogue-Sight",
@@ -4270,7 +5371,11 @@
         "drop-sources": [
             "Going Rogue Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731f3ef8ec6ded7bc3607_Rogue-Sight%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731f3ef8ec6ded7bc3607_Rogue-Sight%20(Pistol-BL3).webp",
+        "effects": [
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Roisen's Thorns",
@@ -4287,7 +5392,12 @@
         "drop-sources": [
             "Princess Tarantella II"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731f94ee500e56cec38e4_Roisen%27s%20Thorns%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731f94ee500e56cec38e4_Roisen%27s%20Thorns%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Rowan's Call",
@@ -4306,7 +5416,11 @@
         "drop-sources": [
             "Red Rain"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732757f37c2883cb6ad65_Rowan%27s%20Call%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732757f37c2883cb6ad65_Rowan%27s%20Call%20(AR-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ruby's Wrath",
@@ -4323,7 +5437,11 @@
         "drop-sources": [
             "Chonk Stomp Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7328916d3b0eb3845b301_Ruby%27s%20Wrath%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7328916d3b0eb3845b301_Ruby%27s%20Wrath%20(Launcher-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "S3RV-80S-EXECUTE",
@@ -4345,7 +5463,11 @@
         "drop-sources": [
             "Anointed X-2 & X-3"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73295ef8ec6ded7bcf62f_S3RV-80S-EXECUTE%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73295ef8ec6ded7bcf62f_S3RV-80S-EXECUTE%20(Pistol-BL3).webp",
+        "effects": [
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "SF Force",
@@ -4366,7 +5488,12 @@
         "drop-sources": [
             "DJ Spinsmouth"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7329d13955bc879bb726b_SF%20Force%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7329d13955bc879bb726b_SF%20Force%20(SMG-BL3).webp",
+        "effects": [
+            "Audio",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sacrificial Lamb",
@@ -4383,10 +5510,14 @@
         "drop-sources": [
             "We Slass! (Part 3) Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732b2870cd5b687894eda_Sacrificial%20Lamb%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732b2870cd5b687894eda_Sacrificial%20Lamb%20(Shotgun-BL3).webp",
+        "effects": [
+            "Health"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Sand Hawk",
+        "name": "Sand Hawk (BL3)",
         "flavor-text": "Wedge a pig.",
         "game": "borderlands-3",
         "type": "Sniper",
@@ -4404,7 +5535,11 @@
         "drop-sources": [
             "Katagawa Jr."
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732d0357e03da689b8d44_Sand%20Hawk%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732d0357e03da689b8d44_Sand%20Hawk%20(Sniper-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Satisfaction",
@@ -4426,10 +5561,14 @@
         "drop-sources": [
             "Vorducken Hunt Target"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732d78f43799ace60ab2e_Satisfaction%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732d78f43799ace60ab2e_Satisfaction%20(Launcher-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Sawbar",
+        "name": "Sawbar (BL3)",
         "flavor-text": "Suppressing fires!",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -4443,7 +5582,12 @@
         "drop-sources": [
             "Borman Nates"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732ea36a5c42f4d14b193_Sawbar%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732ea36a5c42f4d14b193_Sawbar%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sawpenny",
@@ -4460,10 +5604,14 @@
         "drop-sources": [
             "Siege of Castle Crimson Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732f08f43799ace60c720_Sawpenny%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732f08f43799ace60c720_Sawpenny%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Scorpio",
+        "name": "Scorpio (BL3)",
         "flavor-text": "Mobile oppression for pennies a day.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -4477,7 +5625,12 @@
         "drop-sources": [
             "Lt. Preston"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732fdd5a56b6a9b93d949_Scorpio%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732fdd5a56b6a9b93d949_Scorpio%20(Pistol-BL3).webp",
+        "effects": [
+            "Reload",
+            "Drone"
+        ],
+        "aftermarket": "Roland"
     },
     {
         "name": "Scourge",
@@ -4500,7 +5653,11 @@
             "Brood Mother Legendary Hunt",
             "Alacritous Vanda"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7330400e8242c9567a3e2_Scourge%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7330400e8242c9567a3e2_Scourge%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Scoville",
@@ -4518,7 +5675,12 @@
         "drop-sources": [
             "Torgue's Marketing Mistakes Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7331d16d3b0eb384678b4_Scoville%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7331d16d3b0eb384678b4_Scoville%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Seeryul Killur",
@@ -4535,7 +5697,13 @@
         "drop-sources": [
             "Amach"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7332bf449220cd3f6d35d_Seeryul%20Killur%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7332bf449220cd3f6d35d_Seeryul%20Killur%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "On Kill",
+            "Stacks"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sellout",
@@ -4553,7 +5721,12 @@
         "drop-sources": [
             "Sellout Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733314c5de0dfaa7a27b7_Sellout%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733314c5de0dfaa7a27b7_Sellout%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Audio"
+        ],
+        "aftermarket": "Tyreen"
     },
     {
         "name": "Septimator",
@@ -4568,7 +5741,12 @@
         ],
         "drop-type": "DLC 4 - World Drop",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733379ecbca0ffa52966f_Septimator%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733379ecbca0ffa52966f_Septimator%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Septimator Prime",
@@ -4585,7 +5763,12 @@
         "drop-sources": [
             "Evil Mordecai"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7333e69834838acd9a29c_Septimator%20Prime%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7333e69834838acd9a29c_Septimator%20Prime%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Seventh Sense",
@@ -4602,7 +5785,13 @@
         "drop-sources": [
             "Cold Case: Forgotten Answers Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733584d75c0fe863966b5_Seventh%20Sense%20(Legendary-Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733584d75c0fe863966b5_Seventh%20Sense%20(Legendary-Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Seventh Sense",
@@ -4619,7 +5808,11 @@
         "drop-sources": [
             "Cold Case: Restless Memories Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73352f449220cd3f70cd2_Seventh%20Sense%20(Epic-Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73352f449220cd3f70cd2_Seventh%20Sense%20(Epic-Pistol-BL3).webp",
+        "effects": [
+            "ADS"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sheega's Launcher",
@@ -4636,7 +5829,12 @@
         "drop-sources": [
             "Sheega"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73395a7828f188efb3f47_Sheega%27s%20Launcher%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73395a7828f188efb3f47_Sheega%27s%20Launcher%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Sheega"
     },
     {
         "name": "Shocker",
@@ -4653,7 +5851,12 @@
         "drop-sources": [
             "Voltborn"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7339b352bbfeec2062222_Shocker%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7339b352bbfeec2062222_Shocker%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Short Stick",
@@ -4668,10 +5871,15 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733a7eb207d42a0f6f854_Short%20Stick%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733a7eb207d42a0f6f854_Short%20Stick%20(SMG-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Shredifier",
+        "name": "Shredifier (BL3)",
         "flavor-text": "Speed kills.",
         "game": "borderlands-3",
         "type": "Assault Rifle",
@@ -4690,7 +5898,11 @@
         "drop-sources": [
             "Raging Titan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733e1aec2cf67d492f83b_Shredifier%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733e1aec2cf67d492f83b_Shredifier%20(AR-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Shrieking Devil",
@@ -4711,7 +5923,13 @@
         "drop-sources": [
             "Blinding Banshee Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733ff53f0d8d7f360a387_Shrieking%20Devil%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733ff53f0d8d7f360a387_Shrieking%20Devil%20(Shotgun-BL3).webp",
+        "effects": [
+            "Audio",
+            "Projectile",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sickle",
@@ -4734,7 +5952,11 @@
             "Anointed X-4",
             "Tink of Cunning"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340516d3b0eb38479309_Sickle%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340516d3b0eb38479309_Sickle%20(AR-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "SkekSil",
@@ -4753,10 +5975,14 @@
         "drop-sources": [
             "Skrakk Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73419394cbaf256fbc1d0_SkekSil%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73419394cbaf256fbc1d0_SkekSil%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Skullmasher",
+        "name": "Skullmasher (BL3)",
         "flavor-text": "Makes your brain hurt.",
         "game": "borderlands-3",
         "type": "Sniper",
@@ -4771,10 +5997,14 @@
             "Eista",
             "Tink of Cunning"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7342c9aeec53f0fb9f4e7_Skullmasher%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7342c9aeec53f0fb9f4e7_Skullmasher%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Sledge's Shotgun",
+        "name": "Sledge's Shotgun (BL3)",
         "flavor-text": "The legend (still) lives.",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -4788,7 +6018,12 @@
         "drop-sources": [
             "Hot Karl Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73458e493c297516a372d_Sledge%27s%20Shotgun%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73458e493c297516a372d_Sledge%27s%20Shotgun%20(Shotgun-BL3).webp",
+        "effects": [
+            "Knockback",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Sleeping Giant",
@@ -4808,10 +6043,16 @@
         "drop-sources": [
             "One Punch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73465d5a56b6a9b95b0c8_Sleeping%20Giant%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73465d5a56b6a9b95b0c8_Sleeping%20Giant%20(SMG-BL3).webp",
+        "effects": [
+            "Reload",
+            "Stats",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Slow Hand",
+        "name": "Slow Hand (BL3)",
         "flavor-text": "Take your time, sugar...",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -4829,7 +6070,12 @@
         "drop-sources": [
             "DEGEN-3 Mayor's Killer Look"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73478c2c0d921b2529fc0_Slow%20Hand%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73478c2c0d921b2529fc0_Slow%20Hand%20(Shotgun-BL3).webp",
+        "effects": [
+            "Health",
+            "Projectile"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Smart-Gun",
@@ -4846,7 +6092,12 @@
         "drop-sources": [
             "Gigamind"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7348a9ecbca0ffa542e01_Smart-Gun%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7348a9ecbca0ffa542e01_Smart-Gun%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Drone"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Smog",
@@ -4868,7 +6119,12 @@
         "drop-sources": [
             "Scourge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73497e7a75977f03bd093_Smog%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73497e7a75977f03bd093_Smog%20(SMG-BL3).webp",
+        "effects": [
+            "ADS",
+            "Shield"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Soleki Protocol",
@@ -4885,7 +6141,13 @@
         "drop-sources": [
             "Proof of Wife Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734a397a59bcc7307f6f0_Soleki%20Protocol%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734a397a59bcc7307f6f0_Soleki%20Protocol%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Soulrender",
@@ -4907,7 +6169,11 @@
         "drop-sources": [
             "Tom & Xam"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734a9b30ca0ed173ea817_Soulrender%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734a9b30ca0ed173ea817_Soulrender%20(AR-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Spade",
@@ -4929,7 +6195,11 @@
         "drop-sources": [
             "Waylon Hurd Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734b000e8242c95698e67_Spade%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734b000e8242c95698e67_Spade%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Splinter",
@@ -4946,10 +6216,14 @@
         "drop-sources": [
             "Where It All Started Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734c797a59bcc7308368b_Splinter%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734c797a59bcc7308368b_Splinter%20(Shotgun-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Stalker",
+        "name": "Stalker (BL3)",
         "flavor-text": "All that remains is an icy husk.",
         "game": "borderlands-3",
         "type": "Sniper",
@@ -4964,7 +6238,14 @@
             "Loot Ghost Rare Spawn",
             "Captain Haunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734e3d14e5843d8c7aa77_Stalker%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734e3d14e5843d8c7aa77_Stalker%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Stacks",
+            "Firing Mode",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Star Helix",
@@ -4984,7 +6265,11 @@
         "drop-sources": [
             "Power Troopers"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734efca497114e405db92_Star%20Helix%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734efca497114e405db92_Star%20Helix%20(AR-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Starkiller",
@@ -5001,7 +6286,12 @@
         "drop-sources": [
             "Space-Laser Tag Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734f613955bc879be8126_Starkiller%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734f613955bc879be8126_Starkiller%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Stauros' Burn",
@@ -5018,7 +6308,14 @@
         "drop-sources": [
             "Wendigo"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734fc1cb975d8297b4c25_Stauros%27%20Burn%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f734fc1cb975d8297b4c25_Stauros%27%20Burn%20(AR-BL3).webp",
+        "effects": [
+            "Element",
+            "Ammo",
+            "Random",
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Stonethrower",
@@ -5035,10 +6332,14 @@
         "drop-sources": [
             "Kormash"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73514a7828f188efd3611_Stonethrower%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73514a7828f188efd3611_Stonethrower%20(AR-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Storm",
+        "name": "Storm (BL3)",
         "flavor-text": "Tut, tut, it looks like rain.",
         "game": "borderlands-3",
         "type": "Sniper",
@@ -5053,7 +6354,12 @@
             "Red Jabber",
             "Katagawa Jr."
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73520cd1d4b875ee7d301_Storm%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73520cd1d4b875ee7d301_Storm%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Superball",
@@ -5070,7 +6376,12 @@
         "drop-sources": [
             "Baron Noggin Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735469ecbca0ffa5554b6_Superball%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735469ecbca0ffa5554b6_Superball%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Superstreamer",
@@ -5085,10 +6396,15 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7354f53dda0c1fadb0342_Superstreamer%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7354f53dda0c1fadb0342_Superstreamer%20(Shotgun-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "T.K's Wave",
+        "name": "T.K's Wave (BL3)",
         "flavor-text": "Ride the wave, dude!",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -5104,7 +6420,12 @@
         "drop-sources": [
             "The Holy Dumptruck"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7358206d0803d9a4bab39_T.K%27s%20Wave%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7358206d0803d9a4bab39_T.K%27s%20Wave%20(Shotgun-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Projectile"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "THE TWO TIME",
@@ -5121,7 +6442,12 @@
         "drop-sources": [
             "ECHOnet Neutrality Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7358e870cd5b6878d05db_THE%20TWO%20TIME%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7358e870cd5b6878d05db_THE%20TWO%20TIME%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "TNTina",
@@ -5138,7 +6464,12 @@
         "drop-sources": [
             "Anathema the Relentless"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7359418c2972e072ba9cc_TNTina%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7359418c2972e072ba9cc_TNTina%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "Tiny Tina"
     },
     {
         "name": "Tankman's Shield",
@@ -5160,7 +6491,13 @@
         "drop-sources": [
             "Captain Traunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7359a4988ed71fcfa520a_Tankman%27s%20Shield%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7359a4988ed71fcfa520a_Tankman%27s%20Shield%20(Sniper-BL3).webp",
+        "effects": [
+            "On Kill",
+            "Stacks",
+            "Reload"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Ten Gallon",
@@ -5181,7 +6518,11 @@
         "drop-sources": [
             "GenIVIV"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735ba92978b4e996c0667_Ten%20Gallon%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735ba92978b4e996c0667_Ten%20Gallon%20(SMG-BL3).webp",
+        "effects": [
+            "Drone"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Beast",
@@ -5199,7 +6540,11 @@
         "drop-sources": [
             "Lost and Found Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735c7ae773a4a2321f38b_The%20Beast%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735c7ae773a4a2321f38b_The%20Beast%20(AR-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Big Succ",
@@ -5216,7 +6561,11 @@
         "drop-sources": [
             "Skag Dog Days Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735cd2f719875ef58ed54_The%20Big%20Succ%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735cd2f719875ef58ed54_The%20Big%20Succ%20(AR-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Blanc",
@@ -5238,7 +6587,12 @@
         "drop-sources": [
             "Ipswitch Dunne Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735da4988ed71fcfa9f59_The%20Blanc%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735da4988ed71fcfa9f59_The%20Blanc%20(Pistol-BL3).webp",
+        "effects": [
+            "Stacks",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Boo",
@@ -5255,7 +6609,11 @@
         "drop-sources": [
             "Invasion of Privacy Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7361f352bbfeec209543b_The%20Boo%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7361f352bbfeec209543b_The%20Boo%20(SMG-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Boring Gun",
@@ -5277,10 +6635,14 @@
         "drop-sources": [
             "Antalope Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736262e33766d0a1fe178_The%20Boring%20Gun%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736262e33766d0a1fe178_The%20Boring%20Gun%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "The Butcher",
+        "name": "The Butcher (BL3)",
         "flavor-text": "Fresh meat!",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -5300,7 +6662,11 @@
             "Raging Titan",
             "Dinklebot"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7362f8f43799ace648c97_The%20Butcher%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7362f8f43799ace648c97_The%20Butcher%20(Shotgun-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Chalice",
@@ -5317,7 +6683,11 @@
         "drop-sources": [
             "The Legend of McSmugger Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73636aec2cf67d495e000_The%20Chalice%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73636aec2cf67d495e000_The%20Chalice%20(AR-BL3).webp",
+        "effects": [
+            "On Kill"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Companion",
@@ -5334,7 +6704,11 @@
         "drop-sources": [
             "Anointed X-2 & X-3"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736494ee500e56cf167be_The%20Companion%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736494ee500e56cf167be_The%20Companion%20(Pistol-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Cure",
@@ -5351,7 +6725,11 @@
         "drop-sources": [
             "The Shadow Over Cursehaven Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736504d75c0fe863d1605_The%20Cure%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736504d75c0fe863d1605_The%20Cure%20(Shotgun-BL3).webp",
+        "effects": [
+            "Health"
+        ],
+        "aftermarket": "Wainwright"
     },
     {
         "name": "The Dictator",
@@ -5373,7 +6751,12 @@
         "drop-sources": [
             "Agonizer 9000, Pain & Terror"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365797af4be9da3817ee_The%20Dictator%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365797af4be9da3817ee_The%20Dictator%20(AR-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Duc",
@@ -5390,7 +6773,11 @@
         "drop-sources": [
             "The Rampager"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73663d14e5843d8c99843_The%20Duc%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73663d14e5843d8c99843_The%20Duc%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Emperor's Condiment",
@@ -5407,7 +6794,12 @@
         "drop-sources": [
             "Skag Dog Days Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73669d14e5843d8c99d30_The%20Emperor%27s%20Condiment%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73669d14e5843d8c99d30_The%20Emperor%27s%20Condiment%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Flood",
@@ -5424,7 +6816,11 @@
         "drop-sources": [
             "Lagromar"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73670bfd0a97c9bb42042_The%20Flood%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73670bfd0a97c9bb42042_The%20Flood%20(Pistol-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Garcia",
@@ -5441,7 +6837,11 @@
         "drop-sources": [
             "Chonk Stomp Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73676a66d92eb67964d75_The%20Garcia%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73676a66d92eb67964d75_The%20Garcia%20(Shotgun-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Horizon",
@@ -5463,7 +6863,12 @@
         "drop-sources": [
             "Maxitrillion"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7367ce493c297516cfe2f_The%20Horizon%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7367ce493c297516cfe2f_The%20Horizon%20(Shotgun-BL3).webp",
+        "effects": [
+            "Reload",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Hunt(ed)",
@@ -5480,7 +6885,11 @@
         "drop-sources": [
             "Demoskaggon"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73682d2d4f2c204192346_The%20Hunt(ed)%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73682d2d4f2c204192346_The%20Hunt(ed)%20(Sniper-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Hunt(er)",
@@ -5497,7 +6906,11 @@
         "drop-sources": [
             "Wildlife Conservation Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736880db25bd3a72c2020_The%20Hunt(er)%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736880db25bd3a72c2020_The%20Hunt(er)%20(Sniper-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Hunt(ress)",
@@ -5514,7 +6927,11 @@
         "drop-sources": [
             "Antalope Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7368e86abe1ea45217b69_The%20Hunt(ress)%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7368e86abe1ea45217b69_The%20Hunt(ress)%20(Sniper-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Ice Queen",
@@ -5531,7 +6948,11 @@
         "drop-sources": [
             "Aurelia"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73694d14e5843d8c9dc71_The%20Ice%20Queen%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73694d14e5843d8c9dc71_The%20Ice%20Queen%20(Sniper-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Killing Word",
@@ -5548,7 +6969,12 @@
         "drop-sources": [
             "Mouthpiece"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7369ba67f3fec8122df6c_The%20Killing%20Word%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7369ba67f3fec8122df6c_The%20Killing%20Word%20(Pistol-BL3).webp",
+        "effects": [
+            "Audio",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Leech",
@@ -5565,7 +6991,12 @@
         "drop-sources": [
             "Taking Flight Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736a2c2c0d921b2553189_The%20Leech%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736a2c2c0d921b2553189_The%20Leech%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Lob",
@@ -5587,7 +7018,11 @@
             "Graveward",
             "Skag of Survival"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736a853dda0c1fadcafe5_The%20Lob%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736a853dda0c1fadcafe5_The%20Lob%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Monarch",
@@ -5610,7 +7045,12 @@
             "Killavolt",
             "Sera of Supremacy"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736bbe91c4e0097846db9_The%20Monarch%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736bbe91c4e0097846db9_The%20Monarch%20(AR-BL3).webp",
+        "effects": [
+            "Fire Pattern",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "The Shoddy",
@@ -5627,10 +7067,15 @@
         "drop-sources": [
             "Money Back Guarantee Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d19868e57c0c2411ad_The%20Shoddy%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d19868e57c0c2411ad_The%20Shoddy%20(Shotgun-BL3).webp",
+        "effects": [
+            "Money",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "The Tidal Wave",
+        "name": "The Tidal Wave (BL3)",
         "flavor-text": "Flee the wave, dude!",
         "game": "borderlands-3",
         "type": "Shotgun",
@@ -5644,7 +7089,12 @@
         "drop-sources": [
             "The Holy Dumptruck"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736de2e33766d0a20d819_The%20Tidal%20Wave%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736de2e33766d0a20d819_The%20Tidal%20Wave%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Fire Pattern"
+        ],
+        "aftermarket": "T.K. Baha"
     },
     {
         "name": "Thumper",
@@ -5666,10 +7116,14 @@
         "drop-sources": [
             "DJ Deadsk4g Target of Opportunity"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73709495080c84ef1615c_Thumper%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73709495080c84ef1615c_Thumper%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Thunderball Fists",
+        "name": "Thunderball Fists (BL3)",
         "flavor-text": "I can have such a thing?",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -5683,7 +7137,12 @@
         "drop-sources": [
             "Power Troopers"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73734a370607e78ee5595_Thunderball%20Fists%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73734a370607e78ee5595_Thunderball%20Fists%20(Pistol-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Tiggs' Boom",
@@ -5704,7 +7163,11 @@
         "drop-sources": [
             "Wotan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737580c45a779d0313d85_Tiggs%27%20Boom%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737580c45a779d0313d85_Tiggs%27%20Boom%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Tizzy",
@@ -5727,10 +7190,14 @@
             "Heavyweight Harker",
             "Tyrant of Instinct"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73764394cbaf256ffe5e7_Tizzy%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73764394cbaf256ffe5e7_Tizzy%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Torrent",
+        "name": "Torrent (BL3)",
         "flavor-text": "haha gun go brrrr",
         "game": "borderlands-3",
         "type": "SMG",
@@ -5747,7 +7214,13 @@
             "Seepage & Creepage Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7379b9868e57c0c24ef54_Torrent%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7379b9868e57c0c24ef54_Torrent%20(SMG-BL3).webp",
+        "effects": [
+            "Stats",
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Traitor's Death",
@@ -5764,7 +7237,11 @@
         "drop-sources": [
             "Going Rogue Quest"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737a7357e03da68a12b82_Traitor%27s%20Death%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737a7357e03da68a12b82_Traitor%27s%20Death%20(AR-BL3).webp",
+        "effects": [
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Trevonator",
@@ -5785,7 +7262,11 @@
         "drop-sources": [
             "Private Beans"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737c0357e03da68a14e92_Trevonator%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737c0357e03da68a14e92_Trevonator%20(Shotgun-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "Memorial"
     },
     {
         "name": "Trickshot",
@@ -5803,7 +7284,11 @@
             "The Hunker Bunker Loot-Room",
             "Heavyweight Harker"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737d1a7828f188e00609e_Trickshot%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737d1a7828f188e00609e_Trickshot%20(Pistol-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Troubleshooter",
@@ -5818,7 +7303,12 @@
         ],
         "drop-type": "Welcome to Pandora - Vault Card",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737e5a7828f188e007d94_Troubleshooter%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737e5a7828f188e007d94_Troubleshooter%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Random"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Try-Bolt",
@@ -5840,10 +7330,14 @@
         "drop-sources": [
             "Manvark Legendary Hunt"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737ec18c2972e072ea816_Try-Bolt%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737ec18c2972e072ea816_Try-Bolt%20(AR-BL3).webp",
+        "effects": [
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Tsunami",
+        "name": "Tsunami (BL3)",
         "flavor-text": "You can't explain that.",
         "game": "borderlands-3",
         "type": "SMG",
@@ -5857,10 +7351,15 @@
         "drop-sources": [
             "Vermilingua"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73801bc06246e742f4423_Tsunami%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73801bc06246e742f4423_Tsunami%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Tunguska",
+        "name": "Tunguska (BL3)",
         "flavor-text": "Crack the skye.",
         "game": "borderlands-3",
         "type": "Launcher",
@@ -5874,10 +7373,14 @@
         "drop-sources": [
             "Mincemeat, Trufflemunch & Buttmunch"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7380fd03abb3e83ec7497_Tunguska%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7380fd03abb3e83ec7497_Tunguska%20(Launcher-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Unforgiven",
+        "name": "Unforgiven (BL3)",
         "flavor-text": "It's a helluva thing...",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -5891,10 +7394,15 @@
         "drop-sources": [
             "Indo Tyrant"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041e148ea20fbf6736bc01_Unforgiven%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041e148ea20fbf6736bc01_Unforgiven%20(Pistol-BL3).webp",
+        "effects": [
+            "Stats",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Unkempt Harold",
+        "name": "Unkempt Harold (BL3)",
         "flavor-text": "I wasn't counting either.",
         "game": "borderlands-3",
         "type": "Pistol",
@@ -5913,7 +7421,11 @@
         "drop-sources": [
             "Caber Dowd Most Wanted"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73862a51c5cdb657a9cb0_Unkempt%20Harold%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73862a51c5cdb657a9cb0_Unkempt%20Harold%20(Pistol-BL3).webp",
+        "effects": [
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Unseen Threat",
@@ -5930,7 +7442,11 @@
         "drop-sources": [
             "Amach"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738680db25bd3a72e6f12_Unseen%20Threat%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738680db25bd3a72e6f12_Unseen%20Threat%20(Sniper-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Vanquisher",
@@ -5952,7 +7468,12 @@
         "drop-sources": [
             "Power Troopers"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73875193640670a1aff81_Vanquisher%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73875193640670a1aff81_Vanquisher%20(SMG-BL3).webp",
+        "effects": [
+            "Stats",
+            "Movement"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Vault Hero",
@@ -5968,10 +7489,15 @@
         ],
         "drop-type": "Unobtainable",
         "drop-sources": [],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7387bbc06246e742fd896_Vault%20Hero%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7387bbc06246e742fd896_Vault%20Hero%20(SMG-BL3).webp",
+        "effects": [
+            "Stats",
+            "Element"
+        ],
+        "aftermarket": "N/A"
     },
     {
-        "name": "Vibra-Pulse",
+        "name": "Vibra-Pulse (BL3)",
         "flavor-text": "Why not turn me on?",
         "game": "borderlands-3",
         "type": "SMG",
@@ -5985,7 +7511,13 @@
         "drop-sources": [
             "Crimson Radio Challenge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738bfa7828f188e018584_Vibra-Pulse%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738bfa7828f188e018584_Vibra-Pulse%20(SMG-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile",
+            "Health"
+        ],
+        "aftermarket": "Moxxi"
     },
     {
         "name": "Vosk's Deathgrip",
@@ -6006,7 +7538,12 @@
         "drop-sources": [
             "Troy Calypso"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7391f22900b423b1003f3_Vosk%27s%20Deathgrip%20(Shotgun-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7391f22900b423b1003f3_Vosk%27s%20Deathgrip%20(Shotgun-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wagon Wheel",
@@ -6023,7 +7560,11 @@
         "drop-sources": [
             "The Tink Train"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73925a070b5ef6d74f5df_Wagon%20Wheel%20(Pistol-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73925a070b5ef6d74f5df_Wagon%20Wheel%20(Pistol-BL3).webp",
+        "effects": [
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Warlord",
@@ -6043,7 +7584,11 @@
         "drop-sources": [
             "Queen Ant Wanette"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7395e09193614cb2f5f7f_Warlord%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7395e09193614cb2f5f7f_Warlord%20(AR-BL3).webp",
+        "effects": [
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Web Slinger",
@@ -6063,7 +7608,14 @@
         "drop-sources": [
             "Scourge"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73996b8f16c8fa31ac267_Web%20Slinger%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73996b8f16c8fa31ac267_Web%20Slinger%20(AR-BL3).webp",
+        "effects": [
+            "Projectile",
+            "Knockback",
+            "Element",
+            "Fire Pattern"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Wedding Invitation",
@@ -6080,7 +7632,12 @@
         "drop-sources": [
             "Loot Heart Rare Spawn"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7399d09193614cb2fae0c_Wedding%20Invitation%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7399d09193614cb2fae0c_Wedding%20Invitation%20(Sniper-BL3).webp",
+        "effects": [
+            "Element",
+            "Ammo"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Westergun",
@@ -6102,7 +7659,11 @@
             "Private Beans",
             "King Gnasher"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739a33f8ad1a927e96990_Westergun%20(SMG-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739a33f8ad1a927e96990_Westergun%20(SMG-BL3).webp",
+        "effects": [
+            "Stats"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Woodblocker",
@@ -6123,7 +7684,12 @@
         "drop-sources": [
             "Indo Tyrant"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739d4b8f16c8fa31b1e1b_Woodblocker%20(Sniper-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739d4b8f16c8fa31b1e1b_Woodblocker%20(Sniper-BL3).webp",
+        "effects": [
+            "Shield",
+            "Firing Mode"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Yellowcake",
@@ -6142,7 +7708,12 @@
             "FISH SLAP!!!",
             "Tyrone Smallums"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739e76aa0bdc01f3dfcca_Yellowcake%20(Launcher-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739e76aa0bdc01f3dfcca_Yellowcake%20(Launcher-BL3).webp",
+        "effects": [
+            "Element",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     },
     {
         "name": "Zheitsev's Eruption",
@@ -6164,6 +7735,11 @@
         "drop-sources": [
             "Raging Titan"
         ],
-        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739f33edbf73e6d372c39_Zheitsev%27s%20Eruption%20(AR-BL3).webp"
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739f33edbf73e6d372c39_Zheitsev%27s%20Eruption%20(AR-BL3).webp",
+        "effects": [
+            "Reload",
+            "Projectile"
+        ],
+        "aftermarket": "N/A"
     }
 ]

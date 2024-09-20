@@ -187,7 +187,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7188f0d726d1f17dae658_Badaboom%20(Launcher-BL2).webp",
         "effects": [
-            "Firing Mode",
+            "Projectile",
             "Movement"
         ],
         "aftermarket": "N/A"
@@ -241,7 +241,8 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7197c60a2c3cb43656b42_Bearcat%20(AR-BL2).webp",
         "effects": [
-            "Stats"
+            "Stats",
+            "Firing Mode"
         ],
         "aftermarket": "N/A"
     },
@@ -342,8 +343,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a982e1e03605cbbff84_Bone%20Shredder%20(SMG-BL2).webp",
         "effects": [
-            "Stats",
-            "Ammo"
+            "Projectile"
         ],
         "aftermarket": "N/A"
     },
@@ -607,7 +607,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71e220f57edc3bcac0ad5_Conference%20Call%20(Shotgun-BL2).webp",
         "effects": [
-            "Projectile"
+            "Fire Pattern"
         ],
         "aftermarket": "N/A"
     },
@@ -1099,7 +1099,7 @@
             "Element",
             "Cursed"
         ],
-        "aftermarket": "Joltzdude139"
+        "aftermarket": "Joltz"
     },
     {
         "name": "Gunerang",
@@ -1490,7 +1490,7 @@
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729076d2f5d27af6fb282_Interfacer%20(Shotgun-BL2).webp",
         "effects": [
             "Stats",
-            "Projectile",
+            "Fire Pattern",
             "ADS"
         ],
         "aftermarket": "N/A"
@@ -1828,7 +1828,7 @@
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72cd00c45a779d0241942_Lyuda%20(Sniper-BL2).webp",
         "effects": [
             "Stats",
-            "Projectile"
+            "Fire Pattern"
         ],
         "aftermarket": "N/A"
     },
@@ -1896,8 +1896,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72d38d8abfd22d563bcfa_Maggie%20(Pistol-BL2).webp",
         "effects": [
-            "Stats",
-            "Firing Mode"
+            "Projectile"
         ],
         "aftermarket": "N/A"
     },
@@ -2665,7 +2664,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73425a370607e78ea993b_Skullmasher%20(Sniper-BL2).webp",
         "effects": [
-            "Firing Mode"
+            "Projectile"
         ],
         "aftermarket": "N/A"
     },
@@ -3162,7 +3161,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Unforgiven",
+        "name": "Unforgiven (BL2)",
         "flavor-text": "It's a helluva thing\u2026",
         "game": "borderlands-2",
         "type": "Pistol",
@@ -3181,7 +3180,8 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7383800e8242c956e05f5_Unforgiven%20(Pistol-BL2).webp",
         "effects": [
-            "Stats"
+            "Stats",
+            "Firing Mode"
         ],
         "aftermarket": "N/A"
     },
@@ -3225,7 +3225,7 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7385cbc75c972b9e58d82_Unkempt%20Harold%20(Pistol-BL2).webp",
         "effects": [
-            "Projectile"
+            "Fire Pattern"
         ],
         "aftermarket": "N/A"
     },
@@ -3299,7 +3299,8 @@
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738f3f100bfb0c412d9c6_Volcano%20(Sniper-BL2).webp",
         "effects": [
-            "Element"
+            "Element",
+            "Projectile"
         ],
         "aftermarket": "N/A"
     },
