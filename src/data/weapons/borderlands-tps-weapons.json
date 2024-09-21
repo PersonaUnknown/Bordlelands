@@ -801,7 +801,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Good Touch",
+        "name": "Good Touch (TPS)",
         "flavor-text": "...but when I'm bad, I'm better.",
         "game": "borderlands-tps",
         "type": "SMG",
@@ -1654,7 +1654,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Pitchfork",
+        "name": "Pitchfork (TPS)",
         "flavor-text": "Mainstream'd!",
         "game": "borderlands-tps",
         "type": "Sniper",

@@ -1010,7 +1010,7 @@
     },
     {
         "name": "Good Touch",
-        "flavor-text": "\u2026but when I'm bad, I'm better.",
+        "flavor-text": "...but when I'm bad, I'm better.",
         "game": "borderlands-2",
         "type": "SMG",
         "rarity": "Epic",
@@ -1366,7 +1366,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Hydra",
+        "name": "Hydra (BL2)",
         "flavor-text": "Five heads of Death!",
         "game": "borderlands-2",
         "type": "Shotgun",
@@ -1901,7 +1901,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Mongol",
+        "name": "Mongol (TPS)",
         "flavor-text": "The Horde will always return!",
         "game": "borderlands-2",
         "type": "Launcher",
@@ -2048,7 +2048,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Ogre",
+        "name": "Ogre (BL2)",
         "flavor-text": "Ogres chew their food.",
         "game": "borderlands-2",
         "type": "Assault Rifle",
@@ -3282,7 +3282,7 @@
         "aftermarket": "N/A"
     },
     {
-        "name": "Volcano",
+        "name": "Volcano (BL2)",
         "flavor-text": "Pele humbly requests a sacrifice, if it's not too much trouble.",
         "game": "borderlands-2",
         "type": "Sniper",

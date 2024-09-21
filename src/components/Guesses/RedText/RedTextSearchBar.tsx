@@ -1,6 +1,7 @@
 import { useState } from "react"
-import { RedTextEntry } from "../../models/fileLoader"
-import { getRarityColor } from "../../models/colors"
+import { RedTextEntry } from "../../../models/fileLoader"
+import { getRarityColor } from "../../../models/colors"
+
 const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)
@@ -51,7 +52,7 @@ const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallb
             backgroundColor: '#373737',
             border: '1px solid #1d9dff', 
             color: 'white',
-            fontSize: 24
+            fontSize: 24,
         }
         const imgStyle = {
             width: 130,
@@ -65,18 +66,22 @@ const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallb
             </div>
             :
             filteredEntries.map(entry => {
+                const colors: string[] = entry.rarities.map(rarity => getRarityColor(rarity))
                 const nameStyle = {
-                    fontSize: 24,
+                    fontSize: 28,
                     marginTop: 'auto',
                     marginBottom: 'auto',
-                    // color: getRarityColor(entry.rarities[0]),
+                    backgroundImage: `linear-gradient(to right, #ff99c8)`,
+                    backgroundColor: colors.length === 1 ? colors[0] : 'transparent',
+                    WebkitBackgroundClip: 'text',
+	                WebkitTextFillColor: 'transparent',
                     flex: 1
                 }
                 return (
                     <button 
                         style={tabStyle}
                         className="flex flex-row"
-                        key={`${entry.name}`}
+                        key={`${entry.name}-${entry["flavor-text"]}`}
                         onClick={(e) => {
                             e.stopPropagation()
                             setCurrInput("")
@@ -135,6 +140,9 @@ const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallb
                         overflowX: 'hidden',
                         overflowY: 'auto',
                         position: 'absolute',
+                        left: 0,
+                        right: 0, 
+                        marginInline: 'auto',
                         zIndex: 10
                     }}
                 >

@@ -76,7 +76,7 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
                     <button 
                         style={tabStyle}
                         className="flex flex-row"
-                        key={`${entry.name}-${entry.game}-${entry.rarity}`}
+                        key={`${entry.name}-${entry.game}-${entry.rarity}-${entry["flavor-text"]}`}
                         onClick={(e) => {
                             e.stopPropagation()
                             setCurrInput("")

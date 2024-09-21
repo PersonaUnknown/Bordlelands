@@ -1,11 +1,16 @@
-import { memo } from "react"
+import { memo, useState, useEffect } from "react"
 import { Entry } from "../../models/fileLoader"
 import { getRarityColor, getColor, getColorComparison } from "../../models/colors"
 import { getGameImage, getElementIcon } from "../../models/gameParser"
 import { motion } from "framer-motion"
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
-const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
+const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
+    const [animDuration, setAnimDuration] = useState<number>(0)
+    useEffect(() => {
+        let duration: number = initState ? 0.5 : 0
+        setAnimDuration(duration)
+    }, [])
     const Guess = ({label, type, actual, animDuration, animDelay}: GuessProps) => {
         const GuessStyle = {
             width: 87.5,
@@ -21,7 +26,7 @@ const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
             alignItems: 'center',
             overflowWrap: 'anywhere' as const,
             overflow: 'hidden',
-            opacity: isLatest ? 0 : 1
+            opacity: initState ? 0 : 1
         }
         const fadeAnimation = {
             opacity: 1
@@ -93,7 +98,7 @@ const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
                     </motion.div>
                 )
             case "effects":
-                const effects: string = label.join(", ")
+                const effects: string = Array.isArray(label) ? label.join(", ") : label
                 const fontStyle = { fontSize: 12 }
                 return (
                     <motion.div 
@@ -143,10 +148,10 @@ const GuessTab = ({guess, actual, isLatest, initState}: GuessTabProps) => {
                 )
         }
     }
-    const animDuration: number = initState && isLatest ? 0 : 0.75
+
     return (
         <div className="flex flex-row" style={{gap: 7}}>
-            <Guess label={[guess.name]} type={'item'} actual={[""]} animDelay={0} animDuration={animDuration}/>
+            <Guess label={[guess.name]} type={'item'} actual={[""]} animDelay={0} animDuration={initState ? 0.75 : 0}/>
             <Guess label={[guess.type]} type={'text'} actual={[actual.type]} animDelay={1 * animDuration} animDuration={animDuration}/>
             <Guess label={[guess.manufacturer]} type={'text'} actual={[actual.manufacturer]} animDelay={2 * animDuration} animDuration={animDuration}/>
             <Guess label={[guess.rarity]} type={'text'} actual={[actual.rarity]} animDelay={3 * animDuration} animDuration={animDuration}/>
@@ -168,7 +173,6 @@ interface GuessProps {
 interface GuessTabProps {
     guess: Entry,
     actual: Entry,
-    isLatest: boolean,
     initState: boolean
 }
 export default memo(GuessTab)

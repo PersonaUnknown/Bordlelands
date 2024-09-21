@@ -4,6 +4,7 @@ import { motion } from "framer-motion"
 import { SettingsContext } from "../components/Modals/SettingsContext"
 import { Entry, getWeapons } from "../models/fileLoader"
 import { getRandomEntry } from "../models/rng"
+import { ClassicGuess } from "../models/guess"
 // Static UI
 import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
@@ -21,7 +22,7 @@ const Classic = () => {
     const [showSettingsModal, setShowSettingsModal] = useState<boolean>(false)
     const [showTutorialModal, setShowTutorialModal] = useState<boolean>(false)
     const [showVictoryModal, setShowVictoryModal] = useState<boolean>(false)
-    const [currGuesses, setCurrGuesses] = useState<Entry[]>([])
+    const [currGuesses, setCurrGuesses] = useState<ClassicGuess[]>([])
     const [initThreshold, setInitThreshold] = useState<number>(-1)
     const [dataLoaded, setDataLoaded] = useState<boolean>(false)
     const [itemData, setItemData] = useState<Entry[]>([])
@@ -34,7 +35,7 @@ const Classic = () => {
         "Rarity",       // Rarity
         "Element(s)",   // What elements can this item spawn with?
         "Drop Type",    // How do you obtain this item?
-        "Theme",  // If the item is related to an NPC
+        "Theme",        // If the item is related to an NPC
         "Effect",       // A List of Special Effect Keywords For This Item
         "Game"          // What game is this one from?
     ]
@@ -44,12 +45,16 @@ const Classic = () => {
         if (parsedNewEntry === parsedAnswer) {
             setTimeout(() => {
                 handleShowVictory()
-            }, 500)
+            }, 4500)
             setGuessedCorrectly(true)
             localStorage.setItem("guessedClassicCorrectly", "true")
-            // console.log("Guessed Correctly!")
         }
-        let newGuesses: Entry[] = [newEntry, ...currGuesses]
+        let newCurrGuess: ClassicGuess = { guess: newEntry, loadOnStart: true }
+        let oldGuesses: ClassicGuess[] = currGuesses
+        if (oldGuesses.length > 0) {
+            oldGuesses[0].loadOnStart = false
+        }
+        let newGuesses: ClassicGuess[] = [newCurrGuess, ...oldGuesses]
         localStorage.setItem("currClassicGuesses", JSON.stringify(newGuesses))
         setCurrGuesses(newGuesses)
     }
@@ -96,7 +101,10 @@ const Classic = () => {
             let itemCheck = localStorage.getItem("randomEntry")
             if (itemCheck !== null) {
                 let oldRandomEntry: Entry = JSON.parse(itemCheck)
-                let oldCurrGuesses: Entry[] = JSON.parse(localStorage.getItem("currClassicGuesses") ?? "[]")
+                let oldCurrGuesses: ClassicGuess[] = JSON.parse(localStorage.getItem("currClassicGuesses") ?? "[]")
+                for (let i = 0; i < oldCurrGuesses.length; i++) {
+                    oldCurrGuesses[i].loadOnStart = false
+                }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getWeapons(oldWeaponsSettings)
                 // Check guessed correctly
@@ -163,7 +171,7 @@ const Classic = () => {
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
             <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
-            <VictoryModal show={showVictoryModal} correctAnswer={correctAnswer} handleClose={handleCloseVictory}/>
+            <VictoryModal show={showVictoryModal} name={correctAnswer.name} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}
                 handleReroll={rerollItem}
@@ -176,7 +184,7 @@ const Classic = () => {
                 </span>
                 <SearchBar 
                     entries={itemData} 
-                    currGuesses={currGuesses} 
+                    currGuesses={currGuesses.map(entry => entry.guess)} 
                     guessedCorrectly={guessedCorrectly}
                     onSubmitCallback={appendGuess}
                 />
@@ -184,14 +192,13 @@ const Classic = () => {
             <div className="flex flex-column" style={columnStyle}>
                 <GuessHeader labels={headerLabels}/>
                 { 
-                    currGuesses.map((currGuess, index) => {
+                    currGuesses.map((currGuess) => {
                         return (
                             <GuessTab
-                                key={`${currGuess.name}-${currGuess.rarity}-${currGuess.game}`}
-                                guess={currGuess}
+                                key={`${currGuess.guess.name}-${currGuess.guess.rarity}-${currGuess.guess.game}`}
+                                guess={currGuess.guess}
                                 actual={correctAnswer}
-                                isLatest={index === 0}
-                                initState={index <= initThreshold}
+                                initState={currGuess.loadOnStart}
                             />
                         )
                     })

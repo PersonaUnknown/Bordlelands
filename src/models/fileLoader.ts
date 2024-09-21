@@ -115,7 +115,7 @@ export const getFlavorTexts = (games: string[]) : RedTextEntry[] => {
             }
         }
     }
-
+    
     return Array.from(flavorTexts.values())
 }
 

@@ -1,8 +1,7 @@
-import { Entry } from "../../models/fileLoader"
 import { Modal } from "react-bootstrap"
 import { motion } from "framer-motion";
 import { FaWindowClose } from "react-icons/fa";
-const VictoryModal = ({show, correctAnswer, handleClose}: VictoryModalProps) => {
+const VictoryModal = ({show, name, handleClose}: VictoryModalProps) => {
     // Styles
     const modalStyle = {
         backgroundColor: '#3f3f3f',
@@ -28,7 +27,7 @@ const VictoryModal = ({show, correctAnswer, handleClose}: VictoryModalProps) => 
                 Congratulations!
             </Modal.Header>
             <Modal.Body style={modalStyle}>
-                You have correctly guessed the item: {correctAnswer.name} <br></br>
+                You have correctly guessed the item: {name} <br></br>
                 Feel free to try out other modes or re-roll to test yourself further. 
             </Modal.Body>
         </Modal>
@@ -36,7 +35,7 @@ const VictoryModal = ({show, correctAnswer, handleClose}: VictoryModalProps) => 
 }
 interface VictoryModalProps {
     show: boolean,
-    correctAnswer: Entry,
+    name: string,
     handleClose: () => void,
 }
 export default VictoryModal

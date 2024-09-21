@@ -1,21 +1,21 @@
 import { useState } from "react"
-import { Entry } from "../../models/fileLoader"
+import { RedTextEntry } from "../../../models/fileLoader";
 import { Placement } from "react-bootstrap/esm/types";
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
-import Flavor from '../../images/hints/flavor-text.png'
-import Globe from '../../images/hints/globe.png'
-const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
+import Type from '../../../images/hints/type.png'
+import Globe from '../../../images/hints/globe.png'
+const RedTextHints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
     // States
-    const [flavorTextModal, setFlavorTextModal] = useState<boolean>(false)
+    const [typeTextModal, setTypeTextModal] = useState<boolean>(false)
     const [dropOriginModal, setDropOriginModal] = useState<boolean>(false)
-    const toggleFlavorTextModal = () => {
-        setFlavorTextModal(!flavorTextModal)
+    const toggleTypeTextModal = () => {
+        setTypeTextModal(!typeTextModal)
         setDropOriginModal(false)
     }
     const toggleDropOriginModal = () => {
         setDropOriginModal(!dropOriginModal)
-        setFlavorTextModal(false)
+        setTypeTextModal(false)
     }
     // Render
     const containerStyle = {
@@ -23,11 +23,11 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
         border: '2px solid #1d9dff', 
         maxWidth: 425,
         borderRadius: 10,
-        marginLeft: '20%',
-        marginRight: '20%',
+        marginLeft: '15%',
+        marginRight: '15%',
         marginBottom: 15,
         justifyContent: 'space-evenly',
-        padding: 5,
+        padding: 5
     }
     const hintStyle = {
         color: 'white',
@@ -68,7 +68,7 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
                     </Tooltip>
                 }
             >
-                <div className="center-vertical center-horizontal">
+                <div className="center-horizontal">
                     <button onClick={() => { if (clueCount <= 0) onPress()}} style={btnStyle} className="flex flex-column">
                         <img alt={alt} src={imgSrc} style={imgStyle}/>
                         <span>
@@ -86,12 +86,12 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
         <div style={containerStyle} className="flex flex-column">
             <div className="flex flex-row">
                 <HintButton
-                    alt="flavor"
-                    imgSrc={Flavor}
-                    onPress={toggleFlavorTextModal}
-                    label="Flavor Text"
-                    threshold={7}
-                    meaning="Item's Red Text"
+                    alt="type"
+                    imgSrc={Type}
+                    onPress={toggleTypeTextModal}
+                    label="Item Type"
+                    threshold={4}
+                    meaning="Pistol, shotgun, etc..."
                     tooltipDir="left"
                 />
                 <HintButton
@@ -99,14 +99,14 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
                     imgSrc={Globe}
                     onPress={toggleDropOriginModal}
                     label="Drop Origin"
-                    threshold={12}
+                    threshold={8}
                     meaning="Who/What Drops The Item If It Exists"
                     tooltipDir="right"
                 />
             </div>
-            {flavorTextModal &&
+            {typeTextModal &&
                 <span className="font-montserrat" style={hintStyle}>
-                    Flavor Text: {answer["flavor-text"]}
+                    Item Type: {answer.type}
                 </span>  
             }
             {dropOriginModal &&
@@ -128,7 +128,7 @@ interface HintButtonProps {
 }
 interface HintsProps {
     numGuesses: number,
-    answer: Entry,
+    answer: RedTextEntry,
     answeredCorrectly: boolean
 }
-export default Hints
+export default RedTextHints

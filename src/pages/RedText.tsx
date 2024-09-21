@@ -3,19 +3,25 @@ import { motion } from "framer-motion"
 // Models
 import { SettingsContext } from "../components/Modals/SettingsContext"
 import { getFlavorTexts, RedTextEntry } from "../models/fileLoader"
+import { SingleGuess } from "../models/guess"
 import { getRandomFlavorText } from "../models/rng"
 // Static UI
+import RedTextHints from "../components/Guesses/RedText/RedTextHints"
 import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
 // Searches
-import RedTextSearchBar from "../components/Guesses/RedTextSearchBar"
+import RedTextSearchBar from "../components/Guesses/RedText/RedTextSearchBar"
 import SingularGuess from "../components/Guesses/SingularGuess"
+// Modals
+import SettingsModal from "../components/Modals/SettingsModal"
+import TutorialModal from "../components/Modals/TutorialModal"
+import VictoryModal from "../components/Modals/VictoryModal"
 const RedText = () => {
     // States
     const [showSettingsModal, setShowSettingsModal] = useState<boolean>(false)
     const [showTutorialModal, setShowTutorialModal] = useState<boolean>(false)
     const [showVictoryModal, setShowVictoryModal] = useState<boolean>(false)
-    const [currGuesses, setCurrGuesses] = useState<RedTextEntry[]>([])
+    const [currGuesses, setCurrGuesses] = useState<SingleGuess[]>([])
     const [dataLoaded, setDataLoaded] = useState<boolean>(false)
     const [itemData, setItemData] = useState<RedTextEntry[]>([])
     const [correctAnswer, setCorrectAnswer] = useState<RedTextEntry | null>(null)
@@ -31,7 +37,12 @@ const RedText = () => {
             localStorage.setItem("guessedFlavorCorrectly", "true")
             // console.log("Guessed Correctly!")
         }
-        let newGuesses: RedTextEntry[] = [newEntry, ...currGuesses]
+        let newCurrGuess: SingleGuess = { guess: newEntry, loadOnStart: true }
+        let oldGuesses: SingleGuess[] = currGuesses
+        if (oldGuesses.length > 0) {
+            oldGuesses[0].loadOnStart = false
+        }
+        let newGuesses: SingleGuess[] = [newCurrGuess, ...oldGuesses]
         localStorage.setItem("currFlavorGuesses", JSON.stringify(newGuesses))
         setCurrGuesses(newGuesses)
     }
@@ -78,7 +89,10 @@ const RedText = () => {
             let itemCheck = localStorage.getItem("randomFlavorEntry")
             if (itemCheck !== null) {
                 let oldRandomEntry: RedTextEntry = JSON.parse(itemCheck)
-                let oldCurrGuesses: RedTextEntry[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
+                let oldCurrGuesses: SingleGuess[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
+                for (let i = 0; i < oldCurrGuesses.length; i++) {
+                    oldCurrGuesses[i].loadOnStart = false
+                }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getFlavorTexts(oldWeaponsSettings)
                 // Check guessed correctly
@@ -139,11 +153,15 @@ const RedText = () => {
     }
     return (
         <div className="flex flex-column center-horizontal center-text">
+            <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
+            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
+            <VictoryModal show={showVictoryModal} name={correctAnswer.name} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}
                 handleReroll={rerollItem}
                 handleTutorialShow={handleShowTutorial}
             />
+            <RedTextHints answer={correctAnswer} numGuesses={currGuesses.length} answeredCorrectly={guessedCorrectly}/>
             <div className="flex flex-column center-horizontal margin-bottom">
                 <span className="common" style={classicStyle}>
                     What item has this flavor text?
@@ -153,17 +171,18 @@ const RedText = () => {
                 </span>
                 <RedTextSearchBar 
                     entries={itemData} 
-                    currGuesses={currGuesses} 
+                    currGuesses={currGuesses.map(entry => entry.guess)} 
                     guessedCorrectly={guessedCorrectly}
                     onSubmitCallback={appendGuess}
                 />
             </div>
-            {currGuesses.map((currGuess, index) => {
+            {currGuesses.map((currGuess) => {
                 return (
                     <SingularGuess
-                        key={`${currGuess.name}`}
-                        guess={currGuess}
+                        key={`${currGuess.guess.name}-${currGuess.guess["flavor-text"]}`}
+                        guess={currGuess.guess}
                         actual={correctAnswer}
+                        loadOnStart={currGuess.loadOnStart}
                     />
                 )
             })}
