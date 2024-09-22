@@ -127,9 +127,6 @@ const RedText = () => {
         fontSize: 26,
         color: 'white'
     }
-    const columnStyle = {
-        gap: 10
-    }
     // Rendering
     if (!dataLoaded || correctAnswer === null) {
         return (

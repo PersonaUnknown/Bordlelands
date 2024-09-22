@@ -1,11 +1,12 @@
-import { useState } from "react"
+import { useRef, useState } from "react"
 import { RedTextEntry } from "../../../models/fileLoader";
 import { Placement } from "react-bootstrap/esm/types";
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
 import Type from '../../../images/hints/type.png'
+import Flavor from '../../../images/hints/flavor-text.png'
 import Globe from '../../../images/hints/globe.png'
-const RedTextHints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
+const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: HintsProps) => {
     // States
     const [typeTextModal, setTypeTextModal] = useState<boolean>(false)
     const [dropOriginModal, setDropOriginModal] = useState<boolean>(false)
@@ -85,15 +86,27 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
         :
         <div style={containerStyle} className="flex flex-column">
             <div className="flex flex-row">
-                <HintButton
-                    alt="type"
-                    imgSrc={Type}
-                    onPress={toggleTypeTextModal}
-                    label="Item Type"
-                    threshold={4}
-                    meaning="Pistol, shotgun, etc..."
-                    tooltipDir="left"
-                />
+                {useRedTextHint === null || !useRedTextHint ?
+                    <HintButton
+                        alt="type"
+                        imgSrc={Type}
+                        onPress={toggleTypeTextModal}
+                        label="Item Type"
+                        threshold={4}
+                        meaning="Pistol, shotgun, etc..."
+                        tooltipDir="left"
+                    />
+                    :
+                    <HintButton
+                        alt="flavor"
+                        imgSrc={Flavor}
+                        onPress={toggleTypeTextModal}
+                        label="Flavor Text"
+                        threshold={4}
+                        meaning="Item's Red Text"
+                        tooltipDir="left"
+                    />
+                }
                 <HintButton
                     alt="globe"
                     imgSrc={Globe}
@@ -106,7 +119,7 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
             </div>
             {typeTextModal &&
                 <span className="font-montserrat" style={hintStyle}>
-                    Item Type: {answer.type}
+                    {useRedTextHint === null || !useRedTextHint ? `Item Type: ${answer.type}` : `Flavor Text: ${answer["flavor-text"]}`}
                 </span>  
             }
             {dropOriginModal &&
@@ -129,6 +142,7 @@ interface HintButtonProps {
 interface HintsProps {
     numGuesses: number,
     answer: RedTextEntry,
-    answeredCorrectly: boolean
+    answeredCorrectly: boolean,
+    useRedTextHint?: boolean
 }
 export default RedTextHints

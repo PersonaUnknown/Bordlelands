@@ -2,7 +2,7 @@ import { useState } from "react"
 import { RedTextEntry } from "../../../models/fileLoader"
 import { getRarityColor } from "../../../models/colors"
 
-const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
+const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback, haveImages = true}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)
     const onFocus = () => { 
@@ -89,9 +89,11 @@ const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallb
                             onSubmitCallback(entry)
                         }}
                     >
-                        <div style={{width: '50%', margin: 'auto'}}>
-                            <img alt='item-img' src={entry.image} style={imgStyle}/>
-                        </div>
+                        {haveImages && 
+                            <div style={{width: '50%', margin: 'auto'}}>
+                                <img alt='item-img' src={entry.image} style={imgStyle}/>
+                            </div>
+                        }
                         <span style={nameStyle}>
                             { entry.name}
                         </span>
@@ -157,7 +159,8 @@ interface SearchBarProps {
     entries: RedTextEntry[],
     currGuesses: RedTextEntry[],
     guessedCorrectly: boolean,
-    onSubmitCallback: (newEntry: RedTextEntry) => void
+    onSubmitCallback: (newEntry: RedTextEntry) => void,
+    haveImages?: boolean
 }
 
 export default RedTextSearchBar

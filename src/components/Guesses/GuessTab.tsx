@@ -6,11 +6,7 @@ import { motion } from "framer-motion"
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
 const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
-    const [animDuration, setAnimDuration] = useState<number>(0)
-    useEffect(() => {
-        let duration: number = initState ? 0.5 : 0
-        setAnimDuration(duration)
-    }, [])
+    const animDuration = initState ? 0.5 : 0
     const Guess = ({label, type, actual, animDuration, animDelay}: GuessProps) => {
         const GuessStyle = {
             width: 87.5,
