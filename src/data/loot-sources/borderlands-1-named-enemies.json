@@ -1,0 +1,347 @@
+[
+    {
+        "name": "Ajax",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "status": "Unique Enemy",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497b15a7c8ff69c43ff2c_Ajax%20(BL1)-p-500.avif"
+    },
+    {
+        "name": "Badass Defender",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4984894e25710d2de231e_Badass%20Defender%20(BL1).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "Crawmerax",
+        "game": "borderlands-1",
+        "location": "Craw's Lair",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c8789a029c41f98afb7_Crawmerax%20(BL1).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Lance Chest",
+        "game": "borderlands-1",
+        "location": "Crimson Armory",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3c35a7c8ff69c4ecabe_Lance%20Chest%20(BL1).avif",
+        "status": "Chest"
+    },
+    {
+        "name": "Loot Larceny",
+        "game": "borderlands-1",
+        "location": "Crimson Armory",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Badass Desperado",
+        "game": "borderlands-1",
+        "location": "Sunken Sea",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4984e71f82134689763c6_Badass%20Desperado%20(BL1).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Badass Infantry",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4986058fe75c666e388a1_Badass%20Infantry%20(BL1).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Badass Engineer",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4985af4808529ee1f90f5_Badass%20Engineer%20(BL1).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Destroyer Chest",
+        "game": "borderlands-1",
+        "location": "The Vault",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49cd74133b5962d633913_Destroyer%20Chest%20(BL1).webp",
+        "status": "Chest"
+    },
+    {
+        "name": "Bone Head",
+        "game": "borderlands-1",
+        "location": "Arid Badlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498eb08cf3526fdb7a8af_Bone%20Head%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    
+    {
+        "name": "Baron Flynt",
+        "game": "borderlands-1",
+        "location": "Salt Flats",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4988c4ab67502c784287a_Baron%20Flynt%20(BL1).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Master McCloud",
+        "game": "borderlands-1",
+        "location": "The Backdoor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4f04133b5962d6b3fc3_Master%20McCloud%20(BL1).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Purple Juice!",
+        "game": "borderlands-1",
+        "location": "Sunken Sea",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pyro",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6983a44b053aa0d0723_Pyro%20(BL1).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "Drifter",
+        "game": "borderlands-1",
+        "location": "Sunken Sea",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d8666b126fda127ae67_Drifter%20(BL1).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Badass Bruiser",
+        "game": "borderlands-1",
+        "location": "Deep Fathoms",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4983b87a8d9a3996bfb33_Badass%20Bruiser%20(BL1).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "General Knoxx",
+        "game": "borderlands-1",
+        "location": "Crimson Armory",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1374133b5962d66e3b6_General%20Knoxx%20(BL1).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Sledge",
+        "game": "borderlands-1",
+        "location": "Headstone Mine",
+        "status": "Boss",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8e15c8901d87ea7b9e7_Sledge%20(BL1).avif"
+    },
+    {
+        "name": "Krom's Turret",
+        "game": "borderlands-1",
+        "location": "Krom's Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3b1882ad7a75cf5048f_Krom%27s%20Turret%20(BL1).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Commander Kyros",
+        "game": "borderlands-1",
+        "location": "The Ridgeway",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c76f762b6142461f72f_Commander%20Kyros%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Moe & Marley",
+        "game": "borderlands-1",
+        "location": "Arid Hills",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a59987a8d9a3997858ee_Moe%20%26%20Marley%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Nine-Toes: Take Him Down",
+        "game": "borderlands-1",
+        "location": "Skag Gully",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Rakk Hive",
+        "game": "borderlands-1",
+        "location": "Trash Coast",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6c3d1c0205e9c529c5f_Rakk%20Hive%20(BL1).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Rakk-Trap Hive",
+        "game": "borderlands-1",
+        "location": "Scorched Snake Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6c96ef461a95ed34792_Rakk-Trap%20Hive%20(BL1).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Wanted: Fresh Fish",
+        "game": "borderlands-1",
+        "location": "New Haven",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "One-Eyed Jack",
+        "game": "borderlands-1",
+        "location": "Rust Commons West",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a62158fe75c666f042bd_One-Eyed%20Jack%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Shock Trooper",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a82c330baf46189113d3_Shock%20Trooper%20(BL1).webp",
+        "status": "Enemy"
+    },
+    
+    {
+        "name": "House Hunting",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Queen Tarantella",
+        "game": "borderlands-1",
+        "location": "Trash Coast",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6ab423529bd55bbb177_Queen%20Tarantella%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Bait And Switch",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Hidden Basement",
+        "game": "borderlands-1",
+        "location": "New Haven",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a0a3c9a2047edbd4d648_Hidden%20Basement%20(BL1).webp",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Chemical Trooper",
+        "game": "borderlands-1",
+        "location": "Road's End",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c1e58fe75c666e6a810_Chemical%20Trooper%20(BL1).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "T.K.'s Life And Limb",
+        "game": "borderlands-1",
+        "location": "Arid Badlands",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Mothrakk",
+        "game": "borderlands-1",
+        "location": "Arid Badlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5b0be17b6544a274ee9_Mothrakk%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Like A Moth To Flame",
+        "game": "borderlands-1",
+        "location": "New Haven",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Motor Head",
+        "game": "borderlands-1",
+        "location": "The Ridgeway",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5b64133b5962d6cd0f0_Motor%20Head%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Nine-Toes",
+        "game": "borderlands-1",
+        "location": "Skag Gully",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5ebca782680477aa6c2_Nine-Toes%20(BL1).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Slither",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8e6bfb0eee685b93c3d_Slither%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Altar Ego: Godless Monsters",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Jaynis Kobb",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a25a5a7c8ff69c4d6a73_Jaynis%20Kobb%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Taylor Kobb",
+        "game": "borderlands-1",
+        "location": "Rust Commons East",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9ddf762b614246ee579_Taylor%20Kobb%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Rakkinishu",
+        "game": "borderlands-1",
+        "location": "Rust Commons West",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6d521d0652d09e8a8dc_Rakkinishu%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Jack's Other Eye",
+        "game": "borderlands-1",
+        "location": "New Haven",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "King Wee Wee",
+        "game": "borderlands-1",
+        "location": "Tetanus Warrens",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a38dbca35ec50ea72055_King%20Wee%20Wee%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "King Tossing",
+        "game": "borderlands-1",
+        "location": "New Haven",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Commander Typhon",
+        "game": "borderlands-1",
+        "location": "The Ridgeway",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c7bbe566b5a01ed82f1_Commander%20Typhon%20(BL1).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Badass Rocketeer",
+        "game": "borderlands-1",
+        "location": "Deep Fathoms",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4986ca5f2e8bea5d73dc0_Badass%20Rocketeer%20(BL1).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Skagzilla",
+        "game": "borderlands-1",
+        "location": "DAHL Headland",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8cf75a407182598dabe_Skagzilla%20(BL1).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Big Game Hunter",
+        "game": "borderlands-1",
+        "location": "DAHL Headland",
+        "image": "",
+        "status": "Quest"
+    }
+]

@@ -9,6 +9,60 @@ def download_page(url):
     req = requests.get(url)
     return req.content
 
+def parse_named_enemies():
+    games = [
+        "borderlands-1",
+        # "borderlands-2",
+        "borderlands-3",
+        "borderlands-tps",
+        "wonderlands"
+    ]
+
+    for game in games:
+        named_enemies = []
+        encountered_named_enemies = []
+        json_path = f"./weapons/{game}-weapons.json"
+        with open(json_path, 'r') as file:
+            data = json.load(file)
+        for item in data:
+            sources = item['drop-sources']
+            for source in sources:
+                if source in encountered_named_enemies:
+                    continue
+                print("Checking " + source)
+                # Search for loot source
+                search_query = source.replace(" ", "+")
+                optional_enemy_query = "+enemy" if  "Quest" not in source and "Challenge" not in source and "Vendor" not in source else ""
+                search_url = f"https://www.lootlemon.com/search?query={search_query}{optional_enemy_query}"
+                search_contents = download_page(search_url)
+                search_soup = BeautifulSoup(search_contents, "html.parser")
+                search_result = search_soup.find("div", {"id":"search-results"})
+                first_search_result = search_result.find("a")["href"]
+                # Parse data from loot source
+                loot_source_url = f"https://www.lootlemon.com{first_search_result}"
+                loot_source_contents = download_page(loot_source_url)
+                loot_source_soup = BeautifulSoup(loot_source_contents, "html.parser")
+                name = loot_source_soup.find("h1", {"class":"article_heading"}).find_all("span")[1].text.strip()
+                location = loot_source_soup.find("div", {"id":"source-location"})
+                if location == None:
+                    print(f"Checking {source} resulted in {loot_source_url} with no valid location")
+                    continue
+                location = location.text.strip()
+                image = loot_source_soup.find("img", {"class":"article_thumbnail-background"})["src"]
+                source_type = loot_source_soup.find("div", {"id":"source-type"}).text.strip()
+                # Create JSON Entry
+                encountered_named_enemies.append(source)
+                current_source_data = {
+                    "name": name,
+                    "game": game,
+                    "location": location,
+                    "image": image,
+                    "status": source_type
+                }
+                named_enemies.append(current_source_data)
+        with open(f"./{game}-named-enemies.json", "w") as weapon_list: 
+            json.dump(named_enemies, weapon_list, indent=4)
+
 def parse_loot_database():
     og_url = "https://www.lootlemon.com"
     base_url = "https://www.lootlemon.com/db"
@@ -207,6 +261,7 @@ def parse_item_data(url, game, item):
         json.dump(array, weapon_list, indent=4)
 
 def main():
-    parse_loot_database()
+    # parse_loot_database()
+    parse_named_enemies()
 
 main()

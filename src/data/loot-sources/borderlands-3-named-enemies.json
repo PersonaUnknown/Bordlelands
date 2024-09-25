@@ -1,0 +1,1501 @@
+[
+    {
+        "name": "Killavolt",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a366e5685905ad1a5cf6_Killavolt%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Wick and Warty",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aba058f6038b2aaa4d9a_Wick%20and%20Warty%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Maxitrillion",
+        "game": "borderlands-3",
+        "location": "Voracious Canopy",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a547c9a2047edbd99f4c_Maxitrillion%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Agonizer 9000, Pain & Terror",
+        "game": "borderlands-3",
+        "location": "Guts of Carnivora",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497ac366fe5c8cb9a61d4_Agonizer%209000%2C%20Pain%20%26%20Terror%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Heckle/Hyde",
+        "game": "borderlands-3",
+        "location": "Jakobs Estate",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1c5be72eb3ced2ca7b78d_Heckle-Hyde%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Life of the Party",
+        "game": "borderlands-3",
+        "location": "Devil's Razor",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Homeopathological",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Does a Body Good",
+        "game": "borderlands-3",
+        "location": "Benediction of Pain",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Hemovorous",
+        "game": "borderlands-3",
+        "location": "Darkthirst Dominion",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1debe566b5a01f200ea_Hemovorous%20(BL3).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Sera of Supremacy",
+        "game": "borderlands-3",
+        "location": "Trial of Supremacy",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7e23a44b053aa0e1997_Sera%20of%20Supremacy%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Freddie the Traitor",
+        "game": "borderlands-3",
+        "location": "VIP Tower",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49e2994e25710d2e37ef5_Freddie%20the%20Traitor%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Alacritous Vanda",
+        "game": "borderlands-3",
+        "location": "Cistern of Slaughter",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497b84133b5962d5ed2d2_Alacritous%20Vanda%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Dead Claptraps",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49cc0055ab00edf1ba99e_Dead%20Claptraps%20(BL3).avif",
+        "status": "Challenge"
+    },
+    {
+        "name": "Tyrant of Instinct",
+        "game": "borderlands-3",
+        "location": "Trial of Instinct",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab1087a8d9a3997df584_Tyrant%20of%20Instinct%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Captain Thunk & Sloth",
+        "game": "borderlands-3",
+        "location": "Konrad's Hold",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c015a7c8ff69c47b257_Captain%20Thunk%20%26%20Sloth%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Mincemeat, Trufflemunch & Buttmunch",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a58858f6038b2aa4412a_Mincemeat%2C%20Trufflemunch%20%26%20Buttmunch%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Jerrick Logan",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a2605c8901d87ea0ffef_Jerrick%20Logan%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Dam, WTF",
+        "game": "borderlands-3",
+        "location": "Stormblind Complex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49cb04133b5962d62ffbd_Dam%2C%20WTF%20(BL3).avif",
+        "status": "Chest"
+    },
+    {
+        "name": "Heavyweight Harker",
+        "game": "borderlands-3",
+        "location": "Stormblind Complex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1d8366fe5c8cba36ed6_Heavyweight%20Harker%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Tyreen the Destroyer",
+        "game": "borderlands-3",
+        "location": "Destroyer's Rift",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab16366fe5c8cbac90f7_Tyreen%20the%20Destroyer%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Witch's Brew",
+        "game": "borderlands-3",
+        "location": "Jakobs Estate",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Locom\u00f6bius",
+        "game": "borderlands-3",
+        "location": "Sapphire's Run",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4096ef461a95ed0c954_Locom%C3%B6bius%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Evil Lilith",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49de3f762b6142463396b_Evil%20Lilith%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "The Ruiner",
+        "game": "borderlands-3",
+        "location": "Crater's Edge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa3e366fe5c8cbab676e_The%20Ruiner%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Crushjaw",
+        "game": "borderlands-3",
+        "location": "Cathedral of the Twin Gods",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c93f762b61424620ab4_Crushjaw%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Scraptrap Prime",
+        "game": "borderlands-3",
+        "location": "The Compactor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7d0be566b5a01f80909_Scraptrap%20Prime%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "One Man's Treasure",
+        "game": "borderlands-3",
+        "location": "Impound Deluxe",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Katagawa Ball",
+        "game": "borderlands-3",
+        "location": "Skywell-27",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a359be566b5a01f38fbe_Katagawa%20Ball%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Head Case",
+        "game": "borderlands-3",
+        "location": "Ascension Bluff",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Blinding Banshee",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498c45f940d47fb7a8ab1_Blinding%20Banshee%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Big Donny & The Big-D",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498a6055ab00edf17afe1_Big%20Donny%20%26%20The%20Big-D%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Bronsons",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a4fc9a2047edbcfa36d_Bronsons%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Dirty Deeds",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Dump on Dumptruck",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Judge Hightower",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a271d1c0205e9c4e4fc1_Judge%20Hightower%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Bellik Primis",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498a0f4808529ee1fca5b_Bellik%20Primis%20(BL3).webp",
+        "status": "Boss"
+    },
+
+    {
+        "name": "Lagromar",
+        "game": "borderlands-3",
+        "location": "Konrad's Hold",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3bd330baf46188ce44a_Lagromar%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Demon in the Dark",
+        "game": "borderlands-3",
+        "location": "Konrad's Hold",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Beneath the Meridian",
+        "game": "borderlands-3",
+        "location": "The Forgotten Basilica",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Eista",
+        "game": "borderlands-3",
+        "location": "Skittermaw Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dafbfb0eee685ae6ce7_Eista%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Lair of the Harpy",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Lani Dixon",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3cea5f2e8bea5e1f0f5_Lani%20Dixon%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Abbadoxis",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4979e75a40718258921d4_Abbadoxis%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Dr. Benedict",
+        "game": "borderlands-3",
+        "location": "Benediction of Pain",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d74d1c0205e9c498bba_Dr.%20Benedict%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Hag of Fervor",
+        "game": "borderlands-3",
+        "location": "Trial of Fervor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1bfd1c0205e9c4d903d_Hag%20of%20Fervor%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Junpai Goat Eater",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a2774ab67502c78d2b00_Junpai%20Goat%20Eater%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Mother of Grogans",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5aa330baf46188eb763_Mother%20of%20Grogans%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Moxxi's Tip Jar",
+        "game": "borderlands-3",
+        "location": "Sanctuary",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5c2330baf46188eccbf_Moxxi%27s%20Tip%20Jar%20(BL2).webp",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Seepage & Creepage",
+        "game": "borderlands-3",
+        "location": "Stormblind Complex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7d65a7c8ff69c52e0d1_Seepage%20%26%20Creepage%20(BL3).avif",
+        "status": "Chest"
+    },
+    {
+        "name": "Borman Nates",
+        "game": "borderlands-3",
+        "location": "Meridian Outskirts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a3de5685905ad127f72_Borman%20Nates%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "General Traunt",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a13e4ab67502c78bcb61_General%20Traunt%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Riding to Ruin",
+        "game": "borderlands-3",
+        "location": "Vestige",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Madwidth Power",
+        "game": "borderlands-3",
+        "location": "Stormblind Complex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4c075a407182594e33f_Madwidth%20Power%20(BL3).avif",
+        "status": "Chest"
+    },
+    {
+        "name": "Malevolent Practice",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Power Troopers",
+        "game": "borderlands-3",
+        "location": "Atlas HQ",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a66f39f5ae1e374e13c9_Power%20Troopers%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Unstoppable",
+        "game": "borderlands-3",
+        "location": "Ambermire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa695f940d47fb8aaa5f_The%20Unstoppable%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Psychobillies",
+        "game": "borderlands-3",
+        "location": "Ambermire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4adef08cf3526fdcbb3eb_Psychobillies%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Do it for Digby (Part 3)",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pterodomini",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a693bca35ec50eaa8624_Pterodomini%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Cannonization",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pieces of R\u00e9sistance",
+        "game": "borderlands-3",
+        "location": "DLC 1 Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a64794e25710d2eb88e7_Pieces%20of%20R%C3%A9sistance%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Hot Karl",
+        "game": "borderlands-3",
+        "location": "Devil's Razor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1ea87a8d9a39974a1f1_Hot%20Karl%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Footsteps of Giants",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Swamp Bro",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Muldock the Anointed",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5d339f5ae1e374d7035_Muldock%20the%20Anointed%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Atomic & Sylestro",
+        "game": "borderlands-3",
+        "location": "Tazendeer Ruins",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4981d89a029c41f94a0aa_Atomic%20%26%20Sylestro%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+
+    {
+        "name": "Captain Haunt",
+        "game": "borderlands-3",
+        "location": "The Heck Hole",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49bf5e5685905ad13fca7_Captain%20Haunt%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "On the Blood Path",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Happily Ever After",
+        "game": "borderlands-3",
+        "location": "The Lodge",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Red Jabber",
+        "game": "borderlands-3",
+        "location": "Ambermire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6f258fe75c666f232cb_Red%20Jabber%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Katagawa Jr.",
+        "game": "borderlands-3",
+        "location": "Atlas HQ",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3605c8901d87ea2073c_Katagawa%20Jr.%20(BL3).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Wendigo",
+        "game": "borderlands-3",
+        "location": "The Cankerwood",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab9b055ab00edf2b2014_Wendigo%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Minosaur",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a58ebca35ec50ea95544_Minosaur%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Arbalest of Discipline",
+        "game": "borderlands-3",
+        "location": "Trial of Discipline",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497e83a44b053aafff456_Arbalest%20of%20Discipline%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Beef Plissken",
+        "game": "borderlands-3",
+        "location": "Karass Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49899bca35ec50e9d5fb7_Beef%20Plissken%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+
+    {
+        "name": "Lectrikor",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f2882ad7a75cf54639_Lectrikor%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Dickon Goyle",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d3ef4808529ee23bb19_Dickon%20Goyle%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Sheega",
+        "game": "borderlands-3",
+        "location": "Devil's Razor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8088bb1adabd7a60dec_Sheega%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Dynasty Diner",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "The Rampager",
+        "game": "borderlands-3",
+        "location": "The Forgotten Basilica",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa393a44b053aa106427_The%20Rampager%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Joey Ultraviolet",
+        "game": "borderlands-3",
+        "location": "Villa Ultraviolet",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65e15985b0423e3215aa3905_Joey%20Ultraviolet.avif",
+        "status": "Boss"
+    },
+
+    {
+        "name": "The Tenderizer",
+        "game": "borderlands-3",
+        "location": "Villa Ultraviolet",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa5c89a029c41fa5ce29_The%20Tenderizer%20(BL3).avif",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Indo Tyrant",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a22a882ad7a75cf34136_Indo%20Tyrant%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Guns of Reliance",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Handsome Jackie",
+        "game": "borderlands-3",
+        "location": "Skywell-27",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1cdbfb0eee685b1e529_Handsome%20Jackie%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "King Bobo the Almighty",
+        "game": "borderlands-3",
+        "location": "Voracious Canopy",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a36e8bb1adabd7a1d29e_King%20Bobo%20the%20Almighty%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Gorgeous Armada",
+        "game": "borderlands-3",
+        "location": "The Compactor",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ad45be566b5a01fdba00_Georgous%20Armada%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Vermilingua",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab494133b5962d723791_Vermilingua%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Road Dog",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a70a6ef461a95ed37c8e_Road%20Dog%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Princess Tarantella II",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a67b58fe75c666f1ac97_Princess%20Tarantella%20II%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Shiverous the Unscathed",
+        "game": "borderlands-3",
+        "location": "Negul Neshai",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a826882ad7a75cf977e6_Shiverous%20the%20Unscathed%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Fabricator Mk II",
+        "game": "borderlands-3",
+        "location": "Jack's Secret",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dfe38dbfd3d9726f005_Fabricator%20Mk%20II%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Evil Saint Lawrence",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49defbfb0eee685ae9f91_Evil%20Saint%20Lawrence%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Of Blood and Beans",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Anointed Alpha",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497d0bca35ec50e9cb3dc_Anointed%20Alpha%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Aurelia",
+        "game": "borderlands-3",
+        "location": "Blackbarrel Cellars",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498226ef461a95ec675ee_Aurelia%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "The Handsome Jackpot",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Petting Mancubite",
+        "game": "borderlands-3",
+        "location": "The Lodge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a63939f5ae1e374dc8ae_Petting%20Mancubite%20(BL3).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Captain Traunt",
+        "game": "borderlands-3",
+        "location": "Athenas",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c076ef461a95ec9817a_Captain%20Traunt%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Transaction-Packed",
+        "game": "borderlands-3",
+        "location": "Desolation's Edge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Kevin Konundrum",
+        "game": "borderlands-3",
+        "location": "Sanctuary III",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Under Taker",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab2e5a7c8ff69c56744b_Under%20Taker%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Tumorhead",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab0475a40718259ae217_Tumorhead%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Wotan",
+        "game": "borderlands-3",
+        "location": "Midnight's Cairn",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4abb2366fe5c8cbad3cb5_Wotan%20(BL3).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Baby Dancer",
+        "game": "borderlands-3",
+        "location": "Sanctuary III",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Great Escape",
+        "game": "borderlands-3",
+        "location": "Impound Deluxe",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Billy, The Anointed",
+        "game": "borderlands-3",
+        "location": "Jakobs Estate",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498b294e25710d2de74af_Billy%2C%20The%20Anointed%20(BL3).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Lasodactyl",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3d487a8d9a399769b6d_Lasodactyl%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Lavender Crawly",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3e06ef461a95ed0a7e0_Lavender%20Crawly%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Evil Brick",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dded1c0205e9c49debf_Evil%20Brick%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "The Call of Gythian",
+        "game": "borderlands-3",
+        "location": "Heart's Desire",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Eleanor and the Heart",
+        "game": "borderlands-3",
+        "location": "Heart's Desire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dba66b126fda127d978_Eleanor%20and%20the%20Heart%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Blue Fire",
+        "game": "borderlands-3",
+        "location": "Slaughterstar 3000",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498de87a8d9a3996ca5db_Blue%20Fire%20(BL3).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Dinklebot",
+        "game": "borderlands-3",
+        "location": "Skywell-27",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d61055ab00edf1c38d1_Dinklebot%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Skag of Survival",
+        "game": "borderlands-3",
+        "location": "Trial of Survival",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8c9bca35ec50eac6487_Skag%20of%20Survival%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Tremendous Rex",
+        "game": "borderlands-3",
+        "location": "Cistern of Slaughter",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aaeb89a029c41fa65c68_Tremendous%20Rex%20(BL3).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Targets of Opportunity",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9d76ef461a95ed60cd3_Targets%20of%20Opportunity%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Turnkey Tim",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab0a58fe75c666f65096_Turnkey%20Tim%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Psychoreaver",
+        "game": "borderlands-3",
+        "location": "Vaulthalla",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a68c66b126fda131d2cd_Psychoreaver%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Urist McEnforcer",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab394133b5962d722e45_Urist%20McEnforcer%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Acid Trip",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Mouthpiece",
+        "game": "borderlands-3",
+        "location": "Ascension Bluff",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5bc882ad7a75cf72ff3_Mouthpiece%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Locus of Rage",
+        "game": "borderlands-3",
+        "location": "Vaulthalla",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Quartermaster",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa3366b126fda13539c3_The%20Quartermaster%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Demoskaggon",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49cd2e5685905ad14be3a_Demoskaggon%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Slithermaw",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8edd1c0205e9c549c3c_Slithermaw%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Fungal Gorger",
+        "game": "borderlands-3",
+        "location": "The Cankerwood",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49e3608cf3526fdbc6aea_Fungal%20Gorger%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Haddon Marr",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1b4c9a2047edbd5b597_Haddon%20Marr%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Josie Byte",
+        "game": "borderlands-3",
+        "location": "Villa Ultraviolet",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a26b71f8213468a0592c_Josie%20Byte%20(BL3).avif",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Franco Firewall",
+        "game": "borderlands-3",
+        "location": "Villa Ultraviolet",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49e23d23cc7943972fb1c_Franco%20Firewall%20(BL3).avif",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "I'm Rakkman",
+        "game": "borderlands-3",
+        "location": "Carnivora",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a217f762b614246718f2_I%27m%20Rakkman%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "Loco Chantelle",
+        "game": "borderlands-3",
+        "location": "VIP Tower",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a403882ad7a75cf55214_Loco%20Chantelle%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Hostile Takeover",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Troy Calypso",
+        "game": "borderlands-3",
+        "location": "The Great Vault",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aaf1be17b6544a2c4ce2_Troy%20Calypso%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Empowered Scholar",
+        "game": "borderlands-3",
+        "location": "Dustbound Archives",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dc6d23cc7943972a343_Empowered%20Scholar%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "The Family Jewel",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "One Punch",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a61bc9a2047edbda66a1_One%20Punch%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "A Good Egg",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "SpongeBoss BulletPants",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9b771f8213468a7d79c_SpongeBoss%20BulletPants%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Homestead (Part 3)",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Ratch'd Up",
+        "game": "borderlands-3",
+        "location": "Atlas HQ",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Blood from a Stone",
+        "game": "borderlands-3",
+        "location": "Vestige",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Wrendon Esk",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4abb9ca78268047801525_Wrendon%20Esk%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+
+    {
+        "name": "GenIVIV",
+        "game": "borderlands-3",
+        "location": "Voracious Canopy",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a131c9a2047edbd53057_GenIVIV%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Porta Prison",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Claw and Order",
+        "game": "borderlands-3",
+        "location": "Sanctuary III",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Hydragoian",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1f5a5f2e8bea5df9318_Hydragoian%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Quick and the Quickerer",
+        "game": "borderlands-3",
+        "location": "Vestige",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Red Jabber",
+        "game": "borderlands-3",
+        "location": "Ambermire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6f258fe75c666f232cb_Red%20Jabber%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Sky Bullies",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8db5c8901d87ea7b4b2_Sky%20Bullies%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Loot Enemy",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65db1fc82b7f4556a0319e71_Loot%20Enemy.webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "The Impending Storm",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Garriden Loch",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a12c4ab67502c78bb9c4_Garriden%20Loch%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Plan",
+        "game": "borderlands-3",
+        "location": "The Spendopticon",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Going Rogue",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Red Rain",
+        "game": "borderlands-3",
+        "location": "Slaughterstar 3000",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ae0889a029c41fa9c63c_Red%20Rain%20(BL3).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Chonk Stomp",
+        "game": "borderlands-3",
+        "location": "Floodmoor Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c2489a029c41f984aff_Chonk%20Stomp%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Anointed X-2 & X-3",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497d74ab67502c78389cc_Anointed%20X-2%20%26%20X-3%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "DJ Spinsmouth",
+        "game": "borderlands-3",
+        "location": "Skittermaw Basin",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49caa89a029c41f98d79a_DJ%20Spinsmouth%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "We Slass! (Part 3)",
+        "game": "borderlands-3",
+        "location": "Skittermaw Basin",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Vorducken",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab72366fe5c8cbacee08_Vorducken%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Siege of Castle Crimson",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Lt. Preston",
+        "game": "borderlands-3",
+        "location": "Tazendeer Ruins",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a480366fe5c8cba5f97b_Lt.%20Preston%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Torgue's Marketing Mistakes",
+        "game": "borderlands-3",
+        "location": "DLC 1 Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aad95c8901d87ea9b315_Torgue%27s%20Marketing%20Mistakes%20(BL3).avif",
+        "status": "Challenge"
+    },
+    {
+        "name": "Amach",
+        "game": "borderlands-3",
+        "location": "Cursehaven",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497be4133b5962d5ed769_Amach%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Evil Mordecai",
+        "game": "borderlands-3",
+        "location": "Castle Crimson",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dead23cc7943972c85c_Evil%20Mordecai%20(BL3).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Cold Case: Forgotten Answers",
+        "game": "borderlands-3",
+        "location": "The Cankerwood",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Cold Case: Restless Memories",
+        "game": "borderlands-3",
+        "location": "Cursehaven",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Voltborn",
+        "game": "borderlands-3",
+        "location": "Negul Neshai",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab60bca35ec50eaf0c38_Voltborn%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Raging Titan",
+        "game": "borderlands-3",
+        "location": "The Slaughter Shaft",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6bd5a7c8ff69c51ab3b_Raging%20Titan%20(BL3).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Anointed X-4",
+        "game": "borderlands-3",
+        "location": "The Anvil",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497dc7a05afc6182d86fe_Anointed%20X-4%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Tink of Cunning",
+        "game": "borderlands-3",
+        "location": "Trial of Cunning",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa81882ad7a75cfbad81_Tink%20of%20Cunning%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "DEGEN-3",
+        "game": "borderlands-3",
+        "location": "Impound Deluxe",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c9f4ab67502c787bd2a_DEGEN-3%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Gigamind",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a15c87a8d9a39974054f_Gigamind%20(BL3).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Proof of Wife",
+        "game": "borderlands-3",
+        "location": "Lectra City",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Waylon Hurd",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab95a5f2e8bea5e92ee4_Waylon%20Hurd%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Where It All Started",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Space-Laser Tag",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Kormash",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a39f330baf46188cbd35_Kormash%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Baron Noggin",
+        "game": "borderlands-3",
+        "location": "Meridian Metroplex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49892b31af27272c98fc7_Baron%20Noggin%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Holy Dumptruck",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa1b58fe75c666f54718_The%20Holy%20Dumptruck%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "ECHOnet Neutrality",
+        "game": "borderlands-3",
+        "location": "Devil's Razor",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Anathema",
+        "game": "borderlands-3",
+        "location": "Minos Prime",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497c466b126fda122933a_Anathema%20the%20Relentless%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Lost and Found",
+        "game": "borderlands-3",
+        "location": "Obsidian Forest",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Skag Dog Days",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Ipswitch Dunne",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a23b08cf3526fdbfefc7_Ipswitch%20Dunne%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Invasion of Privacy",
+        "game": "borderlands-3",
+        "location": "Sanctuary III",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Legendary Hunt",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3f894e25710d2e96544_Legendary%20Hunt%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "The Legend of McSmugger",
+        "game": "borderlands-3",
+        "location": "Ashfall Peaks",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Shadow Over Cursehaven",
+        "game": "borderlands-3",
+        "location": "The Lodge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Wildlife Conservation",
+        "game": "borderlands-3",
+        "location": "Konrad's Hold",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Taking Flight",
+        "game": "borderlands-3",
+        "location": "The Droughts",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Graveward",
+        "game": "borderlands-3",
+        "location": "The Floating Tomb",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1a1366fe5c8cba32b2b_Graveward%20(BL3).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Money Back Guarantee",
+        "game": "borderlands-3",
+        "location": "The Blastplains",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "DJ Deadsk4g",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49ca466b126fda126f3ee_DJ%20Deadsk4g%20(BL3).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Hunker Bunker",
+        "game": "borderlands-3",
+        "location": "Stormblind Complex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa20882ad7a75cfb438c_The%20Hunker%20Bunker%20(BL3).webp",
+        "status": "Chest"
+    },
+    {
+        "name": "Private Beans",
+        "game": "borderlands-3",
+        "location": "Athenas",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a68089a029c41fa22d74_Private%20Beans%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Caber Dowd",
+        "game": "borderlands-3",
+        "location": "Bloodsun Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49beabe17b6544a1e137c_Caber%20Dowd%20(BL3).avif",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Crimson Radio",
+        "game": "borderlands-3",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c8d055ab00edf1b86dc_Crimson%20Radio%20(BL3).webp",
+        "status": "Challenge"
+    },
+    {
+        "name": "The Tink Train",
+        "game": "borderlands-3",
+        "location": "Guts of Carnivora",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa63e5685905ad21d85a_The%20Tink%20Train%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Queen Ant Wanette",
+        "game": "borderlands-3",
+        "location": "The Splinterlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6a5d1c0205e9c527483_Queen%20Ant%20Wanette%20(BL3).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "King Gnasher",
+        "game": "borderlands-3",
+        "location": "Ambermire",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a37458fe75c666edb629_King%20Gnasher%20(BL3).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Tyrone Smallums",
+        "game": "borderlands-3",
+        "location": "Villa Ultraviolet",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab21bca35ec50eaedbf0_Tyrone%20Smallums%20(BL3).avif",
+        "status": "Mini-Boss"
+    }
+]

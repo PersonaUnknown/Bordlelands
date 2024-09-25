@@ -13,8 +13,9 @@ const NavigationBar = ({handleSettingsShow, handleReroll, handleTutorialShow}: N
         backgroundColor: '#102332',
         border: '2px solid #1d9dff', 
         borderRadius: 10,
-        marginLeft: '20%',
-        marginRight: '20%',
+        width: 400,
+        marginLeft: 'auto',
+        marginRight: 'auto',
         marginBottom: 15,
         justifyContent: 'space-evenly',
         padding: 5

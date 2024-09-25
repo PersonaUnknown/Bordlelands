@@ -36,7 +36,7 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
         return searchQueryMatch && currGuessCheck
     }
     const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
-        if (event.key === 'Enter') {
+        if (event.key === 'Enter' && currInput.length > 0) {
             onSubmit()
         }
     }

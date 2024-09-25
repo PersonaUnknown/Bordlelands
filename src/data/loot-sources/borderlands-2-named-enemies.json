@@ -1,0 +1,898 @@
+[
+    {
+        "name": "Big Sleep",
+        "game": "borderlands-2",
+        "location": "Hayter's Folly",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498acc04466eb8dcb3ec6_Big%20Sleep%20(BL2).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Hyperius",
+        "game": "borderlands-2",
+        "location": "Washburne Refinery",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1fbbe17b6544a238409_Hyperius%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Oasis Seraph Shop",
+        "game": "borderlands-2",
+        "location": "Oasis",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ae52ca7826804782c819_Seraph%20Vendor%20(Oasis-BL2).webp",
+        "status": "Vendor"
+    },
+    {
+        "name": "Master Gee",
+        "game": "borderlands-2",
+        "location": "Hayter's Folly",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4eb366fe5c8cba65945_Master%20Gee%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "BFFFs",
+        "game": "borderlands-2",
+        "location": "The Backburner",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "OMGWTH",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5f821d0652d09e7dbb9_OMGWTH%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Chubby",
+        "game": "borderlands-2",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65db1fd49fbb21da5b03f172_Chubby-BL2.webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "Madame Von Bartlesby",
+        "game": "borderlands-2",
+        "location": "Tundra Express",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a492be17b6544a26330c_Madame%20Von%20Bartlesby%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Moxxi's Tip Jar",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5c2330baf46188eccbf_Moxxi%27s%20Tip%20Jar%20(BL2).webp",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "King Mong",
+        "game": "borderlands-2",
+        "location": "Eridium Blight",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a37decf32dc7dd16bc57_King%20Mong%20(BL2).webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "The Bane",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Chubby Bones",
+        "game": "borderlands-2",
+        "location": "Unassuming Docks",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c2a4ab67502c7874918_Chubby%20Bones%20(BL2).webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "BNK-3R",
+        "game": "borderlands-2",
+        "location": "The Bunker",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4983558fe75c666e36c7e_BNK-3R%20(BL2).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Badass Creeper",
+        "game": "borderlands-2",
+        "location": "Caustic Caverns",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498416ef461a95ec694f9_Badass%20Creeper%20(BL2).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Bone Head 2.0",
+        "game": "borderlands-2",
+        "location": "Arid Nexus Badlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49904b31af27272c9f655_Bone%20Head%202.0%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Bone Head 3.0",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a1e38dbfd3d97229911_Bone%20Head%203.0%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Arguk the Butcher",
+        "game": "borderlands-2",
+        "location": "The Forest",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497f44133b5962d5f080c_Arguk%20the%20Butcher%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Walking the Dog",
+        "game": "borderlands-2",
+        "location": "Badass Crater of Badassitude",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Demon Hunter",
+        "game": "borderlands-2",
+        "location": "Lynchwood",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Dexiduous",
+        "game": "borderlands-2",
+        "location": "Hunter's Grotto",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d385a7c8ff69c48d6f0_Dexiduous%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Mick Zaford",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a575d1c0205e9c515cdb_Mick%20Zaford%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Hyperion Slaughter: Round 5",
+        "game": "borderlands-2",
+        "location": "Ore Chasm",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pete's Burners",
+        "game": "borderlands-2",
+        "location": "The Beatdown",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6336ef461a95ed2caa3_Pete%27s%20Burners%20(BL2).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Assassin Wot",
+        "game": "borderlands-2",
+        "location": "Southpaw S&P",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498175c8901d87e97a148_Assassin%20Wot%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Digi. Assassins",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d44055ab00edf1c1f59_Digi.%20Assassins%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "The Warrior",
+        "game": "borderlands-2",
+        "location": "Vault of the Warrior",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa6fa5f2e8bea5e81426_The%20Warrior%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Handsome Sorcerer",
+        "game": "borderlands-2",
+        "location": "Dragon Keep",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1d2be566b5a01f1f29b_Handsome%20Sorcerer%20(BL2).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Creature Slaughter: Round 5",
+        "game": "borderlands-2",
+        "location": "Natural Selection Annex",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Critical Fail",
+        "game": "borderlands-2",
+        "location": "Flamerock Refuge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Lost Treasure",
+        "game": "borderlands-2",
+        "location": "Sawtooth Cauldron",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Bloodtail",
+        "game": "borderlands-2",
+        "location": "Candlerakk's Crag",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498d1366fe5c8cb9b4c5c_Bloodtail%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Tumbaa",
+        "game": "borderlands-2",
+        "location": "Wildlife Exploitation Preserve",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aafe58fe75c666f64892_Tumbaa%20(BL2).webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "Gold Golem",
+        "game": "borderlands-2",
+        "location": "Mines of Avarice",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a18fc9a2047edbd58c1a_Gold%20Golem%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Assassin Rouf",
+        "game": "borderlands-2",
+        "location": "Southpaw S&P",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49811c04466eb8dcada22_Assassin%20Rouf%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Arizona",
+        "game": "borderlands-2",
+        "location": "Hunter's Grotto",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497f975a40718258974b2_Arizona%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Assassin Oney",
+        "game": "borderlands-2",
+        "location": "Southpaw S&P",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f498056ef461a95ec659d3_Assassin%20Oney%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Assassin Reeth",
+        "game": "borderlands-2",
+        "location": "Southpaw S&P",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4980bf762b614245e06ef_Assassin%20Reeth%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Chosen One",
+        "game": "borderlands-2",
+        "location": "Sawtooth Cauldron",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "A Real Boy: Human",
+        "game": "borderlands-2",
+        "location": "Eridium Blight",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Torgue Shop",
+        "game": "borderlands-2",
+        "location": "DLC 2 Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aad394e25710d2efe997_Torgue%20Machine%20(BL2).webp",
+        "status": "Vendor"
+    },
+    {
+        "name": "Refuge Seraph Shop",
+        "game": "borderlands-2",
+        "location": "Flamerock Refuge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ae46be566b5a01fea84d_Seraph%20Vendor%20(Flamerock_Refuge-BL2).webp",
+        "status": "Vendor"
+    },
+    {
+        "name": "Wildlife Conservation",
+        "game": "borderlands-2",
+        "location": "Konrad's Hold",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Beard Makes the Man",
+        "game": "borderlands-2",
+        "location": "Mines of Avarice",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Laney White",
+        "game": "borderlands-2",
+        "location": "The Fridge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3c8a5f2e8bea5e1ee6b_Laney%20White%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Rakkman",
+        "game": "borderlands-2",
+        "location": "The Fridge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4b0fa5c8901d87eb01c4a_Rakkman%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Box In The Dust",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a43035d9b03fc51df07_Box%20In%20The%20Dust%20(BL2).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Bandit Slaughter: Round 5",
+        "game": "borderlands-2",
+        "location": "Fink's Slaughterhouse",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "McNally",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a562e5685905ad1c7839_McNally%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Voracidous",
+        "game": "borderlands-2",
+        "location": "Candlerakk's Crag",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab6694e25710d2f090e9_Voracidous%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Omnd-Omnd-Ohk",
+        "game": "borderlands-2",
+        "location": "Hunter's Grotto",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a616d1c0205e9c51ebbf_Omnd-Omnd-Ohk%20(BL2).webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "Grotto Seraph Shop",
+        "game": "borderlands-2",
+        "location": "Hunter's Grotto",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ae5dbe17b6544a300305_Seraph%20Vendor%20(Hunter%27s_Grotto-BL2).avif",
+        "status": "Vendor"
+    },
+    {
+        "name": "Safe and Sound",
+        "game": "borderlands-2",
+        "location": "Caustic Caverns",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Echoes of the Past",
+        "game": "borderlands-2",
+        "location": "Mt. Scarab Research Center",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Scorch",
+        "game": "borderlands-2",
+        "location": "Frostburn Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7c4ca782680477c3d52_Scorch%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Digi. Scorch",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d5bd23cc79439724a35_Digi.%20Scorch%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Sully the Blacksmith",
+        "game": "borderlands-2",
+        "location": "Hallowed Hollow",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9c339f5ae1e3750f410_Sully%20the%20Blacksmith%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Saturn",
+        "game": "borderlands-2",
+        "location": "Arid Nexus Badlands",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a75f8bb1adabd7a57c96_Saturn%20(BL2).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Saturn 2.0",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7656ef461a95ed3dc88_Saturn%202.0%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Knuckle Dragger",
+        "game": "borderlands-2",
+        "location": "Windshear Waste",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a39971f8213468a1ba83_Knuckle%20Dragger%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Lt. Hoffman",
+        "game": "borderlands-2",
+        "location": "Mt. Scarab Research Center",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a457d23cc794397886d8_Lt.%20Hoffman%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Rouge",
+        "game": "borderlands-2",
+        "location": "Candlerakk's Crag",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ae1bbfb0eee685be89eb_Rouge%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "New Pandora Soldiers",
+        "game": "borderlands-2",
+        "location": "DLC 5 Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5e594e25710d2eb2d10_New%20Pandora%20Soldiers%20(BL2).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Lt. Angvar",
+        "game": "borderlands-2",
+        "location": "The Burrows",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a44c5f940d47fb84b450_Lt.%20Angvar%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Lt. Tetra",
+        "game": "borderlands-2",
+        "location": "Helios Fallen",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4875a7c8ff69c4f7861_Lt.%20Tetra%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Doc Mercy",
+        "game": "borderlands-2",
+        "location": "Three Horns Valley",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4afb05a7c8ff69c5afcde_Doc%20Mercy%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Just Desserts For Desert Deserters",
+        "game": "borderlands-2",
+        "location": "Wurmwater",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Midge-Mong",
+        "game": "borderlands-2",
+        "location": "Southern Shelf Bay",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a57c882ad7a75cf6f4da_Midge-Mong%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Everybody Wants to be Wanted",
+        "game": "borderlands-2",
+        "location": "Badass Crater - Bar",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Uncle Teddy",
+        "game": "borderlands-2",
+        "location": "Arid Nexus Badlands",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pond In Frostburn Canyon",
+        "game": "borderlands-2",
+        "location": "Frostburn Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6604133b5962d6d8283_Pond%20In%20Frostburn%20Canyon%20(BL2).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Sheriff of Lynchwood",
+        "game": "borderlands-2",
+        "location": "Lynchwood",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a80ea5f2e8bea5e5d769_Sheriff%20of%20Lynchwood%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Won't Get Fooled Again",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Mr. Bubbles & Lil' Sis",
+        "game": "borderlands-2",
+        "location": "Magnys Lighthouse",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5ce94e25710d2eb05c4_Mr.%20Bubbles%20%26%20Lil%27%20Sis%20(BL2).avif",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "Wilhelm",
+        "game": "borderlands-2",
+        "location": "End of the Line",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aba65c8901d87eaa7b8d_Wilhelm%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Gettle",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a149d1c0205e9c4d1ed9_Gettle%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Grave in Dahl Abandon",
+        "game": "borderlands-2",
+        "location": "DAHL Abandon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a19be5685905ad1896a4_Grave%20in%20Dahl%20Abandon%20(BL2).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Mad Dog",
+        "game": "borderlands-2",
+        "location": "Lynchwood",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a48c5f940d47fb84f151_Mad%20Dog%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Mick Zaford",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a575d1c0205e9c515cdb_Mick%20Zaford%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Dukino's Mom",
+        "game": "borderlands-2",
+        "location": "Lynchwood",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4afd294e25710d2f50a13_Dukino%27s%20Mom%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Digi. Dukino's Mom",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d5587a8d9a399707af7_Digi.%20Dukino%27s%20Mom%20(BL2).avif",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Hyperion Contract #873",
+        "game": "borderlands-2",
+        "location": "The Highlands",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Infected Badass Sapling",
+        "game": "borderlands-2",
+        "location": "DLC 5 Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a230d23cc79439767719_Infected%20Badass%20Sapling%20(BL2).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Vermivorous",
+        "game": "borderlands-2",
+        "location": "Wam Bam Island",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab4fa5f2e8bea5e8e982_Vermivorous%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "The Black Queen",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9f5e5685905ad215564_The%20Black%20Queen%20(BL2).webp",
+        "status": "Rare Enemy"
+    },
+    {
+        "name": "Digi. Black Queen",
+        "game": "borderlands-2",
+        "location": "Digistruct Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d4abca35ec50ea17f5b_Digi.%20Black%20Queen%20(BL2).avif",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Slap Happy",
+        "game": "borderlands-2",
+        "location": "Highlands Outwash",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Warlord Slog",
+        "game": "borderlands-2",
+        "location": "Murderlin's Temple",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab89d23cc794397f366c_Warlord%20Slog%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Ancient Dragons",
+        "game": "borderlands-2",
+        "location": "The Winged Storm",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497ca5c8901d87e975af5_Ancient%20Dragons%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Magic Slaughter",
+        "game": "borderlands-2",
+        "location": "Murderlin's Temple",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Message in a Bottle: Oasis",
+        "game": "borderlands-2",
+        "location": "Oasis",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Chief Executive Overlord",
+        "game": "borderlands-2",
+        "location": "The Backburner",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Haderax",
+        "game": "borderlands-2",
+        "location": "Writhing Deep",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a1ba4ab67502c78c4ee9_Haderax%20(BL2).avif",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Don't copy that floppy",
+        "game": "borderlands-2",
+        "location": "Washburne Refinery",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Terramorphous",
+        "game": "borderlands-2",
+        "location": "Terramorphous Peak",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9ef3a44b053aa1020da_Terramorphous%20(BL2).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Cryptkeeper Clark",
+        "game": "borderlands-2",
+        "location": "Hallowed Hollow",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c99d1c0205e9c48d014_Cryptkeeper%20Clark%20(BL2).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Incinerator Clayton",
+        "game": "borderlands-2",
+        "location": "Frostburn Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a22271f8213468a00a7d_Incinerator%20Clayton%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Message in a Bottle: Hayters Folly",
+        "game": "borderlands-2",
+        "location": "Hayter's Folly",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Bulstoss",
+        "game": "borderlands-2",
+        "location": "Hunter's Grotto",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a765c4b49ec29944eca_Bulstoss%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Note for Self-Person",
+        "game": "borderlands-2",
+        "location": "The Fridge",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Splinter Group",
+        "game": "borderlands-2",
+        "location": "Bloodshot Stronghold",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Rakkaholics Anonymous",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Sword in The Stoner",
+        "game": "borderlands-2",
+        "location": "Unassuming Docks",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Whoops",
+        "game": "borderlands-2",
+        "location": "Washburne Refinery",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Bearer of Bad News",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Out of Body Experience",
+        "game": "borderlands-2",
+        "location": "Bloodshot Ramparts",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Son of Mothrakk",
+        "game": "borderlands-2",
+        "location": "Wildlife Exploitation Preserve",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8ff66b126fda1342217_Son%20of%20Mothrakk%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Rakkanoth",
+        "game": "borderlands-2",
+        "location": "Scylla's Grove",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6cf5f940d47fb876605_Rakkanoth%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Tector and Jimbo Hodunk",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9e2055ab00edf2966af_Tector%20and%20Jimbo%20Hodunk%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Sorcerer's Daughter",
+        "game": "borderlands-2",
+        "location": "Lair of Infinite Agony",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a90b5f940d47fb8978e6_Sorcerer%27s%20Daughter%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Smash-Head",
+        "game": "borderlands-2",
+        "location": "The Fridge",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8f389a029c41fa45855_Smash-Head%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Badassasaurus",
+        "game": "borderlands-2",
+        "location": "Torgue Arena",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4987275a407182589d002_Badassasaurus%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "No-Beard",
+        "game": "borderlands-2",
+        "location": "Oasis",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5f239f5ae1e374d8d8c_No-Beard%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Hungry Like the Skag",
+        "game": "borderlands-2",
+        "location": "Arid Nexus Badlands",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Old Slappy",
+        "game": "borderlands-2",
+        "location": "Highlands Outwash",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a60a5a7c8ff69c50f442_Old%20Slappy%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "You Are Cordially Invited: Tea Party",
+        "game": "borderlands-2",
+        "location": "Tundra Express",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Captain Flynt",
+        "game": "borderlands-2",
+        "location": "Southern Shelf",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49bf0d1c0205e9c484ccd_Captain%20Flynt%20(BL2).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Sparky Flynt",
+        "game": "borderlands-2",
+        "location": "Wam Bam Island",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a911be17b6544a2a55ee_Sparky%20Flynt%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Snowman in Tundra Express",
+        "game": "borderlands-2",
+        "location": "Tundra Express",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a8f908cf3526fdc6a7a9_Snowman%20in%20Tundra%20Express%20(BL2).webp",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Sand Worm",
+        "game": "borderlands-2",
+        "location": "The Burrows",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a75387a8d9a3997a0f0b_Sand%20Worm%20(BL2).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Sand Worm Queen",
+        "game": "borderlands-2",
+        "location": "The Burrows",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7593a44b053aa0da408_Sand%20Worm%20Queen%20(BL2).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "Animal Rights",
+        "game": "borderlands-2",
+        "location": "Sanctuary",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Clan War: End of the Rainbow",
+        "game": "borderlands-2",
+        "location": "The Holy Spirits",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Butt Stallion",
+        "game": "borderlands-2",
+        "location": "The Backburner",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49ab7be17b6544a1d26ec_Butt%20Stallion%20(BL2).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Savage Lee",
+        "game": "borderlands-2",
+        "location": "Three Horns Divide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a76a5f940d47fb87f7fd_Savage%20Lee%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Clan War: Wakey Wakey",
+        "game": "borderlands-2",
+        "location": "The Holy Spirits",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Mobley",
+        "game": "borderlands-2",
+        "location": "The Dust",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5944133b5962d6cae86_Mobley%20(BL2).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Lt. Bolson",
+        "game": "borderlands-2",
+        "location": "DAHL Abandon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a451d23cc7943978836e_Lt.%20Bolson%20(BL2).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Jackenstein",
+        "game": "borderlands-2",
+        "location": "Terminus",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a254f762b61424676d1c_Jackenstein%20(BL2).webp",
+        "status": "Boss"
+    }
+]

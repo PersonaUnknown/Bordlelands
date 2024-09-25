@@ -1,0 +1,355 @@
+[
+    {
+        "name": "In the Belly is a Beast",
+        "game": "wonderlands",
+        "location": "CrackMast Cove",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Thorne Shadow",
+        "game": "wonderlands",
+        "location": "Overworld",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa7b89a029c41fa5e8ba_Thorne%20Shadow%20(WL).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Thy Bard, with a Vengeance",
+        "game": "wonderlands",
+        "location": "WeepWild Dankness",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Soul Purpose",
+        "game": "wonderlands",
+        "location": "Ossu-Gol Necropolis",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Necromance Her",
+        "game": "wonderlands",
+        "location": "Karnok's Wall",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Ribula",
+        "game": "wonderlands",
+        "location": "Snoring Valley",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a70458f6038b2aa5d506_Ribula%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Imelda the Sand Witch",
+        "game": "wonderlands",
+        "location": "Dreamveil Overlook",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a21cbfb0eee685b22fbc_Imelda%20the%20Sand%20Witch%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "LeChance",
+        "game": "wonderlands",
+        "location": "Wargtooth Shallows",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3eb330baf46188d1171_LeChance%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Gloopathoth, Keeper of the Abyss",
+        "game": "wonderlands",
+        "location": "The Chaos Chamber",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a16289a029c41f9d1586_Gloopathoth%2C%20Keeper%20of%20the%20Abyss%20(WL).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Kastor The Normal-Sized Skeleton",
+        "game": "wonderlands",
+        "location": "Tangle Drift",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a353bfb0eee685b40715_Kastor%20The%20Normal-Sized%20Skeleton%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Droll the Troll",
+        "game": "wonderlands",
+        "location": "Queen's Gate",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d8c6ef461a95ecac3d9_Droll%20the%20Troll%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Ancient Powers",
+        "game": "wonderlands",
+        "location": "Karnok's Wall",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Dry'l",
+        "game": "wonderlands",
+        "location": "The Godswell",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d97a5f2e8bea5dba178_Dry%27l%20(WL).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Mortal Coil",
+        "game": "wonderlands",
+        "location": "Drowned Abyss",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Fyodor the Soul Warden",
+        "game": "wonderlands",
+        "location": "Dreamveil Overlook",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49e45be17b6544a202b41_Fyodor%20the%20Soul%20Warden%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "A Wandering Aye",
+        "game": "wonderlands",
+        "location": "CrackMast Cove",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "King Q'urub Hullsunder",
+        "game": "wonderlands",
+        "location": "Drowned Abyss",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a38787a8d9a39976548e_King%20Q%27urub%20Hullsunder%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Dragon Lord",
+        "game": "wonderlands",
+        "location": "Crest of Fate",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d7ae5685905ad155535_Dragon%20Lord%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Forgery",
+        "game": "wonderlands",
+        "location": "Mount Craw",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Pigwart",
+        "game": "wonderlands",
+        "location": "Mount Craw",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a64c75a4071825967da1_Pigwart%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "A Farmer's Ardor",
+        "game": "wonderlands",
+        "location": "Queen's Gate",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Non-Violent Offender",
+        "game": "wonderlands",
+        "location": "Mount Craw",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Armageddon Distracted",
+        "game": "wonderlands",
+        "location": "Ossu-Gol Necropolis",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Inner Daemons",
+        "game": "wonderlands",
+        "location": "BrightHoof",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Walk the Stalk",
+        "game": "wonderlands",
+        "location": "Tangle Drift",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Twenty Thousand Years Under the Sea",
+        "game": "wonderlands",
+        "location": "Wargtooth Shallows",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Ballad of Bones",
+        "game": "wonderlands",
+        "location": "Wargtooth Shallows",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Lissia, Iron-Wrought",
+        "game": "wonderlands",
+        "location": "CrackMast Cove",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3fe87a8d9a39976c32f_Lissia%2C%20Iron-Wrought%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Vorcanar",
+        "game": "wonderlands",
+        "location": "Mount Craw",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aedaca78268047834874_Vorcanar%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Raging Wyborg",
+        "game": "wonderlands",
+        "location": "Dreamveil Overlook",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65b3d5755e6c6990fbccee4d_Raging%20Wyborg.avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Captain Swallow",
+        "game": "wonderlands",
+        "location": "Overworld",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49bfbb31af27272cc620b_Captain%20Swallow%20(WL).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Lyre and Brimstone",
+        "game": "wonderlands",
+        "location": "WeepWild Dankness",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Trial of Crooked-Eye Phil",
+        "game": "wonderlands",
+        "location": "CrackMast Cove",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Little Boys Blue",
+        "game": "wonderlands",
+        "location": "WeepWild Dankness",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Diplomatic Relations",
+        "game": "wonderlands",
+        "location": "Drowned Abyss",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "A Realm in Peril",
+        "game": "wonderlands",
+        "location": "Overworld",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Oculus",
+        "game": "wonderlands",
+        "location": "Sunfang Oasis",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a604d23cc794397a0c85_Oculus%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "A Walk to Dismember",
+        "game": "wonderlands",
+        "location": "CrackMast Cove",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Obsidian Wyvern",
+        "game": "wonderlands",
+        "location": "Tangle Drift",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a5fe08cf3526fdc3e8a1_Obsidian%20Wyvern%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Eros Wyvern",
+        "game": "wonderlands",
+        "location": "Overworld",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dcc4ab67502c788d34e_Eros%20Wyvern%20(WL).webp",
+        "status": "Mini-Boss"
+    },
+    {
+        "name": "Monstrous Shroom",
+        "game": "wonderlands",
+        "location": "WeepWild Dankness",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a59f4133b5962d6cb814_Monstrous%20Shroom%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Great Wight",
+        "game": "wonderlands",
+        "location": "Wargtooth Shallows",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa156ef461a95ed65195_The%20Great%20Wight%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "Redmourne",
+        "game": "wonderlands",
+        "location": "Dreamveil Overlook",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6fff762b614246c2488_Redmourne%20(WL).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Wastard",
+        "game": "wonderlands",
+        "location": "Karnok's Wall",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab8fa5f2e8bea5e92ab8_Wastard%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Mandiblon, Chomper of Skulls",
+        "game": "wonderlands",
+        "location": "Ossu-Gol Necropolis",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a4df39f5ae1e374c6e0f_Mandiblon%2C%20Chomper%20of%20Skulls%20(WL).webp",
+        "status": "Challenge Enemy"
+    },
+    {
+        "name": "The Ditcher",
+        "game": "wonderlands",
+        "location": "Sunfang Oasis",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Cash 4 Teeth",
+        "game": "wonderlands",
+        "location": "WeepWild Dankness",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Knight Mare",
+        "game": "wonderlands",
+        "location": "Ossu-Gol Necropolis",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3938bb1adabd7a1fcf5_Knight%20Mare%20(WL).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "\"Chums\" the Old God",
+        "game": "wonderlands",
+        "location": "Dreamveil Overlook",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1c58a9d95e948bb928efb_%E2%80%9CChums%E2%80%9D%20the%20Old%20God%20(WL).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Loot Enemy",
+        "game": "wonderlands",
+        "location": "World Wide",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65db1fc82b7f4556a0319e71_Loot%20Enemy.webp",
+        "status": "Rare Enemy"
+    }
+]

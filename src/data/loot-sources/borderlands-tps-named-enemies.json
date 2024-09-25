@@ -1,0 +1,412 @@
+[
+    {
+        "name": "The Sum of Some Fears",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "0V3RL00K - Hidden Chest",
+        "game": "borderlands-tps",
+        "location": "Cluster OV3RLOOK",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4976908cf3526fdb665a9_0V3RL00K%20-%20Hidden%20Chest%20(TPS).webp",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "EOS",
+        "game": "borderlands-tps",
+        "location": "Deck 13.5",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a05ed1c0205e9c4c5e94_EOS%20(TPS).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Digistructed Madness",
+        "game": "borderlands-tps",
+        "location": "The Holodome",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Red Belly",
+        "game": "borderlands-tps",
+        "location": "Crisis Scar",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6ec6ef461a95ed36401_Red%20Belly%20(TPS).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Eghood",
+        "game": "borderlands-tps",
+        "location": "Veins of Helios",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49da908cf3526fdbbf3e7_Eghood%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Another Pickle",
+        "game": "borderlands-tps",
+        "location": "Outlands Canyon",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "Powersuit Noob",
+        "game": "borderlands-tps",
+        "location": "Lunar Launching Station",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a67558fe75c666f1a0b3_Powersuit%20Noob%20(TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "System Shutdown",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Bosun",
+        "game": "borderlands-tps",
+        "location": "Pity's Fall",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9fd055ab00edf297eca_The%20Bosun%20(TPS).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "The Secret Chamber",
+        "game": "borderlands-tps",
+        "location": "Pity's Fall",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Sub-Level 13: Part 2",
+        "game": "borderlands-tps",
+        "location": "Sub-Level 13",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Sword in the Stone",
+        "game": "borderlands-tps",
+        "location": "Stanton's Liver",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9d0a5f2e8bea5e78d0d_Sword%20in%20the%20Stone%20(TPS).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Drongo Bones",
+        "game": "borderlands-tps",
+        "location": "Outlands Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49d92b31af27272ce236b_Drongo%20Bones%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Torgue-o! Torgue-o!",
+        "game": "borderlands-tps",
+        "location": "Serenity's Waste",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Even-More-Disgusting Tork",
+        "game": "borderlands-tps",
+        "location": "Stanton's Liver",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49dd8bca35ec50ea1f3be_Even-More-Disgusting%20Tork%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Viruses",
+        "game": "borderlands-tps",
+        "location": "Motherlessboard",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4ab5b4133b5962d72454d_Viruses%20(TPS).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Don't Shoot the Messenger",
+        "game": "borderlands-tps",
+        "location": "Tycho's Ribs",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "In Perfect Hibernation",
+        "game": "borderlands-tps",
+        "location": "Veins of Helios",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Bestest Story Ever Told",
+        "game": "borderlands-tps",
+        "location": "Concordia",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Clapdogs",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c64c9a2047edbd14df2_Clapdogs%20(TPS).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Insecurities",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a236f762b61424674457_Insecurities%20(TPS).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Eradicate!",
+        "game": "borderlands-tps",
+        "location": "Veins of Helios",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Box in Titan Industrial Facility",
+        "game": "borderlands-tps",
+        "location": "Titan Industrial Facility",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49a49882ad7a75ceba6fc_Box%20in%20Titan%20Industrial%20Facility%20(TPS).avif",
+        "status": "Easter Egg"
+    },
+    {
+        "name": "Iwajira",
+        "game": "borderlands-tps",
+        "location": "Serenity's Waste",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a2414133b5962d67e2dc_Iwajira%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Chip's Data Mining Adventure",
+        "game": "borderlands-tps",
+        "location": "Cluster P4NDOR4",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Bunch of Ice Holes",
+        "game": "borderlands-tps",
+        "location": "Concordia",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "5H4D0W-TP",
+        "game": "borderlands-tps",
+        "location": "The Cortex",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4978a4ab67502c7833b98_5H4D0W-TP%20(TPS).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "Lazlo",
+        "game": "borderlands-tps",
+        "location": "Veins of Helios",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a3e6bfb0eee685b4a309_Lazlo%20(TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Teh Earworm",
+        "game": "borderlands-tps",
+        "location": "Cluster OV3RLOOK",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a9e866b126fda134e17e_Teh%20Earworm%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "The Invincible Sentinel",
+        "game": "borderlands-tps",
+        "location": "Eleseer",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa26be17b6544a2b5d8e_The%20Invincible%20Sentinel%20(TPS).webp",
+        "status": "Raid Boss"
+    },
+    {
+        "name": "Adbug",
+        "game": "borderlands-tps",
+        "location": "Deck 13.5",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f497a54133b5962d5ebe24_Adbug%20(TPS).avif",
+        "status": "Enemy"
+    },
+    {
+        "name": "Rose Tinting",
+        "game": "borderlands-tps",
+        "location": "Cluster P4NDOR4",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Rabid Adams",
+        "game": "borderlands-tps",
+        "location": "Outlands Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6b075a407182596e1c5_Rabid%20Adams%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Meat Head",
+        "game": "borderlands-tps",
+        "location": "Triton Flats",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a567bfb0eee685b5e623_Meat%20Head%20(TPS).webp",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Infinite Loop",
+        "game": "borderlands-tps",
+        "location": "Research and Development",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Red, Then Dead",
+        "game": "borderlands-tps",
+        "location": "Lunar Launching Station",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Flameknuckle",
+        "game": "borderlands-tps",
+        "location": "Helios Station",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49e104ab67502c7890f9b_Flameknuckle%20(HeliosStation-TPS).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Lab 19",
+        "game": "borderlands-tps",
+        "location": "Research and Development",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Beginning of the End",
+        "game": "borderlands-tps",
+        "location": "Vorago Solitude",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "The Sponx",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4aa565a7c8ff69c557d5f_The%20Sponx%20(TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "H4X0rz",
+        "game": "borderlands-tps",
+        "location": "Deck 13 \u00bd",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "B4nD1Ts",
+        "game": "borderlands-tps",
+        "location": "Cluster P4NDOR4",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4982fd1c0205e9c4517c3_B4nD1Ts%20(TPS).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "P5YCH0s",
+        "game": "borderlands-tps",
+        "location": "Cluster P4NDOR4",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a6275a7c8ff69c51114e_P5YCH0s%20(TPS).webp",
+        "status": "Enemy"
+    },
+    {
+        "name": "Home Delivery",
+        "game": "borderlands-tps",
+        "location": "Concordia",
+        "image": "",
+        "status": "Quest"
+    },
+
+    {
+        "name": "The Temple of Boom",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Colonel T. Zarpedon",
+        "game": "borderlands-tps",
+        "location": "Eye of Helios",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49c706ef461a95ec9e186_Colonel%20T.%20Zarpedon%20(TPS).webp",
+        "status": "Boss"
+    },
+
+    {
+        "name": "Self-Loathing & Despair",
+        "game": "borderlands-tps",
+        "location": "Subconscious",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a7dc5a7c8ff69c52e55c_Self-Loathing%20%26%20Despair%20(TPS).avif",
+        "status": "Boss"
+    },
+    {
+        "name": "These are the Bots",
+        "game": "borderlands-tps",
+        "location": "Vorago Solitude",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Meg",
+        "game": "borderlands-tps",
+        "location": "Hyperion Hub of Heroism",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a56d75a407182595b458_Meg%20(TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Deadlift",
+        "game": "borderlands-tps",
+        "location": "Regolith Range",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f49cc64133b5962d63249e_Deadlift%20(TPS).webp",
+        "status": "Boss"
+    },
+    {
+        "name": "Home Sweet Home",
+        "game": "borderlands-tps",
+        "location": "Concordia",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "No Such Thing as a Free Launch",
+        "game": "borderlands-tps",
+        "location": "Triton Flats",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Guardian Hunter",
+        "game": "borderlands-tps",
+        "location": "Vorago Solitude",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Swagman",
+        "game": "borderlands-tps",
+        "location": "Outlands Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4b15b366fe5c8cbb2bcf2_Swagman%20(Canyon-TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Swagman",
+        "game": "borderlands-tps",
+        "location": "Outlands Canyon",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4b15b366fe5c8cbb2bcf2_Swagman%20(Canyon-TPS).avif",
+        "status": "Unique Enemy"
+    },
+    {
+        "name": "Zapped",
+        "game": "borderlands-tps",
+        "location": "Triton Flats",
+        "image": "",
+        "status": "Quest"
+    },
+    {
+        "name": "Giant Shuggurath of Ice",
+        "game": "borderlands-tps",
+        "location": "Triton Flats",
+        "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f4a15589a029c41f9cfe52_Giant%20Shuggurath%20of%20Ice%20(TPS).webp",
+        "status": "Unique Enemy"
+    }
+]

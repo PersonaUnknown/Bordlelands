@@ -5,6 +5,13 @@ import borderlands3Weapons from '../data/weapons/borderlands-3-weapons.json'
 import borderlandsTPSWeapons from '../data/weapons/borderlands-tps-weapons.json'
 import wonderlandsWeapons from '../data/weapons/wonderlands-weapons.json'
 
+// Loot Sources (Weapons)
+import borderlandsLoot from '../data/loot-sources/borderlands-1-named-enemies.json'
+import borderlands2Loot from '../data/loot-sources/borderlands-2-named-enemies.json'
+import borderlands3Loot from '../data/loot-sources/borderlands-3-named-enemies.json'
+import borderlandsTPSLoot from '../data/loot-sources/borderlands-tps-named-enemies.json'
+import wonderlandsLoot from '../data/loot-sources/wonderlands-named-enemies.json'
+
 // Shields
 // import borderlandsShields from '../data/shields/borderlands-1-shields.json'
 // import borderlands2Shields from '../data/shields/borderlands-2-shields.json'
@@ -40,6 +47,14 @@ const weapons = new Map<string, Entry[]>([
     ["wonderlands", wonderlandsWeapons]
 ])
 
+const loot = new Map<string, LootSource[]>([
+    ["borderlands-1", borderlandsLoot],
+    ["borderlands-2", borderlands2Loot],
+    ["borderlands-3", borderlands3Loot],
+    ["borderlands-tps", borderlandsTPSLoot],
+    ["wonderlands", wonderlandsLoot]
+])
+
 export interface Entry {
     "name": string,
     "flavor-text": string,
@@ -66,6 +81,13 @@ export interface RedTextEntry {
     "drop-sources": string[]
 }
 
+export interface LootSource {
+    "name": string,
+    "game": string,
+    "location": string,
+    "status": string,
+    "image": string
+}
 export const getWeapons = (games: string[]) : Entry[] => {
     let output: Entry[] = []
     for (const game of games) {
@@ -117,6 +139,22 @@ export const getFlavorTexts = (games: string[]) : RedTextEntry[] => {
     }
     
     return Array.from(flavorTexts.values())
+}
+
+export const getLootSources = (games: string[]) : LootSource[] => {
+    let output: LootSource[] = []
+    for (const game of games) {
+        if (weapons.has(game)) {
+            let newLoot: LootSource[] = loot.get(game) ?? []
+            output.push(...newLoot)
+        }
+    }
+    
+    return output
+}
+
+export const getNamedEnemies = () => {
+    
 }
 
 export const getShields = () => {
