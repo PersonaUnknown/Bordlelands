@@ -2,18 +2,19 @@ import { useContext, useEffect, useState } from "react"
 import { motion } from "framer-motion"
 // Models
 import { SettingsContext } from "../components/Modals/SettingsContext"
-import { Entry, getWeapons } from "../models/fileLoader"
-import { getRandomEntry } from "../models/rng"
-import { ClassicGuess } from "../models/guess"
+import { getGameName } from "../models/gameParser"
+import { Entry, LootSource, getLootSources, getWeapons } from "../models/fileLoader"
+import { ClassicGuess, LootGuess } from "../models/guess"
+import { getRandomLootSource } from "../models/rng"
 // Static UI
+import RedTextHints from "../components/Guesses/RedText/RedTextHints"
 import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
 // Searches
 import SearchBar from "../components/Guesses/SearchBar"
-import GuessHeader from "../components/Guesses/GuessHeader"
-import GuessTab from "../components/Guesses/GuessTab"
+import RedTextSearchBar from "../components/Guesses/RedText/RedTextSearchBar"
+import LootSourceGuess from "../components/Guesses/LootSource/LootSourceGuess"
 // Modals
-import Hints from "../components/Guesses/Hints"
 import SettingsModal from "../components/Modals/SettingsModal"
 import TutorialModal from "../components/Modals/TutorialModal"
 import VictoryModal from "../components/Modals/VictoryModal"
@@ -22,39 +23,31 @@ const LootPool = () => {
     const [showSettingsModal, setShowSettingsModal] = useState<boolean>(false)
     const [showTutorialModal, setShowTutorialModal] = useState<boolean>(false)
     const [showVictoryModal, setShowVictoryModal] = useState<boolean>(false)
-    const [currGuesses, setCurrGuesses] = useState<ClassicGuess[]>([])
+    const [currGuesses, setCurrGuesses] = useState<LootGuess[]>([])
     const [dataLoaded, setDataLoaded] = useState<boolean>(false)
     const [itemData, setItemData] = useState<Entry[]>([])
-    const [correctAnswer, setCorrectAnswer] = useState<Entry | null>(null)
+    const [currLootSource, setCurrentLootSource] = useState<LootSource | null>(null)
     const [guessedCorrectly, setGuessedCorrectly] = useState<boolean>(false)
-    const headerLabels = [
-        "Item",         // Name 
-        "Type",         // Gun, Shield, Grenade, COM, etc. 
-        "Company",      // Manufacturer Company 
-        "Rarity",       // Rarity
-        "Element(s)",   // What elements can this item spawn with?
-        "Drop Type",    // How do you obtain this item?
-        "Theme",        // If the item is related to an NPC
-        "Effect",       // A List of Special Effect Keywords For This Item
-        "Game"          // What game is this one from?
-    ]
     const appendGuess = (newEntry: Entry) => {
-        let parsedNewEntry: string = JSON.stringify(newEntry)
-        let parsedAnswer: string = JSON.stringify(correctAnswer)
-        if (parsedNewEntry === parsedAnswer) {
+        if (currLootSource === null) {
+            return
+        }
+        let newEntryLootSources: string[] = newEntry["drop-sources"]
+        if (newEntryLootSources.includes(currLootSource.name)) {
             setTimeout(() => {
                 handleShowVictory()
-            }, 4500)
+            }, 500)
             setGuessedCorrectly(true)
-            localStorage.setItem("guessedClassicCorrectly", "true")
+            localStorage.setItem("guessedLootSourceCorrectly", "true")
+            console.log("Guessed Correctly!")
         }
-        let newCurrGuess: ClassicGuess = { guess: newEntry, loadOnStart: true }
+        let newCurrGuess: LootGuess = { guess: newEntry, loadOnStart: true }
         let oldGuesses: ClassicGuess[] = currGuesses
         if (oldGuesses.length > 0) {
             oldGuesses[0].loadOnStart = false
         }
-        let newGuesses: ClassicGuess[] = [newCurrGuess, ...oldGuesses]
-        localStorage.setItem("currClassicGuesses", JSON.stringify(newGuesses))
+        let newGuesses: LootGuess[] = [newCurrGuess, ...oldGuesses]
+        localStorage.setItem("currLootSourceGuesses", JSON.stringify(newGuesses))
         setCurrGuesses(newGuesses)
     }
     const handleShowSettings = () => { setShowSettingsModal(true) }
@@ -68,10 +61,10 @@ const LootPool = () => {
     // Re-rolling
     const rerollItem = () => {
         setDataLoaded(false)
-        localStorage.removeItem("currClassicGuesses")
-        localStorage.removeItem("randomEntry")
+        localStorage.removeItem("currLootSourceGuesses")
+        localStorage.removeItem("randomLootSourceEntry")
         localStorage.removeItem("oldWeaponsSettings")
-        localStorage.removeItem("guessedClassicCorrectly")
+        localStorage.removeItem("guessedLootSourceCorrectly")
         setCurrGuesses([])
         setGuessedCorrectly(false)
     }
@@ -97,34 +90,35 @@ const LootPool = () => {
             return items
         }
         const fetchWeapons = () => {    
-            let itemCheck = localStorage.getItem("randomEntry")
+            let itemCheck = localStorage.getItem("randomLootSourceEntry")
             if (itemCheck !== null) {
-                let oldRandomEntry: Entry = JSON.parse(itemCheck)
-                let oldCurrGuesses: ClassicGuess[] = JSON.parse(localStorage.getItem("currClassicGuesses") ?? "[]")
+                let oldRandomEntry: LootSource = JSON.parse(itemCheck)
+                let oldCurrGuesses: LootGuess[] = JSON.parse(localStorage.getItem("currLootSourceGuesses") ?? "[]")
                 for (let i = 0; i < oldCurrGuesses.length; i++) {
                     oldCurrGuesses[i].loadOnStart = false
                 }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
-                let oldFetchedData = getWeapons(oldWeaponsSettings)
+                let fetchedWeapons: Entry[] = getWeapons(oldWeaponsSettings)
+                let oldFetchedData: LootSource[] = getLootSources(oldWeaponsSettings)
                 // Check guessed correctly
-                let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedClassicCorrectly") ?? "false")
+                let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedLootSourceCorrectly") ?? "false")
                 setGuessedCorrectly(correctGuessCheck)
-                // console.log(oldRandomEntry)
                 setCurrGuesses(oldCurrGuesses)
-                setCorrectAnswer(oldRandomEntry)
-                setItemData(oldFetchedData)
+                setCurrentLootSource(oldRandomEntry)
+                setItemData(fetchedWeapons)
                 setDataLoaded(true)
                 return
             }
             let validWeapons = fetchValidWeapons()
-            let fetchedData = getWeapons(validWeapons)
-            let randomEntry = getRandomEntry(fetchedData)
-            // console.log(randomEntry)
-            setCorrectAnswer(randomEntry)
-            setItemData(fetchedData)
+            let fetchedWeapons: Entry[] = getWeapons(validWeapons)
+            let fetchedData: LootSource[] = getLootSources(validWeapons)
+            let randomEntry = getRandomLootSource(fetchedData)
+            console.log(randomEntry)
+            setCurrentLootSource(randomEntry)
+            setItemData(fetchedWeapons)
             setDataLoaded(true)
-            localStorage.setItem("currClassicGuesses", JSON.stringify([]))
-            localStorage.setItem("randomEntry", JSON.stringify(randomEntry))
+            localStorage.setItem("currLootSourceGuesses", JSON.stringify([]))
+            localStorage.setItem("randomLootSourceEntry", JSON.stringify(randomEntry))
         }
 
         if (dataLoaded || weaponsSettings.length <= 0) {
@@ -140,11 +134,8 @@ const LootPool = () => {
         fontSize: 26,
         color: 'white'
     }
-    const columnStyle = {
-        gap: 10
-    }
     // Rendering
-    if (!dataLoaded || correctAnswer === null) {
+    if (!dataLoaded || currLootSource === null) {
         return (
             <div className="flex flex-column center-horizontal center-text" style={{gap: 20}}>
                 <span style={{fontSize: 40, color: 'white'}}>
@@ -164,21 +155,23 @@ const LootPool = () => {
             </div>
         )
     }
-
     return (
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
             <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
-            <VictoryModal show={showVictoryModal} name={correctAnswer.name} handleClose={handleCloseVictory}/>
+            <VictoryModal show={showVictoryModal} name={currLootSource.location} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}
                 handleReroll={rerollItem}
                 handleTutorialShow={handleShowTutorial}
             />
-            <Hints answer={correctAnswer} numGuesses={currGuesses.length} answeredCorrectly={guessedCorrectly}/>
             <div className="flex flex-column center-horizontal margin-bottom">
                 <span className="common" style={classicStyle}>
-                    Start by guessing any item!
+                    What is any item that can drop from this loot source?
+                </span>
+                <img alt='source' src={currLootSource.image === "" ? "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65df04fa947339c4d497883a_Quest.svg" : currLootSource.image} style={{width: 'auto', height: 350}}/>
+                <span className="common" style={classicStyle}> 
+                    {currLootSource.name} ({getGameName(currLootSource.game)}) 
                 </span>
                 <SearchBar 
                     entries={itemData} 
@@ -187,21 +180,16 @@ const LootPool = () => {
                     onSubmitCallback={appendGuess}
                 />
             </div>
-            <div className="flex flex-column" style={columnStyle}>
-                <GuessHeader labels={headerLabels}/>
-                { 
-                    currGuesses.map((currGuess) => {
-                        return (
-                            <GuessTab
-                                key={`${currGuess.guess.name}-${currGuess.guess.rarity}-${currGuess.guess.game}`}
-                                guess={currGuess.guess}
-                                actual={correctAnswer}
-                                initState={currGuess.loadOnStart}
-                            />
-                        )
-                    })
-                }
-            </div>
+            {currGuesses.map((currGuess) => {
+                return (
+                    <LootSourceGuess
+                        key={`${currGuess.guess.name}-${currGuess.guess.rarity}-${currGuess.guess.game}`}
+                        guess={currGuess.guess}
+                        actual={currLootSource}
+                        loadOnStart={currGuess.loadOnStart}
+                    />
+                )
+            })}
         </div>
     )
 }

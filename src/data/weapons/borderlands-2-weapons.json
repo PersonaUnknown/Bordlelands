@@ -38,7 +38,7 @@
         "drop-type": "Shop Item",
         "drop-sources": [
             "Hyperius",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717c42f8591aafae5688c_Actualizer%20(SMG-BL2).webp",
         "effects": [
@@ -60,7 +60,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Master Gee",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717d574b58278e2d8d1f1_Ahab%20(Launcher-BL2).webp",
         "effects": [
@@ -81,7 +81,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "BFFFs Quest"
+            "BFFFs"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f717fdf0d7a07cddbfe64d_Amigo%20Sincero%20(Sniper-BL2).webp",
         "effects": [
@@ -208,7 +208,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "The Bane Quest"
+            "The Bane"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f718d1f8e1c0204d1df3d3_Bane%20(SMG-BL2).webp",
         "effects": [
@@ -360,7 +360,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Walking the Dog Quest"
+            "Walking the Dog"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ab1b22399502acd6d68_Boom%20Puppy%20(AR-BL2).webp",
         "effects": [
@@ -381,7 +381,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Demon Hunter Quest"
+            "Demon Hunter"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71b2c2c7d5d3f93e7b3c8_Buffalo%20(Sniper-BL2).webp",
         "effects": [
@@ -508,7 +508,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Clan War: Zafords vs. Hodunks Quest"
+            "Clan War: Zafords vs. Hodunks"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71d70dc7dbb34e5857969_Chulainn%20(SMG-BL2).webp",
         "effects": [
@@ -533,7 +533,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Hyperion Slaughter: Round 5 Quest"
+            "Hyperion Slaughter: Round 5"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f1eaa1ba4f53a0a59c2a71_Ch%C3%A8re-amie%20(Sniper-BL2).webp",
         "effects": [
@@ -624,7 +624,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Creature Slaughter: Round 5 Quest"
+            "Creature Slaughter: Round 5"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ea60ec957fa78417901_Creamer%20(Launcher-BL2).webp",
         "effects": [
@@ -646,7 +646,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Critical Fail Quest"
+            "Critical Fail"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71ed2f9b860ddbc3f1b50_Crit%20(SMG-BL2).webp",
         "effects": [
@@ -669,7 +669,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "The Lost Treasure Quest"
+            "The Lost Treasure"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7202a625a08016b6889c0_Dahlminator%20(Pistol-BL2).webp",
         "effects": [
@@ -740,7 +740,7 @@
         "drop-sources": [
             "Master Gee",
             "Hyperius",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f720834eb5e6a8dc894642_Devastator%20(Pistol-BL2).webp",
         "effects": [
@@ -856,7 +856,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "The Chosen One Quest"
+            "The Chosen One"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722327f1109aeeea84cd1_Evil%20Smasher%20(AR-BL2).webp",
         "effects": [
@@ -881,7 +881,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "A Real Boy: Human Quest"
+            "A Real Boy: Human"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f722bcef37022b7d4fc7b1_Fibber%20(Pistol-BL2).webp",
         "effects": [
@@ -927,7 +927,7 @@
         "drop-sources": [
             "The Warrior",
             "Handsome Sorcerer",
-            "Torgue Machine Shop"
+            "Torgue Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72322625a08016b6c91f5_Flakker%20(Shotgun-BL2).webp",
         "effects": [
@@ -948,7 +948,7 @@
         ],
         "drop-type": "Shop Item",
         "drop-sources": [
-            "Refuge Seraph Shop Shop"
+            "Refuge Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f723d0f9709d68d9f6ad68_Florentine%20(SMG-BL2).webp",
         "effects": [
@@ -1044,7 +1044,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "X Marks The Spot Quest"
+            "X Marks The Spot"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726056d2f5d27af6b81be_Greed%20(Pistol-BL2).webp",
         "effects": [
@@ -1066,7 +1066,7 @@
         ],
         "drop-type": "Quest Item",
         "drop-sources": [
-            "The Beard Makes the Man Quest"
+            "The Beard Makes the Man"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72619b22399502add200f_Grog%20Nozzle%20(Pistol-BL2).webp",
         "effects": [
@@ -1144,7 +1144,7 @@
         ],
         "drop-type": "Discoverable",
         "drop-sources": [
-            "Box In The Dust Location"
+            "Box In The Dust"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726c8ff2c97c70176071e_Gwen%27s%20Head%20(Pistol-BL2).webp",
         "effects": [
@@ -1169,7 +1169,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Bandit Slaughter: Round 5 Quest"
+            "Bandit Slaughter: Round 5"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f726ddf9709d68d9fb2c5d_Hail%20(AR-BL2).webp",
         "effects": [
@@ -1217,7 +1217,7 @@
             "Voracidous",
             "Dexiduous",
             "Omnd-Omnd-Ohk Rare Spawn",
-            "Grotto Seraph Shop Shop"
+            "Grotto Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72732947d4e3df064772d_Hawk%20Eye%20(Sniper-BL2).webp",
         "effects": [
@@ -1239,7 +1239,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Safe and Sound Quest"
+            "Safe and Sound"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72764451204fee7f534d9_Heart%20Breaker%20(Shotgun-BL2).webp",
         "effects": [
@@ -1263,7 +1263,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Echoes of the Past Quest"
+            "Echoes of the Past"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7279ce9c900e8d643fbfd_Hector%27s%20Paradise%20(Pistol-BL2).webp",
         "effects": [
@@ -1403,7 +1403,7 @@
             "Voracidous",
             "Dexiduous",
             "Omnd-Omnd-Ohk Rare Spawn",
-            "Grotto Seraph Shop Shop"
+            "Grotto Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f728db10336f313a5366a7_Infection%20(Pistol-BL2).webp",
         "effects": [
@@ -1485,7 +1485,7 @@
             "Voracidous",
             "Dexiduous",
             "Omnd-Omnd-Ohk Rare Spawn",
-            "Grotto Seraph Shop Shop"
+            "Grotto Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729076d2f5d27af6fb282_Interfacer%20(Shotgun-BL2).webp",
         "effects": [
@@ -1538,7 +1538,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Just Desserts For Desert Deserters Quest"
+            "Just Desserts For Desert Deserters"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f729772b8fd258894c5cb6_Jolly%20Roger%20(Shotgun-BL2).webp",
         "effects": [
@@ -1607,7 +1607,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Everybody Wants to be Wanted Quest"
+            "Everybody Wants to be Wanted"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72a68ba0cf6e926663f34_Kitten%20(AR-BL2).webp",
         "effects": [
@@ -1633,7 +1633,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Uncle Teddy Quest"
+            "Uncle Teddy"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65041d968ea20fbf67361f62_Lady%20Fist%20(Pistol-BL2).webp",
         "effects": [
@@ -1654,7 +1654,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Clan War: Zafords vs. Hodunks Quest"
+            "Clan War: Zafords vs. Hodunks"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b3700e8242c955db79f_Landscaper%20(Shotgun-BL2).webp",
         "effects": [
@@ -1675,7 +1675,7 @@
         ],
         "drop-type": "Discoverable",
         "drop-sources": [
-            "Pond In Frostburn Canyon Location"
+            "Pond In Frostburn Canyon"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72b4f97a59bcc73fc0652_Lascaux%20(SMG-BL2).webp",
         "effects": [
@@ -1699,7 +1699,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Sheriff of Lynchwood",
-            "Won't Get Fooled Again Quest"
+            "Won't Get Fooled Again"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bcb81787c6385bd5799_Law%20(Pistol-BL2).webp",
         "effects": [
@@ -1728,7 +1728,7 @@
             "Voracidous",
             "Dexiduous",
             "Omnd-Omnd-Ohk Rare Spawn",
-            "Grotto Seraph Shop Shop"
+            "Grotto Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72be9cfcf24e2508679c4_Lead%20Storm%20(AR-BL2).webp",
         "effects": [
@@ -1845,7 +1845,7 @@
         ],
         "drop-type": "Discoverable",
         "drop-sources": [
-            "Grave in Dahl Abandon Location"
+            "Grave in Dahl Abandon"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72701d35ef4a00dba4a0f_Hammer%20Buster%20(AR-BL2).webp",
         "effects": [
@@ -1943,7 +1943,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Hyperion Contract #873 Quest"
+            "Hyperion Contract #873"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e424d75c0fe86339de9_Morningstar%20(Sniper-BL2).webp",
         "effects": [
@@ -2038,7 +2038,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Slap Happy Quest"
+            "Slap Happy"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f2eb30ca0ed17378c4c_Octo%20(Shotgun-BL2).webp",
         "effects": [
@@ -2112,7 +2112,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Magic Slaughter Quest"
+            "Magic Slaughter"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f84ef8ec6ded7b96fc7_Orc%20(SMG-BL2).webp",
         "effects": [
@@ -2134,7 +2134,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Message in a Bottle: Oasis Quest"
+            "Message in a Bottle: Oasis"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f912153fc09b0fdf710_Orphan%20Maker%20(Shotgun-BL2).webp",
         "effects": [
@@ -2160,7 +2160,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Chief Executive Overlord Quest"
+            "Chief Executive Overlord"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72f979aeec53f0fb42178_Overcompensator%20(Shotgun-BL2).webp",
         "effects": [
@@ -2187,7 +2187,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Master Gee",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd10db25bd3a723a7f0_Patriot%20(Sniper-BL2).webp",
         "effects": [
@@ -2234,7 +2234,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Don't copy that floppy Quest"
+            "Don't copy that floppy"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73025a51c5cdb656ff211_Pimpernel%20(Sniper-BL2).webp",
         "effects": [
@@ -2331,7 +2331,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Message in a Bottle: Hayters Folly Quest"
+            "Message in a Bottle: Hayters Folly"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7310d8f43799ace5e8a83_Rapier%20(AR-BL2).webp",
         "effects": [
@@ -2354,7 +2354,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Hyperius",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731a618c2972e0726ec8e_Retcher%20(Shotgun-BL2).webp",
         "effects": [
@@ -2401,7 +2401,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Note for Self-Person Quest"
+            "Note for Self-Person"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731d93a568b9e93f3da0d_Roaster%20(Launcher-BL2).webp",
         "effects": [
@@ -2426,7 +2426,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Splinter Group Quest"
+            "Splinter Group"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f731ff73ce470883ca6e07_RokSalt%20(Shotgun-BL2).webp",
         "effects": [
@@ -2450,7 +2450,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Rakkaholics Anonymous Quest"
+            "Rakkaholics Anonymous"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7327b73ce470883caf5cf_Rubi%20(Pistol-BL2).webp",
         "effects": [
@@ -2472,7 +2472,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "The Sword in The Stoner Quest"
+            "The Sword in The Stoner"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732a6c112a98b0244f79c_SWORDSPLOSION!!!%20(Shotgun-BL2).webp",
         "effects": [
@@ -2497,7 +2497,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Whoops Quest"
+            "Whoops"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732c9d8abfd22d56b3981_Sand%20Hawk%20(SMG-BL2).webp",
         "effects": [
@@ -2547,7 +2547,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Bearer of Bad News Quest"
+            "Bearer of Bad News"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f732f713955bc879bbe1ee_Scorpio%20(AR-BL2).webp",
         "effects": [
@@ -2569,7 +2569,7 @@
         ],
         "drop-type": "Shop Item",
         "drop-sources": [
-            "Refuge Seraph Shop Shop"
+            "Refuge Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73325394cbaf256faa70b_Seeker%20(AR-BL2).webp",
         "effects": [
@@ -2591,7 +2591,7 @@
         "drop-type": "Shop Item",
         "drop-sources": [
             "Master Gee",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7334450c6fb1c97bc140b_Seraphim%20(AR-BL2).webp",
         "effects": [
@@ -2613,7 +2613,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Out of Body Experience Quest"
+            "Out of Body Experience"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f733b53b39a87791d250fd_Shotgun%201340%20(Shotgun-BL2).webp",
         "effects": [
@@ -2734,7 +2734,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Rakkaholics Anonymous Quest"
+            "Rakkaholics Anonymous"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7346b541a47b3d90f00ed_Sloth%20(Sniper-BL2).webp",
         "effects": [
@@ -2855,7 +2855,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Hungry Like the Skag Quest"
+            "Hungry Like the Skag"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7350e18c2972e072b19cd_Stomper%20(AR-BL2).webp",
         "effects": [
@@ -2928,7 +2928,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Hyperius",
-            "Oasis Seraph Shop Shop"
+            "Oasis Seraph Shop"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735a718c2972e072bbb1c_Tattler%20(SMG-BL2).webp",
         "effects": [
@@ -2949,7 +2949,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "You Are Cordially Invited: Tea Party Quest"
+            "You Are Cordially Invited: Tea Party"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735ae0c45a779d02f108f_Teapot%20(Pistol-BL2).webp",
         "effects": [
@@ -3015,7 +3015,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Uncle Teddy Quest"
+            "Uncle Teddy"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7374b1cb975d8297dbf48_Tidal%20Wave%20(Shotgun-BL2).webp",
         "effects": [
@@ -3039,7 +3039,7 @@
         "drop-sources": [
             "Captain Flynt",
             "Sparky Flynt",
-            "Snowman in Tundra Express Location"
+            "Snowman in Tundra Express"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7375ec2c0d921b255fe52_Tinderbox%20(Pistol-BL2).webp",
         "effects": [
@@ -3085,7 +3085,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Animal Rights Quest"
+            "Animal Rights"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737baa67f3fec81243ccd_Trespasser%20(Sniper-BL2).webp",
         "effects": [
@@ -3106,7 +3106,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Clan War: End of the Rainbow Quest"
+            "Clan War: End of the Rainbow"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f737d8a370607e78ef3426_Triquetra%20(Shotgun-BL2).webp",
         "effects": [
@@ -3246,7 +3246,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Clan War: Wakey Wakey Quest"
+            "Clan War: Wakey Wakey"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f79a5f56f71485739432dc_Veritas%20(Pistol-BL2).webp",
         "effects": [

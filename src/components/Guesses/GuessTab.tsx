@@ -1,4 +1,4 @@
-import { memo, useState, useEffect } from "react"
+import { memo } from "react"
 import { Entry } from "../../models/fileLoader"
 import { getRarityColor, getColor, getColorComparison } from "../../models/colors"
 import { getGameImage, getElementIcon } from "../../models/gameParser"

@@ -11,7 +11,7 @@ export const SettingsContext = createContext<SettingsContextContent>({
     adjustWeaponsSettings: () => {}
 })
 export default function SettingsProvider({children}: SettingsProviderProps) {
-    const [weaponsSettings, setWeaponsSettings] = useState<boolean[]>([])
+    const [weaponsSettings, setWeaponsSettings] = useState<boolean[]>(defaultValues)
     const adjustWeaponsSettings = (index: number) => {
         let newSettings = weaponsSettings
         newSettings[index] = !newSettings[index]
@@ -21,7 +21,7 @@ export default function SettingsProvider({children}: SettingsProviderProps) {
     useEffect(() => {
         let localStorageCheck = localStorage.getItem("weaponsSettings")
         if (localStorageCheck === null) {
-            setWeaponsSettings([true, true, true, true, true])
+            setWeaponsSettings(defaultValues)
             localStorage.setItem("weaponsSettings", JSON.stringify(defaultValues))
         } else {
             let loadWeaponsSettings: boolean[] = JSON.parse(localStorageCheck)

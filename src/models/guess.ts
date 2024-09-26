@@ -16,3 +16,8 @@ export interface SingleGuess {
     guess: RedTextEntry,
     loadOnStart: boolean
 }
+
+export interface LootGuess {
+    guess: Entry,
+    loadOnStart: boolean
+}

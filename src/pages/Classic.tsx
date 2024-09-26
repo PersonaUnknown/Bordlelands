@@ -100,17 +100,18 @@ const Classic = () => {
             let itemCheck = localStorage.getItem("randomEntry")
             if (itemCheck !== null) {
                 let oldRandomEntry: Entry = JSON.parse(itemCheck)
-                let oldCurrGuesses: ClassicGuess[] = JSON.parse(localStorage.getItem("currClassicGuesses") ?? "[]")
+                let oldCurrGuesses: Entry[] = JSON.parse(localStorage.getItem("currClassicGuesses") ?? "[]")
+                let currClassicGuesses: ClassicGuess[] = []
                 for (let i = 0; i < oldCurrGuesses.length; i++) {
-                    oldCurrGuesses[i].loadOnStart = false
+                    currClassicGuesses.push({ guess: oldCurrGuesses[i], loadOnStart: false})
                 }
+                console.log(oldCurrGuesses)
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getWeapons(oldWeaponsSettings)
                 // Check guessed correctly
                 let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedClassicCorrectly") ?? "false")
                 setGuessedCorrectly(correctGuessCheck)
-                // console.log(oldRandomEntry)
-                setCurrGuesses(oldCurrGuesses)
+                setCurrGuesses(currClassicGuesses)
                 setCorrectAnswer(oldRandomEntry)
                 setItemData(oldFetchedData)
                 setDataLoaded(true)
@@ -119,7 +120,6 @@ const Classic = () => {
             let validWeapons = fetchValidWeapons()
             let fetchedData = getWeapons(validWeapons)
             let randomEntry = getRandomEntry(fetchedData)
-            // console.log(randomEntry)
             setCorrectAnswer(randomEntry)
             setItemData(fetchedData)
             setDataLoaded(true)
@@ -190,7 +190,10 @@ const Classic = () => {
             <div className="flex flex-column" style={columnStyle}>
                 <GuessHeader labels={headerLabels}/>
                 { 
-                    currGuesses.map((currGuess) => {
+                    currGuesses.map((currGuess: ClassicGuess, index: number) => {    
+                        if (currGuess.guess === undefined) {
+                            return (<div key={index}></div>)
+                        }
                         return (
                             <GuessTab
                                 key={`${currGuess.guess.name}-${currGuess.guess.rarity}-${currGuess.guess.game}`}

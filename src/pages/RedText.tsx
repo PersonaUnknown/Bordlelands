@@ -89,16 +89,17 @@ const RedText = () => {
             let itemCheck = localStorage.getItem("randomFlavorEntry")
             if (itemCheck !== null) {
                 let oldRandomEntry: RedTextEntry = JSON.parse(itemCheck)
-                let oldCurrGuesses: SingleGuess[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
+                let oldCurrGuesses: RedTextEntry[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
+                let currFlavorGuesses: SingleGuess[] = []
                 for (let i = 0; i < oldCurrGuesses.length; i++) {
-                    oldCurrGuesses[i].loadOnStart = false
+                    currFlavorGuesses.push({guess: oldCurrGuesses[i], loadOnStart: false})
                 }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getFlavorTexts(oldWeaponsSettings)
                 // Check guessed correctly
                 let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedFlavorCorrectly") ?? "false")
                 setGuessedCorrectly(correctGuessCheck)
-                setCurrGuesses(oldCurrGuesses)
+                setCurrGuesses(currFlavorGuesses)
                 setCorrectAnswer(oldRandomEntry)
                 setItemData(oldFetchedData)
                 setDataLoaded(true)

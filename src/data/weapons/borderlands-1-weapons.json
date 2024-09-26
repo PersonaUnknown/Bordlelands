@@ -62,7 +62,7 @@
         "drop-sources": [
             "Badass Defender",
             "Crawmerax",
-            "Lance Chest Location"
+            "Lance Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7183298e3eced1bb76c49_Aries%20(Revolver-BL1).webp",
         "effects": [
@@ -90,7 +90,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Loot Larceny Quest"
+            "Loot Larceny"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651851195771c327f9cabb0f_Athena%27s%20Wisdom%20(Repeater-BL1).webp",
         "effects": [
@@ -136,7 +136,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7189fb1d14086a6314719_Baha%27s%20Bigger%20Blaster%20(Shotgun-BL1).webp",
         "effects": [
@@ -183,7 +183,7 @@
         "drop-sources": [
             "Badass Desperado",
             "Crawmerax",
-            "Lance Chest Location"
+            "Lance Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518512f8c3120cae3b0b143_Bessie%20(Sniper-BL1).webp",
         "effects": [
@@ -229,7 +229,7 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71a2705c0dab8eee6a2d5_Blaster%20(Eridian-BL1).webp",
         "effects": [
@@ -350,7 +350,7 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [
-            "Destroyer Chest Location",
+            "Destroyer Chest",
             "Master McCloud"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f71cc42dddd4da8b16491c_Cannon%20(Eridian-BL1).webp",
@@ -401,7 +401,7 @@
         ],
         "drop-type": "Quest Reward",
         "drop-sources": [
-            "Purple Juice! Quest"
+            "Purple Juice!"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/6518515280035da4f6aa13bd_Chiquito%20Amigo%20(Repeater-BL1).webp",
         "effects": [
@@ -876,7 +876,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f727f0f9709d68d9fca141_Hive%20Mind%20(Launcher-BL1).webp",
         "effects": [
@@ -1099,7 +1099,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Moe & Marley",
-            "Nine-Toes: Take Him Down Quest"
+            "Nine-Toes: Take Him Down"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72aba4adf9e5a7ead980e_Lady%20Finger%20(Repeater-BL1).webp",
         "effects": [
@@ -1122,7 +1122,7 @@
         "drop-sources": [
             "Rakk Hive",
             "Rakk-Trap Hive",
-            "Wanted: Fresh Fish Quest"
+            "Wanted: Fresh Fish"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bf1c86e1b2f5bf29e39_Leviathan%20(Launcher-BL1).webp",
         "effects": [
@@ -1144,7 +1144,7 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72bffc86e1b2f5bf2ac21_Lightning%20(Eridian-BL1).webp",
         "effects": [
@@ -1242,7 +1242,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72e50ef8ec6ded7b7ffb6_Mug%20Shot%20(AR-BL1).webp",
         "effects": [
@@ -1266,7 +1266,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Bleeder",
-            "House Hunting Quest"
+            "House Hunting"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72ea8ef8ec6ded7b86da9_Nailer%20(Sniper-BL1).webp",
         "effects": [
@@ -1382,7 +1382,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Queen Tarantella",
-            "Bait And Switch Quest"
+            "Bait And Switch"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f72fd753f0d8d7f35ae638_Patton%20(Revolver-BL1).webp",
         "effects": [
@@ -1623,7 +1623,7 @@
         ],
         "drop-type": "Discoverable",
         "drop-sources": [
-            "Hidden Basement Location"
+            "Hidden Basement"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/651852043ccea50415796ca7_Rider%20(Sniper-BL1).webp",
         "effects": [
@@ -1720,7 +1720,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7340b357e03da689cf90d_Silent%20Night%20(Sniper-BL1).webp",
         "effects": [
@@ -1857,7 +1857,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7353ee7a75977f03ca1c1_Sucker%20Punch%20(Repeater-BL1).webp",
         "effects": [
@@ -1906,7 +1906,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Scar",
-            "T.K.'s Life And Limb Quest"
+            "T.K.'s Life And Limb"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65185469f76736bbc6c8741a_T.K%27s%20Wave%20(Shotgun-BL1).webp",
         "effects": [
@@ -1974,7 +1974,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Mothrakk",
-            "Like A Moth To Flame Quest"
+            "Like A Moth To Flame"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f735e1dabdba29bcb20df9_The%20Blister%20(Shotgun-BL1).webp",
         "effects": [
@@ -2045,7 +2045,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Slither",
-            "Altar Ego: Godless Monsters Quest"
+            "Altar Ego: Godless Monsters"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f7365d6db74a3f9f349feb_The%20Dove%20(Repeater-BL1).webp",
         "effects": [
@@ -2118,7 +2118,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Rakkinishu",
-            "Jack's Other Eye Quest"
+            "Jack's Other Eye"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736cbd2d4f2c2041965a1_The%20Sentinel%20(AR-BL1).webp",
         "effects": [
@@ -2142,7 +2142,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "King Wee Wee",
-            "King Tossing Quest"
+            "King Tossing"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f736d8c2c0d921b25562ea_The%20Spy%20(SMG-BL1).webp",
         "effects": [
@@ -2166,7 +2166,7 @@
         ],
         "drop-type": "World Drop",
         "drop-sources": [
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f73715bfd0a97c9bb4d49b_Thunder%20Storm%20(Eridian-BL1).webp",
         "effects": [
@@ -2359,7 +2359,7 @@
         "drop-type": "World Drop",
         "drop-sources": [
             "Crawmerax",
-            "Destroyer Chest Location"
+            "Destroyer Chest"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f738df5eaac06288985234_Violence%20(Revolver-BL1).webp",
         "effects": [
@@ -2403,7 +2403,7 @@
         "drop-type": "Dedicated Drop",
         "drop-sources": [
             "Skagzilla",
-            "Big Game Hunter Quest"
+            "Big Game Hunter"
         ],
         "image": "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/64f739b93edbf73e6d36daf1_Whitting%27s%20Elephant%20Gun%20(Sniper-BL1).webp",
         "effects": [
