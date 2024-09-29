@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.f691719b.css",
-    "main.js": "/react-gh-pages/static/js/main.35ad3540.js",
+    "main.js": "/react-gh-pages/static/js/main.fe4d8291.js",
     "static/js/453.245ea2ff.chunk.js": "/react-gh-pages/static/js/453.245ea2ff.chunk.js",
     "static/media/borderlands_cast.png": "/react-gh-pages/static/media/borderlands_cast.f909f0832adf7a33bad7.png",
     "static/media/wonderlands.png": "/react-gh-pages/static/media/wonderlands.cbc0cbe31beff0cd2263.png",
@@ -18,11 +18,11 @@
     "static/media/lootpool.png": "/react-gh-pages/static/media/lootpool.7c13c99574647ebd0ce1.png",
     "index.html": "/react-gh-pages/index.html",
     "main.f691719b.css.map": "/react-gh-pages/static/css/main.f691719b.css.map",
-    "main.35ad3540.js.map": "/react-gh-pages/static/js/main.35ad3540.js.map",
+    "main.fe4d8291.js.map": "/react-gh-pages/static/js/main.fe4d8291.js.map",
     "453.245ea2ff.chunk.js.map": "/react-gh-pages/static/js/453.245ea2ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f691719b.css",
-    "static/js/main.35ad3540.js"
+    "static/js/main.fe4d8291.js"
   ]
 }
