@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Entry, RedTextEntry } from "../../models/fileLoader"
+import { Entry } from "../../models/fileLoader"
 import { getRarityColor } from "../../models/colors"
 const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
@@ -135,6 +135,9 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
                         overflowX: 'hidden',
                         overflowY: 'auto',
                         position: 'absolute',
+                        left: 0,
+                        right: 0,
+                        marginInline: 'auto', 
                         zIndex: 10
                     }}
                 >

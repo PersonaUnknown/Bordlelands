@@ -129,7 +129,7 @@ const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
                         transition={fadeTransition}
                     >
                         {
-                            label.map(element => {
+                            label !== undefined && label.map(element => {
                                 return (
                                     <img
                                         key={element}

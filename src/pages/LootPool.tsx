@@ -7,12 +7,10 @@ import { Entry, LootSource, getLootSources, getWeapons } from "../models/fileLoa
 import { ClassicGuess, LootGuess } from "../models/guess"
 import { getRandomLootSource } from "../models/rng"
 // Static UI
-import RedTextHints from "../components/Guesses/RedText/RedTextHints"
 import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
 // Searches
 import SearchBar from "../components/Guesses/SearchBar"
-import RedTextSearchBar from "../components/Guesses/RedText/RedTextSearchBar"
 import LootSourceGuess from "../components/Guesses/LootSource/LootSourceGuess"
 // Modals
 import SettingsModal from "../components/Modals/SettingsModal"
@@ -99,7 +97,6 @@ const LootPool = () => {
                 }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let fetchedWeapons: Entry[] = getWeapons(oldWeaponsSettings)
-                let oldFetchedData: LootSource[] = getLootSources(oldWeaponsSettings)
                 // Check guessed correctly
                 let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedLootSourceCorrectly") ?? "false")
                 setGuessedCorrectly(correctGuessCheck)
@@ -113,7 +110,6 @@ const LootPool = () => {
             let fetchedWeapons: Entry[] = getWeapons(validWeapons)
             let fetchedData: LootSource[] = getLootSources(validWeapons)
             let randomEntry = getRandomLootSource(fetchedData)
-            console.log(randomEntry)
             setCurrentLootSource(randomEntry)
             setItemData(fetchedWeapons)
             setDataLoaded(true)
@@ -158,7 +154,7 @@ const LootPool = () => {
     return (
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
-            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
+            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial} tutorialMode="lootpool"/>
             <VictoryModal show={showVictoryModal} name={currLootSource.location} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}
@@ -169,7 +165,16 @@ const LootPool = () => {
                 <span className="common" style={classicStyle}>
                     What is any item that can drop from this loot source?
                 </span>
-                <img alt='source' src={currLootSource.image === "" ? "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65df04fa947339c4d497883a_Quest.svg" : currLootSource.image} style={{width: 'auto', height: 350}}/>
+                <img 
+                    alt='source' 
+                    src={currLootSource.image === "" ? 
+                        "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65df04fa947339c4d497883a_Quest.svg" : 
+                        currLootSource.image} 
+                    style={{
+                        width: 'auto', 
+                        height: 350
+                    }}
+                />
                 <span className="common" style={classicStyle}> 
                     {currLootSource.name} ({getGameName(currLootSource.game)}) 
                 </span>

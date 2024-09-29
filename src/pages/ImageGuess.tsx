@@ -1,8 +1,6 @@
 import { useContext, useEffect, useState } from "react"
 import { motion } from "framer-motion"
 import { FaRegEye, FaRegEyeSlash } from "react-icons/fa";
-import BlurAssist from '../images/hints/blur-assist.png'
-import NoBlurAssist from '../images/hints/no-blur-assist.png'
 // Models
 import { SettingsContext } from "../components/Modals/SettingsContext"
 import { getFlavorTexts, RedTextEntry } from "../models/fileLoader"
@@ -167,7 +165,7 @@ const ImageGuess = () => {
     return (
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
-            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
+            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial} tutorialMode="image"/>
             <VictoryModal show={showVictoryModal} name={correctAnswer.name} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}

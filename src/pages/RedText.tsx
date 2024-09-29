@@ -89,17 +89,16 @@ const RedText = () => {
             let itemCheck = localStorage.getItem("randomFlavorEntry")
             if (itemCheck !== null) {
                 let oldRandomEntry: RedTextEntry = JSON.parse(itemCheck)
-                let oldCurrGuesses: RedTextEntry[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
-                let currFlavorGuesses: SingleGuess[] = []
+                let oldCurrGuesses: SingleGuess[] = JSON.parse(localStorage.getItem("currFlavorGuesses") ?? "[]")
                 for (let i = 0; i < oldCurrGuesses.length; i++) {
-                    currFlavorGuesses.push({guess: oldCurrGuesses[i], loadOnStart: false})
+                    oldCurrGuesses[i].loadOnStart = false
                 }
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getFlavorTexts(oldWeaponsSettings)
                 // Check guessed correctly
                 let correctGuessCheck: boolean = JSON.parse(localStorage.getItem("guessedFlavorCorrectly") ?? "false")
                 setGuessedCorrectly(correctGuessCheck)
-                setCurrGuesses(currFlavorGuesses)
+                setCurrGuesses(oldCurrGuesses)
                 setCorrectAnswer(oldRandomEntry)
                 setItemData(oldFetchedData)
                 setDataLoaded(true)
@@ -152,7 +151,7 @@ const RedText = () => {
     return (
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
-            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial}/>
+            <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial} tutorialMode="redtext"/>
             <VictoryModal show={showVictoryModal} name={correctAnswer.name} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}

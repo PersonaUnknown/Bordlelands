@@ -7,6 +7,9 @@ export const getColor = (state: boolean): string => {
 }
 
 export const getColorComparison = (guess: string[], actual: string[]): string => {
+    if (guess === undefined || actual === undefined) {
+        return "#df8711"
+    }
     let partialMatch: boolean = false
     let sortedGuess: string[] = guess.sort()
     let sortedActual: string[] = actual.sort()
