@@ -5,17 +5,28 @@ import { getGameImage, getElementIcon } from "../../models/gameParser"
 import { motion } from "framer-motion"
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
-const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
+import useWindowDimensions from "../../models/windowDimensions"
+const GuessTab = ({guess, actual, initState, onAnimEnd}: GuessTabProps) => {
     const animDuration = initState ? 0.5 : 0
+    const { width } = useWindowDimensions()
     const Guess = ({label, type, actual, animDuration, animDelay}: GuessProps) => {
+        // const headerStyle = {
+        //     width: width > 860 ? 85 : width > 600 ? 55 : width > 450 ? 35 : 25
+        // }
+        // const sectionStyle = {
+        //     color: 'white',
+        //     fontFamily: 'Montserrat',
+        //     fontSize: width > 860 ? '1em' : width > 600 ? '0.65em' : width > 450 ? '0.425em' : '0.3em',
+        //     marginBottom: 5
+        // }
         const GuessStyle = {
-            width: 87.5,
-            height: 87.5,
-            borderRadius: 20,
+            width: width > 860 ? 87.5 : width > 600 ? 57.5 : width > 450 ? 37.5 : 27.5,
+            height: width > 860 ? 87.5 : width > 600 ? 57.5 : width > 450 ? 37.5 : 27.5,
+            borderRadius: width > 600 ? 20 : 10,
             borderStyle: 'solid',
             borderColor: 'black',
-            borderWidth: 4,
-            fontSize: 14,
+            borderWidth: width > 600 ? 4 : 2,
+            fontSize: width > 860 ? 14 : width > 600 ? 10 :  width > 450 ? 8 : 6,
             backgroundColor: 'white',
             display: 'flex',
             justifyContent: 'center',
@@ -85,7 +96,7 @@ const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
                     backgroundColor: getColor(label[0] === actual[0])
                 }
                 return (
-                    <motion.div style={GuessStyle} animate={fadeAnimation} transition={fadeTransition}>
+                    <motion.div style={GuessStyle} animate={fadeAnimation} transition={fadeTransition} onAnimationComplete={onAnimEnd}>
                         <img
                             style={gameStyle}
                             src={getGameImage(label[0])}
@@ -95,7 +106,7 @@ const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
                 )
             case "effects":
                 const effects: string = Array.isArray(label) ? label.join(", ") : label
-                const fontStyle = { fontSize: 12 }
+                const fontStyle = { fontSize: width > 600 ? 12 : 5 }
                 return (
                     <motion.div 
                         style={{
@@ -114,8 +125,8 @@ const GuessTab = ({guess, actual, initState}: GuessTabProps) => {
             default:
                 // Element
                 const elementStyle = {
-                    width: 22,
-                    height: 22
+                    width: width > 600 ? 22 : 5,
+                    height: width > 600 ? 22 : 6
                 }
                 return (
                     <motion.div 
@@ -169,6 +180,7 @@ interface GuessProps {
 interface GuessTabProps {
     guess: Entry,
     actual: Entry,
-    initState: boolean
+    initState: boolean,
+    onAnimEnd: () => void
 }
 export default memo(GuessTab)

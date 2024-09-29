@@ -1,10 +1,11 @@
 import { useState } from "react"
 import { RedTextEntry } from "../../../models/fileLoader"
 import { getRarityColor } from "../../../models/colors"
-
+import useWindowDimensions from "../../../models/windowDimensions"
 const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback, haveImages = true}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const onFocus = () => { 
         setIsFocused(true) 
     }
@@ -127,7 +128,7 @@ const RedTextSearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallb
                     paddingRight: 10,
                     backgroundColor: '#102332', 
                     border: '2px solid #1d9dff', 
-                    width: 400,
+                    width: width > 600 ? 400 : 280,
                     color: 'white',
                     outline: 'none'
                 }}

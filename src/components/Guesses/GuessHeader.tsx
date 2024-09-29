@@ -1,13 +1,15 @@
 import Divider from "../UI/Divider"
+import useWindowDimensions from "../../models/windowDimensions"
 const GuessHeader = ({labels}: GuessHeaderProps) => {
+    const { width } = useWindowDimensions()
     const Section = ({label}: SectionProps) => {
         const headerStyle = {
-            width: 85
+            width: width > 860 ? 85 : width > 600 ? 55 : width > 450 ? 35 : 25
         }
         const sectionStyle = {
             color: 'white',
             fontFamily: 'Montserrat',
-            fontSize: '1em',
+            fontSize: width > 860 ? '1em' : width > 600 ? '0.65em' : width > 450 ? '0.425em' : '0.3em',
             marginBottom: 5
         }
         return (
@@ -15,7 +17,7 @@ const GuessHeader = ({labels}: GuessHeaderProps) => {
                 <span style={sectionStyle}>
                     {label}
                 </span>
-                <Divider height={5} backgroundColor="#ffffff" borderRadius={0}/>
+                <Divider height={width > 600 ? 5 : 2} backgroundColor="#ffffff" borderRadius={0}/>
             </div>
         )
     }

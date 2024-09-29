@@ -1,4 +1,4 @@
-import { useRef, useState } from "react"
+import { useState } from "react"
 import { RedTextEntry } from "../../../models/fileLoader";
 import { Placement } from "react-bootstrap/esm/types";
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
@@ -6,10 +6,12 @@ import Tooltip from 'react-bootstrap/Tooltip';
 import Type from '../../../images/hints/type.png'
 import Flavor from '../../../images/hints/flavor-text.png'
 import Globe from '../../../images/hints/globe.png'
+import useWindowDimensions from "../../../models/windowDimensions";
 const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: HintsProps) => {
     // States
     const [typeTextModal, setTypeTextModal] = useState<boolean>(false)
     const [dropOriginModal, setDropOriginModal] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const toggleTypeTextModal = () => {
         setTypeTextModal(!typeTextModal)
         setDropOriginModal(false)
@@ -22,7 +24,7 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: H
     const containerStyle = {
         backgroundColor: '#102332',
         border: '2px solid #1d9dff', 
-        maxWidth: 425,
+        maxWidth: width > 600 ? 425 : 280,
         borderRadius: 10,
         marginLeft: '15%',
         marginRight: '15%',
@@ -62,7 +64,7 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: H
         }
         return (
             <OverlayTrigger
-                placement={tooltipDir}
+                placement={width > 600 ? tooltipDir : 'auto'}
                 overlay={
                     <Tooltip className="font-montserrat" style={tooltipStyle}> 
                         {meaning}
@@ -94,7 +96,8 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: H
                         label="Item Type"
                         threshold={4}
                         meaning="Pistol, shotgun, etc..."
-                        tooltipDir="left"
+                        // tooltipDir="left"
+                        tooltipDir="auto"
                     />
                     :
                     <HintButton
@@ -104,7 +107,8 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: H
                         label="Flavor Text"
                         threshold={4}
                         meaning="Item's Red Text"
-                        tooltipDir="left"
+                        // tooltipDir="left"
+                        tooltipDir="auto"
                     />
                 }
                 <HintButton
@@ -114,7 +118,8 @@ const RedTextHints = ({numGuesses, answer, answeredCorrectly, useRedTextHint}: H
                     label="Drop Origin"
                     threshold={8}
                     meaning="Who/What Drops The Item If It Exists"
-                    tooltipDir="right"
+                    // tooltipDir="right"
+                    tooltipDir="auto"
                 />
             </div>
             {typeTextModal &&

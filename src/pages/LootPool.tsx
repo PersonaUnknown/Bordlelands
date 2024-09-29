@@ -6,6 +6,7 @@ import { getGameName } from "../models/gameParser"
 import { Entry, LootSource, getLootSources, getWeapons } from "../models/fileLoader"
 import { ClassicGuess, LootGuess } from "../models/guess"
 import { getRandomLootSource } from "../models/rng"
+import useWindowDimensions from "../models/windowDimensions"
 // Static UI
 import NavigationBar from "../components/Navigation/NavigationBar"
 import { ImSpinner8 } from "react-icons/im";
@@ -26,6 +27,7 @@ const LootPool = () => {
     const [itemData, setItemData] = useState<Entry[]>([])
     const [currLootSource, setCurrentLootSource] = useState<LootSource | null>(null)
     const [guessedCorrectly, setGuessedCorrectly] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const appendGuess = (newEntry: Entry) => {
         if (currLootSource === null) {
             return
@@ -37,7 +39,7 @@ const LootPool = () => {
             }, 500)
             setGuessedCorrectly(true)
             localStorage.setItem("guessedLootSourceCorrectly", "true")
-            console.log("Guessed Correctly!")
+            // console.log("Guessed Correctly!")
         }
         let newCurrGuess: LootGuess = { guess: newEntry, loadOnStart: true }
         let oldGuesses: ClassicGuess[] = currGuesses
@@ -127,8 +129,10 @@ const LootPool = () => {
     }, [dataLoaded, itemData, weaponsSettings])
     // Styles
     const classicStyle = {
-        fontSize: 26,
-        color: 'white'
+        fontSize: width > 600 ? 26 : 20,
+        color: 'white',
+        marginLeft: 25,
+        marginRight: 25
     }
     // Rendering
     if (!dataLoaded || currLootSource === null) {
@@ -155,7 +159,7 @@ const LootPool = () => {
         <div className="flex flex-column center-horizontal center-text">
             <SettingsModal show={showSettingsModal} handleClose={handleCloseSettings}/>
             <TutorialModal show={showTutorialModal} handleClose={handleCloseTutorial} tutorialMode="lootpool"/>
-            <VictoryModal show={showVictoryModal} name={currLootSource.location} handleClose={handleCloseVictory}/>
+            <VictoryModal show={showVictoryModal} name={currGuesses.length === 0 ? "" : currGuesses[0].guess.name} handleClose={handleCloseVictory}/>
             <NavigationBar
                 handleSettingsShow={handleShowSettings}
                 handleReroll={rerollItem}
@@ -171,8 +175,10 @@ const LootPool = () => {
                         "https://cdn.prod.website-files.com/5ff36780a1084987868ce198/65df04fa947339c4d497883a_Quest.svg" : 
                         currLootSource.image} 
                     style={{
-                        width: 'auto', 
-                        height: 350
+                        width: width > 600 ? 400 : 280, 
+                        height: 'auto',
+                        marginLeft: 'auto',
+                        marginRight: 'auto'
                     }}
                 />
                 <span className="common" style={classicStyle}> 

@@ -5,10 +5,12 @@ import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
 import Flavor from '../../images/hints/flavor-text.png'
 import Globe from '../../images/hints/globe.png'
+import useWindowDimensions from "../../models/windowDimensions";
 const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
     // States
     const [flavorTextModal, setFlavorTextModal] = useState<boolean>(false)
     const [dropOriginModal, setDropOriginModal] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const toggleFlavorTextModal = () => {
         setFlavorTextModal(!flavorTextModal)
         setDropOriginModal(false)
@@ -21,7 +23,7 @@ const Hints = ({numGuesses, answer, answeredCorrectly}: HintsProps) => {
     const containerStyle = {
         backgroundColor: '#102332',
         border: '2px solid #1d9dff', 
-        maxWidth: 425,
+        maxWidth: width > 600 ? 425 : 280,
         borderRadius: 10,
         marginLeft: 'auto',
         marginRight: 'auto',

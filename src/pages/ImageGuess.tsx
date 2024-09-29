@@ -6,6 +6,7 @@ import { SettingsContext } from "../components/Modals/SettingsContext"
 import { getFlavorTexts, RedTextEntry } from "../models/fileLoader"
 import { SingleGuess } from "../models/guess"
 import { getRandomFlavorText } from "../models/rng"
+import useWindowDimensions from "../models/windowDimensions";
 // Static UI
 import RedTextHints from "../components/Guesses/RedText/RedTextHints"
 import NavigationBar from "../components/Navigation/NavigationBar"
@@ -28,6 +29,7 @@ const ImageGuess = () => {
     const [correctAnswer, setCorrectAnswer] = useState<RedTextEntry | null>(null)
     const [guessedCorrectly, setGuessedCorrectly] = useState<boolean>(false)
     const [toggledUnblurOnGuess, setToggleUnblurOnGuess] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const appendGuess = (newEntry: RedTextEntry) => {
         let parsedNewEntry: string = JSON.stringify(newEntry)
         let parsedAnswer: string = JSON.stringify(correctAnswer)
@@ -130,7 +132,9 @@ const ImageGuess = () => {
     // Styles
     const classicStyle = {
         fontSize: 26,
-        color: 'white'
+        color: 'white',
+        marginLeft: 25,
+        marginRight: 25
     }
     const imgContainerStyle = {
         color: '#ffffff', 
@@ -139,7 +143,10 @@ const ImageGuess = () => {
         borderRadius: 10, 
         padding: 10,
         marginTop: 15,
-        marginBottom: 15
+        marginBottom: 15,
+        marginLeft: 'auto',
+        marginRight: 'auto',
+        width: width > 600 ? 400 : 280
     }
     // Rendering
     if (!dataLoaded || correctAnswer === null) {
@@ -178,7 +185,13 @@ const ImageGuess = () => {
                     What item is in this blurred image?
                 </span>
                 <div style={imgContainerStyle} className="flex flex-column">    
-                    <img alt='answer' src={correctAnswer.image} style={{filter: toggledUnblurOnGuess ? `blur(12px)` : `blur(${Math.max(12 - currGuesses.length, 0)}px)`}}/>
+                    <img 
+                        alt='answer' 
+                        src={correctAnswer.image} 
+                        style={{
+                            filter: toggledUnblurOnGuess ? `blur(12px)` : `blur(${Math.max(12 - currGuesses.length, 0)}px)`,
+                        }}
+                    />
                     <div style={{marginTop: 15, marginBottom: 5}}>
                         <button style={{backgroundColor: 'gold', borderColor: 'transparent', borderRadius: 50}} onClick={toggleUnblurSetting}>
                             {toggledUnblurOnGuess ? <FaRegEyeSlash style={{width: 50, height: 50, opacity: 0.5}}/> : <FaRegEye style={{width: 50, height: 50}}/> }

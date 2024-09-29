@@ -141,4 +141,10 @@ code {
   .title {
     font-size: 80px;
   }
+  .home-text {
+    font-size: 20px;
+  }
+  .tab-img {
+    width: 300px;
+  }
 }

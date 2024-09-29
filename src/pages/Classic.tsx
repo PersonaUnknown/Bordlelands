@@ -63,6 +63,14 @@ const Classic = () => {
     const handleCloseTutorial = () => { setShowTutorialModal(false) }
     const handleShowVictory = () => { setShowVictoryModal(true) }
     const handleCloseVictory = () => { setShowVictoryModal(false) }
+    const onAnimEnd = () => { 
+        if (currGuesses.length === 0) {
+            return
+        }
+        let newCurrGuess: ClassicGuess[] = currGuesses
+        newCurrGuess[0].loadOnStart = false
+        setCurrGuesses(newCurrGuess)
+    }
     // Context
     const { weaponsSettings } = useContext(SettingsContext)
     // Re-rolling
@@ -104,7 +112,6 @@ const Classic = () => {
                 for (let i = 0; i < oldCurrGuesses.length; i++) {
                     oldCurrGuesses[i].loadOnStart = false
                 }
-                console.log(oldCurrGuesses)
                 let oldWeaponsSettings: string[] = JSON.parse(localStorage.getItem("oldWeaponsSettings") ?? `["borderlands-1", "borderlands-2", "borderlands-3", "borderlands-tps", "wonderlands"]`)
                 let oldFetchedData = getWeapons(oldWeaponsSettings)
                 // Check guessed correctly
@@ -199,6 +206,7 @@ const Classic = () => {
                                 guess={currGuess.guess}
                                 actual={correctAnswer}
                                 initState={currGuess.loadOnStart}
+                                onAnimEnd={onAnimEnd}
                             />
                         )
                     })

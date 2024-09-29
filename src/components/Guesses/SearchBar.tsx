@@ -1,9 +1,11 @@
 import { useState } from "react"
 import { Entry } from "../../models/fileLoader"
 import { getRarityColor } from "../../models/colors"
+import useWindowDimensions from "../../models/windowDimensions"
 const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: SearchBarProps) => {
     const [currInput, setCurrInput] = useState<string>("")
     const [isFocused, setIsFocused] = useState<boolean>(false)
+    const { width } = useWindowDimensions()
     const onFocus = () => { 
         setIsFocused(true) 
     }
@@ -54,7 +56,7 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
             fontSize: 24
         }
         const imgStyle = {
-            width: 130,
+            width: width > 600 ? 130 : 100,
             height: 70,
             objectFit: 'contain' as const
         }
@@ -120,7 +122,7 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
                     paddingRight: 10,
                     backgroundColor: '#102332', 
                     border: '2px solid #1d9dff', 
-                    width: 400,
+                    width: width > 600 ? 400 : 280,
                     color: 'white',
                     outline: 'none'
                 }}
@@ -131,7 +133,7 @@ const SearchBar = ({entries, currGuesses, guessedCorrectly, onSubmitCallback}: S
                     style={{
                         backgroundColor: '#373737',
                         maxHeight: 350,
-                        width: 410,
+                        width: width > 600 ? 400 : 280,
                         overflowX: 'hidden',
                         overflowY: 'auto',
                         position: 'absolute',

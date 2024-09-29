@@ -1,13 +1,15 @@
 import { RedTextEntry } from "../../models/fileLoader"
 import { getColor } from "../../models/colors"
 import { motion } from "framer-motion"
+import useWindowDimensions from "../../models/windowDimensions"
 const SingularGuess = ({guess, actual, loadOnStart, useImage = false}: SingularGuessProps) => {
+    const { width } = useWindowDimensions()
     const containerStyle = {
         color: 'white',
         backgroundColor: getColor(guess["flavor-text"] === actual['flavor-text']),
         padding: 15,
         marginBottom: 15,
-        width: 400,
+        width: width > 600 ? 400 : 280,
         marginLeft: 'auto',
         marginRight: 'auto'
     }
