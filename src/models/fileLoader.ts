@@ -1,16 +1,32 @@
 // Weapons
-import borderlandsWeapons from '../data/weapons/borderlands-1-weapons.json'
-import borderlands2Weapons from '../data/weapons/borderlands-2-weapons.json'
-import borderlands3Weapons from '../data/weapons/borderlands-3-weapons.json'
-import borderlandsTPSWeapons from '../data/weapons/borderlands-tps-weapons.json'
-import wonderlandsWeapons from '../data/weapons/wonderlands-weapons.json'
+import { 
+    borderlandsWeapons,
+    borderlands2Weapons,
+    borderlands3Weapons,
+    borderlandsTPSWeapons,
+    wonderlandsWeapons
+} from '../data/js/weapons'
+
+// import borderlandsWeapons from '../data/weapons/borderlands-1-weapons.json'
+// import borderlands2Weapons from '../data/weapons/borderlands-2-weapons.json'
+// import borderlands3Weapons from '../data/weapons/borderlands-3-weapons.json'
+// import borderlandsTPSWeapons from '../data/weapons/borderlands-tps-weapons.json'
+// import wonderlandsWeapons from '../data/weapons/wonderlands-weapons.json'
 
 // Loot Sources (Weapons)
-import borderlandsLoot from '../data/loot-sources/borderlands-1-named-enemies.json'
-import borderlands2Loot from '../data/loot-sources/borderlands-2-named-enemies.json'
-import borderlands3Loot from '../data/loot-sources/borderlands-3-named-enemies.json'
-import borderlandsTPSLoot from '../data/loot-sources/borderlands-tps-named-enemies.json'
-import wonderlandsLoot from '../data/loot-sources/wonderlands-named-enemies.json'
+import { 
+    borderlandsLoot,
+    borderlands2Loot,
+    borderlands3Loot,
+    borderlandsTPSLoot,
+    wonderlandsLoot 
+} from '../data/js/lootsources'
+
+// import borderlandsLoot from '../data/loot-sources/borderlands-1-named-enemies.json'
+// import borderlands2Loot from '../data/loot-sources/borderlands-2-named-enemies.json'
+// import borderlands3Loot from '../data/loot-sources/borderlands-3-named-enemies.json'
+// import borderlandsTPSLoot from '../data/loot-sources/borderlands-tps-named-enemies.json'
+// import wonderlandsLoot from '../data/loot-sources/wonderlands-named-enemies.json'
 
 // Shields
 // import borderlandsShields from '../data/shields/borderlands-1-shields.json'
@@ -88,6 +104,7 @@ export interface LootSource {
     "status": string,
     "image": string
 }
+
 export const getWeapons = (games: string[]) : Entry[] => {
     let output: Entry[] = []
     for (const game of games) {
@@ -118,9 +135,9 @@ export const getFlavorTexts = (games: string[]) : RedTextEntry[] => {
                         oldEntry.manufacturers = [...oldEntry.manufacturers, weapon.manufacturer]
                     }
                     oldEntry['drop-sources'] = [...oldEntry['drop-sources'], ...weapon['drop-sources']]
-                    oldEntry['drop-sources'] = [... new Set(oldEntry['drop-sources'])]
+                    oldEntry['drop-sources'] = [...new Set(oldEntry['drop-sources'])]
                     oldEntry['rarities'] = [...oldEntry['rarities'], ...weapon.rarity]
-                    oldEntry['rarities'] = [... new Set(oldEntry['rarities'])]
+                    oldEntry['rarities'] = [...new Set(oldEntry['rarities'])]
                     flavorTexts.set(weapon['flavor-text'], oldEntry)
                 } else {
                     let newEntry: RedTextEntry = {
