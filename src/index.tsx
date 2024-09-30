@@ -21,12 +21,12 @@ root.render(
   <SettingsProvider>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/Bordlelands" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="classic" element={<Classic />} />
-          <Route path="redtext" element={<RedText />} />
-          <Route path="lootpool" element={<LootPool />} />
-          <Route path="image" element={<ImageGuess />} />
+          <Route path="/Bordlelands/classic" element={<Classic />} />
+          <Route path="/Bordlelands/redtext" element={<RedText />} />
+          <Route path="/Bordlelands/lootpool" element={<LootPool />} />
+          <Route path="/Bordlelands/image" element={<ImageGuess />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

@@ -5,7 +5,7 @@ const LinkTab = ({label, description, route, imgSrc}: LinkTabProps) => {
     const { width } = useWindowDimensions()
     return (
         <Link 
-            to={`/${route}`}
+            to={`https://eric-tabuchi.com/Bordlelands/${route}`}
             className="hover-expand font-montserrat" 
             style={{ 
                 textDecoration: 'none', 

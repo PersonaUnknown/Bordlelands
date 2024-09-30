@@ -1,5 +1,6 @@
 {
   "name": "wordlelands",
+  "homepage": "https://eric-tabuchi.com/Bordlelands",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
