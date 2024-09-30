@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bordlelands/static/css/main.49572404.css",
-    "main.js": "/Bordlelands/static/js/main.d1ccf18d.js",
+    "main.js": "/Bordlelands/static/js/main.57dfe317.js",
     "static/js/453.245ea2ff.chunk.js": "/Bordlelands/static/js/453.245ea2ff.chunk.js",
     "static/media/borderlands_cast.png": "/Bordlelands/static/media/borderlands_cast.f909f0832adf7a33bad7.png",
     "static/media/wonderlands.png": "/Bordlelands/static/media/wonderlands.cbc0cbe31beff0cd2263.png",
@@ -18,11 +18,11 @@
     "static/media/lootpool.png": "/Bordlelands/static/media/lootpool.7c13c99574647ebd0ce1.png",
     "index.html": "/Bordlelands/index.html",
     "main.49572404.css.map": "/Bordlelands/static/css/main.49572404.css.map",
-    "main.d1ccf18d.js.map": "/Bordlelands/static/js/main.d1ccf18d.js.map",
+    "main.57dfe317.js.map": "/Bordlelands/static/js/main.57dfe317.js.map",
     "453.245ea2ff.chunk.js.map": "/Bordlelands/static/js/453.245ea2ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49572404.css",
-    "static/js/main.d1ccf18d.js"
+    "static/js/main.57dfe317.js"
   ]
 }
