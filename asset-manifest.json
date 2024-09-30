@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/bordlelands/static/css/main.9b02f857.css",
-    "main.js": "/bordlelands/static/js/main.e5694da5.js",
-    "static/js/453.245ea2ff.chunk.js": "/bordlelands/static/js/453.245ea2ff.chunk.js",
-    "static/media/borderlands_cast.png": "/bordlelands/static/media/borderlands_cast.f909f0832adf7a33bad7.png",
-    "static/media/wonderlands.png": "/bordlelands/static/media/wonderlands.cbc0cbe31beff0cd2263.png",
-    "static/media/pre_sequel.png": "/bordlelands/static/media/pre_sequel.bddf13f3015b3dc7f619.png",
-    "static/media/borderlands.png": "/bordlelands/static/media/borderlands.455316e6536ed1441ee6.png",
-    "static/media/borderlands_3.png": "/bordlelands/static/media/borderlands_3.4f292be8b2ef36fff20d.png",
-    "static/media/borderlands_2.png": "/bordlelands/static/media/borderlands_2.be71e0a02c484f6b4bc7.png",
-    "static/media/blurry.png": "/bordlelands/static/media/blurry.f3c8d49cafc6f4dc35d5.png",
-    "static/media/Compacta-Bold-Plain-Regular.otf": "/bordlelands/static/media/Compacta-Bold-Plain-Regular.a09a11099f2b6c36c368.otf",
-    "static/media/classic.png": "/bordlelands/static/media/classic.832ff0d915667de419b7.png",
-    "static/media/type.png": "/bordlelands/static/media/type.c2070adacc20c24150d0.png",
-    "static/media/redtext.png": "/bordlelands/static/media/redtext.e1b2b3e9c5000255388d.png",
-    "static/media/globe.png": "/bordlelands/static/media/globe.93edf54fc80b9dab3b73.png",
-    "static/media/lootpool.png": "/bordlelands/static/media/lootpool.7c13c99574647ebd0ce1.png",
-    "index.html": "/bordlelands/index.html",
-    "main.9b02f857.css.map": "/bordlelands/static/css/main.9b02f857.css.map",
-    "main.e5694da5.js.map": "/bordlelands/static/js/main.e5694da5.js.map",
-    "453.245ea2ff.chunk.js.map": "/bordlelands/static/js/453.245ea2ff.chunk.js.map"
+    "main.css": "/Bordlelands/static/css/main.49572404.css",
+    "main.js": "/Bordlelands/static/js/main.92e66ed8.js",
+    "static/js/453.245ea2ff.chunk.js": "/Bordlelands/static/js/453.245ea2ff.chunk.js",
+    "static/media/borderlands_cast.png": "/Bordlelands/static/media/borderlands_cast.f909f0832adf7a33bad7.png",
+    "static/media/wonderlands.png": "/Bordlelands/static/media/wonderlands.cbc0cbe31beff0cd2263.png",
+    "static/media/pre_sequel.png": "/Bordlelands/static/media/pre_sequel.bddf13f3015b3dc7f619.png",
+    "static/media/borderlands.png": "/Bordlelands/static/media/borderlands.455316e6536ed1441ee6.png",
+    "static/media/borderlands_3.png": "/Bordlelands/static/media/borderlands_3.4f292be8b2ef36fff20d.png",
+    "static/media/borderlands_2.png": "/Bordlelands/static/media/borderlands_2.be71e0a02c484f6b4bc7.png",
+    "static/media/blurry.png": "/Bordlelands/static/media/blurry.f3c8d49cafc6f4dc35d5.png",
+    "static/media/Compacta-Bold-Plain-Regular.otf": "/Bordlelands/static/media/Compacta-Bold-Plain-Regular.a09a11099f2b6c36c368.otf",
+    "static/media/classic.png": "/Bordlelands/static/media/classic.832ff0d915667de419b7.png",
+    "static/media/type.png": "/Bordlelands/static/media/type.c2070adacc20c24150d0.png",
+    "static/media/redtext.png": "/Bordlelands/static/media/redtext.e1b2b3e9c5000255388d.png",
+    "static/media/globe.png": "/Bordlelands/static/media/globe.93edf54fc80b9dab3b73.png",
+    "static/media/lootpool.png": "/Bordlelands/static/media/lootpool.7c13c99574647ebd0ce1.png",
+    "index.html": "/Bordlelands/index.html",
+    "main.49572404.css.map": "/Bordlelands/static/css/main.49572404.css.map",
+    "main.92e66ed8.js.map": "/Bordlelands/static/js/main.92e66ed8.js.map",
+    "453.245ea2ff.chunk.js.map": "/Bordlelands/static/js/453.245ea2ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b02f857.css",
-    "static/js/main.e5694da5.js"
+    "static/css/main.49572404.css",
+    "static/js/main.92e66ed8.js"
   ]
 }
